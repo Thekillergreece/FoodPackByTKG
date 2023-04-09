@@ -34,3 +34,7 @@ If you are considering to download and install this Food Pack, I strongly recomm
 ---
 The Update 4.5 does not bring any new items but it does ton of new spawn spots across the world.
 Most of these food items will be spawned within interiors, especially houses and stores. Food items outside in regions may spawn but less frequently. You are better off finding these food items mainly in houses and stores than in cars and anywhere else. 
+
+### My Thanks
+---
+Special thanks to Waltz, DigitalZombie, Emma and whoever I shamefully forgot for helping me out reviving this project in TLD modding discord.
