@@ -30,9 +30,9 @@ If you are considering to download and install this Food Pack, I strongly recomm
 - (OPTIONAL) Download latest version of Foods by 'Calorie Waltz' from their releases page.
 - (OPTIONAL) Move the mod's modcomponent and all files to mods folder.
 
-### 4.5 Version
+### 4.6 Version
 ---
-The Update 4.5 does not bring any new items but it does bring ton of new spawn spots across the world as well as some small adjustments.
+The Update 4.6 does not bring any new items but it does bring ton of new spawn spots across the world as well as some small adjustments.
 - Added loose spawn spots in every region, including the new DLC region(s).
 - Expanded the loot tables to add more opportunities to loot items from containers.
 - Added a large abundance of loot in interiors that make sense such as big houses, stores, etc.
