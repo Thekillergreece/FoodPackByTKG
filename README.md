@@ -42,4 +42,10 @@ Food items will be rarely found in cars, caves, etc or in places that they would
 
 ### My Thanks
 ---
-Special thanks to Waltz, DigitalZombie, Emma and whoever I shamefully forgot for helping me out reviving this project in TLD modding discord.
+- Special thanks to Waltz, STBlade, DigitalZombie, Emma and whoever I shamefully forgot for helping me out reviving this project in TLD modding discord.
+- Special thanks to WulfMarius who first created the Food Pack.
+- Special thanks to ds5678 who took the project from WulfMarius and expanded it by adding 13 more food items as well as adding more spawn spots.
+
+### Help needed
+---
+I'm looking for folks who know how to model, create textures for models, anything about Unity for future food-related items. 
