@@ -32,12 +32,13 @@ If you are considering to download and install this Food Pack, I strongly recomm
 
 ### 4.5 Version
 ---
-The Update 4.5 does not bring any new items but it does ton of new spawn spots across the world as well as some small adjustments.
-Added loose spawn spots in every region.
-Expanded the loot tables to add more opportunities to loot items from containers.
-Added a large abundance of loot in interiors that make sense such as big houses, stores, etc.
+The Update 4.5 does not bring any new items but it does bring ton of new spawn spots across the world as well as some small adjustments.
+- Added loose spawn spots in every region, including the new DLC region(s).
+- Expanded the loot tables to add more opportunities to loot items from containers.
+- Added a large abundance of loot in interiors that make sense such as big houses, stores, etc.
+- Nerfed/buffed certain food and drink items' calories. Made certain strong food/drink items to spawn much rare.
 
-Food items will be rarely found in cars, caves, etc or in places that they wouldn't make much sense.
+Food items will be rarely found in cars, caves, etc or in places that they wouldn't make much sense. The food pack will work excellently with Waltz's Food Pack.
 
 ### My Thanks
 ---
