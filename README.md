@@ -32,8 +32,12 @@ If you are considering to download and install this Food Pack, I strongly recomm
 
 ### 4.5 Version
 ---
-The Update 4.5 does not bring any new items but it does ton of new spawn spots across the world.
-Most of these food items will be spawned within interiors, especially houses and stores. Food items outside in regions may spawn but less frequently. You are better off finding these food items mainly in houses and stores than in cars and anywhere else. 
+The Update 4.5 does not bring any new items but it does ton of new spawn spots across the world as well as some small adjustments.
+Added loose spawn spots in every region.
+Expanded the loot tables to add more opportunities to loot items from containers.
+Added a large abundance of loot in interiors that make sense such as big houses, stores, etc.
+
+Food items will be rarely found in cars, caves, etc or in places that they wouldn't make much sense.
 
 ### My Thanks
 ---
