@@ -32,7 +32,7 @@ If you are considering to download and install this Food Pack, I strongly recomm
 
 ### 4.6 Version
 ---
-The Update 4.6 does not bring any new items but it does bring ton of new spawn spots across the world as well as some small adjustments.
+- NEW: Some lore pieces. They can be found almost solely at certain stores and big buildings.
 - Added loose spawn spots in every region, including the new DLC region(s).
 - Expanded the loot tables to add more opportunities to loot items from containers.
 - Added a large abundance of loot in interiors that make sense such as big houses, stores, etc.
