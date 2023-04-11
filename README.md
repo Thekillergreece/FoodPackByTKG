@@ -12,6 +12,7 @@ This is a mod for The Long Dark by Hinterland Studio, Inc.
 ### Localization
 ---
 Currently, the mod is supported by the following languages; English, German, Russian, Polish, French, Turkish, Korean, Italian and Simplified Chinese.
+However, the lore translation is available only in English.
 
 ### Introduction
 ---
@@ -29,7 +30,7 @@ If you are considering to download and install this Food Pack, I strongly recomm
 ---
 - If you haven't done so already, install MelonLoader by downloading and running MelonLoader.Installer.exe
 - Install the latest version of ModComponent and its dependencies.
-- Download latest version of FoodPackByThekillergreece from the releases page.
+- Download latest version of FoodPackByTKG from the releases page.
 - Move FoodPackByTKG.modcomponent and FoodPackByTKG.dll to your mods folder.
 - (OPTIONAL) Download latest version of Foods by 'Calorie Waltz' from their releases page.
 - (OPTIONAL) Move the mod's content to mods folder.
