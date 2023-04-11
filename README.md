@@ -25,14 +25,14 @@ If you are considering to download and install this Food Pack, I strongly recomm
 ---
 - If you haven't done so already, install MelonLoader by downloading and running MelonLoader.Installer.exe
 - Install the latest version of ModComponent and its dependencies.
-- Download latest version of FoodPackByThekillergreece.modcomponent from the releases page.
-- Move Food-Pack.modcomponent to your mods folder.
+- Download latest version of FoodPackByThekillergreece from the releases page.
+- Move FoodPackByTKG.modcomponent and FoodPackByTKG.dll to your mods folder.
 - (OPTIONAL) Download latest version of Foods by 'Calorie Waltz' from their releases page.
-- (OPTIONAL) Move the mod's modcomponent and all files to mods folder.
+- (OPTIONAL) Move the mod's content to mods folder.
 
 ### 4.6 Version
 ---
-- NEW: Some lore pieces. They can be found almost solely at certain stores and big buildings.
+- NEW: Some lore pieces. They can be found solely at certain stores and big buildings.
 - Added loose spawn spots in every region, including the new DLC region(s).
 - Expanded the loot tables to add more opportunities to loot items from containers.
 - Added a large abundance of loot in interiors that make sense such as big houses, stores, etc.
