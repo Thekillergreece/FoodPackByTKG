@@ -1,0 +1,34 @@
+{
+    "ModCookableComponent" : {
+                            "DisplayNameLocalizationId" : "GAMEPLAY_RiceRaw",
+                            "DescriptionLocalizatonId" : "GAMEPLAY_RiceRawDescription",
+                            "InventoryActionLocalizationId" : "",
+                            "WeightKG": 0.25,
+                            "DaysToDecay" : 730,
+                            "MaxHP" : 100,
+                            "InitialCondition" : "Random",
+                            "InventoryCategory" : "Food",
+                            "Radial" : "None",
+                            "PickUpAudio" : "Play_SndInvBoxCrackers",
+                            "PutBackAudio" : "Play_SndInvBoxCrackers",
+                            "StowAudio" : "Play_InventoryStow",
+                            "WornOutAudio" : "",
+                            "InspectOnPickup" : true,
+                            "InspectDistance" : 0.4,
+                            "InspectAngles" : [5, 20, -5],
+                            "InspectOffset" : [0, -0.1, 0],
+                            "InspectScale" :  [1, 1, 1],
+                            "NormalModel" : "",
+                            "InspectModel" : "",
+
+                            "Cooking" : true,
+                            "CookingMinutes" : 25,
+                            "CookingUnitsRequired" : 1,
+                            "CookingWaterRequired" : 0.5,
+                            "CookingResult" : "GEAR_RiceCooked",
+                            "BurntMinutes" : 30,
+                            "Type" : "Liquid",
+                            "CookingAudio" : "",
+                            "StartCookingAudio" : ""
+                        }
+}

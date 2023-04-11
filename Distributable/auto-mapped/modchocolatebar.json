@@ -1,0 +1,76 @@
+{
+    "ModFoodComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_ModChocolateBar",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_ModChocolateBarDescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 0.1,
+                                "DaysToDecay" : 300,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Random",
+                                "InventoryCategory" : "Food",
+                                "PickUpAudio" : "Play_SndInvEnergyBar",
+                                "PutBackAudio" : "Play_SndInvEnergyBar",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 0.4,
+                                "InspectAngles" : [-90, 0, 0],
+                                "InspectOffset" : [0, 0, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : "",
+
+                                "BurntMinutes" : 30,
+                                "Cooking" : false,
+                                "CookingAudio" : "",
+                                "StartCookingAudio" : "",
+                                "CookingMinutes" : 13,
+                                "CookingResult" : "",
+                                "CookingUnitsRequired" : 1,
+                                "CookingWaterRequired" : 0.25,
+                                "Type" : "Grub",
+
+                                "DaysToDecayOutdoors" : 500,
+                                "DaysToDecayIndoors" : 300,
+                                "Calories" : 540,
+                                "EatingTime" : 2,
+                                "EatingAudio" : "Play_EatingBar",
+                                "EatingPackagedAudio" : "",
+                                "ThirstEffect" : -5,
+    
+                                "FoodPoisoning" : 0,
+                                "FoodPoisoningLowCondition" : 10,
+                                "ParasiteRiskIncrements" : [],
+    
+                                "Natural" : false,
+                                "Raw" : false,
+                                "Drink" : false,
+                                "Meat" : false,
+                                "Fish" : false,
+                                "Canned" : false,
+    
+                                "Opening" : false,
+                                "OpeningWithCanOpener" : false,
+                                "OpeningWithKnife" : false,
+                                "OpeningWithHatchet" : false,
+                                "OpeningWithSmashing" : false,
+    
+                                "AffectCondition" : false,
+                                "ConditionRestBonus" : 0,
+                                "ConditionRestMinutes" : 0,
+    
+                                "AffectRest" : true,
+                                "InstantRestChange" : 2,
+                                "RestFactor" : 1,
+                                "RestFactorMinutes" : 0,
+    
+                                "AffectCold" : false,
+                                "InstantColdChange" : 20,
+                                "ColdFactor" : 0.5,
+                                "ColdFactorMinutes" : 90,
+    
+                                "ContainsAlcohol" : false,
+                                "AlcoholPercentage" : 0,
+                                "AlcoholUptakeMinutes" : 45
+                            }
+}

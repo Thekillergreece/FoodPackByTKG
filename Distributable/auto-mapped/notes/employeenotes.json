@@ -1,0 +1,27 @@
+{
+    "ModCollectibleComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_NOTE_TITL",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_NOTE_DESC",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 0,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Tool",
+                                "PickUpAudio" : "Play_SndInvPaper",
+                                "PutBackAudio" : "Play_SndInvPaper",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 0.4,
+                                "InspectAngles" : [-60, 0, 0],
+                                "InspectOffset" : [0, -0.03, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : "",
+
+                                "HudMessageLocalizationId" : "GAMEPLAY_NOTE_TITL",
+                                "NarrativeTextLocalizationId" : "GAMEPLAY_NOTE_LORE",
+                                "TextAlignment" : "Center"
+                            }
+}

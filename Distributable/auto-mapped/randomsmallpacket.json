@@ -1,0 +1,25 @@
+{
+    "ModRandomItemComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_RandomSmallPacket",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_RandomSmallPacketDescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 0,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Food",
+                                "PickUpAudio" : "Play_SndInvEnergyBar",
+                                "PutBackAudio" : "Play_SndInvEnergyBar",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 0.4,
+                                "InspectAngles" : [90, 0, 0],
+                                "InspectOffset" : [0, 0, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : "",
+
+                                "ItemNames" : ["GEAR_HotCocoaBag","GEAR_DryMilkPacket"]
+                            }
+}

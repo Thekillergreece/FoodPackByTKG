@@ -1,0 +1,55 @@
+#DESOLATION POINT SPAWN POINTS
+
+scene=whalingstationregion
+# Church
+item=GEAR_ModSyrup p=568.0296,63.2700,1097.1006 r=-0.0000,211.1506,90.0000 c=85
+item=GEAR_VodkaBottle p=562.3117,63.6399,1103.8140 r=-0.0000,307.0732,90.0001 c=50
+item=GEAR_DryMilkPacket p=564.9578,63.6099,1103.4121 r=0.0000,303.6299,0.0000 c=100
+item=GEAR_AuroraEnergyDrink p=173.7823,87.5652,964.8237 r=87.1793,230.2342,85.6244 c=85
+# Truck near whaling warehouse
+item=GEAR_randomliquorbottle p=994.2987,18.6561,1310.5405 r=23.6208,332.0562,358.2100 c=85
+item=GEAR_randomliquorbottle p=994.5577,18.6700,1310.5608 r=356.5963,332.1665,345.3820 c=50
+# Crashed truck
+item=GEAR_DryMilkPacket p=806.4291,16.7172,1031.0244 r=12.9677,325.0772,336.7921 c=25
+
+scene=whalingwarehousea
+item=GEAR_cookies p=-7.7231,4.9964,-21.7789 r=0,157.3988,0 c=70
+item=GEAR_randomliquorbottle p=1.0568,3.7311,-8.0969 r=4.4835,296.2444,2.2155 c=70
+item=GEAR_randomliquorbottle p=-12.0526,3.9935,-10.334 r=0,235.9067,0 c=50
+item=GEAR_randomliquorbottle p=-7.9511,4.8331,-14.5887 r=358.9258,81.3024,359.2376 c=40
+item=GEAR_randomliquorbottle p=2.1414,4.9447,-12.2128 r=0,309.4363,0 c=20
+item=GEAR_CerealHoney p=-0.5701,4.6482,-10.9288 r=0.2715,46.7926,359.6788 c=65
+
+scene=lighthouseA
+item=GEAR_HotCocoaCup p=-0.2924,1.0188,4.5080 r=0.0000,315.3491,0.0000 c=100
+item=GEAR_HotCocoaBox p=2.4840,5.0544,0.4259 r=-0.0000,21.4239,-0.0000 c=85
+item=GEAR_HotCocoaBox p=2.2425,5.0844,0.5029 r=-0.0000,26.7511,269.9999 c=55
+item=GEAR_CupMilk p=-0.1795,4.8095,1.1561 r=0.0000,186.2356,0.0000 c=75
+item=GEAR_DryMilkPacket p=-0.2639,5.1250,0.8847 r=-0.0000,15.0443,-0.0000 c=50
+item=GEAR_ModChocolateBar p=4.0738,8.5382,4.6159 r=0.0355,2.3565,0.1040 c=45
+item=GEAR_BeerBottle p=1.3919,10.3808,-0.2458 r=0.0000,199.5566,0.0000 c=45
+item=GEAR_BeerBottle p=1.3919,10.3808,-0.2458 r=0.0000,199.5566,0.0000 c=25
+item=GEAR_HoneyJar p=2.0182,4.0417,1.3438 r=90.0000,31.7236,0.0000 c=65
+item=GEAR_DryMilkPacket p=-0.8293,4.2524,-11.0753 r=0.2715,213.0821,359.6788 c=75
+
+scene=WhalingShipA
+item=GEAR_SPAM p=-1.1531,5.1763,-10.0214 r=74.7746,93.7566,124.2748 c=85
+item=GEAR_CannedChili p=-5.1005,5.4007,-12.0043 r=9.0749,267.7379,265.7056 c=75
+item=GEAR_randomsodatall p=-4.8537,4.2336,-5.7122 r=283.9984,270.7348,89.9988 c=50
+item=GEAR_DryMilkPacket p=-1.7535,6.8186,-11.4121 r=350.9034,24.5983,10.7510 c=50
+item=GEAR_MountainSoda p=-1.1306,5.1619,-3.1923 r=-0.0000,269.9117,284.0000 c=50
+
+scene=TrailerSShape
+item=GEAR_SPAM p=-13.2355,0.2524,7.0747 r=0.0000,211.2893,0.0000 c=85
+item=GEAR_SPAM p=-13.3180,0.2524,6.9901 r=0.0000,233.6381,0.0000 c=50
+item=GEAR_CannedSpaghetti p=2.4644,0.0351,7.7408 r=-0.0000,138.3439,-0.0000 c=65
+item=GEAR_RedWineBottle p=0.5070,0.0451,0.8242 r=-0.0000,221.8587,90.0000 c=35
+item=GEAR_CannedPineapples p=-0.4488,0.0351,-5.7585 r=0.0000,348.6872,0.0000 c=50
+item=GEAR_BeerBottle p=12.1568,0.9966,-6.1160 r=0.0000,330.3354,0.0000 c=75
+
+scene=CaveC
+item=GEAR_ForsakenSpirits p=-43.4848,16.6159,-42.0215 r=277.7675,353.0612,144.1305 c=85
+
+scene=WhalingMine
+item=GEAR_DryMilkPacket p=-15.6316,-5.1465,33.0889 r=2.2257,85.7256,4.9050 c=50
+item=GEAR_randomsodatall p=-56.1664,-16.9291,-14.3117 r=0.0000,306.3401,0.0000 c=50

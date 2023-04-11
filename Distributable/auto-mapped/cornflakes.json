@@ -1,0 +1,78 @@
+{
+    "ModFoodComponent" : {
+                            "DisplayNameLocalizationId" : "GAMEPLAY_Cornflakes",
+                            "DescriptionLocalizatonId" : "GAMEPLAY_CornflakesDescription",
+                            "InventoryActionLocalizationId" : "",
+                            "WeightKG": 0.2,
+                            "DaysToDecay" : 0,
+                            "MaxHP" : 100,
+                            "InitialCondition" : "Random",
+                            "InventoryCategory" : "Food",
+                            "Radial" : "None",
+                            "PickUpAudio" : "Play_SndInvBoxCrackers",
+                            "PutBackAudio" : "Play_SndInvBoxCrackers",
+                            "StowAudio" : "Play_InventoryStow",
+                            "WornOutAudio" : "",
+                            "InspectOnPickup" : true,
+                            "InspectDistance" : 0.5,
+                            "InspectAngles" : [-5, 200, 0],
+                            "InspectOffset" : [0, -0.15, 0],
+                            "InspectScale" :  [1, 1, 1],
+                            "NormalModel" : "",
+                            "InspectModel" : "",
+
+                            "Cooking" : false,
+                            "CookingMinutes" : 25,
+                            "CookingUnitsRequired" : 1,
+                            "CookingWaterRequired" : 0,
+                            "CookingResult" : "",
+                            "BurntMinutes" : 30,
+                            "Type" : "Grub",
+                            "CookingAudio" : "",
+                            "StartCookingAudio" : "",
+
+                            "DaysToDecayOutdoors" : 100,
+                            "DaysToDecayIndoors" : 1000,
+                            "Calories" : 600,
+                            "Servings" : 4,
+                            "EatingTime" : 8,
+                            "EatingAudio" : "Play_OpenCrackers",
+                            "EatingPackagedAudio" : "Play_OpenCrackers",
+                            "ThirstEffect" : -25,
+
+                            "FoodPoisoning" : 0,
+                            "FoodPoisoningLowCondition" : 5,
+                            "ParasiteRiskIncrements" : [],
+
+                            "Natural" : false,
+                            "Raw" : false,
+                            "Drink" : false,
+                            "Meat" : false,
+                            "Fish" : false,
+                            "Canned" : false,
+
+                            "Opening" : false,
+                            "OpeningWithCanOpener" : false,
+                            "OpeningWithKnife" : false,
+                            "OpeningWithHatchet" : false,
+                            "OpeningWithSmashing" : false,
+
+                            "AffectCondition" : false,
+                            "ConditionRestBonus" : 0,
+                            "ConditionRestMinutes" : 0,
+
+                            "AffectRest" : false,
+                            "InstantRestChange" : 0,
+                            "RestFactor" : 1,
+                            "RestFactorMinutes" : 0,
+
+                            "AffectCold" : false,
+                            "InstantColdChange" : 20,
+                            "ColdFactor" : 0.5,
+                            "ColdFactorMinutes" : 90,
+
+                            "ContainsAlcohol" : false,
+                            "AlcoholPercentage" : 0,
+                            "AlcoholUptakeMinutes" : 45
+                        }
+}

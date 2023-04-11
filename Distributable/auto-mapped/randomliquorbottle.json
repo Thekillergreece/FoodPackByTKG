@@ -1,0 +1,27 @@
+{
+    "ModRandomWeightedItemComponent": {
+                            "DisplayNameLocalizationId" : "GAMEPLAY_RandomLiquorBottle",
+                            "DescriptionLocalizatonId" : "GAMEPLAY_RandomLiquorBottleDescription",
+                            "InventoryActionLocalizationId" : "",
+                            "WeightKG": 0,
+                            "DaysToDecay" : 0,
+                            "MaxHP" : 100,
+                            "InitialCondition" : "Perfect",
+                            "InventoryCategory" : "Food",
+                            "Radial" : "None",
+                            "PickUpAudio" : "Play_SndInvCanSoda",
+                            "PutBackAudio" : "Play_SndInvCanSoda",
+                            "StowAudio" : "Play_InventoryStow",
+                            "WornOutAudio" : "",
+                            "InspectOnPickup" : true,
+                            "InspectDistance" : 0.4,
+                            "InspectAngles" : [20, 0, -20],
+                            "InspectOffset" : [0, -0.1, 0],
+                            "InspectScale" :  [1, 1, 1],
+                            "NormalModel" : "",
+                            "InspectModel" : "",
+
+                            "ItemNames" : ["GEAR_VodkaBottle","GEAR_BeerBottle"],
+                            "ItemWeights" : [1,3]
+                            }
+}

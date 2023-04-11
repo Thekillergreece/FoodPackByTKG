@@ -1,0 +1,25 @@
+{
+    "ModRandomItemComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_RandomCerealBox",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_RandomCerealBoxDescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 0,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Food",
+                                "PickUpAudio" : "Play_SndInvBoxCrackers",
+                                "PutBackAudio" : "Play_SndInvBoxCrackers",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 0.5,
+                                "InspectAngles" : [-5, 200, 0],
+                                "InspectOffset" : [0, -0.15, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : "",
+
+                                "ItemNames" : ["GEAR_Cornflakes","GEAR_CerealWholeGrain","GEAR_CerealHoney"]
+                            }
+}

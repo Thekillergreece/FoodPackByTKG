@@ -1,0 +1,40 @@
+{
+    "ModCookableComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_DryMilkPacket",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_DryMilkPacketDescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 0.04,
+                                "DaysToDecay" : 300,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Random",
+                                "InventoryCategory" : "Food",
+                                "PickUpAudio" : "Play_SndInvEnergyBar",
+                                "PutBackAudio" : "Play_SndInvEnergyBar",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 0.4,
+                                "InspectAngles" : [90, 0, 0],
+                                "InspectOffset" : [0, 0, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : "",
+
+                                "BurntMinutes" : 30,
+                                "Cooking" : true,
+                                "CookingAudio" : "",
+                                "StartCookingAudio" : "",
+                                "CookingMinutes" : 13,
+                                "CookingResult" : "GEAR_CupMilk",
+                                "CookingUnitsRequired" : 1,
+                                "CookingWaterRequired" : 0.25,
+                                "Type" : "Liquid"
+                            },
+    "ModStackableBehaviour": {
+                                "SingleUnitTextId" : "",
+                                "MultipleUnitTextId" : "",
+                                "StackSprite" : "",
+                                "UnitsPerItem" : 1,
+                                "ChanceFull" : 100
+                            }
+}

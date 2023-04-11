@@ -1,0 +1,369 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: food-pack.unity3d
+  m_EditorClassIdentifier: 
+  m_GroupName: food-pack.unity3d
+  m_Data:
+    m_SerializedData: []
+  m_GUID: e931af9cccdf42143a0809956b8612dc
+  m_SerializeEntries:
+  - m_GUID: 6ab48c5386fa94c44b2361de2a800882
+    m_Address: ico_GearItem__AuroraEnergyDrink
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bf91c9a769bf90b4b868c51e180fa6fb
+    m_Address: ico_GearItem__BeerBottle
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ffb5787ddbe5ed044ba6664b146f61e4
+    m_Address: ico_GearItem__Bread
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1905ef02bca1fe84da83006b8104d29d
+    m_Address: ico_GearItem__CannedChili
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2be350ec7656da54a9ab774a827a8bc5
+    m_Address: ico_GearItem__CannedMangos
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e22db8b51eb737f40a92c6c64205199c
+    m_Address: ico_GearItem__CannedPears
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6a8c9b49acff5794b8d7eb3d15a8d870
+    m_Address: ico_GearItem__CannedPineapples
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cde7279a87d13134180c5e3acb6b5591
+    m_Address: ico_GearItem__CannedSpaghetti
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 10c7e06acdd63384f85ae17148f548d3
+    m_Address: ico_GearItem__CannedStew
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d713dbd2e1ebda345a6f304777afcb5f
+    m_Address: ico_GearItem__CatFood
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ef9e99423ff588a4db1abeaea74da17b
+    m_Address: ico_GearItem__CatFoodSmall
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bbcbc916e181fda45bc47b4f8dafb888
+    m_Address: ico_GearItem__CerealHoney
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1db50b4bdc9f9434ca179b82d5fd42a7
+    m_Address: ico_GearItem__CerealWholeGrain
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c9556e7b3e33eb14b836ba7baa4a7f91
+    m_Address: ico_GearItem__Cookies
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fed6db2442b9cbd4e8a17bd60518a1cb
+    m_Address: ico_GearItem__Cornflakes
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 156a1c66ae19fe94fa9fba964949e87a
+    m_Address: ico_GearItem__CupMilk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6f14e9ec8b1f8824c8b631031a1d06dd
+    m_Address: ico_GearItem__DryMilkPacket
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: abe34eb88dd1c9441aecb2ad8b3b9512
+    m_Address: ico_GearItem__ForsakenSpirits
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1b33b7d1a1830ac41a5a3429f96a1ecb
+    m_Address: ico_GearItem__ForsakenSpiritsPlastic
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fd98dd3c020a88c4b871e1a9cda2e6b9
+    m_Address: ico_GearItem__HoneyJar
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8b6913aad510995409a8701b1089deed
+    m_Address: ico_GearItem__HotCocoaBag
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e77462a19e598fb4a9eb41a08299bca7
+    m_Address: ico_GearItem__HotCocoaBox
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b9655309fc0d9344ab0f795420326cda
+    m_Address: ico_GearItem__HotCocoaCup
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 71c23769c924d604585e8c1ed9697393
+    m_Address: ico_GearItem__ModChocolateBar
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 72907563a95db844bb994d9e7d035cb5
+    m_Address: ico_GearItem__ModSyrup
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6ae67001f0193e74d9d3f4e39f6a41b2
+    m_Address: ico_GearItem__MountainSoda
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 284c474b7283e93479826beae71c144c
+    m_Address: ico_GearItem__MountainSodaPlastic
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a713f62e0474a824d8db852539875df4
+    m_Address: ico_GearItem__RandomCerealBox
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 257670ed67db48b4c8e73ed4db8e6c00
+    m_Address: ico_GearItem__RandomLargeCannedFood
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 95da0e9420c26c941bb47ea244edbb12
+    m_Address: ico_GearItem__RandomLiquorBottle
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3a8f88a5b084ede48b01b7df97077c6f
+    m_Address: ico_GearItem__RandomMediumCannedFood
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 035091e2efe4f0d4aa9ec359e98c02bf
+    m_Address: ico_GearItem__RandomSmallPacket
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c027329c7fda8ea4d913edca00087fe4
+    m_Address: ico_GearItem__RandomSodaTall
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1f56a80d0d5516b428ff3cd4faa676e1
+    m_Address: ico_GearItem__RedWineBottle
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0fee9087b339c7c4a9b8c04116f28991
+    m_Address: ico_GearItem__RiceCooked
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d36b190bc3fe55b40a19400a79f6525f
+    m_Address: ico_GearItem__RiceRaw
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b80b67fc85ac0944ea5a29a80f82aee1
+    m_Address: ico_GearItem__SPAM
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9181f5fd69a15d54ca43f13c8b6ab6bb
+    m_Address: ico_GearItem__VodkaBottle
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2bae574a40cb1e64ea1d3761bceb5e03
+    m_Address: ico_GearItem__WhiskyFlask
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 55d57c854d71da443a2ac850bf809ebd
+    m_Address: GEAR_AuroraEnergyDrink
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: df18f695ebed1e5469d9bf037127a887
+    m_Address: GEAR_BeerBottle
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9c4fe070576e5874cb8337b8f2b58c84
+    m_Address: GEAR_Bread
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: df7ed2e39dfdef34cba35099f71cc3f6
+    m_Address: GEAR_CannedChili
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e90d6f0e5ae8bba4cbaee4e7b4339f5a
+    m_Address: GEAR_CannedMangos
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c7c5f11543eff724d848e7b6acdc7044
+    m_Address: GEAR_CannedPears
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e0789c3a709bd2547ae9121d46d56c02
+    m_Address: GEAR_CannedPineapples
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: db99c7ed0d5824544a70c4cb852311ef
+    m_Address: GEAR_CannedSpaghetti
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 244ba1f1d8347b241bfff712204edafa
+    m_Address: GEAR_CannedStew
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7ff1e9d26182c5249b05ac621ba74e93
+    m_Address: GEAR_CatFood
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d2a6d32c246c0b94492e7deb8a7d707a
+    m_Address: GEAR_CatFoodSmall
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3d4bb1cbac85fd046858b338c936e617
+    m_Address: GEAR_CerealHoney
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0222c0525e66873409425fc2b4a4a1b0
+    m_Address: GEAR_CerealWholeGrain
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 75bb66b4978ecc447b084a6229362ffb
+    m_Address: GEAR_Cookies
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0c40cbdb9d0f66945a3d46ef23d661fe
+    m_Address: GEAR_Cornflakes
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 39a8c48bfa311d145a24e546867ae3fc
+    m_Address: GEAR_CupMilk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 91e227b6a2049b8459747282ed1ddf45
+    m_Address: GEAR_DryMilkPacket
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d64f191e6a728f649b64b92620b8d25a
+    m_Address: GEAR_ForsakenSpirits
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 138de419077e34d4dbc012d638b87013
+    m_Address: GEAR_ForsakenSpiritsPlastic
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 177f74d34411fb446a3c583812463dad
+    m_Address: GEAR_HoneyJar
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4ac9210bd5bf04345825073be4a517ee
+    m_Address: GEAR_HotCocoaBag
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 361b9fe24e3acf848a4e1527f1e6a8a7
+    m_Address: GEAR_HotCocoaBox
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c25ae3204f58b094b9a9af4f00e87bab
+    m_Address: GEAR_HotCocoaCup
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3678e06df953d5d40a95801f0824e5f4
+    m_Address: GEAR_ModChocolateBar
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5cd4937f55ff2df48a7139da145be60f
+    m_Address: GEAR_ModSyrup
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d29ee9abc617eb44da9708cc7cb00cc4
+    m_Address: GEAR_MountainSoda
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b18c50f6eabd6e546aebbf5668c522c6
+    m_Address: GEAR_MountainSodaPlastic
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 745ca80659b0d464db9bccabb70525ec
+    m_Address: GEAR_RandomCerealBox
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 833185f20cfa00d4d869f33f90dcfccc
+    m_Address: GEAR_RandomLargeCannedFood
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dbd77bf67bd6a434c8a0062323a2855a
+    m_Address: GEAR_RandomLiquorBottle
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 56868f4d7cda2e2439a7a57180f2c1d0
+    m_Address: GEAR_RandomMediumCannedFood
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 54735d58cf31203489a2a5ede4bc3c64
+    m_Address: GEAR_RandomSmallPacket
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4616c2e82c3df31429fd724429ab35c9
+    m_Address: GEAR_RandomSodaTall
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3ae5cbf51653c334585a53e9ed9c8a41
+    m_Address: GEAR_RedWineBottle
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4a5d30e10609c9845b0f20f8ba02e9c5
+    m_Address: GEAR_RiceCooked
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 78314563c88bc8b46a7c621fc97c1b23
+    m_Address: GEAR_RiceRaw
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 80e74787ccc91a74dadf818f104a7a24
+    m_Address: GEAR_SPAM
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fef7880e372ab6f439da121b058a0999
+    m_Address: GEAR_VodkaBottle
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 358c91b1ff10e114a9210f542b0b71fa
+    m_Address: GEAR_WhiskyFlask
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 18655e90127fe514d8c8374b9de261fa
+    m_Address: GEAR_EmployeeNotes
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c5a8b06d54a3b0b49ac0ba65dbb1c273
+    m_Address: ico_GearItem__EmployeeNotes
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6974215898979dd4a84ad91e1a36186f
+    m_Address: GEAR_EmployeeNotes2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b9f507878dacd8f42912ec74c6c9a73b
+    m_Address: ico_GearItem__EmployeeNotes2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 701e958fa77ef6847a1f44d55296bc89
+    m_Address: GEAR_EmployeeNotes3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d2dbb1ea26c07794394cefeaff25f241
+    m_Address: ico_GearItem__EmployeeNotes3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8c982a6aeeca2af44928021127957106
+    m_Address: GEAR_OldManNotes
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 79055cd143f96c848ad60bab445c8b94
+    m_Address: ico_GearItem__OldManNotes
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 0907a13f08acc0c46b01afbfbf79f40b, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 50cd00ba07be8f84c92fd66f6135ce9b, type: 2}
+    - {fileID: 11400000, guid: 8abfee1dccbc330449c824613f77780a, type: 2}

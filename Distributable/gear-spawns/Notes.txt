@@ -1,0 +1,11 @@
+scene=QuonsetGasStation
+item=GEAR_EmployeeNotes p=5.1743,1.0477,3.9850 r=0.0000,331.2742,0.0000 c=100
+
+scene=RuralStoreA
+item=GEAR_EmployeeNotes2 p=2.2237,1.0377,1.4613 r=0.0000,220.8496,0.0000 c=100
+
+scene=ConvenienceStoreA
+item=GEAR_EmployeeNotes3 p=-1.2990,1.0377,7.6415 r=-0.0000,32.8399,-0.0000 c=100
+
+scene=FarmHouseA
+item=GEAR_OldManNotes p=-7.1601,0.8432,-3.4924 r=-0.0000,14.4887,-0.0000 c=100

@@ -1,0 +1,62 @@
+#COASTAL HIGHWAY SPAWN SPOTS
+
+scene=quonsetgasstation
+item=GEAR_randomcerealbox p=4.3639,0.399,0.2653 r=0,259.5036,0 c=80
+item=GEAR_SPAM p=9.2224,1.1992,4.9610 r=0.0000,280.2850,0.0000 c=75
+item=GEAR_randomlargecannedfood p=4.8173,0.6055,3.7059 r=0,81.9984,0 c=60
+item=GEAR_randomlargecannedfood p=5.2349,0.6055,3.6333 r=0,90.4117,0 c=60
+item=GEAR_randomlargecannedfood p=5.507,0.6055,3.618 r=0,131.403,0 c=80
+item=GEAR_randomlargecannedfood p=5.5109,0.6055,3.7934 r=0,98.2217,0 c=80
+item=GEAR_randommediumcannedfood p=7.4569,0.3991,0.2752 r=0.0000,283.3936,0.0000 c=100
+item=GEAR_randommediumcannedfood p=7.5343,0.3991,0.4274 r=0.0000,297.5627,0.0000 c=100
+item=GEAR_randommediumcannedfood p=7.5898,0.3991,0.2802 r=0.0000,279.3964,0.0000 c=70
+item=GEAR_CatFoodSmall p=5.8428,0.3995,0.6594 r=-0.0000,149.4188,-0.0000 c=85
+item=GEAR_CatFoodSmall p=5.6756,0.3995,0.6731 r=-0.0000,155.6176,-0.0000 c=65
+item=GEAR_cannedspaghetti p=4.0302,0.4291,7.9097 r=0,66.1649,0 c=35
+item=GEAR_CannedSpaghetti p=4.1904,0.4291,7.9044 r=-0.0000,16.6722,-0.0000 c=55
+item=GEAR_CerealHoney p=9.2311,1.1992,7.6244 r=-0.0000,88.3505,-0.0000 c=95
+item=GEAR_CerealHoney p=9.1050,1.1992,7.6230 r=-0.0000,84.0771,-0.0000 c=55
+item=GEAR_CerealWholeGrain p=9.2384,1.1992,7.2707 r=-0.0000,86.3004,-0.0000 c=65
+item=GEAR_Cornflakes p=9.1747,1.1992,6.9239 r=0.0000,239.6275,0.0000 c=65
+item=GEAR_HoneyJar p=5.9135,0.2060,4.0743 r=-0.0000,30.3913,-0.0000 c=85
+item=GEAR_HoneyJar p=5.7504,0.2060,4.0677 r=-0.0000,30.5381,-0.0000 c=25
+item=GEAR_randomsodatall p=6.4004,1.5805,0.607 r=0,181.5556,0 c=80
+item=GEAR_randomsodatall p=6.4714,1.5805,0.6053 r=0,191.4118,0 c=80
+item=GEAR_whiskyflask p=-3.9634,0,-3.88 r=0,267.4485,0 c=80
+item=GEAR_AuroraEnergyDrink p=8.9321,0.8523,3.5904 r=-0.0000,92.9830,270.0000 c=50
+item=GEAR_ForsakenSpirits p=8.9164,0.8123,3.3366 r=-0.0000,146.1312,-0.0000 c=35
+item=GEAR_ModChocolateBar p=5.8000,1.4345,4.3542 r=-0.0000,12.4356,-0.0000 c=55
+item=GEAR_HotCocoaBag p=8.2869,1.2482,0.2175 r=90.0000,1.8735,0.0000 c=75
+item=GEAR_DryMilkPacket p=8.6275,1.2457,0.2013 r=90.0000,2.4676,0.0000 c=85
+item=GEAR_RiceRaw p=9.2711,1.1992,4.7038 r=-0.0000,96.1632,-0.0000 c=75
+item=GEAR_RiceRaw p=9.1275,1.1992,4.7129 r=-0.0000,88.0398,-0.0000 c=50
+item=GEAR_CannedStew p=8.9351,1.9182,4.8487 r=0.0000,197.5616,0.0000 c=75
+item=GEAR_CannedStew p=8.9515,1.9156,4.7208 r=0.0000,188.0167,0.0000 c=65
+item=GEAR_RiceCooked p=-1.0721,1.0453,-7.2079 r=-0.0000,68.3085,-0.0000 c=50
+
+scene=coastalregion
+# Near Quonset Gas
+item=GEAR_bread p=777.2123,26.5642,690.9715 r=5.9384,133.0107,354.9480 c=100
+item=GEAR_CatFood p=762.3359,24.4033,645.0639 r=17.8857,220.6637,72.8986 c=65
+item=GEAR_CatFood p=762.2002,24.2810,645.5059 r=17.8860,149.6871,72.8986 c=55
+item=GEAR_SPAM p=792.3064,25.0503,691.8218 r=0.7286,21.2366,75.1138 c=50
+# Near Quonset Gas cars
+item=GEAR_MountainSoda p=769.2653,25.7760,618.1180 r=9.9592,16.8063,271.9031 c=35
+item=GEAR_randomsmallpacket p=766.2907,25.0571,636.7899 r=-0.0000,12.8657,-0.0000 c=45
+item=GEAR_DryMilkPacket p=718.6602,24.7245,707.3984 r=359.7437,66.3912,356.6310 c=35
+item=GEAR_AuroraEnergyDrink p=418.7753,25.2483,837.5261 r=359.8808,329.5954,2.3568 c=35
+item=GEAR_randomsmallpacket p=419.8157,25.3243,836.6590 r=359.8741,324.2502,2.3386 c=25
+item=GEAR_BeerBottle p=-454.6673,25.0897,892.0702 r=357.6273,262.4989,89.7962 c=45
+# Near Fishing Hunts
+item=GEAR_VodkaBottle p=61.4016,25.9333,630.8429 r=0.0000,266.0990,59.9999 c=85
+item=GEAR_MountainSodaPlastic p=-411.4949,24.0672,596.4290 r=-0.0000,164.4420,-0.0000 c=55
+item=GEAR_AuroraEnergyDrink p=-653.0521,25.6205,633.8845 r=1.0549,319.1313,269.9781 c=55
+item=GEAR_CannedChili p=390.2373,23.3921,492.5210 r=284.9987,300.6243,90.0000 c=55
+# Near Camping Site
+item=GEAR_AuroraEnergyDrink p=-1209.4387,105.0874,857.2578 r=353.6578,247.2040,86.5177 c=50
+# Tower
+item=GEAR_SPAM p=349.6927,204.2112,1154.9667 r=-0.0000,94.6693,-0.0000 c=50
+item=GEAR_WhiskyFlask p=349.9225,204.2211,1154.9227 r=90.0000,244.0031,0.0000 c=35
+# Blue car near Crumbling Highway
+item=GEAR_ModChocolateBar p=687.3296,34.7505,-423.8224 r=354.5836,317.2823,355.3056 c=65
+item=GEAR_MountainSoda p=686.8235,34.7717,-424.6828 r=87.8419,0.6751,264.5400 c=35

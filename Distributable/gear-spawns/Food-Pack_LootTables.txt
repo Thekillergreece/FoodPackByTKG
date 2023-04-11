@@ -1,0 +1,224 @@
+#-----------------
+loottable=BackPack
+#-----------------
+item=AuroraEnergyDrink w=7
+item=BeerBottle w=1
+item=CannedChili w=2
+item=CannedMangos w=2
+item=CannedPears w=3
+item=CannedPineapples w=3
+item=CannedSpaghetti w=2
+item=CannedStew w=2
+item=CatFood w=2
+item=HoneyJar w=2
+item=SPAM w=1
+
+#----------------
+loottable=CashRegister
+#----------------
+item=WhiskyFlask w=1
+
+#----------------------
+loottable=FishingDrawer
+#----------------------
+item=CannedChili w=3
+item=CannedSpaghetti w=2
+item=CannedStew w=2
+item=WhiskyFlask w=1
+
+#----------------------
+loottable=KitchenDrawer
+#----------------------
+item=modChocolateBar w=3
+item=Bread w=2
+item=drymilkpacket w=5
+item=hotcocoabag w=1
+
+#----------------
+loottable=Freezer
+#----------------
+item=AuroraEnergyDrink w=10
+
+#---------------
+loottable=Fridge
+#---------------
+item=AuroraEnergyDrink w=5
+item=BeerBottle w=5
+item=forsakenspirits w=5
+item=mountainsoda w=5
+item=mountainsodaplastic w=5
+item=ricecooked w=2
+item=CannedPears w=5
+item=CannedPineapples w=5
+item=CannedSpaghetti w=5
+item=CannedStew w=5
+item=CannedChili w=5
+item=CannedMangos w=5
+
+#--------------------
+loottable=HumanCorpse
+#--------------------
+item=AuroraEnergyDrink w=2
+item=WhiskyFlask w=1
+item=modChocolateBar w=2
+
+#------------------------
+loottable=KitchenCupboard
+#------------------------
+item=AuroraEnergyDrink w=3
+item=Bread w=3
+item=CannedChili w=5
+item=CannedMangos w=3
+item=riceraw w=2
+item=CannedPears w=4
+item=CannedPineapples w=5
+item=CannedSpaghetti w=5
+item=CannedStew w=5
+item=CatFood w=3
+item=Cornflakes w=10
+item=CerealWholeGrain w=10
+item=CerealHoney w=10
+item=HotCocoaBox w=5
+item=HoneyJar w=3
+item=ModSyrup w=3
+item=SPAM w=2
+
+#---------------
+loottable=Locker
+#---------------
+item=DryMilkPacket w=3
+item=ForsakenSpirits w=3
+item=CatFood w=3
+item=WhiskyFlask w=2
+
+#---------------
+loottable=LockerLocked
+#---------------
+item=DryMilkPacket w=7
+item=ForsakenSpirits w=5
+item=HotCocoaBox w=5
+item=Spam w=3
+item=Cornflakes w=1
+item=CerealWholeGrain w=1
+item=CerealHoney w=1
+
+#-----------------
+loottable=MetalBox
+#-----------------
+item=CannedChili w=2
+item=CannedSpaghetti w=2
+item=CannedStew w=2
+item=CatFood w=3
+item=SPAM w=2
+
+#-------------------
+loottable=PlasticBox
+#-------------------
+item=AuroraEnergyDrink w=2
+item=CatFoodSmall w=3
+
+#-------------------------
+loottable=Wardrobe_regular
+#-------------------------
+item=WhiskyFlask w=1
+
+#-------------------------
+loottable=VehicleTrunk
+#-------------------------
+item=CatFood w=1
+item=HoneyJar w=1
+item=riceraw w=1
+
+#-------------------------
+loottable=VehicleTrunkLocked
+#-------------------------
+item=ModSyrup w=5
+item=riceraw w=2
+
+#-------------------------
+loottable=VehicleGloveBox
+#-------------------------
+item=Cookies w=5
+item=modchocolatebar w=3
+
+#-------------------------
+loottable=CargoFoodA
+#-------------------------
+item=CannedMangos w=3
+item=CannedPears w=3
+item=CannedPineapples w=3
+item=CannedChili w=1
+
+#-------------------------
+loottable=CargoFoodB
+#-------------------------
+item=CannedChili w=3
+item=CannedSpaghetti w=2
+item=CannedStew w=1
+
+#-------------------------
+loottable=CargoFoodC
+#-------------------------
+item=hotcocoabox w=1
+item=cornflakes w=1
+item=modChocolateBar w=1
+
+#-------------------------
+loottable=CargoFoodRareA
+#-------------------------
+item=SPAM w=1
+
+#-------------------------
+loottable=CargoFoodRareB
+#-------------------------
+item=modSyrup w=5
+item=HoneyJar w=3
+item=CerealHoney w=2
+
+#-------------------------
+loottable=CargoFoodRareC
+#-------------------------
+item=CerealWholeGrain w=1
+
+#--------------------
+loottable=CargoDrinkA
+#--------------------
+item=MountainSoda w=2
+item=AuroraEnergyDrink w=2
+item=redwinebottle w=3
+
+#--------------------
+loottable=CargoDrinkB
+#--------------------
+item=drymilkpacket w=2
+item=hotcocoabox w=1
+
+#--------------------
+loottable=CargoDrinkC
+#--------------------
+item=MountainSoda w=1
+item=AuroraEnergyDrink w=1
+item=ForsakenSpirits w=1
+
+#--------------------
+loottable=CargoMiscC
+#--------------------
+item=drymilkpacket w=3
+
+#-------------------------
+loottable=Safe
+#-------------------------
+item=vodkabottle w=8
+item=redwinebottle w=5
+
+#-------------------------
+loottable=FileCabinet
+#-------------------------
+item=drymilkpacket w=2
+item=hotcocoabag w=1
+
+#-------------------------
+loottable=Cabinet
+#-------------------------
+item=MountainSoda w=2
+item=AuroraEnergyDrink w=1

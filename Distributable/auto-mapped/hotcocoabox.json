@@ -1,0 +1,40 @@
+{
+    "ModCookableComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_HotCocoaBox",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_HotCocoaBoxDescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 0.32,
+                                "DaysToDecay" : 300,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "High",
+                                "InventoryCategory" : "Food",
+                                "PickUpAudio" : "Play_SndInvBoxCrackers",
+                                "PutBackAudio" : "Play_SndInvBoxCrackers",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 0.4,
+                                "InspectAngles" : [0, 90, 0],
+                                "InspectOffset" : [0, -0.05, 0],
+                                "InspectScale" :  [0.5, 0.5, 0.5],
+                                "NormalModel" : "",
+                                "InspectModel" : "",
+
+                                "BurntMinutes" : 30,
+                                "Cooking" : true,
+                                "CookingAudio" : "",
+                                "StartCookingAudio" : "",
+                                "CookingMinutes" : 13,
+                                "CookingResult" : "GEAR_HotCocoaCup",
+                                "CookingUnitsRequired" : 1,
+                                "CookingWaterRequired" : 0.25,
+                                "Type" : "Liquid"
+                            },
+    "ModStackableBehaviour": {
+                                "SingleUnitTextId" : "GAMEPLAY_HotCocoaBoxStackSingle",
+                                "MultipleUnitTextId" : "GAMEPLAY_HotCocoaBoxStackMultiple",
+                                "StackSprite" : "",
+                                "UnitsPerItem" : 8,
+                                "ChanceFull" : 50
+                            }
+}

@@ -1,0 +1,27 @@
+{
+    "ModRandomWeightedItemComponent": {
+                            "DisplayNameLocalizationId" : "GAMEPLAY_RandomSodaTall",
+                            "DescriptionLocalizatonId" : "GAMEPLAY_RandomSodaTallDescription",
+                            "InventoryActionLocalizationId" : "",
+                            "WeightKG": 0,
+                            "DaysToDecay" : 0,
+                            "MaxHP" : 100,
+                            "InitialCondition" : "Perfect",
+                            "InventoryCategory" : "Food",
+                            "Radial" : "None",
+                            "PickUpAudio" : "Play_SndInvCanSoda",
+                            "PutBackAudio" : "Play_SndInvCanSoda",
+                            "StowAudio" : "Play_InventoryStow",
+                            "WornOutAudio" : "",
+                            "InspectOnPickup" : true,
+                            "InspectDistance" : 0.4,
+                            "InspectAngles" : [20, 20, -20],
+                            "InspectOffset" : [0, -0.08, 0],
+                            "InspectScale" :  [1, 1, 1],
+                            "NormalModel" : "",
+                            "InspectModel" : "",
+
+                            "ItemNames" : ["GEAR_AuroraEnergyDrink","GEAR_MountainSoda","GEAR_MountainSodaPlastic","GEAR_ForsakenSpirits","GEAR_ForsakenSpiritsPlastic"],
+                            "ItemWeights" : [3,2,2,2,2]
+                            }
+}
