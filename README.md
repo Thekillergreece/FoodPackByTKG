@@ -17,7 +17,9 @@ Currently, the mod is supported by the following languages; English, German, Rus
 ---
 ![Food](https://user-images.githubusercontent.com/95387832/231141581-8d691398-e0a6-48f8-a7a5-365048ca2d68.jpg)
 
-Due to ds5678's unfortunate departure from the modding site, the mod was left with no modder and seemingly nobody was interested to try get it to work with the latest version of the game as well as maintain it by adding new spawn spots, balance it if needed and so on.
+Introduces 33 new food items (24 new, 6 variants, 2 cookable) to the game.
+
+Due to ds5678's unfortunate departure from the modding site, the mod was left with no modder and seemingly nobody was interested to try to get it to work with the latest version of the game as well as maintaining it by adding new spawn spots, balance it if needed and so on.
 
 I decided to take over the project mainly because I love food mod packs. This and Waltz's food pack (https://github.com/HAHAYOUDEAD/FoodsByCalorieWaltz) were the only mods in the community that would bring a lot food item varieties. 
 
