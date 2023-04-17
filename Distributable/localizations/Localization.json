@@ -20,7 +20,8 @@
         "Turkish":"Seni birkaç saat daha uyanık tutabilir ama bu seni uçurmaz.",
         "Korean":"당신에게 날개를 달아줄 순 없지만, 몇 시간정도 깨어있는덴 도움이 됩니다.",
         "Italian":"Potrebbe tenerti sveglio qualche ora in più, ma non ti farà crescere le ali.",
-        "Simplified Chinese":"可能会让你多睡几个小时，但这不会让你飞起来。"
+        "Simplified Chinese":"可能会让你多睡几个小时，但这不会让你飞起来。",
+	"Japanese":"数時間ほど目が冴えるけど、翼は授けてくれませんのであしからず。"
     },
     "GAMEPLAY_BeerBottle":{
         "English":"Beer",
@@ -31,7 +32,8 @@
         "Turkish":"Bira",
         "Korean":"맥주",
         "Italian":"Birra",
-        "Simplified Chinese":"啤酒"
+        "Simplified Chinese":"啤酒",
+	"Japanese":"ビール"
     },
     "GAMEPLAY_BeerBottleDescription":{
         "English":"A nice bottle of beer.\nHave a cold one!\n\nAlcohol 5% vol",
@@ -42,7 +44,8 @@
         "Turkish":"A nice bottle of beer. Soğuk olsun! %5 Oranında alkol içerir.!",
         "Korean":"병맥주\n시원하게 즐겨요!\n알콜함량 5%",
         "Italian":"Una buona bottiglia di birra.\nDa bere fredda!\nAlcol 5% vol.",
-        "Simplified Chinese":"一瓶不错的啤酒。\n来个冷的！\n\n酒精 5% vol"
+        "Simplified Chinese":"一瓶不错的啤酒。\n来个冷的！\n\n酒精 5% vol",
+	"Japanese":"美味そうな瓶ビール。\nよく冷やして飲もう！\n\nアルコール度数5％。"
     },
     "GAMEPLAY_Bread":{
         "English":"Bread",
@@ -53,7 +56,8 @@
         "Turkish":"Ekmek",
         "Korean":"빵",
         "Italian":"Pane",
-        "Simplified Chinese":"面包"
+        "Simplified Chinese":"面包",
+	"Japanese":"パン"
     },
     "GAMEPLAY_BreadDescription":{
         "English":"A loaf of generic white bread.",
@@ -64,7 +68,8 @@
         "Turkish":"Bir somun jenerik beyaz ekmek.",
         "Korean":"일반적인 빵 한 덩어리",
         "Italian":"Una fetta di pane bianco generico.",
-        "Simplified Chinese":"一条普通的白面包。"
+        "Simplified Chinese":"一条普通的白面包。",
+	"Japanese":"ごくありふれた一塊のパン。"
     },
     "GAMEPLAY_CannedChili":{
         "English":"Chili",
@@ -75,7 +80,8 @@
         "Turkish":"Acı Biber",
         "Korean":"칠리 통조림",
         "Italian":"Chili",
-        "Simplified Chinese":"Chili"
+        "Simplified Chinese":"Chili",
+	"Japanese":"チリ缶"
     },
     "GAMEPLAY_CannedChiliDescription":{
         "English":"Hearty. Warming. Soul soothing. Chili!",
@@ -86,7 +92,8 @@
         "Turkish":"Doyurucu, Isıtıcı, Ruh yatıştırıcı Acı biber!",
         "Korean":"따듯하게 마음을 위로해주는 칠리!",
         "Italian":"Ricco. Caloroso. Scalda persino l'anima. Chili!",
-        "Simplified Chinese":"爽朗。变暖。心灵抚慰。辣椒！"
+        "Simplified Chinese":"爽朗。变暖。心灵抚慰。辣椒！",
+	"Japanese":"ボリュームたっぷり。温まる。心も落ち着く。チリ缶です！"
     },
     "GAMEPLAY_CannedMangos":{
         "English":"Diced Mangos",
@@ -97,7 +104,8 @@
         "Turkish":"Doğranmış Mangolar",
         "Korean":"망고 통조림",
         "Italian":"Mango a dadini",
-        "Simplified Chinese":"芒果丁"
+        "Simplified Chinese":"芒果丁",
+	"Japanese":"マンゴーの缶詰"
     },
     "GAMEPLAY_CannedMangosDescription":{
         "English":"Delicious and sweet. Locally produced.",
@@ -108,7 +116,8 @@
         "Turkish":"Lezzetli ve tatlı.",
         "Korean":"달고 맛있습니다.",
         "Italian":"Dolce e delizioso.",
-        "Simplified Chinese":"好吃又甜。"
+        "Simplified Chinese":"好吃又甜。",
+	"Japanese":"美味しくて甘い。"
     },
     "GAMEPLAY_CannedPears":{
         "English":"Pear Halves",
