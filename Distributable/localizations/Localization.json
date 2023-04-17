@@ -8,7 +8,8 @@
         "Turkish":"Enerji içeceği",
         "Korean":"에너지 드링크",
         "Italian":"Bevanda Energetica",
-        "Simplified Chinese":"能量饮料"
+        "Simplified Chinese":"能量饮料",
+	"Japanese":"オーロラエナジードリンク"
     },
     "GAMEPLAY_AuroraEnergyDrinkDescription":{
         "English":"Might keep you awake for a few more hours, but this won't make you fly.",
