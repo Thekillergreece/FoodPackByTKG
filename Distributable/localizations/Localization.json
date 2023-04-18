@@ -21,7 +21,7 @@
         "Korean":"당신에게 날개를 달아줄 순 없지만, 몇 시간정도 깨어있는덴 도움이 됩니다.",
         "Italian":"Potrebbe tenerti sveglio qualche ora in più, ma non ti farà crescere le ali.",
         "Simplified Chinese":"可能会让你多睡几个小时，但这不会让你飞起来。",
-	"Japanese":"数時間ほど目が冴えるけど、翼は授けてくれませんのであしからず。"
+	"Japanese":"数時間ほど目が冴えるけど、翼は授けてくれません。"
     },
     "GAMEPLAY_BeerBottle":{
         "English":"Beer",
@@ -128,7 +128,8 @@
         "Turkish":"Yarım Armut",
         "Korean":"배 통조림",
         "Italian":"Pere in scatola",
-        "Simplified Chinese":"梨对半"
+        "Simplified Chinese":"梨对半",
+	"Japanese":"洋ナシの缶詰"
     },
     "GAMEPLAY_CannedPearsDescription":{
         "English":"Delicious and sweet. Locally produced.",
@@ -139,7 +140,8 @@
         "Turkish":"Lezzetli ve tatlı.",
         "Korean":"달고 맛있습니다.",
         "Italian":"Dolci e deliziose.",
-        "Simplified Chinese":"好吃又甜。"
+        "Simplified Chinese":"好吃又甜。",
+	"Japanese":"美味しくて甘い。"
     },
     "GAMEPLAY_CannedPineapples":{
         "English":"Pineapple Slices",
@@ -150,7 +152,8 @@
         "Turkish":"Ananas Dilimleri",
         "Korean":"파인애플 통조림",
         "Italian":"Ananas a fette",
-        "Simplified Chinese":"菠萝片"
+        "Simplified Chinese":"菠萝片",
+	"Japanese":"パイナップルの缶詰"
     },
     "GAMEPLAY_CannedPineapplesDescription":{
         "English":"Delicious and sweet. Locally produced. Do not put pineapples on the pizza.",
@@ -161,7 +164,8 @@
         "Turkish":"Lezzetli ve tatlı.",
         "Korean":"달고 맛있습니다.",
         "Italian":"Dolce e delizioso.",
-        "Simplified Chinese":"好吃又甜。"
+        "Simplified Chinese":"好吃又甜。",
+	"Japanese":"美味しくて甘い。パイナップルをピザに載せてはいけません。"
     },
     "GAMEPLAY_CannedSpaghetti":{
         "English":"Spaghetti with Meatballs",
@@ -172,7 +176,8 @@
         "Turkish":"Köfteli Spagetti",
         "Korean":"미트볼 스파게티 통조림",
         "Italian":"Spaghetti con le polpette",
-        "Simplified Chinese":"肉丸意大利面"
+        "Simplified Chinese":"肉丸意大利面",
+	"Japanese":"スパゲッティの缶詰"
     },
     "GAMEPLAY_CannedSpaghettiDescription":{
         "English":"Feed your inner child! So delicious that an Italian would be jealous.",
@@ -183,7 +188,8 @@
         "Turkish":"İçinde Köfte Olan Lezzetli Hazır Spagetti !",
         "Korean":"내면의 아이에게 한 끼를!",
         "Italian":"Sfama il tuo bambino interiore!",
-        "Simplified Chinese":"喂养你内心的孩子！"
+        "Simplified Chinese":"喂养你内心的孩子！",
+	"Japanese":"イタリア人もびっくりの美味しさを君の内なる童心へ届けます。"
     },
     "GAMEPLAY_CannedStew":{
         "English":"Beef Stew",
@@ -194,7 +200,8 @@
         "Turkish":"Dana Yahni",
         "Korean":"비프 스튜",
         "Italian":"Stufato di manzo",
-        "Simplified Chinese":"炖牛肉"
+        "Simplified Chinese":"炖牛肉",
+	"Japanese":"ビーフシチューの缶詰"
     },
     "GAMEPLAY_CannedStewDescription":{
         "English":"A hearty meal with meat and vegetables. Good enough to forget about everything else for little while.",
@@ -205,7 +212,8 @@
         "Turkish":"Et ve sebze ile doyurucu bir yemek. Kısa bir süre için diğer her şeyi unutacak kadar iyi.",
         "Korean":"고기와 야채가 들어간 푸짐한 한 끼. 잠시나마 세상의 고난을 잊게해줍니다.",
         "Italian":"Un pasto salutare con carne e verdure. Buono abbastanza da farti dimenticare del resto per un po'.",
-        "Simplified Chinese":"一顿丰盛的大餐，包括肉和蔬菜。足以暂时忘记其他一切。"
+        "Simplified Chinese":"一顿丰盛的大餐，包括肉和蔬菜。足以暂时忘记其他一切。",
+	"Japanese":"肉と野菜が入ってボリュームもたっぷり。しばらくの間余計なあれこれを忘れていられる。"
     },
     "GAMEPLAY_CatFood":{
         "English":"Cat Food",
@@ -216,7 +224,8 @@
         "Turkish":"Kedi Maması",
         "Korean":"고양이 밥",
         "Italian":"Cibo per gatti",
-        "Simplified Chinese":"猫食"
+        "Simplified Chinese":"猫食",
+	"Japanese":"キャットフード"
     },
     "GAMEPLAY_CatFoodDescription":{
         "English":"A cheap can of cat food.\nSmells terrible and will probably taste even worse.",
@@ -227,7 +236,8 @@
         "Turkish":"Bir kutu kedi maması.\nÇok kötü kokuyor ve tadı muhtemelen çok kötü olsa gerek !",
         "Korean":"캔에 담긴 고양이 밥\n냄새가 끔찍하지만 맛은 더합니다.",
         "Italian":"Una lattina di cibo per gatti.\nHa un odore terribile e probabilmente un gusto ancora peggiore.",
-        "Simplified Chinese":"一罐猫粮。\n闻起来很糟糕，而且味道可能会更糟。"
+        "Simplified Chinese":"一罐猫粮。\n闻起来很糟糕，而且味道可能会更糟。",
+	"Japanese":"安物の猫缶。\n匂いは酷く、そして味はそれ以上に酷いのは間違いないだろう。"
     },
     "GAMEPLAY_CerealDescription":{
         "English":"A big box of cereal. Very dry but healthy.",
@@ -238,7 +248,8 @@
         "Turkish":"Büyük bir kutu mısır gevreği. Çok kuru.",
         "Korean":"시리얼이 담긴 박스. 매우 건조합니다.",
         "Italian":"Una grossa scatola di cereali. Molto secchi",
-        "Simplified Chinese":"一大盒麦片。非常干燥。"
+        "Simplified Chinese":"一大盒麦片。非常干燥。",
+	"Japanese":"シリアルの大箱。とてものどが渇くがヘルシーだ。"
     },
     "GAMEPLAY_CerealHoney":{
         "English":"Honabee Breakfast Cereal",
@@ -249,7 +260,8 @@
         "Turkish":"Arı Ballı Kahvaltılık Tahıl !",
         "Korean":"Honabee 아침대용 시리얼",
         "Italian":"Cereali Honabee",
-        "Simplified Chinese":"Honabee 早餐麦片"
+        "Simplified Chinese":"Honabee 早餐麦片",
+	"Japanese":"ホーナビーの朝食用シリアル"
     },
     "GAMEPLAY_CerealWholeGrain":{
         "English":"Whole Grain Cereal",
@@ -260,7 +272,8 @@
         "Turkish":"Tam Tahıllı Gevrek",
         "Korean":"홀그레인 시리얼",
         "Italian":"Cereali di grano integrale",
-        "Simplified Chinese":"全麦谷物"
+        "Simplified Chinese":"全麦谷物",
+	"Japanese":"全粒シリアル。"
     },
     "GAMEPLAY_Cookies":{
         "English":"Cookies",
@@ -271,7 +284,8 @@
         "Turkish":"Kurabiye",
         "Korean":"쿠키",
         "Italian":"Biscotti",
-        "Simplified Chinese":"饼干"
+        "Simplified Chinese":"饼干",
+	"Japanese":"クッキー"
     },
     "GAMEPLAY_CookiesDescription":{
         "English":"A little stale, but they still taste good.",
@@ -282,7 +296,8 @@
         "Turkish":"Biraz bayat ama yine de tadı güzel.",
         "Korean":"조금 오래된 것 같지만, 아직도 맛은 있습니다.",
         "Italian":"Un po' stantii, ma hanno ancora un buon sapore.",
-        "Simplified Chinese":"有点陈旧，但它们仍然很好吃。"
+        "Simplified Chinese":"有点陈旧，但它们仍然很好吃。",
+	"Japanese":"ちょっと悪くなっているが、味はまだ大丈夫。"
     },
     "GAMEPLAY_Cornflakes":{
         "English":"Cornflakes",
@@ -293,7 +308,8 @@
         "Turkish":"Mısır Gevreği",
         "Korean":"콘프레이크",
         "Italian":"Cornflakes",
-        "Simplified Chinese":"玉米片"
+        "Simplified Chinese":"玉米片",
+	"Japanese":"コーンフレーク"
     },
     "GAMEPLAY_CornflakesDescription":{
         "English":"A big box of crispy cornflakes. Very dry.",
@@ -304,7 +320,8 @@
         "Turkish":"Büyük bir kutu mısır gevreği. Çok kuru.",
         "Korean":"박스에 담긴 바삭한 콘프레이크. 매우 건조합니다.",
         "Italian":"Una grossa confezione di cornflakes croccanti. Molto secchi.",
-        "Simplified Chinese":"一大盒脆脆的玉米片。非常干燥。"
+        "Simplified Chinese":"一大盒脆脆的玉米片。非常干燥。",
+	"Japanese":"コーンフレークの大箱。食べるととてものどが渇く。"
     },
     "GAMEPLAY_CupMilk":{
         "English":"Cup of Rehydrated Milk",
@@ -315,7 +332,8 @@
         "Turkish":"Bir Bardak Rehidrate Süt",
         "Korean":"분말우유",
         "Italian":"Tazza di latte reidratato",
-        "Simplified Chinese":"一杯复水牛奶"
+        "Simplified Chinese":"一杯复水牛奶",
+	"Japanese":"カップ入りミルク"
     },
     "GAMEPLAY_CupMilkDescription":{
         "English":"Well, it tastes better than boiled water. It won't make your bones strong though.",
@@ -326,7 +344,8 @@
         "Turkish":"Eh, kaynamış sudan daha lezzetli.",
         "Korean":"음, 끓인 물보단 맛있습니다.",
         "Italian":"Bhè, ha un gusto migliore dell'acqua bollita.",
-        "Simplified Chinese":"嗯，它的味道比白开水好。"
+        "Simplified Chinese":"嗯，它的味道比白开水好。",
+	"Japanese":"お湯よりはまだましな味だ。でも骨を丈夫にしてくれそうにはない。"
     },
     "GAMEPLAY_DryMilkPacket":{
         "English":"Dry Milk Packet",
