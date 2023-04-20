@@ -117,7 +117,7 @@
         "Korean":"달고 맛있습니다.",
         "Italian":"Dolce e delizioso.",
         "Simplified Chinese":"好吃又甜。",
-	"Japanese":"美味しくて甘い。原産地で生産されている。"
+	"Japanese":"美味しくて甘い。原産地で製造されている。"
     },
     "GAMEPLAY_CannedPears":{
         "English":"Pear Halves",
@@ -141,7 +141,7 @@
         "Korean":"달고 맛있습니다.",
         "Italian":"Dolci e deliziose.",
         "Simplified Chinese":"好吃又甜。",
-	"Japanese":"美味しくて甘い。原産地で生産されている。"
+	"Japanese":"美味しくて甘い。原産地で製造されている。"
     },
     "GAMEPLAY_CannedPineapples":{
         "English":"Pineapple Slices",
@@ -165,7 +165,7 @@
         "Korean":"달고 맛있습니다.",
         "Italian":"Dolce e delizioso.",
         "Simplified Chinese":"好吃又甜。",
-	"Japanese":"美味しくて甘い。原産地で生産されている。パイナップルをピザに載せてはいけません。"
+	"Japanese":"美味しくて甘い。原産地で製造されている。パイナップルをピザに載せてはいけません。"
     },
     "GAMEPLAY_CannedSpaghetti":{
         "English":"Spaghetti with Meatballs",
