@@ -213,7 +213,7 @@
         "Korean":"고기와 야채가 들어간 푸짐한 한 끼. 잠시나마 세상의 고난을 잊게해줍니다.",
         "Italian":"Un pasto salutare con carne e verdure. Buono abbastanza da farti dimenticare del resto per un po'.",
         "Simplified Chinese":"一顿丰盛的大餐，包括肉和蔬菜。足以暂时忘记其他一切。",
-	"Japanese":"肉と野菜が入ってボリュームもたっぷり。しばらくの間余計なあれこれを忘れていられる。"
+	"Japanese":"肉と野菜が入ってボリュームたっぷり。しばらくの間余計なあれこれを忘れられるには十分だ。"
     },
     "GAMEPLAY_CatFood":{
         "English":"Cat Food",
@@ -729,7 +729,7 @@
         "Korean":"축배를 들기위한 와인 한 병. 한 번에 너무 많이 마시진 마세요",
         "Italian":"Una bottiglia di vino per quell'occasione speciale. Non berne troppo in una volta.",
         "Simplified Chinese":"为那个盛大的庆祝活动准备一瓶酒。不要一次喝太多。",
-	"Japanese":"大きなお祝いのために用意されたワイン。とても美味しいがめったに見かけない。"
+	"Japanese":"大きなお祝いのために用意されたワイン。高級品だがめったに見かけない。"
     },
     "GAMEPLAY_RandomLargeCannedFood":{
         "English":"Random Large Canned Food",
