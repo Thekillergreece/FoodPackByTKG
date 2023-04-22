@@ -45,7 +45,7 @@
         "Korean":"병맥주\n시원하게 즐겨요!\n알콜함량 5%",
         "Italian":"Una buona bottiglia di birra.\nDa bere fredda!\nAlcol 5% vol.",
         "Simplified Chinese":"一瓶不错的啤酒。\n来个冷的！\n\n酒精 5% vol",
-	"Japanese":"美味そうな瓶ビール。\nよく冷やして飲もう！\n\nアルコール度数5％。"
+	"Japanese":"美味しそうな瓶ビール。\n冷やして飲もう！\n\nアルコール度数5％。"
     },
     "GAMEPLAY_Bread":{
         "English":"Bread",
@@ -177,7 +177,7 @@
         "Korean":"미트볼 스파게티 통조림",
         "Italian":"Spaghetti con le polpette",
         "Simplified Chinese":"肉丸意大利面",
-	"Japanese":"スパゲッティの缶詰"
+	"Japanese":"ミートボールスパゲッティの缶詰"
     },
     "GAMEPLAY_CannedSpaghettiDescription":{
         "English":"Feed your inner child! So delicious that an Italian would be jealous.",
@@ -429,7 +429,7 @@
         "Korean":"핫초코 팩",
         "Italian":"Bustina di cioccolato in polvere.",
         "Simplified Chinese":"热可可包",
-	"Japanese":"粉末ココアのパック"
+	"Japanese":"ホットココアのパック"
     },
     "GAMEPLAY_HotCocoaBagDescription":{
         "English":"A packet for making Hot Cocoa.",
@@ -441,7 +441,7 @@
         "Korean":"핫초코를 만들 수 있는 코코아 분말팩",
         "Italian":"Una bustina per fare la cioccolata calda.",
         "Simplified Chinese":"用于制作热可可的小包。",
-	"Japanese":"ホットココア用粉末ココアパック。"
+	"Japanese":"ホットココア用のココアパック。"
     },
     "GAMEPLAY_HotCocoaBox":{
         "English":"Hot Cocoa Box",
@@ -453,7 +453,7 @@
         "Korean":"핫초코 박스",
         "Italian":"Scatola di cioccolata calda",
         "Simplified Chinese":"热可可盒",
-	"Japanese":"箱入り粉末ココア"
+	"Japanese":"ホットココアの箱"
     },
     "GAMEPLAY_HotCocoaBoxDescription":{
         "English":"A box of packets for making Hot Cocoa.",
@@ -477,7 +477,7 @@
         "Korean":"핫초코 팩",
         "Italian":"Bustina di cioccolato in polvere.",
         "Simplified Chinese":"热可可包",
-	"Japanese":"粉末ココアのパック"
+	"Japanese":"ホットココアのパック"
     },
     "GAMEPLAY_HotCocoaBoxStackMultiple":{
         "English":"Hot Cocoa Packets",
@@ -489,7 +489,7 @@
         "Korean":"핫초코 팩",
         "Italian":"Bustine di cioccolata in polvere.",
         "Simplified Chinese":"热可可包",
-	"Japanese":"粉末ココアのパック"
+	"Japanese":"ホットココアのパック"
     },
     "GAMEPLAY_HotCocoaCup":{
         "English":"Cup of Hot Cocoa",
@@ -501,7 +501,7 @@
         "Korean":"핫초코",
         "Italian":"Tazza di cioccolata calda.",
         "Simplified Chinese":"一杯热可可",
-	"Japanese":"カップ入りホットココア"
+	"Japanese":"ホットココアのカップ"
     },
     "GAMEPLAY_HotCocoaCupDescription":{
         "English":"A delicious cup of your favorite hot cocoa.",
@@ -561,7 +561,7 @@
         "Korean":"맛있는 메이플 시럽. 주변에 더 있었어야 했는데!\n상하지 않습니다.",
         "Italian":"Delizioso sciroppo d'acero. Doveva essercene un po' da qualche parte!\nLo sciroppo d'acero non va mai a male!",
         "Simplified Chinese":"美味的枫糖浆。这附近一定有一些！\n枫糖浆永远不会变质！",
-	"Japanese":"美味しいメープルシロップ。この辺りではたくさん採れるよ！\n\nメープルシロップは決して腐りません！"
+	"Japanese":"美味しいメープルシロップ。この辺りでよく採れる！\n\nメープルシロップは決して腐りません！"
     },
     "GAMEPLAY_MountainSoda":{
         "English":"Mountain Soda",
