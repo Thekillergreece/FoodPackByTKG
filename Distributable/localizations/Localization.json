@@ -213,7 +213,7 @@
         "Korean":"고기와 야채가 들어간 푸짐한 한 끼. 잠시나마 세상의 고난을 잊게해줍니다.",
         "Italian":"Un pasto salutare con carne e verdure. Buono abbastanza da farti dimenticare del resto per un po'.",
         "Simplified Chinese":"一顿丰盛的大餐，包括肉和蔬菜。足以暂时忘记其他一切。",
-	"Japanese":"肉と野菜が入ってボリュームたっぷり。しばらくの間余計なあれこれを忘れられるには十分だ。"
+	"Japanese":"肉と野菜が入ってボリュームたっぷり。しばらくの間余計なあれこれを忘れるには十分だ。"
     },
     "GAMEPLAY_CatFood":{
         "English":"Cat Food",
@@ -249,7 +249,7 @@
         "Korean":"시리얼이 담긴 박스. 매우 건조합니다.",
         "Italian":"Una grossa scatola di cereali. Molto secchi",
         "Simplified Chinese":"一大盒麦片。非常干燥。",
-	"Japanese":"シリアルの大箱。とてものどが渇くがヘルシーだ。"
+	"Japanese":"シリアルの大箱。とても乾燥しているがヘルシーだ。"
     },
     "GAMEPLAY_CerealHoney":{
         "English":"Honabee Breakfast Cereal",
@@ -321,7 +321,7 @@
         "Korean":"박스에 담긴 바삭한 콘프레이크. 매우 건조합니다.",
         "Italian":"Una grossa confezione di cornflakes croccanti. Molto secchi.",
         "Simplified Chinese":"一大盒脆脆的玉米片。非常干燥。",
-	"Japanese":"コーンフレークの大箱。食べるととてものどが渇く。"
+	"Japanese":"コーンフレークの大箱。とても乾燥している。"
     },
     "GAMEPLAY_CupMilk":{
         "English":"Cup of Rehydrated Milk",
@@ -513,7 +513,7 @@
         "Korean":"당신이 제일 좋아하는 핫초코",
         "Italian":"Una deliziosa tazza della vostra cioccolata calda preferita.",
         "Simplified Chinese":"一杯美味的您最喜欢的热可可。",
-	"Japanese":"みんな大好き美味しいホットココア。"
+	"Japanese":"あなたも大好き美味しいホットココア。"
     },
     "GAMEPLAY_ModChocolateBar":{
         "English":"Dark Chocolate Bar",
