@@ -2,30 +2,48 @@
 
 This is a mod for The Long Dark by Hinterland Studio, Inc.
 
-![showcase-all](https://user-images.githubusercontent.com/95387832/230734658-9b9b34c6-03fe-4ce3-9d4d-9a30937db818.png)
+![showcase-all]![Redux](https://github.com/Thekillergreece/FoodPackByTKG/assets/95387832/da116761-9512-4723-896d-37388b961843)
 
 ### Localization
 ---
-Currently, the mod is supported by the following languages; English, German, Russian, Polish, French, Turkish, Korean, Italian and Simplified Chinese.
-However, the lore translation is available only in English.
+Currently, the mod is supported by the following languages; English, German, Russian, French, Spanish and Japanese.
 
 ### Introduction
 ---
 ![Food](https://user-images.githubusercontent.com/95387832/231141581-8d691398-e0a6-48f8-a7a5-365048ca2d68.jpg)
 
-Introduces 33 new food items to the game.
+Introduces 38 new food items to the game.
 
 Due to ds5678's unfortunate departure from the modding site, the mod was left with no modder and seemingly nobody was interested to try to get it to work with the latest version of the game as well as maintaining it by adding new spawn spots, balance it if needed and so on.
 
-I decided to take over the project mainly because I love food mod packs. This and Waltz's food pack (https://github.com/HAHAYOUDEAD/FoodsByCalorieWaltz) were the only mods in the community that would bring a lot food item varieties. 
-
-If you are considering to download and install this Food Pack, I strongly recommend you download and install Waltz's food pack as well. The link is posted above. Both of these mods will bring significant food varieties. This mod was expanded with Waltz's mod in mind.
+If you are considering to download and install this Food Pack, I strongly recommend you download and install Waltz's food pack ((https://github.com/HAHAYOUDEAD/FoodsByCalorieWaltz)) as well. Both of these mods will bring significant food varieties. This mod was expanded with Waltz's mod in mind.
 
 Food items will be rarely found in cars, caves, etc or in places that they wouldn't make much sense. This food pack will work excellently with Waltz's Food Pack.
 
 ### 5.0 Version
 ---
-TBD
+- NEW: Added Can of Jalapenos.
+- NEW: Added Flour Bag.
+- NEW: Added Noodles.
+- NEW: Recipes for Cookies and Bread.
+- Canned food items - Stew, Chili and Spaghetti - now have visible mesh when they are opened after cooking. (Food mesh work by Jods).
+- Added some more alcoholic drinks' loose spawn spots.
+- Added some new spawns across the regions and interiors.
+- Added new spawns into some crates/boxes.
+- Readjusted some gear spawns.
+- Readjusted some gear spawn chances.
+- Readjusted some food items' calories and decay rate.
+- Readjusted eating/drinking times.
+- Readjusted Loot Tables.
+- Adjusted alcohol values to make them a bit less punishing unless you drink a lot.
+- Slightly changed lore's localization.
+- Significant readjustments in inspections' scales, sizes and angles.
+- Fixed most food items being way too dark in some interiors no matter the time of day.
+- Fixed certain items not having audio, including noodles.
+- You can no longer cook fruits. That was a disgusting idea.
+- All food items have been re-textured. (Work by Kai)
+
+If you are using my Noodles mod, delete it as it has been merged with this food pack mod. 
 
 ### 4.6 Version
 ---
@@ -49,5 +67,6 @@ TBD
 - Special thanks to Waltz, STBlade, DigitalZombie, Emma and whoever I shamefully forgot for helping me out reviving this project in TLD modding discord.
 - Special thanks to WulfMarius who first created the Food Pack.
 - Special thanks to ds5678 who took the project from WulfMarius and expanded it by adding 13 more food items as well as adding more spawn spots.
-- Special thanks to Jods for the food mesh, inventory icons, etc.
+- Special thanks to Himbraut, Fuar, Valerie and snowland for various localizations.
+- Special thanks to Jods for the food mesh, inventory icons, Spanish localization, etc.
 - Huge thanks to Kai for the re-texturing, inventory icons, etc.
