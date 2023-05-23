@@ -4,14 +4,8 @@ This is a mod for The Long Dark by Hinterland Studio, Inc.
 
 ![Redux](https://github.com/Thekillergreece/FoodPackByTKG/assets/95387832/da116761-9512-4723-896d-37388b961843)
 
-### Localization
----
-Currently, the mod is supported by the following languages; English, German, Russian, French, Spanish and Japanese.
-
 ### Introduction
 ---
-![Food](https://user-images.githubusercontent.com/95387832/231141581-8d691398-e0a6-48f8-a7a5-365048ca2d68.jpg)
-
 Introduces 38 new food items to the game.
 
 Due to ds5678's unfortunate departure from the modding site, the mod was left with no modder and seemingly nobody was interested to try to get it to work with the latest version of the game as well as maintaining it by adding new spawn spots, balance it if needed and so on.
@@ -53,12 +47,17 @@ If you are using my Noodles mod, delete it as it has been merged with this food 
 - Added a large abundance of loot in interiors that make sense such as big houses, stores, etc.
 - Nerfed/buffed certain food and drink items' calories. Made certain strong food/drink items to spawn much rare.
 
+### Localization
+---
+Currently, the mod is supported by the following languages; English, German, Russian, French, Spanish and Japanese.
+
 ### Installation
 ---
 - If you haven't done so already, install MelonLoader by downloading and running MelonLoader.Installer.exe
 - Install the latest version of ModComponent and its dependencies.
-- Download latest version of FoodPackByTKG from the releases page.
-- Move FoodPackByTKG.modcomponent to your mods folder.
+- (IF NOT USING JODS' INDOORS GREENERY MOD) Download latest version of FoodPackByTKG.modcomponent from the releases page.
+- (IF USING JODS' INDOORS GREENERY MOD) Download latest version of FoodPackByTKG+.modcomponent from the releases page.
+- Move the .modcomponent file to your mods folder.
 - (OPTIONAL) Download latest version of Foods by 'Calorie Waltz' from their releases page.
 - (OPTIONAL) Move the mod's content to mods folder.
 
