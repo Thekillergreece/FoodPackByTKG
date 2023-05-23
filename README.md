@@ -14,6 +14,11 @@ If you are considering to download and install this Food Pack, I strongly recomm
 
 Food items will be rarely found in cars, caves, etc or in places that they wouldn't make much sense. This food pack will work excellently with Waltz's Food Pack.
 
+### Dependencies
+---
+AlcoholMod (Soft Dependency) - All alcoholic drinks will function as non-alcoholic without it.
+Jods' Greenery Indors (Soft Dependency) - Install FoodPackByTKG+.modcomponent if using that mod.
+
 ### 5.0 Version
 ---
 - NEW: Added Can of Jalapenos.
