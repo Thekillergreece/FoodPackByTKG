@@ -2,7 +2,7 @@
 
 This is a mod for The Long Dark by Hinterland Studio, Inc.
 
-!![FoodPackReduxKAIPNG](https://github.com/Thekillergreece/FoodPackByTKG/assets/95387832/e663dcbf-8c2a-45ad-9589-2ca3f685ddda)
+![FoodPackReduxKAIPNG](https://github.com/Thekillergreece/FoodPackByTKG/assets/95387832/e663dcbf-8c2a-45ad-9589-2ca3f685ddda)
 
 ### Introduction
 ---
