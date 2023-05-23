@@ -17,6 +17,7 @@ Food items will be rarely found in cars, caves, etc or in places that they would
 ### Dependencies
 ---
 AlcoholMod (Soft Dependency) - All alcoholic drinks will function as non-alcoholic without it.
+
 Jods' Greenery Indors (Soft Dependency) - Install FoodPackByTKG+.modcomponent if using that mod.
 
 ### 5.0 Version
