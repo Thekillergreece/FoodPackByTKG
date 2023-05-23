@@ -2,7 +2,7 @@
 
 This is a mod for The Long Dark by Hinterland Studio, Inc.
 
-![Redux](https://github.com/Thekillergreece/FoodPackByTKG/assets/95387832/da116761-9512-4723-896d-37388b961843)
+!![FoodPackReduxKAIPNG](https://github.com/Thekillergreece/FoodPackByTKG/assets/95387832/e663dcbf-8c2a-45ad-9589-2ca3f685ddda)
 
 ### Introduction
 ---
@@ -22,6 +22,8 @@ Jods' Greenery Indors (Soft Dependency) - Install FoodPackByTKG+.modcomponent if
 
 ### 5.0 Version
 ---
+![Redux](https://github.com/Thekillergreece/FoodPackByTKG/assets/95387832/da116761-9512-4723-896d-37388b961843)
+
 - NEW: Added Can of Jalapenos.
 - NEW: Added Flour Bag.
 - NEW: Added Noodles.
