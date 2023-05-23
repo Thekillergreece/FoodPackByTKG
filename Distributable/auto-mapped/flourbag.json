@@ -1,0 +1,30 @@
+{
+  "ModGenericComponent": {
+    "DisplayNameLocalizationId": "GAMEPLAY_FlourBag",
+    "DescriptionLocalizatonId": "GAMEPLAY_FlourBagDescription",
+    "InventoryActionLocalizationId": "",
+    "WeightKG": 0.75,
+    "DaysToDecay": 0,
+    "MaxHP": 100,
+    "InitialCondition": "Perfect",
+    "InventoryCategory": "Food",
+    "PickUpAudio" : "Play_SndInvMRE",
+    "PutBackAudio" : "Play_SndInvMRE",
+    "StowAudio": "Play_InventoryStow",
+    "WornOutAudio": "",
+    "InspectOnPickup": true,
+    "InspectDistance": 0.4,
+    "InspectAngles" : [0, 150, 0],
+    "InspectOffset" : [0, -0.1, 0],
+    "InspectScale" :  [0.5, 0.5, 0.5],
+    "NormalModel": "",
+    "InspectModel": ""
+  },
+    "ModStackableBehaviour": {
+    "SingleUnitTextId": "GAMEPLAY_FlourBag",
+    "MultipleUnitTextId": "GAMEPLAY_FlourBag",
+    "StackSprite": "",
+    "UnitsPerItem": 4,
+    "ChanceFull": 100
+  }
+}

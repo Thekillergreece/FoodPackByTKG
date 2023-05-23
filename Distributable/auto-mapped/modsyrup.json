@@ -14,7 +14,7 @@
                             "StowAudio" : "Play_InventoryStow",
                             "WornOutAudio" : "",
                             "InspectOnPickup" : true,
-                            "InspectDistance" : 0.4,
+                            "InspectDistance" : 0.5,
                             "InspectAngles" : [-10, -50, -20],
                             "InspectOffset" : [0, -0.1, 0],
                             "InspectScale" :  [1, 1, 1],
@@ -33,10 +33,10 @@
 
                             "DaysToDecayOutdoors" : 0,
                             "DaysToDecayIndoors" : 0,
-                            "Calories" : 850,
+                            "Calories" : 1000,
                             "Servings" : 15,
-                            "EatingTime" : 3,
-                            "EatingAudio" : "Play_OpenPeanutButter",
+                            "EatingTime" : 6,
+                            "EatingAudio" : "Play_EatingSyrup",
                             "EatingPackagedAudio" : "",
                             "ThirstEffect" : -20,
 

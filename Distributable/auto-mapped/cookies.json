@@ -30,9 +30,9 @@
                             "CookingAudio" : "",
                             "StartCookingAudio" : "",
 
-                            "DaysToDecayOutdoors" : 10,
-                            "DaysToDecayIndoors" : 5,
-                            "Calories" : 200,
+                            "DaysToDecayOutdoors" : 30,
+                            "DaysToDecayIndoors" : 45,
+                            "Calories" : 225,
                             "Servings" : 1,
                             "EatingTime" : 3,
                             "EatingAudio" : "Play_EatingSoft",

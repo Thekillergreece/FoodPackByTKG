@@ -9,14 +9,14 @@
                             "InitialCondition" : "Random",
                             "InventoryCategory" : "Food",
                             "Radial" : "None",
-                            "PickUpAudio" : "Play_SndInvCanSoda",
-                            "PutBackAudio" : "Play_SndInvCanSoda",
+                            "PickUpAudio" : "Play_TeaCupPickup",
+                            "PutBackAudio" : "Play_TeaCupPutDown",
                             "StowAudio" : "Play_InventoryStow",
                             "WornOutAudio" : "",
                             "InspectOnPickup" : true,
-                            "InspectDistance" : 0.4,
-                            "InspectAngles" : [20, 0, -20],
-                            "InspectOffset" : [0, -0.1, 0],
+                            "InspectDistance" : 0.7,
+                            "InspectAngles" : [20, 125, -20],
+                            "InspectOffset" : [0, -0.15, 0],
                             "InspectScale" :  [1, 1, 1],
                             "NormalModel" : "",
                             "InspectModel" : "",
@@ -31,10 +31,10 @@
                             "CookingAudio" : "",
                             "StartCookingAudio" : "",
 
-                            "DaysToDecayOutdoors" : 1000,
-                            "DaysToDecayIndoors" : 365,
-                            "Calories" : 1250,
-                            "EatingTime" : 7,
+                            "DaysToDecayOutdoors" : 1500,
+                            "DaysToDecayIndoors" : 725,
+                            "Calories" : 1000,
+                            "EatingTime" : 8,
                             "EatingAudio" : "Play_Slurping1",
                             "EatingPackagedAudio" : "",
                             "ThirstEffect" : 50,
@@ -71,7 +71,7 @@
                             "ColdFactorMinutes" : 60,
 
                             "ContainsAlcohol" : true,
-                            "AlcoholPercentage" : 15,
-                            "AlcoholUptakeMinutes" : 45
+                            "AlcoholPercentage" : 10,
+                            "AlcoholUptakeMinutes" : 60
                         }
 }

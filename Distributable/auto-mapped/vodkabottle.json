@@ -3,20 +3,20 @@
                             "DisplayNameLocalizationId" : "GAMEPLAY_VodkaBottle",
                             "DescriptionLocalizatonId" : "GAMEPLAY_VodkaBottleDescription",
                             "InventoryActionLocalizationId" : "",
-                            "WeightKG": 0.5,
+                            "WeightKG": 0.50,
                             "DaysToDecay" : 0,
                             "MaxHP" : 100,
                             "InitialCondition" : "Random",
                             "InventoryCategory" : "Food",
                             "Radial" : "None",
-                            "PickUpAudio" : "Play_SndInvCanSoda",
-                            "PutBackAudio" : "Play_SndInvCanSoda",
+                            "PickUpAudio" : "Play_TeaCupPickup",
+                            "PutBackAudio" : "Play_TeaCupPutDown",
                             "StowAudio" : "Play_InventoryStow",
                             "WornOutAudio" : "",
                             "InspectOnPickup" : true,
                             "InspectDistance" : 0.4,
-                            "InspectAngles" : [-20, 300, 0],
-                            "InspectOffset" : [0, -0.1, 0],
+                            "InspectAngles" : [-20, 150, 0],
+                            "InspectOffset" : [0, -0.08, 0],
                             "InspectScale" :  [1, 1, 1],
                             "NormalModel" : "",
                             "InspectModel" : "",
@@ -33,8 +33,8 @@
 
                             "DaysToDecayOutdoors" : 1000,
                             "DaysToDecayIndoors" : 365,
-                            "Calories" : 700,
-                            "EatingTime" : 7,
+                            "Calories" : 750,
+                            "EatingTime" : 6,
                             "EatingAudio" : "Play_Slurping1",
                             "EatingPackagedAudio" : "",
                             "ThirstEffect" : 30,
@@ -71,7 +71,7 @@
                             "ColdFactorMinutes" : 60,
 
                             "ContainsAlcohol" : true,
-                            "AlcoholPercentage" : 40,
-                            "AlcoholUptakeMinutes" : 45
+                            "AlcoholPercentage" : 16,
+                            "AlcoholUptakeMinutes" : 15
                         }
 }

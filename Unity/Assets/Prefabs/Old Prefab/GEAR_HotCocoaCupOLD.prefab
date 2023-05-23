@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3601615408608926163
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4228970817205371753}
+  - component: {fileID: 16265331828671584}
+  m_Layer: 17
+  m_Name: GEAR_HotCocoaCupOLD
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4228970817205371753
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3601615408608926163}
+  m_LocalRotation: {x: -0.50000006, y: 0.49999997, z: 0.49999997, w: 0.50000006}
+  m_LocalPosition: {x: 0.59436, y: -0.016, z: 0.015173}
+  m_LocalScale: {x: 0.49734992, y: 0.6150888, z: 0.55153}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6407053945755689369}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -90, y: 90.001, z: -0.0010070801}
+--- !u!65 &16265331828671584
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3601615408608926163}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.3, y: 0.18, z: 0.22}
+  m_Center: {x: -0.03, y: 0.09, z: 0}
+--- !u!1001 &6872727104454461042
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4228970817205371753}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 1479fe05d628c854a89da992fc7f0f98,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1479fe05d628c854a89da992fc7f0f98,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.078660935
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1479fe05d628c854a89da992fc7f0f98,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.07600853
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1479fe05d628c854a89da992fc7f0f98,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.0773542
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1479fe05d628c854a89da992fc7f0f98,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.0062
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1479fe05d628c854a89da992fc7f0f98,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.0008
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1479fe05d628c854a89da992fc7f0f98,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.0019
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1479fe05d628c854a89da992fc7f0f98,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1479fe05d628c854a89da992fc7f0f98,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1479fe05d628c854a89da992fc7f0f98,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1479fe05d628c854a89da992fc7f0f98,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1479fe05d628c854a89da992fc7f0f98,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1479fe05d628c854a89da992fc7f0f98,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1479fe05d628c854a89da992fc7f0f98,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 758764849187835146, guid: 1479fe05d628c854a89da992fc7f0f98,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bfa75c8652c30a8459cef30322043bfd, type: 2}
+    - target: {fileID: 919132149155446097, guid: 1479fe05d628c854a89da992fc7f0f98,
+        type: 3}
+      propertyPath: m_Name
+      value: Cup of Cocoa
+      objectReference: {fileID: 0}
+    - target: {fileID: 4013057149352134385, guid: 1479fe05d628c854a89da992fc7f0f98,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a324072ccdf7740469669851a1a1139d, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1479fe05d628c854a89da992fc7f0f98, type: 3}
+--- !u!4 &6407053945755689369 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 1479fe05d628c854a89da992fc7f0f98,
+    type: 3}
+  m_PrefabInstance: {fileID: 6872727104454461042}
+  m_PrefabAsset: {fileID: 0}

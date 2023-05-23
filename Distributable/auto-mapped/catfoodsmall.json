@@ -1,9 +1,9 @@
 {
     "ModFoodComponent" : {
-                            "DisplayNameLocalizationId" : "GAMEPLAY_CatFood",
-                            "DescriptionLocalizatonId" : "GAMEPLAY_CatFoodDescription",
+                            "DisplayNameLocalizationId" : "GAMEPLAY_CatFoodSmall",
+                            "DescriptionLocalizatonId" : "GAMEPLAY_CatFoodSmallDescription",
                             "InventoryActionLocalizationId" : "",
-                            "WeightKG": 0.12,
+                            "WeightKG": 0.10,
                             "DaysToDecay" : 0,
                             "MaxHP" : 100,
                             "InitialCondition" : "Random",
@@ -35,8 +35,8 @@
                             "DaysToDecayIndoors" : 365,
                             "Calories" : 120,
                             "Servings" : 1,
-                            "EatingTime" : 2,
-                            "EatingAudio" : "Play_EatingSoft",
+                            "EatingTime" : 3,
+                            "EatingAudio" : "Play_EatingCanned",
                             "EatingPackagedAudio" : "Play_EatingSoftCanned",
                             "ThirstEffect" : 0,
 

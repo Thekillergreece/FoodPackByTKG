@@ -1,7 +1,7 @@
 {
     "ModFoodComponent" : {
                             "DisplayNameLocalizationId" : "GAMEPLAY_CerealHoney",
-                            "DescriptionLocalizatonId" : "GAMEPLAY_CerealDescription",
+                            "DescriptionLocalizatonId" : "GAMEPLAY_CerealHoneyDescription",
                             "InventoryActionLocalizationId" : "",
                             "WeightKG": 0.2,
                             "DaysToDecay" : 0,
@@ -14,7 +14,7 @@
                             "StowAudio" : "Play_InventoryStow",
                             "WornOutAudio" : "",
                             "InspectOnPickup" : true,
-                            "InspectDistance" : 0.5,
+                            "InspectDistance" : 0.8,
                             "InspectAngles" : [-5, 20, 0],
                             "InspectOffset" : [0, -0.15, 0],
                             "InspectScale" :  [1, 1, 1],

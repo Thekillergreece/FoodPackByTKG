@@ -14,7 +14,7 @@
                                 "WornOutAudio" : "",
                                 "InspectOnPickup" : true,
                                 "InspectDistance" : 0.4,
-                                "InspectAngles" : [90, 0, 0],
+                                "InspectAngles" : [90, 170, 0],
                                 "InspectOffset" : [0, 0, 0],
                                 "InspectScale" :  [1, 1, 1],
                                 "NormalModel" : "",

@@ -1,0 +1,17 @@
+{
+    "Name": "Cookies",
+    "RequiredGear": [{"Item":"GEAR_FlourBag","Count":1},{"Item":"GEAR_ModChocolateBar","Count":1},{"Item":"GEAR_DistilledWater","Count":1}],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "Fire",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_Cookies",
+    "CraftedResultCount": 6,
+    "DurationMinutes": 30,
+    "CraftingAudio": "",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

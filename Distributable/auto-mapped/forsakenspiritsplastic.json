@@ -33,7 +33,7 @@
 
                             "DaysToDecayOutdoors" : 100,
                             "DaysToDecayIndoors" : 1000,
-                            "Calories" : 200,
+                            "Calories" : 250,
                             "Servings" : 1,
                             "EatingTime" : 4,
                             "EatingAudio" : "Play_Slurping1",

@@ -16,7 +16,7 @@
                             "InspectOnPickup" : true,
                             "InspectDistance" : 0.4,
                             "InspectAngles" : [20, 20, -20],
-                            "InspectOffset" : [0, -0.08, 0],
+                            "InspectOffset" : [-0.01, -0.08, 0],
                             "InspectScale" :  [1, 1, 1],
                             "NormalModel" : "",
                             "InspectModel" : "",
@@ -33,7 +33,7 @@
 
                             "DaysToDecayOutdoors" : 100,
                             "DaysToDecayIndoors" : 1000,
-                            "Calories" : 150,
+                            "Calories" : 300,
                             "Servings" : 1,
                             "EatingTime" : 4,
                             "EatingAudio" : "Play_OpenSoda",
@@ -64,7 +64,7 @@
                             "AffectRest" : true,
                             "InstantRestChange" : 10,
                             "RestFactor" : 0.75,
-                            "RestFactorMinutes" : 60,
+                            "RestFactorMinutes" : 30,
 
                             "AffectCold" : false,
                             "InstantColdChange" : 0,

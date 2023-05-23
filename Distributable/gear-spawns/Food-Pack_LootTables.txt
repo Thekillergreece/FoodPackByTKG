@@ -2,21 +2,25 @@
 loottable=BackPack
 #-----------------
 item=AuroraEnergyDrink w=7
-item=BeerBottle w=1
+item=BeerBottle w=2
 item=CannedChili w=2
 item=CannedMangos w=2
 item=CannedPears w=3
 item=CannedPineapples w=3
 item=CannedSpaghetti w=2
 item=CannedStew w=2
-item=CatFood w=2
+item=CatFood w=1
+item=CatFoodSmall w=2
 item=HoneyJar w=2
 item=SPAM w=1
+item=Jalapeno w=1
+item=CupNoodles w=2
+item=SoyRamen w=1
 
 #----------------
 loottable=CashRegister
 #----------------
-item=WhiskyFlask w=1
+item=WhiskyFlask w=2
 
 #----------------------
 loottable=FishingDrawer
@@ -25,6 +29,7 @@ item=CannedChili w=3
 item=CannedSpaghetti w=2
 item=CannedStew w=2
 item=WhiskyFlask w=1
+item=Jalapeno w=1
 
 #----------------------
 loottable=KitchenDrawer
@@ -33,17 +38,21 @@ item=modChocolateBar w=3
 item=Bread w=2
 item=drymilkpacket w=5
 item=hotcocoabag w=1
+item=CatFoodSmall w=3
+item=CupNoodles w=2
+item=SoyRamen w=4
 
 #----------------
 loottable=Freezer
 #----------------
-item=AuroraEnergyDrink w=10
+item=AuroraEnergyDrink w=8
+item=Jalapeno w=2
 
 #---------------
 loottable=Fridge
 #---------------
 item=AuroraEnergyDrink w=5
-item=BeerBottle w=5
+item=BeerBottle w=4
 item=forsakenspirits w=5
 item=mountainsoda w=5
 item=mountainsodaplastic w=5
@@ -54,6 +63,9 @@ item=CannedSpaghetti w=5
 item=CannedStew w=5
 item=CannedChili w=5
 item=CannedMangos w=5
+item=Jalapeno w=8
+item=CatFoodSmall w=2
+item=CupNoodles w=2
 
 #--------------------
 loottable=HumanCorpse
@@ -74,33 +86,43 @@ item=CannedPears w=4
 item=CannedPineapples w=5
 item=CannedSpaghetti w=5
 item=CannedStew w=5
-item=CatFood w=3
-item=Cornflakes w=10
-item=CerealWholeGrain w=10
-item=CerealHoney w=10
+item=CatFood w=2
+item=CatFoodSmall w=4
+item=Cornflakes w=7
+item=CerealWholeGrain w=7
+item=CerealHoney w=7
 item=HotCocoaBox w=5
 item=HoneyJar w=3
 item=ModSyrup w=3
 item=SPAM w=2
+item=FlourBag w=6
+item=Jalapeno w=2
+item=CupNoodles w=5
+item=SoyRamen w=5
 
 #---------------
 loottable=Locker
 #---------------
 item=DryMilkPacket w=3
 item=ForsakenSpirits w=3
-item=CatFood w=3
+item=CatFood w=2
+item=CatFoodSmall w=2
 item=WhiskyFlask w=2
+item=SoyRamen w=1
 
 #---------------
 loottable=LockerLocked
 #---------------
-item=DryMilkPacket w=7
+item=DryMilkPacket w=5
 item=ForsakenSpirits w=5
 item=HotCocoaBox w=5
 item=Spam w=3
 item=Cornflakes w=1
 item=CerealWholeGrain w=1
 item=CerealHoney w=1
+item=FlourBag w=3
+item=SoyRamen w=3
+item=CupNoodles w=1
 
 #-----------------
 loottable=MetalBox
@@ -108,7 +130,8 @@ loottable=MetalBox
 item=CannedChili w=2
 item=CannedSpaghetti w=2
 item=CannedStew w=2
-item=CatFood w=3
+item=CatFood w=1
+item=CatFoodSmall w=1
 item=SPAM w=2
 
 #-------------------
@@ -121,6 +144,7 @@ item=CatFoodSmall w=3
 loottable=Wardrobe_regular
 #-------------------------
 item=WhiskyFlask w=1
+item=BeerBottle w=1
 
 #-------------------------
 loottable=VehicleTrunk
@@ -128,18 +152,23 @@ loottable=VehicleTrunk
 item=CatFood w=1
 item=HoneyJar w=1
 item=riceraw w=1
+item=FlourBag w=1
+item=SoyRamen w=1
 
 #-------------------------
 loottable=VehicleTrunkLocked
 #-------------------------
 item=ModSyrup w=5
 item=riceraw w=2
+item=FlourBag w=3
+item=SoyRamen w=2
 
 #-------------------------
 loottable=VehicleGloveBox
 #-------------------------
 item=Cookies w=5
 item=modchocolatebar w=3
+item=SoyRamen w=1
 
 #-------------------------
 loottable=CargoFoodA
@@ -147,7 +176,6 @@ loottable=CargoFoodA
 item=CannedMangos w=3
 item=CannedPears w=3
 item=CannedPineapples w=3
-item=CannedChili w=1
 
 #-------------------------
 loottable=CargoFoodB
@@ -162,11 +190,14 @@ loottable=CargoFoodC
 item=hotcocoabox w=1
 item=cornflakes w=1
 item=modChocolateBar w=1
+item=CupNoodles w=2
+item=SoyRamen w=2
 
 #-------------------------
 loottable=CargoFoodRareA
 #-------------------------
 item=SPAM w=1
+item=FlourBag w=1
 
 #-------------------------
 loottable=CargoFoodRareB
@@ -183,9 +214,10 @@ item=CerealWholeGrain w=1
 #--------------------
 loottable=CargoDrinkA
 #--------------------
-item=MountainSoda w=2
-item=AuroraEnergyDrink w=2
 item=redwinebottle w=3
+item=vodkabottle w=4
+item=WhiskyFlask w=4
+item=BeerBottle w=2
 
 #--------------------
 loottable=CargoDrinkB
@@ -196,9 +228,9 @@ item=hotcocoabox w=1
 #--------------------
 loottable=CargoDrinkC
 #--------------------
-item=MountainSoda w=1
-item=AuroraEnergyDrink w=1
-item=ForsakenSpirits w=1
+item=MountainSoda w=2
+item=MountainSodaPlastic w=2
+item=AuroraEnergyDrink w=2
 
 #--------------------
 loottable=CargoMiscC
@@ -209,16 +241,40 @@ item=drymilkpacket w=3
 loottable=Safe
 #-------------------------
 item=vodkabottle w=8
-item=redwinebottle w=5
+item=redwinebottle w=3
 
 #-------------------------
 loottable=FileCabinet
 #-------------------------
 item=drymilkpacket w=2
 item=hotcocoabag w=1
+item=modchocolatebar w=2
+item=BeerBottle w=1
 
 #-------------------------
 loottable=Cabinet
 #-------------------------
 item=MountainSoda w=2
 item=AuroraEnergyDrink w=1
+
+#-----------------
+loottable=Oven
+#-----------------
+item=CannedChiliOpened w=1
+item=CannedSpaghettiOpened w=1
+item=CannedStewOpened w=1
+item=Bread w=1
+item=Cookies w=1
+
+#-----------------
+loottable=Suitcase
+#-----------------
+item=BeerBottle w=1
+item=VodkaBottle w=1
+item=RedWineBottle w=1
+
+#-----------------
+loottable=Dresser
+#-----------------
+item=BeerBottle w=1
+item=WhiskyFlask w=1

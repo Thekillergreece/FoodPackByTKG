@@ -3,18 +3,18 @@
                             "DisplayNameLocalizationId" : "GAMEPLAY_BeerBottle",
                             "DescriptionLocalizatonId" : "GAMEPLAY_BeerBottleDescription",
                             "InventoryActionLocalizationId" : "",
-                            "WeightKG": 0.5,
+                            "WeightKG": 0.50,
                             "DaysToDecay" : 0,
                             "MaxHP" : 100,
                             "InitialCondition" : "Random",
                             "InventoryCategory" : "Food",
                             "Radial" : "None",
-                            "PickUpAudio" : "Play_SndInvCanSoda",
-                            "PutBackAudio" : "Play_SndInvCanSoda",
+                            "PickUpAudio" : "Play_TeaCupPickup",
+                            "PutBackAudio" : "Play_TeaCupPutDown",
                             "StowAudio" : "Play_InventoryStow",
                             "WornOutAudio" : "",
                             "InspectOnPickup" : true,
-                            "InspectDistance" : 0.4,
+                            "InspectDistance" : 0.5,
                             "InspectAngles" : [20, 0, -20],
                             "InspectOffset" : [0, -0.1, 0],
                             "InspectScale" :  [1, 1, 1],
@@ -73,6 +73,6 @@
 
                             "ContainsAlcohol" : true,
                             "AlcoholPercentage" : 5,
-                            "AlcoholUptakeMinutes" : 45
+                            "AlcoholUptakeMinutes" : 30
                         }
 }

@@ -31,13 +31,13 @@
                             "CookingAudio" : "",
                             "StartCookingAudio" : "",
 
-                            "DaysToDecayOutdoors" : 50,
-                            "DaysToDecayIndoors" : 50,
-                            "Calories" : 500,
-                            "EatingTime" : 8,
+                            "DaysToDecayOutdoors" : 30,
+                            "DaysToDecayIndoors" : 30,
+                            "Calories" : 425,
+                            "EatingTime" : 6,
                             "EatingAudio" : "Play_EatingSoft",
                             "EatingPackagedAudio" : "",
-                            "ThirstEffect" : -25,
+                            "ThirstEffect" : -20,
 
                             "FoodPoisoning" : 0,
                             "FoodPoisoningLowCondition" : 15,

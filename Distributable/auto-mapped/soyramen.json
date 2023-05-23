@@ -1,0 +1,79 @@
+{
+	"ModFoodComponent": {
+                            "DisplayNameLocalizationId" : "GAMEPLAY_SoyRamen",
+                            "DescriptionLocalizatonId" : "GAMEPLAY_SoyRamenDescription",
+                            "InventoryActionLocalizationId" : "",
+                            "WeightKG": 0.1,
+                            "DaysToDecay" : 300,
+                            "MaxHP" : 100,
+                            "InitialCondition" : "Perfect",
+                            "InventoryCategory" : "Food",
+                            "PickUpAudio" : "Play_SndInvJerky",
+                            "PutBackAudio" : "Play_SndInvJerky",
+                            "StowAudio" : "Play_InventoryStow",
+                            "WornOutAudio" : "",
+                            "InspectOnPickup" : true,
+                            "InspectDistance" : 0.3,
+                            "InspectAngles" : [-20, 0, 0],
+                            "InspectOffset" : [0, -0.02, 0],
+                            "InspectScale" :  [1, 1, 1],
+                            "NormalModel" : "",
+                            "InspectModel" : "",
+
+                            "Cooking" : true,
+                            "CookingMinutes" : 25,
+                            "CookingUnitsRequired" : 1,
+                            "CookingWaterRequired" : 0.4,
+                            "CookingResult" : "GEAR_SoyRamenCooked",
+                            "BurntMinutes" : 15,
+                            "Type" : "Liquid",
+                            "CookingAudio" : "Play_BoilingLiquidThickHeavy",
+                            "StartCookingAudio" : "Play_AddSlopToPot"
+
+                            "DaysToDecayOutdoors" : 115,
+                            "DaysToDecayIndoors" : 425,
+                            "Calories" : 350,
+                            "Servings" : 1,
+                            "EatingTime" : 5,
+                            "EatingAudio" : "Play_EatingMRE",
+                            "EatingPackagedAudio" : "",
+                            "ThirstEffect" : -5,
+
+                            "FoodPoisoning" : 0,
+                            "FoodPoisoningLowCondition" : 5,
+                            "ParasiteRiskIncrements" : [],
+
+                            "Natural" : false,
+                            "Raw" : false,
+                            "Drink" : false,
+                            "Meat" : false,
+                            "Fish" : false,
+                            "Canned" : false,
+
+                            "Opening" : false,
+                            "OpeningWithCanOpener" : false,
+                            "OpeningWithKnife" : false,
+                            "OpeningWithHatchet" : false,
+                            "OpeningWithSmashing" : false,
+
+                            "AffectCondition" : false,
+                            "ConditionRestBonus" : 10,
+                            "ConditionRestMinutes" : 10,
+
+                            "AffectRest" : false,
+                            "InstantRestChange" : 10,
+                            "RestFactor" : 1,
+                            "RestFactorMinutes" : 10,
+
+                            "AffectCold" : false,
+                            "InstantColdChange" : 10,
+                            "ColdFactor" : 1,
+                            "ColdFactorMinutes" : 30,
+
+                            "ContainsAlcohol" : false,
+                            "AlcoholPercentage" : 1,
+                            "AlcoholUptakeMinutes" : 45
+                            
+                            
+                        }
+}

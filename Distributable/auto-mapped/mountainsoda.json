@@ -33,7 +33,7 @@
 
                             "DaysToDecayOutdoors" : 100,
                             "DaysToDecayIndoors" : 1000,
-                            "Calories" : 250,
+                            "Calories" : 300,
                             "Servings" : 1,
                             "EatingTime" : 4,
                             "EatingAudio" : "Play_OpenSoda",

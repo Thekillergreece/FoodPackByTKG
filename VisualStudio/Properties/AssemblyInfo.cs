@@ -1,5 +1,6 @@
 using MelonLoader;
 using System.Reflection;
+using System.Runtime.InteropServices;
 
 //This is a C# comment. Comments have no impact on compilation.
 

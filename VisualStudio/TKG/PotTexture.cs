@@ -31,9 +31,9 @@ namespace TKG
         {
             if (!loadedCookingTex) // adding pot cooking textures
             {
-                cookableGear.Add("RiceRaw"); // case-sensitive
-                cookableGear.Add("CannedSpaghetti");
-                cookableGear.Add("CannedStew");
+                cookableGear.Add("CannedChiliOpened"); // case-sensitive
+                cookableGear.Add("CannedChili");
+                cookableGear.Add("RiceRaw");
 
                 Material potMat;
                 GameObject potGear;
@@ -53,11 +53,6 @@ namespace TKG
                     potMat.SetTexture("_Main_texture2", tex);
 
                     potGear.GetComponent<Cookable>().m_CookingPotMaterialsList = new Material[1] { potMat };
-                    MelonLogger.Msg("for cookableGear.Count " + cookableGear.Count);
-                    MelonLogger.Msg("potGear value====================1: " + potGear.name);
-                    MelonLogger.Msg("potMat  value====================2: " + potMat.name);
-                    MelonLogger.Msg("OnSceneWasInitialized " + level + " " + name);
-                    MelonLogger.Msg("InstantiateLiquidMaterial");
                 }
 
                 loadedCookingTex = true;
