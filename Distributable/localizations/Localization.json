@@ -1,957 +1,1010 @@
 {
-    "GAMEPLAY_AuroraEnergyDrink":{
-        "English":"Aurora Energy Drink",
-		"German": "Aurora Energydrink",
+    "GAMEPLAY_AuroraEnergyDrink": {
+        "English": "Aurora Energy Drink",
+        "German": "Aurora Energydrink",
         "Russian": "Энергетический напиток Аврора",
         "French (France)": "Boisson énergisante Aurore",
         "Japanese": "オーロラエナジードリンク",
-		"Spanish (Spain)": "Bebida energética Aurora"
+        "Spanish (Spain)": "Bebida energética Aurora",
+        "Turkish": "Kuzey Işıkları Enerji İçeceği"
     },
-    "GAMEPLAY_AuroraEnergyDrinkDescription":{
-        "English":"Might keep you awake for a few more hours, but this won't make you fly.",
-        "German":"Hält dich vielleicht für ein paar Stunden wach, aber wird dich nicht fliegen lassen.",
-        "Russian":"Он может помочь вам бодрствовать ещё несколько часов, но он не заставит вас летать.",
-        "Polish":"Może pomóc Ci zachować przytomność na parę godzin, ale nie doda Ci skrzydeł.",
-        "French (France)":"Ça peut vous tenir éveillé quelques heures de plus, mais ça ne vous donnera pas des ailes.",
-        "Turkish":"Seni birkaç saat daha uyanık tutabilir ama bu seni uçurmaz.",
-        "Korean":"당신에게 날개를 달아줄 순 없지만, 몇 시간정도 깨어있는덴 도움이 됩니다.",
-        "Italian":"Potrebbe tenerti sveglio qualche ora in più, ma non ti farà crescere le ali.",
-        "Simplified Chinese":"可能会让你多睡几个小时，但这不会让你飞起来。",
-		"Japanese":"数時間ほど目が冴えるけど、翼は授けてくれません。",
-		"Spanish (Spain)" : "Tal vez te mantenga despierto durante unas horas más, pero no te hará volar."
+    "GAMEPLAY_AuroraEnergyDrinkDescription": {
+        "English": "Might keep you awake for a few more hours, but this won't make you fly.",
+        "German": "Hält dich vielleicht für ein paar Stunden wach, aber wird dich nicht fliegen lassen.",
+        "Russian": "Он может помочь вам бодрствовать ещё несколько часов, но он не заставит вас летать.",
+        "Polish": "Może pomóc Ci zachować przytomność na parę godzin, ale nie doda Ci skrzydeł.",
+        "French (France)": "Ça peut vous tenir éveillé quelques heures de plus, mais ça ne vous donnera pas des ailes.",
+        "Turkish": "Seni birkaç saat daha uyanık tutabilir ama bu seni uçurmaz.",
+        "Korean": "당신에게 날개를 달아줄 순 없지만, 몇 시간정도 깨어있는덴 도움이 됩니다.",
+        "Italian": "Potrebbe tenerti sveglio qualche ora in più, ma non ti farà crescere le ali.",
+        "Simplified Chinese": "可能会让你多睡几个小时，但这不会让你飞起来。",
+        "Japanese": "数時間ほど目が冴えるけど、翼は授けてくれません。",
+        "Spanish (Spain)": "Tal vez te mantenga despierto durante unas horas más, pero no te hará volar."
     },
-    "GAMEPLAY_BeerBottle":{
-        "English":"Beer",
-        "German":"Bier",
-        "Russian":"Пиво",
-        "Polish":"Piwo",
-        "French (France)":"Bière",
-        "Turkish":"Bira",
-        "Korean":"맥주",
-        "Italian":"Birra",
-        "Simplified Chinese":"啤酒",
-		"Japanese":"ビール",
-		"Spanish (Spain)" : "Cerveza"
+    "GAMEPLAY_BeerBottle": {
+        "English": "Beer",
+        "German": "Bier",
+        "Russian": "Пиво",
+        "Polish": "Piwo",
+        "French (France)": "Bière",
+        "Turkish": "Bira",
+        "Korean": "맥주",
+        "Italian": "Birra",
+        "Simplified Chinese": "啤酒",
+        "Japanese": "ビール",
+        "Spanish (Spain)": "Cerveza"
     },
-    "GAMEPLAY_BeerBottleDescription":{
-        "English":"An average bottle of beer.",
-		"German": "Eine übliche Flasche Bier.",
+    "GAMEPLAY_BeerBottleDescription": {
+        "English": "An average bottle of beer.",
+        "German": "Eine übliche Flasche Bier.",
         "Russian": "Просто бутылка пива.",
-        "French (France)": "Une bouteille de bière ordinaire.",    
+        "French (France)": "Une bouteille de bière ordinaire.",
         "Japanese": "ごく普通の瓶ビール。",
-		"Spanish (Spain)" : "Una botella de cerveza corriente."
+        "Spanish (Spain)": "Una botella de cerveza corriente.",
+        "Turkish": "Ortalama bir şişe bira."
     },
-    "GAMEPLAY_Bread":{
-        "English":"Loaf of Bread",
+    "GAMEPLAY_Bread": {
+        "English": "Loaf of Bread",
         "French (France)": "Miche de pain",
-		"German": "Ein Brotlaib",
+        "German": "Ein Brotlaib",
         "Russian": "Хлеб",
         "Japanese": "パン",
-		"Spanish (Spain)" : "Barra de pan"
+        "Spanish (Spain)": "Barra de pan",
+        "Turkish": "Somun Ekmek"
     },
-    "GAMEPLAY_BreadDescription":{
-        "English":"A loaf of generic brown bread.",
+    "GAMEPLAY_BreadDescription": {
+        "English": "A loaf of generic brown bread.",
         "French (France)": "Une minche de pain brun ordinaire.",
-		"German": "Ein normales Laib Schwarzbrot.",
+        "German": "Ein normales Laib Schwarzbrot.",
         "Russian": "Буханка хлеба",
         "Japanese": "ごくありふれた黒パン。",
-		"Spanish (Spain)" : "Una barra de pan integral normal."
+        "Spanish (Spain)": "Una barra de pan integral normal.",
+        "Turkish": "Buğday unundan yapılmış somun ekmek"
     },
-    "GAMEPLAY_CannedChili":{
-        "English":"Chili",
-        "German":"Chili",
-        "Russian":"Чили",
-        "Polish":"Chili",
-        "French (France)":"Chili",
-        "Turkish":"Acı Biber",
-        "Korean":"칠리 통조림",
-        "Italian":"Chili",
-        "Simplified Chinese":"Chili",
-		"Japanese":"チリ缶",
-		"Spanish (Spain)" : "Chili"
+    "GAMEPLAY_CannedChili": {
+        "English": "Chili",
+        "German": "Chili",
+        "Russian": "Чили",
+        "Polish": "Chili",
+        "French (France)": "Chili",
+        "Turkish": "Acı Biber",
+        "Korean": "칠리 통조림",
+        "Italian": "Chili",
+        "Simplified Chinese": "Chili",
+        "Japanese": "チリ缶",
+        "Spanish (Spain)": "Chili"
     },
-    "GAMEPLAY_CannedChiliDescription":{
-        "English":"Hearty. Warming. Soul soothing.",
+    "GAMEPLAY_CannedChiliDescription": {
+        "English": "Hearty. Warming. Soul soothing.",
         "French (France)": "Copieux. Échauffement. Apaisement de l'âme.",
-		"German": "Herzlich. Wärmend. Beruhigend für die Seele.",
+        "German": "Herzlich. Wärmend. Beruhigend für die Seele.",
         "Russian": "Питательно. Согревает тело и душу.",
         "Japanese": "愛情たっぷり。体も温まる。心も落ち着く。",
-		"Spanish (Spain)" : "Delicioso. Cálido. Alimento para el alma."
+        "Spanish (Spain)": "Delicioso. Cálido. Alimento para el alma.",
+        "Turkish": "Besleyici. Bedeni ve ruhu ısıtır."
     },
-    "GAMEPLAY_CannedMangos":{
-        "English":"Cubed Mangos",
+    "GAMEPLAY_CannedMangos": {
+        "English": "Cubed Mangos",
         "French (France)": "Mangues au carré.",
-		"German": "Gewürfelte Mango",
-		"Russian": "Консервированное манго",
-		"Japanese": "角切りマンゴーの缶詰",
-        "Spanish (Spain)" : "Mangos troceados"
+        "German": "Gewürfelte Mango",
+        "Russian": "Консервированное манго",
+        "Japanese": "角切りマンゴーの缶詰",
+        "Spanish (Spain)": "Mangos troceados",
+        "Turkish": "Konserve Mango"
     },
-    "GAMEPLAY_CannedMangosDescription":{
-        "English":"Delicious, sweet, and slimey.",
+    "GAMEPLAY_CannedMangosDescription": {
+        "English": "Delicious, sweet, and slimey.",
         "French (France)": "Delicieux, sucré et visqueux.",
-		"German": "Köstlich, süß und schleimig.",
-		"Russian": "Вкусные, сладкие и скользкие.",
-		"Japanese": "美味しく、甘く、滑らかな口当たり。",
-        "Spanish (Spain)" : "Deliciosos, dulces y un poco pegajosos."
+        "German": "Köstlich, süß und schleimig.",
+        "Russian": "Вкусные, сладкие и скользкие.",
+        "Japanese": "美味しく、甘く、滑らかな口当たり。",
+        "Spanish (Spain)": "Deliciosos, dulces y un poco pegajosos.",
+        "Turkish": "Lezzetli, tatlı ve yumuşak."
     },
-    "GAMEPLAY_CannedPears":{
-        "English":"Halved Pears",
+    "GAMEPLAY_CannedPears": {
+        "English": "Halved Pears",
         "French (France)": "Poires en Demi",
-		"German": "Halbierte Birnen",
+        "German": "Halbierte Birnen",
         "Russian": "Консервированные груши",
         "Japanese": "二つ切り洋梨の缶詰",
-		"Spanish (Spain)" : "Peras partidas"
+        "Spanish (Spain)": "Peras partidas",
+        "Turkish": "İkiye Bölünmüş Armut"
     },
-    "GAMEPLAY_CannedPearsDescription":{
-        "English":"Not the freshest but tasty regardless.",
+    "GAMEPLAY_CannedPearsDescription": {
+        "English": "Not the freshest but tasty regardless.",
         "French (France)": "Pas le plus frais mais toujours savoureux",
-		"German": "Nicht die frischesten, aber trotzdem lecker.",
+        "German": "Nicht die frischesten, aber trotzdem lecker.",
         "Russian": "Не самые свежие, но все равно вкусные.",
         "Japanese": "新鮮ではないが、十分美味しい。",
-		"Spanish (Spain)" : "No son las más frecas, pero en cualquier caso están buenas."
+        "Spanish (Spain)": "No son las más frecas, pero en cualquier caso están buenas.",
+        "Turkish": "Ne olursa olsun en taze değil ama lezzetli."
     },
-    "GAMEPLAY_CannedPineapples":{
-        "English":"Diced Apples",
+    "GAMEPLAY_CannedPineapples": {
+        "English": "Diced Apples",
         "French (France)": "Pommes en dés.",
-		"German": "Gewürfelte Äpfel",
+        "German": "Gewürfelte Äpfel",
         "Russian": "Консервированный ананас",
         "Japanese": "角切りりんごの缶詰",
-		"Spanish (Spain)" : "Manzanas trozeadas"
+        "Spanish (Spain)": "Manzanas trozeadas",
+        "Turkish": "Doğranmış elma"
     },
-    "GAMEPLAY_CannedPineapplesDescription":{
-        "English":"A staple fruit loved by all.",
+    "GAMEPLAY_CannedPineapplesDescription": {
+        "English": "A staple fruit loved by all.",
         "French (France)": "Une fruit de base aimer par tous.",
-		"German": "Eine von allen geliebte Frucht.",
+        "German": "Eine von allen geliebte Frucht.",
         "Russian": "Любимый всеми фрукт.",
         "Japanese": "誰からも愛される定番のフルーツ。",
-		"Spanish (Spain)" : " Una fruta básica amada por todos."
+        "Spanish (Spain)": " Una fruta básica amada por todos.",
+        "Turkish": "Herkes tarafından sevilen temel bir meyve."
     },
-    "GAMEPLAY_CannedSpaghetti":{
-        "English":"Spaghetti",
+    "GAMEPLAY_CannedSpaghetti": {
+        "English": "Spaghetti",
         "French (France)": "Spaghetti",
-		"German": "Spaghetti in der Dose",
+        "German": "Spaghetti in der Dose",
         "Russian": "Спагетти",
         "Japanese": "スパゲッティの缶詰",
-		"Spanish (Spain)" : "Spagetti enlatado"
+        "Spanish (Spain)": "Spagetti enlatado",
+        "Turkish": "Spagetti"
     },
-    "GAMEPLAY_CannedSpaghettiDescription":{
-        "English":"Feed your inner child!",
+    "GAMEPLAY_CannedSpaghettiDescription": {
+        "English": "Feed your inner child!",
         "French (France)": "Nourrir votre enfant intérieur",
-		"German": "Fütter das innere Kind in dir!",
+        "German": "Fütter das innere Kind in dir!",
         "Russian": "Покорми своего внутреннего ребенка!",
         "Japanese": "君の内なる子供心に届けよう！",
-		"Spanish (Spain)" : "¡Alimenta a tu niño interior!"
+        "Spanish (Spain)": "¡Alimenta a tu niño interior!",
+        "Turkish": "İçindeki çocuğu doyur!"
     },
-    "GAMEPLAY_CannedStew":{
-        "English":"Stew",
+    "GAMEPLAY_CannedStew": {
+        "English": "Stew",
         "French (France)": "Ragoût",
-		"German": "Eintopf",
+        "German": "Eintopf",
         "Russian": "Гуляш",
         "Japanese": "シチューの缶詰",
-		"Spanish (Spain)" : "Estofado"
+        "Spanish (Spain)": "Estofado",
+        "Turkish": "Güveç"
     },
-    "GAMEPLAY_CannedStewDescription":{
-        "English":"A hearty meal with beef and vegetables. An ideal meal.",
+    "GAMEPLAY_CannedStewDescription": {
+        "English": "A hearty meal with beef and vegetables. An ideal meal.",
         "French (France)": "Une repas nourrissant avec du boeuf et legumes. Une repas idéale.",
-		"Russian": "Сытный обед с говядиной и овощами. Идеальный обед.",
+        "Russian": "Сытный обед с говядиной и овощами. Идеальный обед.",
         "German": "Eine ideale, herzhafte Mahlzeit mit Rindfleisch und Gemüse.",
         "Japanese": "牛肉と野菜が入った愛情あふれる料理。理想の一品だ。",
-		"Spanish (Spain)" : "Un plato copioso con ternera y verduras. Una comida ideal."
+        "Spanish (Spain)": "Un plato copioso con ternera y verduras. Una comida ideal.",
+        "Turkish": "Sığır eti ve sebze ile doyurucu bir yemek. İdeal bir yemek."
     },
-    "GAMEPLAY_CatFood":{
-        "English":"Cat Food",
-        "German":"Katzenfutter",
-        "Russian":"Кошачий корм",
-        "Polish":"Karma dla kota",
-        "French (France)":"Nourriture pour chat",
-        "Turkish":"Kedi Maması",
-        "Korean":"고양이 밥",
-        "Italian":"Cibo per gatti",
-        "Simplified Chinese":"猫食",
-		"Japanese":"キャットフード",
-		"Spanish (Spain)" : "Comida para gato"
+    "GAMEPLAY_CatFood": {
+        "English": "Cat Food",
+        "German": "Katzenfutter",
+        "Russian": "Кошачий корм",
+        "Polish": "Karma dla kota",
+        "French (France)": "Nourriture pour chat",
+        "Turkish": "Kedi Maması",
+        "Korean": "고양이 밥",
+        "Italian": "Cibo per gatti",
+        "Simplified Chinese": "猫食",
+        "Japanese": "キャットフード",
+        "Spanish (Spain)": "Comida para gato"
     },
-    "GAMEPLAY_CatFoodDescription":{
-        "English":"Can of dry cat food.\nSmells terrible and will probably taste worse.",
-        "French (France)":"Boîte de croquettes pour chat. \n Sent mauvais et a probablement un goût plus pire.",
-		"German": "Eine Dose Trockenfutter für Katzen.\nRiecht fürchterlich und wird wahrscheinlich noch schlimmer schmecken.",
-		"Russian": "Банка кошачьего корма. \nПахнет ужасно, а на вкус скорее всего еще хуже.",
-		"Japanese": "ドライタイプのキャットフード缶。 \n匂いは酷く、そして味はそれ以上に酷いだろう。",
-        "Spanish (Spain)" : "Lata de comida seca para gatos. \nHuele mal, sabrá peor."
+    "GAMEPLAY_CatFoodDescription": {
+        "English": "Can of dry cat food.\nSmells terrible and will probably taste worse.",
+        "French (France)": "Boîte de croquettes pour chat. \n Sent mauvais et a probablement un goût plus pire.",
+        "German": "Eine Dose Trockenfutter für Katzen.\nRiecht fürchterlich und wird wahrscheinlich noch schlimmer schmecken.",
+        "Russian": "Банка кошачьего корма. \nПахнет ужасно, а на вкус скорее всего еще хуже.",
+        "Japanese": "ドライタイプのキャットフード缶。 \n匂いは酷く、そして味はそれ以上に酷いだろう。",
+        "Spanish (Spain)": "Lata de comida seca para gatos. \nHuele mal, sabrá peor.",
+        "Turkish": "Bir kutu kuru kedi maması.\nBerbat kokuyor ve muhtemelen tadı daha kötü olacak"
     },
-    "GAMEPLAY_Cookies":{
-        "English":"Cookies",
-        "German":"Kekse",
-        "Russian":"Печенье",
-        "Polish":"Ciastka",
-        "French (France)":"Cookies",
-        "Turkish":"Kurabiye",
-        "Korean":"쿠키",
-        "Italian":"Biscotti",
-        "Simplified Chinese":"饼干",
-		"Japanese":"クッキー",
-		"Spanish (Spain)" : "Cookies"
+    "GAMEPLAY_Cookies": {
+        "English": "Cookies",
+        "German": "Kekse",
+        "Russian": "Печенье",
+        "Polish": "Ciastka",
+        "French (France)": "Cookies",
+        "Turkish": "Kurabiye",
+        "Korean": "쿠키",
+        "Italian": "Biscotti",
+        "Simplified Chinese": "饼干",
+        "Japanese": "クッキー",
+        "Spanish (Spain)": "Cookies"
     },
-    "GAMEPLAY_CookiesDescription":{
-        "English":"A little stale, but they still taste good.",
-        "German":"Ein bisschen trocken, aber sie schmecken immer noch gut.",
-        "Russian":"Немного несвежие, но всё равно вкусные.",
-        "Polish":"Odrobinę zwietrzałe, ale nadal nieźle smakują.",
-        "French (France)":"Un peu rassis, mais ils ont toujours bon goût.",
-        "Turkish":"Biraz bayat ama yine de tadı güzel.",
-        "Korean":"조금 오래된 것 같지만, 아직도 맛은 있습니다.",
-        "Italian":"Un po' stantii, ma hanno ancora un buon sapore.",
-        "Simplified Chinese":"有点陈旧，但它们仍然很好吃。",
-		"Japanese":"ちょっと傷んでるけど、味はまだ大丈夫。",
-		"Spanish (Spain)" : "Un poco pasadas, pero aún están buenas."
+    "GAMEPLAY_CookiesDescription": {
+        "English": "A little stale, but they still taste good.",
+        "German": "Ein bisschen trocken, aber sie schmecken immer noch gut.",
+        "Russian": "Немного несвежие, но всё равно вкусные.",
+        "Polish": "Odrobinę zwietrzałe, ale nadal nieźle smakują.",
+        "French (France)": "Un peu rassis, mais ils ont toujours bon goût.",
+        "Turkish": "Biraz bayat ama yine de tadı güzel.",
+        "Korean": "조금 오래된 것 같지만, 아직도 맛은 있습니다.",
+        "Italian": "Un po' stantii, ma hanno ancora un buon sapore.",
+        "Simplified Chinese": "有点陈旧，但它们仍然很好吃。",
+        "Japanese": "ちょっと傷んでるけど、味はまだ大丈夫。",
+        "Spanish (Spain)": "Un poco pasadas, pero aún están buenas."
     },
-    "GAMEPLAY_Cornflakes":{
-        "English":"Cornflakes",
-        "German":"Cornflakes",
-        "Russian":"Кукурузные хлопья",
-        "Polish":"Płatki kukurydziane",
-        "French (France)":"Cornflakes",
-        "Turkish":"Mısır Gevreği",
-        "Korean":"콘프레이크",
-        "Italian":"Cornflakes",
-        "Simplified Chinese":"玉米片",
-		"Japanese":"コーンフレーク",
-		"Spanish (Spain)" : "Copos de maíz"
+    "GAMEPLAY_Cornflakes": {
+        "English": "Cornflakes",
+        "German": "Cornflakes",
+        "Russian": "Кукурузные хлопья",
+        "Polish": "Płatki kukurydziane",
+        "French (France)": "Cornflakes",
+        "Turkish": "Mısır Gevreği",
+        "Korean": "콘프레이크",
+        "Italian": "Cornflakes",
+        "Simplified Chinese": "玉米片",
+        "Japanese": "コーンフレーク",
+        "Spanish (Spain)": "Copos de maíz"
     },
-    "GAMEPLAY_CornflakesDescription":{
-        "English":"A large box of cornflakes. Dry and relativly calorie lacking.",
-        "French (France)":"Une grande boite de cornflakes. Sec et manque relativement de calories.",
-		"German": "Eine große Schachtel Cornflakes. Trocken und relativ kalorienarm.",
-		"Russian": "Большая коробка кукурзных хлопьев. Сухие и довольно малокалорийные.",
-		"Japanese": "コーンフレークの大箱。ドライでカロリー控えめ。",
-        "Spanish (Spain)" : "Una caja grande de copos de maíz. Secos y faltos de calorias."
+    "GAMEPLAY_CornflakesDescription": {
+        "English": "A large box of cornflakes. Dry and relativly calorie lacking.",
+        "French (France)": "Une grande boite de cornflakes. Sec et manque relativement de calories.",
+        "German": "Eine große Schachtel Cornflakes. Trocken und relativ kalorienarm.",
+        "Russian": "Большая коробка кукурзных хлопьев. Сухие и довольно малокалорийные.",
+        "Japanese": "コーンフレークの大箱。ドライでカロリー控えめ。",
+        "Spanish (Spain)": "Una caja grande de copos de maíz. Secos y faltos de calorias.",
+        "Turkish": "Büyük boy mısır gevreği. Kuru ve nispeten kalorisiz."
     },
-    "GAMEPLAY_CupMilk":{
-        "English":"Cup of Milk",
+    "GAMEPLAY_CupMilk": {
+        "English": "Cup of Milk",
         "French (France)": "Tasse de lait.",
-		"German": "Eine Tasse Milch",
-		"Russian": "Кружка молока",
-		"Japanese": "カップ入りミルク",
-        "Spanish (Spain)" : "Taza de leche"
+        "German": "Eine Tasse Milch",
+        "Russian": "Кружка молока",
+        "Japanese": "カップ入りミルク",
+        "Spanish (Spain)": "Taza de leche",
+        "Turkish": "Bir Bardak Süt"
     },
-    "GAMEPLAY_CupMilkDescription":{
-        "English":"Might taste better than water -- but it won't strengthen your bones.",
+    "GAMEPLAY_CupMilkDescription": {
+        "English": "Might taste better than water -- but it won't strengthen your bones.",
         "French (France)": "Pourrait gouter meuiller que l'eau -- mais cela ne renforcera pas vos os.",
-		"German": "Schmeckt vielleicht besser als Wasser - stäkrt aber nicht die Knochen.",
-		"Russian": "На вкус лучше чем вода, но кости не укрепляет.",
-		"Japanese": "水よりはましな味だろう -- だが骨を丈夫にすることはできないだろう。",
-        "Spanish (Spain)" : "Puede que sepa mejor que el agua, pero no fortalecerá tus huesos."
+        "German": "Schmeckt vielleicht besser als Wasser - stäkrt aber nicht die Knochen.",
+        "Russian": "На вкус лучше чем вода, но кости не укрепляет.",
+        "Japanese": "水よりはましな味だろう -- だが骨を丈夫にすることはできないだろう。",
+        "Spanish (Spain)": "Puede que sepa mejor que el agua, pero no fortalecerá tus huesos.",
+        "Turkish": "Tadı sudan daha iyi olabilir ama kemiklerinizi güçlendirmez."
     },
-    "GAMEPLAY_DryMilkPacket":{
-        "English":"Dry Milk Packet",
-        "German":"Trockenmilchpulver",
-        "Russian":"Пакет сухого молока",
-        "Polish":"Saszetka mleka w proszku",
-        "French (France)":"Sachet de lait en poudre",
-        "Turkish":"Kuru Süt Paketi",
-        "Korean":"분유팩",
-        "Italian":"Pacchetto di latte in polvere",
-        "Simplified Chinese":"干奶包",
-		"Japanese":"粉ミルクのパック",
-		"Spanish (Spain)" : "Paquete de leche en polvo"
+    "GAMEPLAY_DryMilkPacket": {
+        "English": "Dry Milk Packet",
+        "German": "Trockenmilchpulver",
+        "Russian": "Пакет сухого молока",
+        "Polish": "Saszetka mleka w proszku",
+        "French (France)": "Sachet de lait en poudre",
+        "Turkish": "Süt Tozu Paketi",
+        "Korean": "분유팩",
+        "Italian": "Pacchetto di latte in polvere",
+        "Simplified Chinese": "干奶包",
+        "Japanese": "粉ミルクのパック",
+        "Spanish (Spain)": "Paquete de leche en polvo"
     },
-    "GAMEPLAY_DryMilkPacketDescription":{
-        "English":"A packet of dried milk powder. Mix it with water to make milk.",
-        "German":"Eine Packung Trockenmilchpulver.",
-        "Russian":"Пакет сухого молочного порошка.",
-        "Polish":"Jedna saszetka mleka w proszku.",
-        "French (France)":"Un paquet de lait en poudre.",
-        "Turkish":"Bir paket kuru süt tozu.",
-        "Korean":"팩에담긴 우유 분말",
-        "Italian":"Una confezione di latte in polvere.",
-        "Simplified Chinese":"一包奶粉。",
-		"Japanese":"粉ミルクの小さなパック。水に溶かして使う。",
-		"Spanish (Spain)" : "Un paquete de leche en polvo. Mézclalo con agua para rehidratarla."
+    "GAMEPLAY_DryMilkPacketDescription": {
+        "English": "A packet of dried milk powder. Mix it with water to make milk.",
+        "German": "Eine Packung Trockenmilchpulver.",
+        "Russian": "Пакет сухого молочного порошка.",
+        "Polish": "Jedna saszetka mleka w proszku.",
+        "French (France)": "Un paquet de lait en poudre.",
+        "Turkish": "Bir paket süt tozu.",
+        "Korean": "팩에담긴 우유 분말",
+        "Italian": "Una confezione di latte in polvere.",
+        "Simplified Chinese": "一包奶粉。",
+        "Japanese": "粉ミルクの小さなパック。水に溶かして使う。",
+        "Spanish (Spain)": "Un paquete de leche en polvo. Mézclalo con agua para rehidratarla."
     },
-    "GAMEPLAY_ForsakenSpirits":{
-        "English":"Forsaken Spirits",
-        "German":"Spiritus der verlassenen Geister",
-        "Russian":"Cпиртной напиток Покинутые Духи",
-        "Polish":"Zapomniane Dusze",
-        "French (France)":"Eau de vie Forsaken Spirits",
-        "Turkish":"Terkedilmiş Ruhlar",
-        "Korean":"고독한 영혼",
-        "Italian":"Spiriti Abbandonati",
-        "Simplified Chinese":"被遗忘的灵魂",
-		"Japanese":"フォーセイクン・スピリッツ（見捨てられた魂）",
-		"Spanish (Spain)" : "Espíritus olvidados"
+    "GAMEPLAY_ForsakenSpirits": {
+        "English": "Forsaken Spirits",
+        "German": "Spiritus der verlassenen Geister",
+        "Russian": "Cпиртной напиток Покинутые Духи",
+        "Polish": "Zapomniane Dusze",
+        "French (France)": "Eau de vie Forsaken Spirits",
+        "Turkish": "Terkedilmiş Ruhlar",
+        "Korean": "고독한 영혼",
+        "Italian": "Spiriti Abbandonati",
+        "Simplified Chinese": "被遗忘的灵魂",
+        "Japanese": "フォーセイクン・スピリッツ（見捨てられた魂）",
+        "Spanish (Spain)": "Espíritus olvidados"
     },
-    "GAMEPLAY_ForsakenSpiritsDescription":{
-        "English":"Life is better on the edge. Official drink of The Long Development!",
+    "GAMEPLAY_ForsakenSpiritsDescription": {
+        "English": "Life is better on the edge. Official drink of The Long Development!",
         "French (France)": "La vie est meilleure sur le bord. Boisson officielle de The Long Development!",
-		"German": "Leben am Limit. Offizielles Getränk der The Long-Entwickler!",
-		"Russian": "Живем на грани. Официальный напиток Долгой Разработки.",
-		"Japanese": "崖っぷちよりはまし。The Long Developmentの公式飲料です！",
-        "Spanish (Spain)" : "La vida es mejor al límite ¡Bebida oficial de El Largo Desarrollo!"
+        "German": "Leben am Limit. Offizielles Getränk der The Long-Entwickler!",
+        "Russian": "Живем на грани. Официальный напиток Долгой Разработки.",
+        "Japanese": "崖っぷちよりはまし。The Long Developmentの公式飲料です！",
+        "Spanish (Spain)": "La vida es mejor al límite ¡Bebida oficial de El Largo Desarrollo!",
+        "Turkish": "Hayat sınırda daha iyidir. The Long Development'ın resmi içeceği!"
     },
-    "GAMEPLAY_HoneyJar":{
-        "English":"Jar of Honey",
-        "German":"Honigglas",
-        "Russian":"Банка мёда",
-        "Polish":"Słoik miodu",
-        "French (France)":"Pot de miel",
-        "Turkish":"Bal kavanozu",
-        "Korean":"꿀단지",
-        "Italian":"Barattolo di miele",
-        "Simplified Chinese":"一罐蜂蜜",
-		"Japanese":"瓶入りのハチミツ",
-		"Spanish (Spain)" : "Tarro de miel"
+    "GAMEPLAY_HoneyJar": {
+        "English": "Jar of Honey",
+        "German": "Honigglas",
+        "Russian": "Банка мёда",
+        "Polish": "Słoik miodu",
+        "French (France)": "Pot de miel",
+        "Turkish": "Bal kavanozu",
+        "Korean": "꿀단지",
+        "Italian": "Barattolo di miele",
+        "Simplified Chinese": "一罐蜂蜜",
+        "Japanese": "瓶入りのハチミツ",
+        "Spanish (Spain)": "Tarro de miel"
     },
-    "GAMEPLAY_HoneyJarDescription":{
-        "English":"A true lifesaver. Honey provides a generous amount of calories and will never spoil.",
+    "GAMEPLAY_HoneyJarDescription": {
+        "English": "A true lifesaver. Honey provides a generous amount of calories and will never spoil.",
         "French (France)": "Une vraie bouée de sauvetage. Du miel donne une montante generux de calorie et ne gâchera jamais.",
-		"German": "Ein wahrer Lebensretter. Honig liefert reichlich Kalorien und verdirbt nie.",
-		"Russian": "Спасительное средство. Мед содержит щедрое количество калорий и никогда не портится.",
-		"Japanese": "これこそ真の救命の一品。ハチミツは大量のカロリーを摂取できて、そして決して腐りません。",
-        "Spanish (Spain)" : "Un verdadero salvavidas. Proporciona una buena cantidad de calorías y jamás caducará."
+        "German": "Ein wahrer Lebensretter. Honig liefert reichlich Kalorien und verdirbt nie.",
+        "Russian": "Спасительное средство. Мед содержит щедрое количество калорий и никогда не портится.",
+        "Japanese": "これこそ真の救命の一品。ハチミツは大量のカロリーを摂取できて、そして決して腐りません。",
+        "Spanish (Spain)": "Un verdadero salvavidas. Proporciona una buena cantidad de calorías y jamás caducará.",
+        "Turkish": "Gerçek bir cankurtaran. Bal bol miktarda kalori sağlar ve asla bozulmaz."
     },
-    "GAMEPLAY_HotCocoaBag":{
-        "English":"Hot Cocoa Packet",
-        "German":"Päckchen Kakao",
-        "Russian":"Пакетик какао",
-        "Polish":"Saszetka kakao",
-        "French (France)":"Sachet de chocolat en poudre.",
-        "Turkish":"Sıcak Kakao Paketi",
-        "Korean":"핫초코 팩",
-        "Italian":"Bustina di cioccolato in polvere.",
-        "Simplified Chinese":"热可可包",
-		"Japanese":"ホットココアのパック",
-		"Spanish (Spain)" : "Paquete de cacao"
+    "GAMEPLAY_HotCocoaBag": {
+        "English": "Hot Cocoa Packet",
+        "German": "Päckchen Kakao",
+        "Russian": "Пакетик какао",
+        "Polish": "Saszetka kakao",
+        "French (France)": "Sachet de chocolat en poudre.",
+        "Turkish": "Sıcak Kakao Paketi",
+        "Korean": "핫초코 팩",
+        "Italian": "Bustina di cioccolato in polvere.",
+        "Simplified Chinese": "热可可包",
+        "Japanese": "ホットココアのパック",
+        "Spanish (Spain)": "Paquete de cacao"
     },
-    "GAMEPLAY_HotCocoaBagDescription":{
-        "English":"A packet used for making hot cocoa. Now with marshmallows.",
+    "GAMEPLAY_HotCocoaBagDescription": {
+        "English": "A packet used for making hot cocoa. Now with marshmallows.",
         "French (France)": "Un paquet utiliser pour faire le chocolat chaud. Avec des guimauves.",
-		"German": "Ein Päckchen für die Zubereitung von heißem Kakao. Jetzt mit Marshmallows.",
-		"Russian": "Пакетик какао. Теперь с зефирками.",
-		"Japanese": "ホットココア用ココアのパック。マシュマロ入り。",
-        "Spanish (Spain)" : "Un paquete usado para hacer chocolate caliente. Ahora con malvaviscos."
+        "German": "Ein Päckchen für die Zubereitung von heißem Kakao. Jetzt mit Marshmallows.",
+        "Russian": "Пакетик какао. Теперь с зефирками.",
+        "Japanese": "ホットココア用ココアのパック。マシュマロ入り。",
+        "Spanish (Spain)": "Un paquete usado para hacer chocolate caliente. Ahora con malvaviscos.",
+        "Turkish": "Sıcak kakao yapmak için kullanılan bir paket. Şimdi marshmallow ile."
     },
-    "GAMEPLAY_HotCocoaBox":{
-        "English":"Hot Cocoa Box",
-        "German":"Kakao Schachtel",
-        "Russian":"Коробка какао",
-        "Polish":"Pudełko kakao",
-        "French (France)":"Boite de chocolat en poudre",
-        "Turkish":"Sıcak Kakao Kutusu",
-        "Korean":"핫초코 박스",
-        "Italian":"Scatola di cioccolata calda",
-        "Simplified Chinese":"热可可盒",
-		"Japanese":"ホットココアの箱",
-		"Spanish (Spain)" : "Caja de cacao en polvo"
+    "GAMEPLAY_HotCocoaBox": {
+        "English": "Hot Cocoa Box",
+        "German": "Kakao Schachtel",
+        "Russian": "Коробка какао",
+        "Polish": "Pudełko kakao",
+        "French (France)": "Boite de chocolat en poudre",
+        "Turkish": "Sıcak Kakao Kutusu",
+        "Korean": "핫초코 박스",
+        "Italian": "Scatola di cioccolata calda",
+        "Simplified Chinese": "热可可盒",
+        "Japanese": "ホットココアの箱",
+        "Spanish (Spain)": "Caja de cacao en polvo"
     },
-    "GAMEPLAY_HotCocoaBoxDescription":{
-        "English":"A box filled with packets used for making hot cocoa. Now with marshmallows.",
-        "French (France)":"Une boite de paquets utiliser pour faire le chocolat chaud. Avec des guimauves.",
-		"German": "Eine Box voller Päckchen um heißen Kakao zuzubereiten. Jetzt mit Marshmallows.",
-		"Russian": "Коробка с пакетиками для заварки какао. Теперь с зефирками.",
-		"Japanese": "ホットココア用のパックが詰まった箱。マシュマロ入り。",
-        "Spanish (Spain)" : "Una caja llena de paquetes para hacer chocolate caliente. Ahora con malvaviscos."
+    "GAMEPLAY_HotCocoaBoxDescription": {
+        "English": "A box filled with packets used for making hot cocoa. Now with marshmallows.",
+        "French (France)": "Une boite de paquets utiliser pour faire le chocolat chaud. Avec des guimauves.",
+        "German": "Eine Box voller Päckchen um heißen Kakao zuzubereiten. Jetzt mit Marshmallows.",
+        "Russian": "Коробка с пакетиками для заварки какао. Теперь с зефирками.",
+        "Japanese": "ホットココア用のパックが詰まった箱。マシュマロ入り。",
+        "Spanish (Spain)": "Una caja llena de paquetes para hacer chocolate caliente. Ahora con malvaviscos.",
+        "Turkish": "Sıcak kakao yapmak için kullanılan paketlerle dolu bir kutu. Şimdi marshmallow ile"
     },
-    "GAMEPLAY_HotCocoaBoxStackSingle":{
-        "English":"Hot Cocoa Packet",
-        "German":"Päckchen mit heißem Kakao",
-        "Russian":"Коробка пакетиков какао",
-        "Polish":"Saszetka kakao",
-        "French (France)":"Sachet de chocolat en poudre.",
-        "Turkish":"Sıcak Kakao Paketleri",
-        "Korean":"핫초코 팩",
-        "Italian":"Bustina di cioccolato in polvere.",
-        "Simplified Chinese":"热可可包",
-		"Japanese":"ホットココアのパック",
-		"Spanish (Spain)" : "paquete"
+    "GAMEPLAY_HotCocoaBoxStackSingle": {
+        "English": "Hot Cocoa Packet",
+        "German": "Päckchen mit heißem Kakao",
+        "Russian": "Коробка пакетиков какао",
+        "Polish": "Saszetka kakao",
+        "French (France)": "Sachet de chocolat en poudre.",
+        "Turkish": "Sıcak Kakao Paketleri",
+        "Korean": "핫초코 팩",
+        "Italian": "Bustina di cioccolato in polvere.",
+        "Simplified Chinese": "热可可包",
+        "Japanese": "ホットココアのパック",
+        "Spanish (Spain)": "paquete"
     },
-    "GAMEPLAY_HotCocoaBoxStackMultiple":{
-        "English":"Hot Cocoa Packets",
-        "German":"Kakaopakete",
-        "Russian":"Пакетики горячего какао",
-        "Polish":"Saszetki kakao",
-        "French (France)":"Sachets de chocolat en poudre.",
-        "Turkish":"Sıcak Kakao Paketleri",
-        "Korean":"핫초코 팩",
-        "Italian":"Bustine di cioccolata in polvere.",
-        "Simplified Chinese":"热可可包",
-		"Japanese":"ホットココアのパック",
-		"Spanish (Spain)" : "paquetes."
+    "GAMEPLAY_HotCocoaBoxStackMultiple": {
+        "English": "Hot Cocoa Packets",
+        "German": "Kakaopakete",
+        "Russian": "Пакетики горячего какао",
+        "Polish": "Saszetki kakao",
+        "French (France)": "Sachets de chocolat en poudre.",
+        "Turkish": "Sıcak Kakao Paketleri",
+        "Korean": "핫초코 팩",
+        "Italian": "Bustine di cioccolata in polvere.",
+        "Simplified Chinese": "热可可包",
+        "Japanese": "ホットココアのパック",
+        "Spanish (Spain)": "paquetes."
     },
-    "GAMEPLAY_HotCocoaCup":{
-        "English":"Cup of Hot Cocoa",
-        "German":"Tasse mit heißem Kakao",
-        "Russian":"Чашка с горячим какао",
-        "Polish":"Kubek kakao",
-        "French (France)":"Tasse de chocolat chaud.",
-        "Turkish":"Bir Fincan Sıcak Kakao",
-        "Korean":"핫초코",
-        "Italian":"Tazza di cioccolata calda.",
-        "Simplified Chinese":"一杯热可可",
-		"Japanese":"ホットココアのカップ",
-		"Spanish (Spain)" : "Taza de chocolate caliente."
+    "GAMEPLAY_HotCocoaCup": {
+        "English": "Cup of Hot Cocoa",
+        "German": "Tasse mit heißem Kakao",
+        "Russian": "Чашка с горячим какао",
+        "Polish": "Kubek kakao",
+        "French (France)": "Tasse de chocolat chaud.",
+        "Turkish": "Bir Fincan Sıcak Kakao",
+        "Korean": "핫초코",
+        "Italian": "Tazza di cioccolata calda.",
+        "Simplified Chinese": "一杯热可可",
+        "Japanese": "ホットココアのカップ",
+        "Spanish (Spain)": "Taza de chocolate caliente."
     },
-    "GAMEPLAY_HotCocoaCupDescription":{
-        "English":"A delicious cup of your favorite hot cocoa. Now with marshmallows.",
-        "French (France)":"Une tasse de chocolat chaud delicieux. Avec des guimauves.",
-		"German": "Eine köstliche Tasse deines Lieblingskakaos. Jetzt mit Marshmallows.",
-		"Russian": "Вкусная кружка твоего любимого какао. Теперь с зефирками.",
-		"Japanese": "あなたも大好きな美味しいホットココアのカップ。マシュマロ入り。",
-        "Spanish (Spain)" : "Una deliciosa taza de tu chocolate caliente favorito. Ahora con malvaviscos."
+    "GAMEPLAY_HotCocoaCupDescription": {
+        "English": "A delicious cup of your favorite hot cocoa. Now with marshmallows.",
+        "French (France)": "Une tasse de chocolat chaud delicieux. Avec des guimauves.",
+        "German": "Eine köstliche Tasse deines Lieblingskakaos. Jetzt mit Marshmallows.",
+        "Russian": "Вкусная кружка твоего любимого какао. Теперь с зефирками.",
+        "Japanese": "あなたも大好きな美味しいホットココアのカップ。マシュマロ入り。",
+        "Spanish (Spain)": "Una deliciosa taza de tu chocolate caliente favorito. Ahora con malvaviscos.",
+        "Turkish": "En sevdiğiniz sıcak kakaodan lezzetli bir fincan. Şimdi marshmallow ile."
     },
-    "GAMEPLAY_ModChocolateBar":{
-        "English":"Chocolate Bar",
-        "French (France)":"Barre de chocolat.",
-		"German": "Schokoladentafel",
-		"Russian": "Плитка шоколада",
-		"Japanese": "チョコレートバー",
-        "Spanish (Spain)" : "Tableta de chocolate"
+    "GAMEPLAY_ModChocolateBar": {
+        "English": "Chocolate Bar",
+        "French (France)": "Barre de chocolat.",
+        "German": "Schokoladentafel",
+        "Russian": "Плитка шоколада",
+        "Japanese": "チョコレートバー",
+        "Spanish (Spain)": "Tableta de chocolate",
+        "Turkish": "Çikolata Bar"
     },
-    "GAMEPLAY_ModChocolateBarDescription":{
-        "English":"A large bar of chocolate. Now made with coffee for that little boost!",
-        "French (France)":"Une grande barre de chocolate. Maintenant fait avec du café pour ce petit coup de pouce.",
-		"German": "Eine große Tafel Schokolade. Jetzt mit ein wenig Kaffee für den kleinen Kick!",
-		"Russian": "Большая плитка шоколада. Теперь с кофе для дополнительного заряда энергии!",
-		"Japanese": "大きなチョコレートバー。コーヒー入りなのでちょっとだけ元気が出る。",
-        "Spanish (Spain)" : "Una barra de chocolate grande ¡Ahora con un poco de café para ese impulso extra!"
+    "GAMEPLAY_ModChocolateBarDescription": {
+        "English": "A large bar of chocolate. Now made with coffee for that little boost!",
+        "French (France)": "Une grande barre de chocolate. Maintenant fait avec du café pour ce petit coup de pouce.",
+        "German": "Eine große Tafel Schokolade. Jetzt mit ein wenig Kaffee für den kleinen Kick!",
+        "Russian": "Большая плитка шоколада. Теперь с кофе для дополнительного заряда энергии!",
+        "Japanese": "大きなチョコレートバー。コーヒー入りなのでちょっとだけ元気が出る。",
+        "Spanish (Spain)": "Una barra de chocolate grande ¡Ahora con un poco de café para ese impulso extra!",
+        "Turkish": "Büyük bir çikolata barı. Şimdi o küçük destek için kahve ile yapıldı!"
     },
-    "GAMEPLAY_ModSyrup":{
-        "English":"Maple Honey Syrup",
-        "French (France)":"Sirop d'erable avec du miel.",
-		"German": "Ahorn-Honig-Sirup",
-		"Russian": "Кленовый сироп",
-		"Japanese": "ハチミツ入りメープルシロップ",
-        "Spanish (Spain)" : "Sirope de arce con miel"
+    "GAMEPLAY_ModSyrup": {
+        "English": "Maple Honey Syrup",
+        "French (France)": "Sirop d'erable avec du miel.",
+        "German": "Ahorn-Honig-Sirup",
+        "Russian": "Кленовый сироп",
+        "Japanese": "ハチミツ入りメープルシロップ",
+        "Spanish (Spain)": "Sirope de arce con miel",
+        "Turkish": "Akçaağaç Balı Şurubu"
     },
-    "GAMEPLAY_ModSyrupDescription":{
-        "English":"Not your regular syrup. Infused with a honey flavour!\nMaple syrup will never spoil!",
-        "French (France)":"Pas votre sirop typique. Il et infuser avec une saveure de miel!\n Sirop d'erable ne gâchera jamais!",
-		"German": "Nicht der normale Sirup. Angereichert mit Honiggeschmack!\nAhorn-Honig-Sirup wird nie verderben!",
-		"Russian": "Не просто сироп, а сироп с медом. \nКленовый сироп никогда не портится!",
-		"Japanese": "普通のメープルシロップとは違います。ハチミツの風味が効いています！ \nメープルシロップは決して腐りません！",
-        "Spanish (Spain)" : "No es tu sirope corriente. Enriquecido con miel \n¡Nunca caducará!"
+    "GAMEPLAY_ModSyrupDescription": {
+        "English": "Not your regular syrup. Infused with a honey flavour!\nMaple syrup will never spoil!",
+        "French (France)": "Pas votre sirop typique. Il et infuser avec une saveure de miel!\n Sirop d'erable ne gâchera jamais!",
+        "German": "Nicht der normale Sirup. Angereichert mit Honiggeschmack!\nAhorn-Honig-Sirup wird nie verderben!",
+        "Russian": "Не просто сироп, а сироп с медом. \nКленовый сироп никогда не портится!",
+        "Japanese": "普通のメープルシロップとは違います。ハチミツの風味が効いています！ \nメープルシロップは決して腐りません！",
+        "Spanish (Spain)": "No es tu sirope corriente. Enriquecido con miel \n¡Nunca caducará!",
+        "Turkish": "Normal şurup değil. Bal aromalı!\nAkçaağaç şurubu asla bozulmaz!"
     },
-    "GAMEPLAY_MountainSoda":{
-        "English":"Mountain Cider Soda",
-        "French (France)":"Soda au Cidre de Montagne",
-		"German": "Bergapfelwein-Soda",
-		"Russian": "Горная газировка-сидр",
-		"Japanese": "マウンテンソーダ",
-        "Spanish (Spain)" : "Sidra Mountain"
+    "GAMEPLAY_MountainSoda": {
+        "English": "Mountain Cider Soda",
+        "French (France)": "Soda au Cidre de Montagne",
+        "German": "Bergapfelwein-Soda",
+        "Russian": "Горная газировка-сидр",
+        "Japanese": "マウンテンソーダ",
+        "Spanish (Spain)": "Sidra Mountain",
+        "Turkish": "Maden Suyu"
     },
-    "GAMEPLAY_MountainSodaDescription":{
-        "English":"Mountain made. Mountain fresh.",
-        "German":"Berggemacht. Bergfrisch",
-        "Russian":"Горное производство. Горная свежесть.",
-        "Polish":"Górskiej roboty. Górsko świeża.",
-        "French (France)":"Fait à la montagne. Frais comme la montagne.",
-        "Turkish":"Dağ Yapımı Soda",
-        "Korean":"산이 만들어 낸 청량함.",
-        "Italian":"Fatta in montagna. Fresca di montagna.",
-        "Simplified Chinese":"山造。山鲜。",
-		"Japanese":"山で作られ新鮮そのもの。",
-		"Spanish (Spain)" : "Producto de montaña. Frescor de montaña."
+    "GAMEPLAY_MountainSodaDescription": {
+        "English": "Mountain made. Mountain fresh.",
+        "German": "Berggemacht. Bergfrisch",
+        "Russian": "Горное производство. Горная свежесть.",
+        "Polish": "Górskiej roboty. Górsko świeża.",
+        "French (France)": "Fait à la montagne. Frais comme la montagne.",
+        "Turkish": "Maden Suyu. Bol magnezyum içerir.",
+        "Korean": "산이 만들어 낸 청량함.",
+        "Italian": "Fatta in montagna. Fresca di montagna.",
+        "Simplified Chinese": "山造。山鲜。",
+        "Japanese": "山で作られ新鮮そのもの。",
+        "Spanish (Spain)": "Producto de montaña. Frescor de montaña."
     },
-    "GAMEPLAY_RiceCooked":{
-        "English":"Long-Grain Rice (Cooked)",
-        "German":"Langkornreis (gegart)",
-        "Russian":"Длиннозерный рис (Приготовленный)",
-        "Polish":"Ryż długoziarnisty (gotowany)",
-        "French (France)":"Riz long (Cuit)",
-        "Turkish":"Uzun Taneli Pirinç (Pişmiş)",
-        "Korean":"쌀 (조리됨)",
-        "Italian":"Riso a chicco lungo (Cotto)",
-        "Simplified Chinese":"长粒米（熟）",
-		"Japanese":"白飯（長粒種）",
-		"Spanish (Spain)" : "Arroz largo (Cocido)"
+    "GAMEPLAY_RiceCooked": {
+        "English": "Long-Grain Rice (Cooked)",
+        "German": "Langkornreis (gegart)",
+        "Russian": "Длиннозерный рис (Приготовленный)",
+        "Polish": "Ryż długoziarnisty (gotowany)",
+        "French (France)": "Riz long (Cuit)",
+        "Turkish": "Uzun Taneli Pirinç (Pişmiş)",
+        "Korean": "쌀 (조리됨)",
+        "Italian": "Riso a chicco lungo (Cotto)",
+        "Simplified Chinese": "长粒米（熟）",
+        "Japanese": "白飯（長粒種）",
+        "Spanish (Spain)": "Arroz largo (Cocido)"
     },
-    "GAMEPLAY_RiceCookedDescription":{
-        "English":"Pure cooked white rice, rather dull -- but provides good calories.",
-        "French (France)":"Riz blanche pur cuit, plutot plat -- mais il fournit des calories.",
-		"German": "Reiner, gekochter, weißer Reis. Eher langweilig, liefert aber gute Kalorien.",
-		"Russian": "Приготовленный рис - довольно пресный, но калорийный.",
-		"Japanese": "交じりっけなしの白飯、味気ない -- でもカロリーは十分だ。",
-        "Spanish (Spain)" : "Arroz blanco cocido. Un poco insipido, pero aporta muchas calorías."
+    "GAMEPLAY_RiceCookedDescription": {
+        "English": "Pure cooked white rice, rather dull -- but provides good calories.",
+        "French (France)": "Riz blanche pur cuit, plutot plat -- mais il fournit des calories.",
+        "German": "Reiner, gekochter, weißer Reis. Eher langweilig, liefert aber gute Kalorien.",
+        "Russian": "Приготовленный рис - довольно пресный, но калорийный.",
+        "Japanese": "交じりっけなしの白飯、味気ない -- でもカロリーは十分だ。",
+        "Spanish (Spain)": "Arroz blanco cocido. Un poco insipido, pero aporta muchas calorías.",
+        "Turkish": "Saf pişmiş beyaz pirinç, biraz sıkıcı ama iyi kalori sağlıyor."
     },
-    "GAMEPLAY_RiceRaw":{
-        "English":"Long-Grain Rice (Raw)",
-        "German":"Langkornreis (roh)",
-        "Russian":"Длиннозерный рис (Сырой)",
-        "Polish":"Ryż długoziarnisty",
-        "French (France)":"Riz long (Cru)",
-        "Turkish":"Uzun Taneli Pirinç (Çiğ)",
-        "Korean":"쌀 (조리되지 않음)",
-        "Italian":"Riso a chicco lungo (Crudo)",
-        "Simplified Chinese":"长粒米（生）",
-		"Japanese":"白米（長粒種）",
-		"Spanish (Spain)" : "Arroz largo (Crudo)"
+    "GAMEPLAY_RiceRaw": {
+        "English": "Long-Grain Rice (Raw)",
+        "German": "Langkornreis (roh)",
+        "Russian": "Длиннозерный рис (Сырой)",
+        "Polish": "Ryż długoziarnisty",
+        "French (France)": "Riz long (Cru)",
+        "Turkish": "Uzun Taneli Pirinç (Çiğ)",
+        "Korean": "쌀 (조리되지 않음)",
+        "Italian": "Riso a chicco lungo (Crudo)",
+        "Simplified Chinese": "长粒米（生）",
+        "Japanese": "白米（長粒種）",
+        "Spanish (Spain)": "Arroz largo (Crudo)"
     },
-    "GAMEPLAY_RiceRawDescription":{
-        "English":"One of the most widely consumed foods in the world.\nNeeds to be cooked before it can be eaten: one part rice and two parts water.",
-        "French (France)":"Un des aliments les plus consommés dans le monde.\n Doit être cuit avant qu'il peut être consommé: un partie de riz, deux parties d'eau.",
-		"German": "Eines der meistkonsumierten Lebensmittel der Welt.\nMuss gekocht werden, bevor es gegessen werden kann: ein Teil Reis mit zwei Teilen Wasser mischen.",
-		"Russian": "Один из самых популярных продуктов в мире. \nДля употребления нужно приготовить: рис и вода 1 к 2.",
-		"Japanese": "世界中で幅広く消費されている食品の一つ。 \n食べる前に水を加えて調理する必要があります。",
-        "Spanish (Spain)" : "Una de las comidas más consumidas en el planeta. \nNecesita cocerse antes de comerlo: Una parte de arroz, dos de agua."
+    "GAMEPLAY_RiceRawDescription": {
+        "English": "One of the most widely consumed foods in the world.\nNeeds to be cooked before it can be eaten: one part rice and two parts water.",
+        "French (France)": "Un des aliments les plus consommés dans le monde.\n Doit être cuit avant qu'il peut être consommé: un partie de riz, deux parties d'eau.",
+        "German": "Eines der meistkonsumierten Lebensmittel der Welt.\nMuss gekocht werden, bevor es gegessen werden kann: ein Teil Reis mit zwei Teilen Wasser mischen.",
+        "Russian": "Один из самых популярных продуктов в мире. \nДля употребления нужно приготовить: рис и вода 1 к 2.",
+        "Japanese": "世界中で幅広く消費されている食品の一つ。 \n食べる前に水を加えて調理する必要があります。",
+        "Spanish (Spain)": "Una de las comidas más consumidas en el planeta. \nNecesita cocerse antes de comerlo: Una parte de arroz, dos de agua.",
+        "Turkish": "Dünyada en çok tüketilen gıdalardan biri. Yenilebilmesi için önce pişirilmesi gerekiyor: bir ölçü pirinç ve iki ölçü su."
     },
-    "GAMEPLAY_SPAM":{
-        "English":"BLAM",
-        "French (France)":"BLAM",
-		"German": "BLAM",
-		"Russian": "БЛЭМ",
-		"Japanese": "スパム缶",
-        "Spanish (Spain)" : "BANG"
+    "GAMEPLAY_SPAM": {
+        "English": "BLAM",
+        "French (France)": "BLAM",
+        "German": "BLAM",
+        "Russian": "БЛЭМ",
+        "Japanese": "スパム缶",
+        "Spanish (Spain)": "BANG",
+        "Turkish": "BLAM"
     },
-    "GAMEPLAY_SPAMDescription":{
-        "English":"Canned and chopped ham. Cheap, simple, and will do in a pinch.",
-        "French (France)":"Jambon en conserve. Pas cher, simple et fera l'affaire à la rigueur",
-		"German": "Zerkleinerter, gekochter Schinken in der Dose. Günstig und im Notfall ausreichend.",
-		"Russian": "Порезанная консервированная ветчина. Дешево, просто, пойдет при необходимости.",
-		"Japanese": "缶詰のハム。安っぽくて単純な食品だけど、いざという時は役に立つ。",
-        "Spanish (Spain)" : "Jamón cocido enlatado. Barato, simple, is servirá en un apuro."
+    "GAMEPLAY_SPAMDescription": {
+        "English": "Canned and chopped ham. Cheap, simple, and will do in a pinch.",
+        "French (France)": "Jambon en conserve. Pas cher, simple et fera l'affaire à la rigueur",
+        "German": "Zerkleinerter, gekochter Schinken in der Dose. Günstig und im Notfall ausreichend.",
+        "Russian": "Порезанная консервированная ветчина. Дешево, просто, пойдет при необходимости.",
+        "Japanese": "缶詰のハム。安っぽくて単純な食品だけど、いざという時は役に立つ。",
+        "Spanish (Spain)": "Jamón cocido enlatado. Barato, simple, is servirá en un apuro.",
+        "Turkish": "Rendelenmiş konserve jambon. Acil bir durumuda vücuda yeterli besin sağlar."
     },
-    "GAMEPLAY_VodkaBottle":{
-        "English":"Vodka Bottle",
-        "German":"Wodka-Flasche",
-        "Russian":"Бутылка водки",
-        "Polish":"Butelka wódki",
-        "French (France)":"Bouteille de vodka",
-        "Turkish":"Votka Şişesi",
-        "Korean":"보드카",
-        "Italian":"Bottiglia di vodka",
-        "Simplified Chinese":"伏特加瓶",
-		"Japanese":"ウオッカの瓶",
-		"Spanish (Spain)" : "Botella de vodka"
+    "GAMEPLAY_VodkaBottle": {
+        "English": "Vodka Bottle",
+        "German": "Wodka-Flasche",
+        "Russian": "Бутылка водки",
+        "Polish": "Butelka wódki",
+        "French (France)": "Bouteille de vodka",
+        "Turkish": "Votka Şişesi",
+        "Korean": "보드카",
+        "Italian": "Bottiglia di vodka",
+        "Simplified Chinese": "伏特加瓶",
+        "Japanese": "ウオッカの瓶",
+        "Spanish (Spain)": "Botella de vodka"
     },
-    "GAMEPLAY_VodkaBottleDescription":{
-        "English":"A bottle of the hard stuff. Locally distilled. A somewhat rare sight.",
-        "French (France)":"Une bouteille de choses dures. Distillé locale. Un spectacle rare",
-		"German": "Eine Flasche des harten Zeugs. Lokal destilliert. Ein etwas seltener Anblick.",
-		"Russian": "Бутылка крепкого алкоголя местного производства. Довольно редкая вещь.",
-		"Japanese": "強い酒。一部の地域で作られている。あまりお目にかかれない。",
-        "Spanish (Spain)" : "Una botella de las fuertes. Destilado local. Un hallazgo raro."
+    "GAMEPLAY_VodkaBottleDescription": {
+        "English": "A bottle of the hard stuff. Locally distilled. A somewhat rare sight.",
+        "French (France)": "Une bouteille de choses dures. Distillé locale. Un spectacle rare",
+        "German": "Eine Flasche des harten Zeugs. Lokal destilliert. Ein etwas seltener Anblick.",
+        "Russian": "Бутылка крепкого алкоголя местного производства. Довольно редкая вещь.",
+        "Japanese": "強い酒。一部の地域で作られている。あまりお目にかかれない。",
+        "Spanish (Spain)": "Una botella de las fuertes. Destilado local. Un hallazgo raro.",
+        "Turkish": "Sert şeylerden bir şişe. Yerel olarak damıtılmış. Biraz nadir bir manzara."
     },
-    "GAMEPLAY_WhiskyFlask":{
-        "English":"Hip Flask",
-        "German":"Flachmann",
-        "Russian":"Карманная фляжка",
-        "Polish":"Piersiówka",
-        "French (France)":"Flasque",
-        "Turkish":"Konyak",
-        "Korean":"힙 플라스크",
-        "Italian":"Fiaschetta",
-        "Simplified Chinese":"酒壶",
-		"Japanese":"ヒップフラスク",
-		"Spanish (Spain)" : "Petaca"
+    "GAMEPLAY_WhiskyFlask": {
+        "English": "Hip Flask",
+        "German": "Flachmann",
+        "Russian": "Карманная фляжка",
+        "Polish": "Piersiówka",
+        "French (France)": "Flasque",
+        "Turkish": "Konyak",
+        "Korean": "힙 플라스크",
+        "Italian": "Fiaschetta",
+        "Simplified Chinese": "酒壶",
+        "Japanese": "ヒップフラスク",
+        "Spanish (Spain)": "Petaca"
     },
-    "GAMEPLAY_WhiskyFlaskDescription":{
-        "English":"Smells like Whisky... \nThe metal iconography alludes to a mysterious place.",
-        "French (France)":"Sentir comme du whisky... \nLe metal iconographie fait allusion a une place mysterieux.",
-		"German": "Riecht wie Whisky... \nDie Metallgravur spielt auf einen geheimnissvollen Ort an.",
-		"Russian": "Пахнет как виски... \nНадпись на металле упоминает какое-то загадочное место.",
-		"Japanese": "ウィスキーのような香りだ……。 \n刻まれている模様は謎めいた場所を連想させる。",
-        "Spanish (Spain)" : "Huele a whisky... \nEl grabado metálico alude a un misterioso lugar."
+    "GAMEPLAY_WhiskyFlaskDescription": {
+        "English": "Smells like Whisky... \nThe metal iconography alludes to a mysterious place.",
+        "French (France)": "Sentir comme du whisky... \nLe metal iconographie fait allusion a une place mysterieux.",
+        "German": "Riecht wie Whisky... \nDie Metallgravur spielt auf einen geheimnissvollen Ort an.",
+        "Russian": "Пахнет как виски... \nНадпись на металле упоминает какое-то загадочное место.",
+        "Japanese": "ウィスキーのような香りだ……。 \n刻まれている模様は謎めいた場所を連想させる。",
+        "Spanish (Spain)": "Huele a whisky... \nEl grabado metálico alude a un misterioso lugar.",
+        "Turkish": "Viski gibi kokuyor... \nMetal ikonografi gizemli bir yeri ima ediyor."
     },
-    "GAMEPLAY_WineBottle":{
-        "English":"Wine Bottle",
-        "German":"Weinflasche",
-        "Russian":"Бутылка вина",
-        "Polish":"Butelka wina",
-        "French (France)":"Bouteille de vin",
-        "Turkish":"Şarap Şişesi",
-        "Korean":"병 와인",
-        "Italian":"Bottiglia di vino",
-        "Simplified Chinese":"酒瓶",
-		"Japanese":"ワインボトル",
-		"Spanish (Spain)" :  "Botella de vino"
+    "GAMEPLAY_WineBottle": {
+        "English": "Wine Bottle",
+        "German": "Weinflasche",
+        "Russian": "Бутылка вина",
+        "Polish": "Butelka wina",
+        "French (France)": "Bouteille de vin",
+        "Turkish": "Şarap Şişesi",
+        "Korean": "병 와인",
+        "Italian": "Bottiglia di vino",
+        "Simplified Chinese": "酒瓶",
+        "Japanese": "ワインボトル",
+        "Spanish (Spain)": "Botella de vino"
     },
-    "GAMEPLAY_WineBottleDescription":{
-        "English":"A bottle of wine for that big celebration. High quality and very rare.",
-        "German":"Eine Flasche Wein für ein großes Fest. Nicht zu viel auf einmal trinken.",
-        "Russian":"Бутылка вина для большого праздника. Хорошего качества. Редкая вещь.",
-        "Polish":"Gdy masz powód do świętowania. Nie wypij wszystkiego na raz!",
-        "French (France)":"Une bouteille de vin pour faire la fête. Ne buvez pas tout d'un coup.",
-        "Turkish":"Büyük kutlama için bir şişe şarap. Bir seferde çok fazla içmeyin.",
-        "Korean":"축배를 들기위한 와인 한 병. 한 번에 너무 많이 마시진 마세요",
-        "Italian":"Una bottiglia di vino per quell'occasione speciale. Non berne troppo in una volta.",
-        "Simplified Chinese":"为那个盛大的庆祝活动准备一瓶酒。不要一次喝太多。",
-		"Japanese":"大きなお祝いのために用意されたワイン。高級品だがめったに見かけない。",
-		"Spanish (Spain)" :  "Una botella de vino perfecta para una gran ocasión. Rara y de gran calidad."
+    "GAMEPLAY_WineBottleDescription": {
+        "English": "A bottle of wine for that big celebration. High quality and very rare.",
+        "German": "Eine Flasche Wein für ein großes Fest. Nicht zu viel auf einmal trinken.",
+        "Russian": "Бутылка вина для большого праздника. Хорошего качества. Редкая вещь.",
+        "Polish": "Gdy masz powód do świętowania. Nie wypij wszystkiego na raz!",
+        "French (France)": "Une bouteille de vin pour faire la fête. Ne buvez pas tout d'un coup.",
+        "Turkish": "Büyük kutlama için bir şişe şarap. Bir seferde çok fazla içmeyin.",
+        "Korean": "축배를 들기위한 와인 한 병. 한 번에 너무 많이 마시진 마세요",
+        "Italian": "Una bottiglia di vino per quell'occasione speciale. Non berne troppo in una volta.",
+        "Simplified Chinese": "为那个盛大的庆祝活动准备一瓶酒。不要一次喝太多。",
+        "Japanese": "大きなお祝いのために用意されたワイン。高級品だがめったに見かけない。",
+        "Spanish (Spain)": "Una botella de vino perfecta para una gran ocasión. Rara y de gran calidad."
     },
-    "GAMEPLAY_CerealHoney":{
-        "English":"POP's",
-        "French (France)":"POP's",
-		"German": "Honigzerealien",
-		"Russian": "Медовые хлопья",
-		"Japanese": "ハチミツ入りシリアル",
-        "Spanish (Spain)" : "POP's"
+    "GAMEPLAY_CerealHoney": {
+        "English": "POP's",
+        "French (France)": "POP's",
+        "German": "Honigzerealien",
+        "Russian": "Медовые хлопья",
+        "Japanese": "ハチミツ入りシリアル",
+        "Spanish (Spain)": "POP's",
+        "Turkish": "Ballı Gevrek"
     },
-    "GAMEPLAY_CerealHoneyDescription":{
-        "English":"A sweet sugary cereal made with honey and corn.",
-        "French (France)":"Des céréales sucrées sucre fait avec du miel and mais.",
-		"German": "Eine süße, gezuckerte Mischung aus Honig und Mais.",
-		"Russian": "Сладкие кукурузные хлопья с медом.",
-		"Japanese": "ハチミツとトウモロコシで作られた甘いシリアル。",
-"Spanish (Spain)" : "Cereales dulces azucarados, hechos con miel y maiz."
+    "GAMEPLAY_CerealHoneyDescription": {
+        "English": "A sweet sugary cereal made with honey and corn.",
+        "French (France)": "Des céréales sucrées sucre fait avec du miel and mais.",
+        "German": "Eine süße, gezuckerte Mischung aus Honig und Mais.",
+        "Russian": "Сладкие кукурузные хлопья с медом.",
+        "Japanese": "ハチミツとトウモロコシで作られた甘いシリアル。",
+        "Spanish (Spain)": "Cereales dulces azucarados, hechos con miel y maiz.",
+        "Turkish": "Bal ve mısırla yapılan tatlı, şekerli bir tahıl gevreği."
     },
-    "GAMEPLAY_CerealWholeGrain":{
-        "English":"Fiberwheat Crunch",
-        "French (France)":"Fiberwheat Croquant.",
-		"German": "Getreide-Vollkorn-Müsli",
-		"Russian": "Пшеничный хруст",
-		"Japanese": "小麦全粒粉のシリアル",
-        "Spanish (Spain)" : "Crujientes Fiberwheat"
+    "GAMEPLAY_CerealWholeGrain": {
+        "English": "Fiberwheat Crunch",
+        "French (France)": "Fiberwheat Croquant.",
+        "German": "Getreide-Vollkorn-Müsli",
+        "Russian": "Пшеничный хруст",
+        "Japanese": "小麦全粒粉のシリアル",
+        "Spanish (Spain)": "Crujientes Fiberwheat",
+        "Turkish": "Lifli Buğday Ezmesi"
     },
-    "GAMEPLAY_CerealWholeGrainDescription":{
-        "English":"Extremely dry and crunchy. Surprisingly nutritious.",
-        "French (France)":"Sec et croquant. étonnamment nutritif.",
-		"German": "Sehr trocken und knusprig. Überraschend nahrhaft.",
-		"Russian": "Очень сухие и хрустящие хлопья. Очень питательные.",
-		"Japanese": "とてもドライで歯ごたえあり。意外と栄養分がある。",
-        "Spanish (Spain)" : "Extremadamente secos y crujientes. Sorprendentemente nutritivos."
+    "GAMEPLAY_CerealWholeGrainDescription": {
+        "English": "Extremely dry and crunchy. Surprisingly nutritious.",
+        "French (France)": "Sec et croquant. étonnamment nutritif.",
+        "German": "Sehr trocken und knusprig. Überraschend nahrhaft.",
+        "Russian": "Очень сухие и хрустящие хлопья. Очень питательные.",
+        "Japanese": "とてもドライで歯ごたえあり。意外と栄養分がある。",
+        "Spanish (Spain)": "Extremadamente secos y crujientes. Sorprendentemente nutritivos.",
+        "Turkish": "Son derece kuru ve gevrek. Şaşırtıcı derecede besleyici"
     },
-    "GAMEPLAY_CatFoodSmall":{
-        "English":"Can of Tuna",
+    "GAMEPLAY_CatFoodSmall": {
+        "English": "Can of Tuna",
         "French (France)": "Boîte de thon",
-        "German":  "Dose Thunfisch",
-		"Russian": "Консервированный тунец",
-		"Japanese": "ツナ缶",
-        "Spanish (Spain)" : "Lata de atún"
+        "German": "Dose Thunfisch",
+        "Russian": "Консервированный тунец",
+        "Japanese": "ツナ缶",
+        "Spanish (Spain)": "Lata de atún",
+        "Turkish": "Ton Balığı"
     },
-    "GAMEPLAY_CatFoodSmallDescription":{
-        "English":"A small portion of flaked tuna.",
-        "French (France)":"Une petite portion de thon",
-		"German": "Eine kleine Portion Thunfischflocken.",
-		"Russian": "Небольшая порция расслоенного тунца.",
-		"Japanese": "小さなツナ缶",
-        "Spanish (Spain)" : "Una pequeña porción de atún desmenuzado."
+    "GAMEPLAY_CatFoodSmallDescription": {
+        "English": "A small portion of flaked tuna.",
+        "French (France)": "Une petite portion de thon",
+        "German": "Eine kleine Portion Thunfischflocken.",
+        "Russian": "Небольшая порция расслоенного тунца.",
+        "Japanese": "小さなツナ缶",
+        "Spanish (Spain)": "Una pequeña porción de atún desmenuzado.",
+        "Turkish": "Küçük bir porsiyon ton balığı."
     },
-    "GAMEPLAY_FlourBag":{
-        "English":"Bag of Flour",
-        "French (France)":"Sac de farine",
-		"German": "Mehltüte",
-		"Russian": "Упаковка муки",
-		"Japanese": "小麦粉の袋",
-        "Spanish (Spain)" : "Saco de harina"
+    "GAMEPLAY_FlourBag": {
+        "English": "Bag of Flour",
+        "French (France)": "Sac de farine",
+        "German": "Mehltüte",
+        "Russian": "Упаковка муки",
+        "Japanese": "小麦粉の袋",
+        "Spanish (Spain)": "Saco de harina",
+        "Turkish": "Bir paket un"
     },
-    "GAMEPLAY_FlourBagDescription":{
-        "English":"Fluffy and ready for baking. Raw consumption not advised.",
-        "French (France)":"Duveteux et pret pour patisserie. Consommation brute déconseillé.",
-		"German": "Flauschig und fertig zum Backen. Vom Rohverzehr wird abgeraten.",
-		"Russian": "Рыхлая и подходящая для выпечки. Не рекомендуется к употреблению в сыром виде.",
-		"Japanese": "ふわふわしていてお菓子作りに最適です。生で食べるのはお勧めしません。",
-        "Spanish (Spain)" : "Esponjosa y lista para hornear. Consumición en crudo no recomendada."
+    "GAMEPLAY_FlourBagDescription": {
+        "English": "Fluffy and ready for baking. Raw consumption not advised.",
+        "French (France)": "Duveteux et pret pour patisserie. Consommation brute déconseillé.",
+        "German": "Flauschig und fertig zum Backen. Vom Rohverzehr wird abgeraten.",
+        "Russian": "Рыхлая и подходящая для выпечки. Не рекомендуется к употреблению в сыром виде.",
+        "Japanese": "ふわふわしていてお菓子作りに最適です。生で食べるのはお勧めしません。",
+        "Spanish (Spain)": "Esponjosa y lista para hornear. Consumición en crudo no recomendada.",
+        "Turkish": "Kabarık ve pişirmeye hazır. Çiğ tüketim tavsiye edilmez."
     },
-    "GAMEPLAY_Jalapeno":{
-        "English":"Can of Jalapenos",
-        "French (France)":"Boîte de jalapenos",
-		"German": "Dose Chilischoten",
-		"Russian": "Упаковка халапеньо",
-		"Japanese": "ハラペーニョの缶詰",
-        "Spanish (Spain)" : "Jalapeños enlatados"
+    "GAMEPLAY_Jalapeno": {
+        "English": "Can of Jalapenos",
+        "French (France)": "Boîte de jalapenos",
+        "German": "Dose Chilischoten",
+        "Russian": "Упаковка халапеньо",
+        "Japanese": "ハラペーニョの缶詰",
+        "Spanish (Spain)": "Jalapeños enlatados",
+        "Turkish": "Jalepano Konservesi"
     },
-    "GAMEPLAY_JalapenoDescription":{
-        "English":"Pickled and spicy. Will make you thirsty.",
-        "French (France)":"Mariné et épicé. Vous faisez soif.",
-		"German": "Würzig eingelegt. Wird dich durstig machen.",
-		"Russian": "Острые и консервированные. После них захочется пить.",
-		"Japanese": "酸っぱくてスパイシー。食べると喉が渇く。",
-        "Spanish (Spain)" : "Encurtidos y picantes. Te darán sed."
+    "GAMEPLAY_JalapenoDescription": {
+        "English": "Pickled and spicy. Will make you thirsty.",
+        "French (France)": "Mariné et épicé. Vous faisez soif.",
+        "German": "Würzig eingelegt. Wird dich durstig machen.",
+        "Russian": "Острые и консервированные. После них захочется пить.",
+        "Japanese": "酸っぱくてスパイシー。食べると喉が渇く。",
+        "Spanish (Spain)": "Encurtidos y picantes. Te darán sed.",
+        "Turkish": "Turşu ve baharatlı. Seni susatacak."
     },
-	    "GAMEPLAY_CupNoodles" : {
+    "GAMEPLAY_CupNoodles": {
         "English": "Cup of Ramen",
-        "German" :  "Becher Ramen",
-		"Russian": "Чашка рамена",
-		"Japanese": "カップラーメン",
-"Spanish (Spain)" : "Tazón de ramen"
+        "German": "Becher Ramen",
+        "Russian": "Чашка рамена",
+        "Japanese": "カップラーメン",
+        "Spanish (Spain)": "Tazón de ramen",
+        "Turkish": "Bir Bardak Ramen"
     },
-	    "GAMEPLAY_CupNoodlesDescription" : {
-        "English" : "A small cup of stale instant noodles. Can be cooked in a pot for a better meal.",
-        "German" :  "Ein kleiner Becher abgestandener Instantnudeln. Kann für eine bessere Mahlzeit im Topf gekocht werden.",
-		"Russian": "Чашка залежавшейся лапши быстрого приготовления. Лучше готовить в кастрюле.",
-		"Japanese": "小さなカップ入りのインスタント麺。鍋で調理するとより美味しく食べられる。",
-"Spanish (Spain)" : "Un pequeño tazón de fideos instantáneos pasados. Pueden cocinarse en una cazuela para hacer un delicioso plato."
+    "GAMEPLAY_CupNoodlesDescription": {
+        "English": "A small cup of stale instant noodles. Can be cooked in a pot for a better meal.",
+        "German": "Ein kleiner Becher abgestandener Instantnudeln. Kann für eine bessere Mahlzeit im Topf gekocht werden.",
+        "Russian": "Чашка залежавшейся лапши быстрого приготовления. Лучше готовить в кастрюле.",
+        "Japanese": "小さなカップ入りのインスタント麺。鍋で調理するとより美味しく食べられる。",
+        "Spanish (Spain)": "Un pequeño tazón de fideos instantáneos pasados. Pueden cocinarse en una cazuela para hacer un delicioso plato.",
+        "Turkish": "Küçük bir bardak bayat hazır erişte. Daha iyi bir yemek için bir tencerede pişirilebilir."
     },
-    "GAMEPLAY_CupNoodlesOpen" : {
+    "GAMEPLAY_CupNoodlesOpen": {
         "English": "Cup of Ramen (Cooked)",
-        "German" :  "Becher Ramen (gekocht)",
-		"Russian": "Чашка рамена (Приготовленная)",
-		"Japanese": "カップラーメン（調理済み）",
-"Spanish (Spain)" : "Tazón de ramen (Cocinado)"
+        "German": "Becher Ramen (gekocht)",
+        "Russian": "Чашка рамена (Приготовленная)",
+        "Japanese": "カップラーメン（調理済み）",
+        "Spanish (Spain)": "Tazón de ramen (Cocinado)",
+        "Turkish": "Bir Bardak Ramen (Pişmiş)"
     },
-    "GAMEPLAY_CupNoodlesOpenDescription" : {
+    "GAMEPLAY_CupNoodlesOpenDescription": {
         "English": "A small cup of cooked instant noodles. Enjoy!",
-        "German" :  "Ein kleiner Becher gekochter Instantnoodeln. Genieße sie!",
-		"Russian": "Чашка приготовленного рамена. Наслаждайся!",
-		"Japanese": "調理済みのカップラーメン。よいひと時を！",
-"Spanish (Spain)" : "Un pequeño tazón de fideos intantáneos cocinados ¡Que aproveche!"
+        "German": "Ein kleiner Becher gekochter Instantnoodeln. Genieße sie!",
+        "Russian": "Чашка приготовленного рамена. Наслаждайся!",
+        "Japanese": "調理済みのカップラーメン。よいひと時を！",
+        "Spanish (Spain)": "Un pequeño tazón de fideos intantáneos cocinados ¡Que aproveche!",
+        "Turkish": "Küçük bir bardak pişmiş hazır erişte. Eğlence!"
     },
-    "GAMEPLAY_SoyRamen" : {
+    "GAMEPLAY_SoyRamen": {
         "English": "Pack of Ramen",
-        "German" : "Packung Ramen",
-		"Russian": "Упаковка рамена",
-		"Japanese": "インスタントラーメン",
-"Spanish (Spain)" : "Paquete de ramen"
+        "German": "Packung Ramen",
+        "Russian": "Упаковка рамена",
+        "Japanese": "インスタントラーメン",
+        "Spanish (Spain)": "Paquete de ramen",
+        "Turkish": "Bir Paket Ramen"
     },
-    "GAMEPLAY_SoyRamenDescription" : {
+    "GAMEPLAY_SoyRamenDescription": {
         "English": "A small package of stale instant noodles. Can be cooked in a pot for a better meal.",
-        "German" : "Eine kleine Packung abgestandener Instantnudeln. Kann für eine bessere Mahlzeit im Topf gekocht werden.",
-		"Russian": "Маленькая упаковка лапши быстрого приготовления. Лучше готовить в кастрюле.",
-		"Japanese": "袋入りのインスタントラーメン。鍋で調理するとより美味しく食べられる。",
-"Spanish (Spain)" : "Un pequeño paquete de fideos instantáneos pasados. Pueden cocinarse en una cazuela para hacer un delicioso plato."
+        "German": "Eine kleine Packung abgestandener Instantnudeln. Kann für eine bessere Mahlzeit im Topf gekocht werden.",
+        "Russian": "Маленькая упаковка лапши быстрого приготовления. Лучше готовить в кастрюле.",
+        "Japanese": "袋入りのインスタントラーメン。鍋で調理するとより美味しく食べられる。",
+        "Spanish (Spain)": "Un pequeño paquete de fideos instantáneos pasados. Pueden cocinarse en una cazuela para hacer un delicioso plato.",
+        "Turkish": "Küçük bir paket bayat hazır erişte. Daha iyi bir yemek için tencerede pişirilebilir."
     },
-    "GAMEPLAY_SoyRamenCooked" : {
+    "GAMEPLAY_SoyRamenCooked": {
         "English": "Bowl of Ramen",
-        "German" : "Schüssel Ramen",
-		"Russian": "Приготовленный рамен",
-		"Japanese": "ラーメン",
-"Spanish (Spain)" : "Bol de ramen"
+        "German": "Schüssel Ramen",
+        "Russian": "Приготовленный рамен",
+        "Japanese": "ラーメン",
+        "Spanish (Spain)": "Bol de ramen",
+        "Turkish": "Bir Kase Ramen"
     },
-    "GAMEPLAY_SoyRamenCookedDescription" : {
+    "GAMEPLAY_SoyRamenCookedDescription": {
         "English": "A bowl of cooked instant noodles - smells of soy sauce.",
-        "German" : "Eine Schüssel gekochter Instantnudeln - riecht nach Sojasauce.",
-		"Russian": "Готовая лапша быстрого приготовления - пахнет соевым соусом.",
-		"Japanese": "調理済みのインスタントラーメン。醤油味。",
-"Spanish (Spain)" : "Un bol de fideos instantáneos. Huelen a salsa de soja."
+        "German": "Eine Schüssel gekochter Instantnudeln - riecht nach Sojasauce.",
+        "Russian": "Готовая лапша быстрого приготовления - пахнет соевым соусом.",
+        "Japanese": "調理済みのインスタントラーメン。醤油味。",
+        "Spanish (Spain)": "Un bol de fideos instantáneos. Huelen a salsa de soja.",
+        "Turkish": "Bir kase pişmiş hazır erişte - soya sosu kokuyor."
     },
-    "GAMEPLAY_RandomLargeCannedFood":{
-        "English":"Random Large Canned Food",
-        "French (France)":"Boîte de nourriture au hasard.",
-        "German":"Zufällige große Konserven",
-        "Russian":"Случайные большие консервы",
-        "Turkish":"Rastgele Büyük Konserve Gıda",
-        "Korean":"무작위 대용량 통조림",
-        "Italian":"Grossa confezione di cibo in scatola casuale",
-        "Simplified Chinese":"随机大罐头",
-		"Japanese":"ランダム配置される缶詰（大）"
+    "GAMEPLAY_RandomLargeCannedFood": {
+        "English": "Random Large Canned Food",
+        "French (France)": "Boîte de nourriture au hasard.",
+        "German": "Zufällige große Konserven",
+        "Russian": "Случайные большие консервы",
+        "Turkish": "Rastgele Büyük Konserve Gıda",
+        "Korean": "무작위 대용량 통조림",
+        "Italian": "Grossa confezione di cibo in scatola casuale",
+        "Simplified Chinese": "随机大罐头",
+        "Japanese": "ランダム配置される缶詰（大）"
     },
-    "GAMEPLAY_RandomLargeCannedFoodDescription":{
-        "English":"A spawn point for large canned food items.",
-        "French (France)":"Un point d'apparition pour les gros aliments en conserve",
-        "German":"Ein Spawnpunkt für große Konserven.",
-        "Russian":"Место появления крупных консервов.",
-        "Turkish":"Büyük konserve yiyecekler için bir yumurtlama noktası.",
-        "Korean":"무작위 큰 통조림 아이템의 스폰 지점입니다.",
-        "Italian":"Punto di generazione per grandi confezioni di cibo in scatola.",
-        "Simplified Chinese":"大型罐头食品的刷新点。",
-		"Japanese":"缶詰（大）の配置されるポイント。"
+    "GAMEPLAY_RandomLargeCannedFoodDescription": {
+        "English": "A spawn point for large canned food items.",
+        "French (France)": "Un point d'apparition pour les gros aliments en conserve",
+        "German": "Ein Spawnpunkt für große Konserven.",
+        "Russian": "Место появления крупных консервов.",
+        "Turkish": "Büyük konserve yiyecekler için bir yumurtlama noktası.",
+        "Korean": "무작위 큰 통조림 아이템의 스폰 지점입니다.",
+        "Italian": "Punto di generazione per grandi confezioni di cibo in scatola.",
+        "Simplified Chinese": "大型罐头食品的刷新点。",
+        "Japanese": "缶詰（大）の配置されるポイント。"
     },
-    "GAMEPLAY_RandomMediumCannedFood":{
-        "English":"Random Medium Canned Food",
-        "French (France)":"Boîte de nourriture au hasard moyenne.",
-        "German":"Zufällige mittelgroße Konserven",
-        "Russian":"Случайные консервы среднего размера",
-        "Turkish":"Rastgele Orta Konserve Gıda",
-        "Korean":"무작위 중간 통조림",
-        "Italian":"Confezione media di cibo in scatola casuale",
-        "Simplified Chinese":"随机中等罐头食品",
-		"Japanese":"ランダム配置される缶詰（中）"
+    "GAMEPLAY_RandomMediumCannedFood": {
+        "English": "Random Medium Canned Food",
+        "French (France)": "Boîte de nourriture au hasard moyenne.",
+        "German": "Zufällige mittelgroße Konserven",
+        "Russian": "Случайные консервы среднего размера",
+        "Turkish": "Rastgele Orta Konserve Gıda",
+        "Korean": "무작위 중간 통조림",
+        "Italian": "Confezione media di cibo in scatola casuale",
+        "Simplified Chinese": "随机中等罐头食品",
+        "Japanese": "ランダム配置される缶詰（中）"
     },
-    "GAMEPLAY_RandomMediumCannedFoodDescription":{
-        "English":"A spawn point for medium canned food items.",
-        "French (France)":"Un point d'apparition pour les gros aliments en conserve moyenne.",
-        "German":"Ein Spawnpunkt für mittelgroße Konserven.",
-        "Russian":"Место появления консервов среднего размера.",
-        "Turkish":"Orta boy konserve yiyecekler için bir yumurtlama noktası.",
-        "Korean":"무작위 중간 통조림 아이템의 스폰 지점입니다.",
-        "Italian":"Punto di generazione per confezioni di cibo in scatola medie.",
-        "Simplified Chinese":"中等罐头食品的刷新点。",
-		"Japanese":"缶詰（中）の配置されるポイント"
+    "GAMEPLAY_RandomMediumCannedFoodDescription": {
+        "English": "A spawn point for medium canned food items.",
+        "French (France)": "Un point d'apparition pour les gros aliments en conserve moyenne.",
+        "German": "Ein Spawnpunkt für mittelgroße Konserven.",
+        "Russian": "Место появления консервов среднего размера.",
+        "Turkish": "Orta boy konserve yiyecekler için bir yumurtlama noktası.",
+        "Korean": "무작위 중간 통조림 아이템의 스폰 지점입니다.",
+        "Italian": "Punto di generazione per confezioni di cibo in scatola medie.",
+        "Simplified Chinese": "中等罐头食品的刷新点。",
+        "Japanese": "缶詰（中）の配置されるポイント"
     },
-    "GAMEPLAY_RandomSodaTall":{
-        "English":"Random Tall Soda Can",
-        "French (France)":"Grande canette de Soda aléatoire",
-        "German":"Zufällig hohe Getränkedose",
-        "Russian":"Случайная большая банка газировки",
-        "Turkish":"Rastgele Uzun Soda Kutusu",
-        "Korean":"무작위 큰 소다 캔.",
-        "Italian":"Bevanda in lattina grande casuale",
-        "Simplified Chinese":"随机高苏打罐",
-		"Japanese":"ランダム配置される缶飲料"
+    "GAMEPLAY_RandomSodaTall": {
+        "English": "Random Tall Soda Can",
+        "French (France)": "Grande canette de Soda aléatoire",
+        "German": "Zufällig hohe Getränkedose",
+        "Russian": "Случайная большая банка газировки",
+        "Turkish": "Rastgele Uzun Soda Kutusu",
+        "Korean": "무작위 큰 소다 캔.",
+        "Italian": "Bevanda in lattina grande casuale",
+        "Simplified Chinese": "随机高苏打罐",
+        "Japanese": "ランダム配置される缶飲料"
     },
-    "GAMEPLAY_RandomSodaTallDescription":{
-        "English":"A spawn point for tall soda cans.",
-        "French (France)":"Un point d'apparition pour les grandes canettes de soda.",
-        "German":"Ein Spawnpunkt für hohe Getränkedosen.",
-        "Russian":"Место появления больших банок с газировкой.",
-        "Turkish":"Uzun soda kutuları için bir yumurtlama noktası.",
-        "Korean":"무작위 큰 소다 캔 아이템의 스폰 지점입니다.",
-        "Italian":"Punto di generazione per grandi bavende in lattina.",
-        "Simplified Chinese":"高汽水罐的刷新点。",
-		"Japanese":"缶飲料の配置されるポイント。"
+    "GAMEPLAY_RandomSodaTallDescription": {
+        "English": "A spawn point for tall soda cans.",
+        "French (France)": "Un point d'apparition pour les grandes canettes de soda.",
+        "German": "Ein Spawnpunkt für hohe Getränkedosen.",
+        "Russian": "Место появления больших банок с газировкой.",
+        "Turkish": "Uzun soda kutuları için bir yumurtlama noktası.",
+        "Korean": "무작위 큰 소다 캔 아이템의 스폰 지점입니다.",
+        "Italian": "Punto di generazione per grandi bavende in lattina.",
+        "Simplified Chinese": "高汽水罐的刷新点。",
+        "Japanese": "缶飲料の配置されるポイント。"
     },
-    "GAMEPLAY_RandomSmallPacket":{
-        "English":"Random Small Packet",
-        "French (France)":"Petit paquet aléatoire",
-        "German":"Zufälliges kleines Paket",
-        "Russian":"Случайный маленький пакет",
-        "Turkish":"Rastgele Küçük Paket",
-        "Korean":"무작위 소용량 분말팩",
-        "Italian":"Bustina casuale",
-        "Simplified Chinese":"随机小包",
-		"Japanese":"ランダム配置される粉末飲料パック"
+    "GAMEPLAY_RandomSmallPacket": {
+        "English": "Random Small Packet",
+        "French (France)": "Petit paquet aléatoire",
+        "German": "Zufälliges kleines Paket",
+        "Russian": "Случайный маленький пакет",
+        "Turkish": "Rastgele Küçük Paket",
+        "Korean": "무작위 소용량 분말팩",
+        "Italian": "Bustina casuale",
+        "Simplified Chinese": "随机小包",
+        "Japanese": "ランダム配置される粉末飲料パック"
     },
-    "GAMEPLAY_RandomSmallPacketDescription":{
-        "English":"A spawn point for small food packets.",
-        "French (France)":"Un point d'apparition pour les petits paquets aléatoire.",
-        "German":"Ein Spawnpunkt für kleine Futterpakete.",
-        "Russian":"Место появления маленьких пакетов с едой.",
-        "Turkish":"Küçük yiyecek paketleri için bir yumurtlama noktası.",
-        "Korean":"무작위 소용량 분말팩 아이템의 스폰 지점입니다.",
-        "Italian":"Punto di generazione per bustine di cibo.",
-        "Simplified Chinese":"小食品包的刷新点。",
-		"Japanese":"粉末飲料のパックが配置されるポイント"
+    "GAMEPLAY_RandomSmallPacketDescription": {
+        "English": "A spawn point for small food packets.",
+        "French (France)": "Un point d'apparition pour les petits paquets aléatoire.",
+        "German": "Ein Spawnpunkt für kleine Futterpakete.",
+        "Russian": "Место появления маленьких пакетов с едой.",
+        "Turkish": "Küçük yiyecek paketleri için bir yumurtlama noktası.",
+        "Korean": "무작위 소용량 분말팩 아이템의 스폰 지점입니다.",
+        "Italian": "Punto di generazione per bustine di cibo.",
+        "Simplified Chinese": "小食品包的刷新点。",
+        "Japanese": "粉末飲料のパックが配置されるポイント"
     },
-    "GAMEPLAY_RandomCerealBox":{
-        "English":"Random Cereal Box",
-        "French (France)":"Boîte de céréales au hasard",
-        "German":"Zufällige Müslischachtel",
-        "Russian":"Случайная коробка с хлопьями",
-        "Turkish":"Rastgele Tahıl Kutusu",
-        "Korean":"무작위 시리얼 박스",
-        "Italian":"Scatola di cereali casuale",
-        "Simplified Chinese":"随机麦片盒",
-		"Japanese":"ランダム配置されるシリアルの箱"
+    "GAMEPLAY_RandomCerealBox": {
+        "English": "Random Cereal Box",
+        "French (France)": "Boîte de céréales au hasard",
+        "German": "Zufällige Müslischachtel",
+        "Russian": "Случайная коробка с хлопьями",
+        "Turkish": "Rastgele Tahıl Kutusu",
+        "Korean": "무작위 시리얼 박스",
+        "Italian": "Scatola di cereali casuale",
+        "Simplified Chinese": "随机麦片盒",
+        "Japanese": "ランダム配置されるシリアルの箱"
     },
-    "GAMEPLAY_RandomCerealBoxDescription":{
-        "English":"A spawn point for cereal boxes.",
-        "French (France)":"Un point d'apparition pour des boites de céréales.",
-        "German":"Ein Spawnpunkt für Müslischachteln.",
-        "Russian":"Место появления коробок с хлопьями.",
-        "Turkish":"Tahıl kutuları için bir yumurtlama noktası.",
-        "Korean":"무작위 시리얼 박스의 스폰 지점입니다.",
-        "Italian":"Punto di generazione per le scatole di cereali.",
-        "Simplified Chinese":"谷物盒的生成点。",
-		"Japanese":"シリアルの箱の配置されるポイント。"
+    "GAMEPLAY_RandomCerealBoxDescription": {
+        "English": "A spawn point for cereal boxes.",
+        "French (France)": "Un point d'apparition pour des boites de céréales.",
+        "German": "Ein Spawnpunkt für Müslischachteln.",
+        "Russian": "Место появления коробок с хлопьями.",
+        "Turkish": "Tahıl kutuları için bir yumurtlama noktası.",
+        "Korean": "무작위 시리얼 박스의 스폰 지점입니다.",
+        "Italian": "Punto di generazione per le scatole di cereali.",
+        "Simplified Chinese": "谷物盒的生成点。",
+        "Japanese": "シリアルの箱の配置されるポイント。"
     },
-    "GAMEPLAY_RandomLiquorBottle":{
-        "English":"Random Liquor Bottle",
-        "French (France)":"Bouteille d'alcool au hasard.",
-        "German":"Zufällige Schnapsflasche",
-        "Russian":"Случайная бутылка алкоголя",
-        "Turkish":"Rastgele Likör Şişesi",
-        "Korean":"무작위 주류 병",
-        "Italian":"Bottiglia di liquore casuale",
-        "Simplified Chinese":"随机酒瓶",
-		"Japanese":"ランダム配置される酒瓶"
+    "GAMEPLAY_RandomLiquorBottle": {
+        "English": "Random Liquor Bottle",
+        "French (France)": "Bouteille d'alcool au hasard.",
+        "German": "Zufällige Schnapsflasche",
+        "Russian": "Случайная бутылка алкоголя",
+        "Turkish": "Rastgele Likör Şişesi",
+        "Korean": "무작위 주류 병",
+        "Italian": "Bottiglia di liquore casuale",
+        "Simplified Chinese": "随机酒瓶",
+        "Japanese": "ランダム配置される酒瓶"
     },
-    "GAMEPLAY_RandomLiquorBottleDescription":{
-        "English":"A spawn point for liquor bottles.",
-        "French (France)":"Un point d'apparition pour des bouteilles d'alcool au hasard.",
-        "German":"Ein Spawnpunkt für Schnapsflaschen.",
-        "Russian":"Место появления бутылок с алкоголем.",
-        "Turkish":"İçki şişeleri için bir yumurtlama noktası.",
-        "Korean":"무작위 주류 병의 스폰 지점입니다.",
-        "Italian":"Punto di generazione per bottiglie di liquore.",
-        "Simplified Chinese":"酒瓶的刷新点。",
-		"Japanese":"酒瓶の配置されるポイント。"
+    "GAMEPLAY_RandomLiquorBottleDescription": {
+        "English": "A spawn point for liquor bottles.",
+        "French (France)": "Un point d'apparition pour des bouteilles d'alcool au hasard.",
+        "German": "Ein Spawnpunkt für Schnapsflaschen.",
+        "Russian": "Место появления бутылок с алкоголем.",
+        "Turkish": "İçki şişeleri için bir yumurtlama noktası.",
+        "Korean": "무작위 주류 병의 스폰 지점입니다.",
+        "Italian": "Punto di generazione per bottiglie di liquore.",
+        "Simplified Chinese": "酒瓶的刷新点。",
+        "Japanese": "酒瓶の配置されるポイント。"
     },
-
-	
-	
-
-	"GAMEPLAY_NOTE_TITL": {
-		"English": "Note from a Quonset Gas Station Employee",
-        "French (France)":"Note d'un employé de la station-service Quonset",
-		"Japanese": "クォンセット・ガレージ従業員のメモ。",
-		"German": "Notiz eines Angestellten der Quonset-Tankstelle",
-		"Russian": "Записка от работника заправки Квонсета",
-        "Spanish (Spain)" : "Nota de un trabajador del taller Quonset"
-	},
-	"GAMEPLAY_NOTE_DESC": {
-		"English": "A note written by an employee at the Gas Station Employee.",
-        "French (France)":"Note écrit par un employé de la station-service Quonset",
-		"Japanese": "クォンセット・ガレージ従業員の一人により書かれたメモ。",
-		"German": "Eine Notiz, die von einem Angestellten der Tankstelle verfasst wurde.",
-		"Russian": "Записка, оставленная работником заправки Квонсета.",
-        "Spanish (Spain)" : "Una nota escrita por un trabajador del taller Quonset."
-	},
-	"GAMEPLAY_NOTE_LORE": {
-		"English": "Twelve cereal boxes, four Honey Jars, and a couple packages of... vodka bottles? I gotta import these goods from my local dealer whose nickname comes by as 'Kai' whatever that means. He rarely drops by, it's gonna take weeks if not months. Besides, what the hell is going on out there? There's no power, no communication from the outside. How the hell am I gonna restock? \n\nIf only I could communicate with the Old Man at the Pleasant Valley Farmhouse... He's a complete dickhead but tips quite well, even though he totally doesn't have to. \n\n\nFor now, I'm gonna go home. \n\n*a signature would be seen here; 'G. Chalkias'.",
-        "French (France)":"Twelve cereal boxes, four Honey Jars, and a couple packages of... vodka bottles? I gotta import these goods from my local dealer whose nickname comes by as 'Kai' whatever that means. He rarely drops by, it's gonna take weeks if not months. Besides, what the hell is going on out there? There's no power, no communication from the outside. How the hell am I gonna restock? \n\nIf only I could communicate with the Old Man at the Pleasant Valley Farmhouse... He's a complete dickhead but tips quite well, even though he totally doesn't have to. \n\n\nFor now, I'm gonna go home. \n\n*a signature would be seen here; 'G. Chalkias'.",
-		"German": "Zwölf Müslischachteln, vier Honiggläser und ein paar Packungen... Wodkaflaschen? Ich muss diese Waren aus von meinem örtlichen Händler importieren, dessen Spitzname 'Kai' lautet, was auch immer das bedeutet. Er kommt selten vorbei. Es wird Wochen, wenn nicht sogar Monate dauern. Außerdem, was zum Teufel ist da draußen los? Es gibt keinen Strom, keine Kommunikation von außen. Wie zum Teufel soll ich meine Vorräte auffüllen?\n\nWenn ich nur mit dem alten Mann im Bauernhaus im Idyllischen Tal kommunizieren könnte... Er ist ein kompletter Idiot, gibt aber recht gutes Trinkgeld, auch wenn er es überhaupt nicht muss.\n\n\nFür den Moment gehe ich nach Hause.\n\n*hier wäre eine Signatur zu sehen; 'G. Chalkias'." ,
-		"Russian": "Двенадцать коробок с хлопьями, четыре банки с медом и пара упаковок... бутылок водки? Я должен импортировать эти товары у моего местного дилера под прозвищем «Кай», что бы это ни значило. Он редко заходит, и на это уйдут недели, если не месяцы. Кроме того, что, черт возьми, там происходит? Нет электричества, нет связи с внешним миром. Как, черт возьми, мне пополнять запасы? \n\nЕсли бы я только мог связаться со стариком с фермы в Приятной долине... Он полный придурок, но довольно хорошо дает на чай, хотя в этом нет никакой необходимости. \n\n\nПока что пойду-ка я домой. \n\n* здесь должна быть подпись; 'Г. Халкия'.",
-		"Japanese": "シリアル12箱、ハチミツの瓶が4箱、そしてウオッカ？のパッケージが二つ。私はこれらの品物を「カイ」と呼ばれている地元の業者から入手している。彼は滅多に来ないから、入手には数週間はかかるだろう。その上、一体全体何がここで起こっているのか？ここには電力も、島外との通信も何一つない。物資の補充はどうすればいいんだ？\n\nもしプレザント・バレー農場の主人と話せたなら……彼はどうしようもないバカだがこの手のことはよく心得ている、たとえ、彼にそうする義務が一切なかったとしてもだ。\n\n\nひとまず、家に帰るつもりだ。\n\n*ここに署名がある。 'G.ハルキアス' ",
-        "Spanish (Spain)" : "Doce cajas de cereales, cuatro tarros de miel, y un par de paquetes de... ¿Botellas de vodka? Tengo que importar esta mercancía a través de mi distribuidor local cuyo apodo es 'Kai', lo que sea que signifique eso. Raramente se pasa por aquí, le va a llevar semanas, meses incluso. Además ¿Qué cojones está pasando ahí fuera? No hay luz, ni comunicación de fuera. ¿Cómo demonios voy a reponer todo esto? \n\n Si pudiese comunicarme con el anciano de la granja en Valle Apacible... Es un gilipollas de cuidado pero deja buena propina, teniendo en cuenta que ni siquiera hace falta. \n\n\nPor ahora, me voy a casa. \n\n*Se puede ver una firma a pie de página; 'G. Chalkias'."
-	},
-	
-	
-	
-	"GAMEPLAY_NOTE_TITL_2": {
-		"English": "Note from a Rural Store Employee",
-        "French (France)":"Note d'un employé d'un magasin rural",
-		"Japanese": "田舎の商店の従業員のメモ。",
-		"German": "Notiz eines Angestellten des örtlichen Ladens",
-		"Russian": "Записка от работника сельского магазина",
-"       Spanish (Spain)" : "Nota de un empleado de una tienda rural"
-	},
-	"GAMEPLAY_NOTE_DESC_2": {
-		"English": "A note written by an employee at the Rural Store.",
-        "French (France)":"Note ecrit par un employé d'un magasin rural.",
-		"Japanese": "田舎の商店の従業員の一人により書かれたメモ。",
-		"German": "Eine Notiz, die von einem Angestellten des örtlichen Ladens verfasst wurde.",
-		"Russian": "Записка, написанная работником сельского магазина.",
-        "Spanish (Spain)" : "Una nota escrita por un empleado de la tienda del Valle Apacible."
-	},
-	"GAMEPLAY_NOTE_LORE_2": {
-		"English": "A shady guy just dropped by and told me that my can of tunas scares away, what, wolves? I'm not sure what was he on but we don't have wolves around here. However, I did hear their howl from time to time which seemed strange to me because they rarely if ever approach settlements. \n\nAnyway, I'm not sure what my colleague is doing down there at Coastal Highway but the Old Man has been complaining something about his needs not being met, something about not getting enough alcoholic drinks? What a weird person, he should be at a nursery instead. \n\n\nFor some reason my shipment hasn't arrived yet. Not a surprise since the power has been out for a few days and I got a backup generator. I hope it'll come soon enough. \nI'm gonna pay a visit to another colleague of mine up at Mountain Town, and see how he's holding up.",
-        "French (France)":"A shady guy just dropped by and told me that my can of tunas scares away, what, wolves? I'm not sure what was he on but we don't have wolves around here. However, I did hear their howl from time to time which seemed strange to me because they rarely if ever approach settlements. \n\nAnyway, I'm not sure what my colleague is doing down there at Coastal Highway but the Old Man has been complaining something about his needs not being met, something about not getting enough alcoholic drinks? What a weird person, he should be at a nursery instead. \n\n\nFor some reason my shipment hasn't arrived yet. Not a surprise since the power has been out for a few days and I got a backup generator. I hope it'll come soon enough. \nI'm gonna pay a visit to another colleague of mine up at Mountain Town, and see how he's holding up..",
+    "GAMEPLAY_NOTE_TITL": {
+        "English": "Note from a Quonset Gas Station Employee",
+        "French (France)": "Note d'un employé de la station-service Quonset",
+        "Japanese": "クォンセット・ガレージ従業員のメモ。",
+        "German": "Notiz eines Angestellten der Quonset-Tankstelle",
+        "Russian": "Записка от работника заправки Квонсета",
+        "Spanish (Spain)": "Nota de un trabajador del taller Quonset",
+        "Turkish" : "Bir Quonset Benzin İstasyonu Çalışanından Not"
+    },
+    "GAMEPLAY_NOTE_DESC": {
+        "English": "A note written by an employee at the Gas Station Employee.",
+        "French (France)": "Note écrit par un employé de la station-service Quonset",
+        "Japanese": "クォンセット・ガレージ従業員の一人により書かれたメモ。",
+        "German": "Eine Notiz, die von einem Angestellten der Tankstelle verfasst wurde.",
+        "Russian": "Записка, оставленная работником заправки Квонсета.",
+        "Spanish (Spain)": "Una nota escrita por un trabajador del taller Quonset.",
+        "Turkish" : "Benzin istasyonuda çalışan bir kişi tarafından yazılmış not."
+    },
+    "GAMEPLAY_NOTE_LORE": {
+        "English": "Twelve cereal boxes, four Honey Jars, and a couple packages of... vodka bottles? I gotta import these goods from my local dealer whose nickname comes by as 'Kai' whatever that means. He rarely drops by, it's gonna take weeks if not months. Besides, what the hell is going on out there? There's no power, no communication from the outside. How the hell am I gonna restock? \n\nIf only I could communicate with the Old Man at the Pleasant Valley Farmhouse... He's a complete dickhead but tips quite well, even though he totally doesn't have to. \n\n\nFor now, I'm gonna go home. \n\n*a signature would be seen here; 'G. Chalkias'.",
+        "French (France)": "Twelve cereal boxes, four Honey Jars, and a couple packages of... vodka bottles? I gotta import these goods from my local dealer whose nickname comes by as 'Kai' whatever that means. He rarely drops by, it's gonna take weeks if not months. Besides, what the hell is going on out there? There's no power, no communication from the outside. How the hell am I gonna restock? \n\nIf only I could communicate with the Old Man at the Pleasant Valley Farmhouse... He's a complete dickhead but tips quite well, even though he totally doesn't have to. \n\n\nFor now, I'm gonna go home. \n\n*a signature would be seen here; 'G. Chalkias'.",
+        "German": "Zwölf Müslischachteln, vier Honiggläser und ein paar Packungen... Wodkaflaschen? Ich muss diese Waren aus von meinem örtlichen Händler importieren, dessen Spitzname 'Kai' lautet, was auch immer das bedeutet. Er kommt selten vorbei. Es wird Wochen, wenn nicht sogar Monate dauern. Außerdem, was zum Teufel ist da draußen los? Es gibt keinen Strom, keine Kommunikation von außen. Wie zum Teufel soll ich meine Vorräte auffüllen?\n\nWenn ich nur mit dem alten Mann im Bauernhaus im Idyllischen Tal kommunizieren könnte... Er ist ein kompletter Idiot, gibt aber recht gutes Trinkgeld, auch wenn er es überhaupt nicht muss.\n\n\nFür den Moment gehe ich nach Hause.\n\n*hier wäre eine Signatur zu sehen; 'G. Chalkias'.",
+        "Russian": "Двенадцать коробок с хлопьями, четыре банки с медом и пара упаковок... бутылок водки? Я должен импортировать эти товары у моего местного дилера под прозвищем «Кай», что бы это ни значило. Он редко заходит, и на это уйдут недели, если не месяцы. Кроме того, что, черт возьми, там происходит? Нет электричества, нет связи с внешним миром. Как, черт возьми, мне пополнять запасы? \n\nЕсли бы я только мог связаться со стариком с фермы в Приятной долине... Он полный придурок, но довольно хорошо дает на чай, хотя в этом нет никакой необходимости. \n\n\nПока что пойду-ка я домой. \n\n* здесь должна быть подпись; 'Г. Халкия'.",
+        "Japanese": "シリアル12箱、ハチミツの瓶が4箱、そしてウオッカ？のパッケージが二つ。私はこれらの品物を「カイ」と呼ばれている地元の業者から入手している。彼は滅多に来ないから、入手には数週間はかかるだろう。その上、一体全体何がここで起こっているのか？ここには電力も、島外との通信も何一つない。物資の補充はどうすればいいんだ？\n\nもしプレザント・バレー農場の主人と話せたなら……彼はどうしようもないバカだがこの手のことはよく心得ている、たとえ、彼にそうする義務が一切なかったとしてもだ。\n\n\nひとまず、家に帰るつもりだ。\n\n*ここに署名がある。 'G.ハルキアス' ",
+        "Spanish (Spain)": "Doce cajas de cereales, cuatro tarros de miel, y un par de paquetes de... ¿Botellas de vodka? Tengo que importar esta mercancía a través de mi distribuidor local cuyo apodo es 'Kai', lo que sea que signifique eso. Raramente se pasa por aquí, le va a llevar semanas, meses incluso. Además ¿Qué cojones está pasando ahí fuera? No hay luz, ni comunicación de fuera. ¿Cómo demonios voy a reponer todo esto? \n\n Si pudiese comunicarme con el anciano de la granja en Valle Apacible... Es un gilipollas de cuidado pero deja buena propina, teniendo en cuenta que ni siquiera hace falta. \n\n\nPor ahora, me voy a casa. \n\n*Se puede ver una firma a pie de página; 'G. Chalkias'.",
+        "Turkish" : "On iki mısır gevreği kutusu, dört bal kavanozu ve birkaç paket... votka şişesi? Bu malları, takma adı 'Kai' olan yerel satıcımdan ithal etmeliyim, bu ne anlama geliyorsa. Nadiren uğrar, aylar olmasa da haftalar alır. Ayrıca, orada neler oluyor? Güç yok, dışarıdan iletişim yok. Nasıl stok yapacağım? \n\nKeşke Pleasant Valley Çiftlik Evi'ndeki Yaşlı Adam'la iletişim kurabilseydim... O tam bir sik kafalı ama buna hiç gerek olmadığı halde oldukça iyi bahşiş veriyor. \n\n\nŞimdilik eve gideceğim. \n\n*burada bir imza görülecektir; 'G. Chalkias'."
+    },
+    "GAMEPLAY_NOTE_TITL_2": {
+        "English": "Note from a Rural Store Employee",
+        "French (France)": "Note d'un employé d'un magasin rural",
+        "Japanese": "田舎の商店の従業員のメモ。",
+        "German": "Notiz eines Angestellten des örtlichen Ladens",
+        "Russian": "Записка от работника сельского магазина",
+        "Spanish (Spain)": "Nota de un empleado de una tienda rural",
+        "Turkish" : "Bir Kırsal Mağaza Çalışanından Not"
+    },
+    "GAMEPLAY_NOTE_DESC_2": {
+        "English": "A note written by an employee at the Rural Store.",
+        "French (France)": "Note ecrit par un employé d'un magasin rural.",
+        "Japanese": "田舎の商店の従業員の一人により書かれたメモ。",
+        "German": "Eine Notiz, die von einem Angestellten des örtlichen Ladens verfasst wurde.",
+        "Russian": "Записка, написанная работником сельского магазина.",
+        "Spanish (Spain)": "Una nota escrita por un empleado de la tienda del Valle Apacible.",
+        "Turkish" : "Kırsal Mağazadaki bir çalışan tarafından yazılmış not."
+    },
+    "GAMEPLAY_NOTE_LORE_2": {
+        "English": "A shady guy just dropped by and told me that my can of tunas scares away, what, wolves? I'm not sure what was he on but we don't have wolves around here. However, I did hear their howl from time to time which seemed strange to me because they rarely if ever approach settlements. \n\nAnyway, I'm not sure what my colleague is doing down there at Coastal Highway but the Old Man has been complaining something about his needs not being met, something about not getting enough alcoholic drinks? What a weird person, he should be at a nursery instead. \n\n\nFor some reason my shipment hasn't arrived yet. Not a surprise since the power has been out for a few days and I got a backup generator. I hope it'll come soon enough. \nI'm gonna pay a visit to another colleague of mine up at Mountain Town, and see how he's holding up.",
+        "French (France)": "A shady guy just dropped by and told me that my can of tunas scares away, what, wolves? I'm not sure what was he on but we don't have wolves around here. However, I did hear their howl from time to time which seemed strange to me because they rarely if ever approach settlements. \n\nAnyway, I'm not sure what my colleague is doing down there at Coastal Highway but the Old Man has been complaining something about his needs not being met, something about not getting enough alcoholic drinks? What a weird person, he should be at a nursery instead. \n\n\nFor some reason my shipment hasn't arrived yet. Not a surprise since the power has been out for a few days and I got a backup generator. I hope it'll come soon enough. \nI'm gonna pay a visit to another colleague of mine up at Mountain Town, and see how he's holding up..",
         "German": "Ein zwielichtiger Typ ist gerade vorbeigekommen und hat mir erzählt, dass mein Vorrat an Thunfischdosen Wölfe verscheucht? Ich bin mir nicht sicher, was er vorhatte, aber wir haben hier keine Wölfe. Allerdings hörte ich von Zeit zu Zeit ihr Heulen, was mir seltsam vorkam, da sie sich selten oder nie einer Siedlung nähern.\n\nJedenfalls bin ich mir nicht sicher, was mein Kollege da unten in der Küstenstraße macht, aber der alte Mann hat sich darüber beschwert, dass seine Bedürfnisse nicht erfüllt werden, dass er nicht genug alkoholische Getränke bekommt? Was für ein seltsamer Mensch, er sollte stattdessen in einem Kindergarten sein.\n\n\nAus irgendeinem Grund ist meine Lieferung noch nicht angekommen. Kein Wunder, da der Strom schon seit ein paar Tagen ausfällt und ich mir einen Notstromgenerator besorgt habe. Ich hoffe, er kommt früh genug.\nIch werde einem anderen Kollegen in der Gebirgsstadt einen Besuch abstatten und sehen, wie es ihm geht.",
-		"Russian": "Только что зашел подозрительный тип и сказал мне, что моя банка тунца отпугивает... волков? Не знаю, о чем он вообще говорил, но у нас здесь нет волков. Однако иногда я слышал их вой, что казалось мне странным, потому что они редко, если вообще когда-либо приближались к поселениям. \n\nВ любом случае, я не уверен, что мой коллега делает там, на Прибрежном шоссе, но Старик жалуется на то, что все-то ему не хватает, и еще что-то про то, что ему не хватает спиртного? Такой странный человек, в ясли бы его. \n\n\nПочему-то моя посылка еще не пришла. Неудивительно, так как электричество отключилось на несколько дней, а у меня есть запасной генератор. Надеюсь, она скоро придет. \nЯ собираюсь навестить другого своего коллегу в Горном городе и посмотреть, как он держится.",
-		"Japanese": "ついさっき立ち寄った怪しい男がうちのツナ缶がやつら（……狼？）を追い払ってるのだ、と言っていた。その通りだとは思えないが、我々がこのあたりで狼に出くわしてないのは確かだ。けれども、あいつらの吠え声を時々聞くこと自体は奇妙なことに思える。なぜなら、連中が住宅地に近づくことは皆無ではないが滅多にないことだからだ。\n\nそれはそうと、沿岸のハイウェイで仕事をしている私の同僚に用事がある（酒が十分手に入らないことについてだろうか？）のに会えない、と農場主が愚痴っていたことについては同意できない。変人め、それより苗床の様子でも見ているべきだ。\n\n\n諸々の事情により私の貨物はいまだ到着していない。数日間にわたる停電を経験し、非常用発電機を入手することになった今では驚くようなことではない。だが私は貨物が速やかに届くであろうことを願っている。\n私はこれから山間の町へ行ったもう一人の同僚のもとを訪れて、支払いと彼の難渋している状況を確かめるつもりだ。",
-        "Spanish (Spain)" : "Un tipo un poco turbio acaba de venir para decirme que mis latas de atún asusta... a qué ¿Lobos?. No sé de que iba pero aquí no hay lobos. Aunque, me parece haber escuchado sus aullidos de vez en cuando, lo cual me parece un poco raro ya que raramente se acercan aquí. \n\nEn cualquier caso, no sé que estará haciendo mi compañero en la Autovía Litoral, pero el anciano se ha estado quejando de que sus necesidades no están cubiertas ¿Algo sobre que no está recibiendo suficientes bebidas alcohólicas, o algo así? Que persona más extraña, debería estar en una residencia. \n\n\nPor alguna razón my cargamento no ha llegado todavía. Tampoco es una sorpresa porque la electricidad lleva cortada unos días y tengo un generador de emergencia. Espero que venga lo antes posible. \nVoy a hacerle una visita a mi compañera en Milton, a ver cómo le va."
-	},
-	
-	
-	"GAMEPLAY_NOTE_TITL_3": {
-		"English": "Note from a Convenience Store Employee",
-        "French (France)":"Note d'un employé de dépanneur",
-		"Japanese": "コンビニ従業員のメモ",
-		"German": "Noitz eines Angestellten des Gemischwarenladens",
-		"Russian": "Записка от работника минимаркета",
-        "Spanish (Spain)" : "Nota de una empleada de una tienda de ultramarinos"
-	},
-	"GAMEPLAY_NOTE_DESC_3": {
-		"English": "A note written by an employee at the Convenience Store",
-        "French (France)":"Note ecrit par un employé de dépanneur",
-		"Japanese": "コンビニ従業員の一人により書かれたメモ",
-		"German": "Eine Noitz, die von einem Angestellten des Gemischtwarenladens verfasst wurde",
-		"Russian": "Записка, оставленная работником минимаркета",
-        "Spanish (Spain)" : "Una nota escrita por una empleada de la tienda de ultramarinos de Milton"
-	},
-	"GAMEPLAY_NOTE_LORE_3": {
-		"English": "I just delivered ten stocks of twenty cans and plastics of Forsaken Spirits drinks, a supply order from Mr. Smith at Forsaken Hangar. \nAre they crazy or addicted to this drink? Yeah, the brand happened to share the name of that airport 'Forsaken Airfield' but they are overdoing it. I'm almost out of Forsaken Spirits stock and I don't know when I'll get my next delivery because of this stupid power outage. \n\nThis old hag is pestering me about her boxes of hot cocoa running out as if I care enough about that on top of the supply problems I got right now. \n\n\nMaybe I should ask my old pal, Chalkias, to share some of his goods in the meantime.",
-        "French (France)":"I just delivered ten stocks of twenty cans and plastics of Forsaken Spirits drinks, a supply order from Mr. Smith at Forsaken Hangar. \nAre they crazy or addicted to this drink? Yeah, the brand happened to share the name of that airport 'Forsaken Airfield' but they are overdoing it. I'm almost out of Forsaken Spirits stock and I don't know when I'll get my next delivery because of this stupid power outage. \n\nThis old hag is pestering me about her boxes of hot cocoa running out as if I care enough about that on top of the supply problems I got right now. \n\n\nMaybe I should ask my old pal, Chalkias, to share some of his goods in the meantime.",
+        "Russian": "Только что зашел подозрительный тип и сказал мне, что моя банка тунца отпугивает... волков? Не знаю, о чем он вообще говорил, но у нас здесь нет волков. Однако иногда я слышал их вой, что казалось мне странным, потому что они редко, если вообще когда-либо приближались к поселениям. \n\nВ любом случае, я не уверен, что мой коллега делает там, на Прибрежном шоссе, но Старик жалуется на то, что все-то ему не хватает, и еще что-то про то, что ему не хватает спиртного? Такой странный человек, в ясли бы его. \n\n\nПочему-то моя посылка еще не пришла. Неудивительно, так как электричество отключилось на несколько дней, а у меня есть запасной генератор. Надеюсь, она скоро придет. \nЯ собираюсь навестить другого своего коллегу в Горном городе и посмотреть, как он держится.",
+        "Japanese": "ついさっき立ち寄った怪しい男がうちのツナ缶がやつら（……狼？）を追い払ってるのだ、と言っていた。その通りだとは思えないが、我々がこのあたりで狼に出くわしてないのは確かだ。けれども、あいつらの吠え声を時々聞くこと自体は奇妙なことに思える。なぜなら、連中が住宅地に近づくことは皆無ではないが滅多にないことだからだ。\n\nそれはそうと、沿岸のハイウェイで仕事をしている私の同僚に用事がある（酒が十分手に入らないことについてだろうか？）のに会えない、と農場主が愚痴っていたことについては同意できない。変人め、それより苗床の様子でも見ているべきだ。\n\n\n諸々の事情により私の貨物はいまだ到着していない。数日間にわたる停電を経験し、非常用発電機を入手することになった今では驚くようなことではない。だが私は貨物が速やかに届くであろうことを願っている。\n私はこれから山間の町へ行ったもう一人の同僚のもとを訪れて、支払いと彼の難渋している状況を確かめるつもりだ。",
+        "Spanish (Spain)": "Un tipo un poco turbio acaba de venir para decirme que mis latas de atún asusta... a qué ¿Lobos?. No sé de que iba pero aquí no hay lobos. Aunque, me parece haber escuchado sus aullidos de vez en cuando, lo cual me parece un poco raro ya que raramente se acercan aquí. \n\nEn cualquier caso, no sé que estará haciendo mi compañero en la Autovía Litoral, pero el anciano se ha estado quejando de que sus necesidades no están cubiertas ¿Algo sobre que no está recibiendo suficientes bebidas alcohólicas, o algo así? Que persona más extraña, debería estar en una residencia. \n\n\nPor alguna razón my cargamento no ha llegado todavía. Tampoco es una sorpresa porque la electricidad lleva cortada unos días y tengo un generador de emergencia. Espero que venga lo antes posible. \nVoy a hacerle una visita a mi compañera en Milton, a ver cómo le va.",
+        "Turkish" : "Az önce gölgeli bir adam uğradı ve ton balığı konservemin korkuttuğunu söyledi, hangi kurtlar? Ne kullandığından emin değilim ama buralarda kurt yok. Bununla birlikte, zaman zaman ulumalarını duydum, bu bana garip geldi çünkü yerleşim yerlerine nadiren yaklaşırlar, hatta hiç yaklaşmazlar. \n\nHer neyse, meslektaşımın Sahil Yolu'nda ne yaptığından emin değilim ama Yaşlı Adam ihtiyaçlarının karşılanmadığından, yeterince alkollü içki almadığından şikayet ediyor? Ne tuhaf bir insan, onun yerine çocuk odasında olmalı. \n\n\nNedense kargom henüz ulaşmadı. Güç birkaç gündür kesildiğinden ve bir yedek jeneratör aldığımdan beri sürpriz değil. Umarım yakında gelir. \nMountain Town'daki başka bir meslektaşımı ziyaret edeceğim ve nasıl dayandığına bakacağım."
+    },
+    "GAMEPLAY_NOTE_TITL_3": {
+        "English": "Note from a Convenience Store Employee",
+        "French (France)": "Note d'un employé de dépanneur",
+        "Japanese": "コンビニ従業員のメモ",
+        "German": "Noitz eines Angestellten des Gemischwarenladens",
+        "Russian": "Записка от работника минимаркета",
+        "Spanish (Spain)": "Nota de una empleada de una tienda de ultramarinos",
+        "Turkish" : "Bir market çalışanından not"
+    },
+    "GAMEPLAY_NOTE_DESC_3": {
+        "English": "A note written by an employee at the Convenience Store",
+        "French (France)": "Note ecrit par un employé de dépanneur",
+        "Japanese": "コンビニ従業員の一人により書かれたメモ",
+        "German": "Eine Noitz, die von einem Angestellten des Gemischtwarenladens verfasst wurde",
+        "Russian": "Записка, оставленная работником минимаркета",
+        "Spanish (Spain)": "Una nota escrita por una empleada de la tienda de ultramarinos de Milton",
+        "Turkish" : "Marketteki bir çalışan tarafından yazılmış not"
+    },
+    "GAMEPLAY_NOTE_LORE_3": {
+        "English": "I just delivered ten stocks of twenty cans and plastics of Forsaken Spirits drinks, a supply order from Mr. Smith at Forsaken Hangar. \nAre they crazy or addicted to this drink? Yeah, the brand happened to share the name of that airport 'Forsaken Airfield' but they are overdoing it. I'm almost out of Forsaken Spirits stock and I don't know when I'll get my next delivery because of this stupid power outage. \n\nThis old hag is pestering me about her boxes of hot cocoa running out as if I care enough about that on top of the supply problems I got right now. \n\n\nMaybe I should ask my old pal, Chalkias, to share some of his goods in the meantime.",
+        "French (France)": "I just delivered ten stocks of twenty cans and plastics of Forsaken Spirits drinks, a supply order from Mr. Smith at Forsaken Hangar. \nAre they crazy or addicted to this drink? Yeah, the brand happened to share the name of that airport 'Forsaken Airfield' but they are overdoing it. I'm almost out of Forsaken Spirits stock and I don't know when I'll get my next delivery because of this stupid power outage. \n\nThis old hag is pestering me about her boxes of hot cocoa running out as if I care enough about that on top of the supply problems I got right now. \n\n\nMaybe I should ask my old pal, Chalkias, to share some of his goods in the meantime.",
         "Japanese": "フォーセイクン飛行場のスミス氏から注文があった『フォーセイクン・スピリット』の缶とボトルが20個入った箱10個を届けてきた。\n彼らは狂っているのか、それともアルコール依存症になってしまったのか？うん、この銘柄と飛行場の名前『フォーセイクン飛行場』が偶然一致したからだろう、だけどやりすぎではある。これでフォーセイクン・スピリットの在庫は完売、次の配達がいつになるかはあの馬鹿げた停電のせいでわからない。\n\n彼女のココアの箱が品切れしかけていることに文句を言っている婆さんは、私が供給問題の中でこのことを優先して気にかけていれば問題を解決できるとでも言わんばかりだ。\n\n\nもしかすると、そのうち旧友のハルキアスに彼の手持ちの物資をいくらか融通してもらえるように頼まなければならないかもしれない。",
-		"German": "Ich habe gerade zehn Vorratskisten mit zwanzig Dosen und Plastikflaschen von Forsaken Spirits-Getränken geliefert, eine Nachschubbestellung von Mr. Smith im verlassenen Hangar.\nSind sie verrückt oder süchtig nach diesem Getränk? Ja, die Marke teilt zufällig den Namen dieses Flughafens 'Forsaken Airfield', aber sie übertreiben es. Mein Vorrat an Forsaken Spirit-Getränken ist fast aufgebraucht und ich weiß aufgrund dieses dummen Stromausfalls nicht, wann ich meine nächste Lieferung bekomme.\n\nDiese alte Hexe belästigt mich damit, dass ihre Schachteln mit heißem Kakao zur Neige gehen, als wäre mir das zusätzlich zu den Versorgungsproblemen, die ich gerade habe, wichtig.\n\n\nVielleicht sollte ich meinen alten Kumpel Chalkias bitten, in der Zwischenzeit einige seiner Waren zu teilen.",
-		"Russian": "Я только что доставил десять комплектов из двадцати банок и пластиковых бутылок напитка 'Покинутые духи' по заказу мистера Смита из Покинутого ангара. \nОни там с ума сошли или пристрастились к этому напитку? Да, бренд случайно назвал напиток 'покинутым', как и этот аэродром, но это они переусердствовали. У меня почти закончились запасы 'Покинутых духов', и я не знаю, когда получу следующую доставку из-за этого дурацкого отключения электричества. \n\nЭта старая ведьма пристает ко мне из-за того, что у нее заканчиваются коробки с какао. Как будто меня это волнует, в придачу со всеми другими проблемами с поставками. \n\n\nМожет быть, мне стоит попросить моего старого приятеля Халкия поделиться чем-нибудь из его товаров.",
-        "Spanish (Spain)" : "Acabo de enviar diez reservas de veinte latas y botellas de Espíritus Olvidados, una petición del señor Smith, el del Aeródromo Olvidado. \n ¿Están majaras o adictos a esta mierda? Sí, da la casualidad que la el nombre de la marca se parece al del aeródromo y tal, pero creo que se están`pasando. Ya casi no me quedan reservas de Espíritus Olvidados I no tengo ni idea de cuando llega el siguiente paquete por culpa del puñetero corte de luz. \n\nLa vieja arpía esta me está tocando las narices con que su reserva de cacao se está acabando, como si me importase lo más mínimo, teniendo en cuenta el resto de problemas que tengo ahora. \n\n\nQuizás le pregunte a mi viejo amigo, Chalkias, a ver si puede compartir de lo suyo mientras tanto."
-	},
-	
-	
-	
-	"GAMEPLAY_NOTE_TITL_4": {
-		"English": "Note from the Old Man.",
-        "French (France)":"Note d'un homme vieux.",
-		"Japanese": "農場主のメモ",
-		"German": "Notiz des alten Mannes",
-		"Russian": "Записка Старика",
-        "Spanish (Spain)" : "Nota de un anciano"
-	},
-	"GAMEPLAY_NOTE_DESC_4": {
-		"English": "A note written by the Old Man. It is stained in blood",
-        "French (France)":"Note ecrit par l'homme vieux. Il et teché de sang",
-		"Japanese": "プレザント・バレー農場の農場主が書いたメモ。血がにじんでいる。",
-		"German": "Eine Notiz, die der alte Mann verfasst hat. Sie ist blutgetränkt.",
-		"Russian": "Записка Старика. На записке видны пятна крови.",
-        "Spanish (Spain)" : "Nota escrita por un anciano. Está cubierta de sangre."
-	},
-	"GAMEPLAY_NOTE_LORE_4": {
-		"English": "I should have never ordered a huge amount of cereal boxes and vodka bottles when I keep forgetting to buy bandages. The nearest store ran out of them so I gotta head to Blackrock, they got the only infirmary in this cursed island. \n\nSpeaking of, since when do wolves attack people on sight now? One of them bit on my hand and it's looking bad! I can't stop the bleeding well enough... Better go fast. \n\n\nIf you find this note, do whatever you want. When the power is back, I'm flying back to Florida. \n\nAt least I'll be dealing with crazed people than wolves and the occasional bear or moose.",
-        "French (France)":"I should have never ordered a huge amount of cereal boxes and vodka bottles when I keep forgetting to buy bandages. The nearest store ran out of them so I gotta head to Blackrock, they got the only infirmary in this cursed island. \n\nSpeaking of, since when do wolves attack people on sight now? One of them bit on my hand and it's looking bad! I can't stop the bleeding well enough... Better go fast. \n\n\nIf you find this note, do whatever you want. When the power is back, I'm flying back to Florida. \n\nAt least I'll be dealing with crazed people than wolves and the occasional bear or moose.",
+        "German": "Ich habe gerade zehn Vorratskisten mit zwanzig Dosen und Plastikflaschen von Forsaken Spirits-Getränken geliefert, eine Nachschubbestellung von Mr. Smith im verlassenen Hangar.\nSind sie verrückt oder süchtig nach diesem Getränk? Ja, die Marke teilt zufällig den Namen dieses Flughafens 'Forsaken Airfield', aber sie übertreiben es. Mein Vorrat an Forsaken Spirit-Getränken ist fast aufgebraucht und ich weiß aufgrund dieses dummen Stromausfalls nicht, wann ich meine nächste Lieferung bekomme.\n\nDiese alte Hexe belästigt mich damit, dass ihre Schachteln mit heißem Kakao zur Neige gehen, als wäre mir das zusätzlich zu den Versorgungsproblemen, die ich gerade habe, wichtig.\n\n\nVielleicht sollte ich meinen alten Kumpel Chalkias bitten, in der Zwischenzeit einige seiner Waren zu teilen.",
+        "Russian": "Я только что доставил десять комплектов из двадцати банок и пластиковых бутылок напитка 'Покинутые духи' по заказу мистера Смита из Покинутого ангара. \nОни там с ума сошли или пристрастились к этому напитку? Да, бренд случайно назвал напиток 'покинутым', как и этот аэродром, но это они переусердствовали. У меня почти закончились запасы 'Покинутых духов', и я не знаю, когда получу следующую доставку из-за этого дурацкого отключения электричества. \n\nЭта старая ведьма пристает ко мне из-за того, что у нее заканчиваются коробки с какао. Как будто меня это волнует, в придачу со всеми другими проблемами с поставками. \n\n\nМожет быть, мне стоит попросить моего старого приятеля Халкия поделиться чем-нибудь из его товаров.",
+        "Spanish (Spain)": "Acabo de enviar diez reservas de veinte latas y botellas de Espíritus Olvidados, una petición del señor Smith, el del Aeródromo Olvidado. \n ¿Están majaras o adictos a esta mierda? Sí, da la casualidad que la el nombre de la marca se parece al del aeródromo y tal, pero creo que se están`pasando. Ya casi no me quedan reservas de Espíritus Olvidados I no tengo ni idea de cuando llega el siguiente paquete por culpa del puñetero corte de luz. \n\nLa vieja arpía esta me está tocando las narices con que su reserva de cacao se está acabando, como si me importase lo más mínimo, teniendo en cuenta el resto de problemas que tengo ahora. \n\n\nQuizás le pregunte a mi viejo amigo, Chalkias, a ver si puede compartir de lo suyo mientras tanto.",
+        "Turkish" : "Az önce Forsaken Hangar'daki Bay Smith'in tedarik siparişi olan on stok yirmi kutu ve plastik Forsaken Spirits içeceği teslim ettim. \nDeli mi yoksa bu içkiye bağımlı mı? Evet, marka tesadüfen o havaalanının adını 'Forsaken Airfield' olarak paylaşıyordu ama abartıyorlar. Forsaken Spirits stoğum neredeyse bitmek üzere ve bu aptalca elektrik kesintisi yüzünden bir sonraki teslimatımı ne zaman alacağımı bilmiyorum. \n\nBu yaşlı cadı, sanki şu anda sahip olduğum tedarik sorunlarına ek olarak bunu yeterince önemsiyormuşum gibi, sıcak kakao kutularının bitmesi konusunda beni rahatsız ediyor. \n\n\nBelki de bu arada eski dostum Chalkias'tan mallarından bazılarını paylaşmasını istemeliyim."
+    },
+    "GAMEPLAY_NOTE_TITL_4": {
+        "English": "Note from the Old Man.",
+        "French (France)": "Note d'un homme vieux.",
+        "Japanese": "農場主のメモ",
+        "German": "Notiz des alten Mannes",
+        "Russian": "Записка Старика",
+        "Spanish (Spain)": "Nota de un anciano",
+        "Turkish" : "Yaşlı Adamdan Not"
+    },
+    "GAMEPLAY_NOTE_DESC_4": {
+        "English": "A note written by the Old Man. It is stained in blood",
+        "French (France)": "Note ecrit par l'homme vieux. Il et teché de sang",
+        "Japanese": "プレザント・バレー農場の農場主が書いたメモ。血がにじんでいる。",
+        "German": "Eine Notiz, die der alte Mann verfasst hat. Sie ist blutgetränkt.",
+        "Russian": "Записка Старика. На записке видны пятна крови.",
+        "Spanish (Spain)": "Nota escrita por un anciano. Está cubierta de sangre.",
+        "Turkish" : "Yaşlı Adam tarafından yazılmış bir not. Kana bulanmış"
+    },
+    "GAMEPLAY_NOTE_LORE_4": {
+        "English": "I should have never ordered a huge amount of cereal boxes and vodka bottles when I keep forgetting to buy bandages. The nearest store ran out of them so I gotta head to Blackrock, they got the only infirmary in this cursed island. \n\nSpeaking of, since when do wolves attack people on sight now? One of them bit on my hand and it's looking bad! I can't stop the bleeding well enough... Better go fast. \n\n\nIf you find this note, do whatever you want. When the power is back, I'm flying back to Florida. \n\nAt least I'll be dealing with crazed people than wolves and the occasional bear or moose.",
+        "French (France)": "I should have never ordered a huge amount of cereal boxes and vodka bottles when I keep forgetting to buy bandages. The nearest store ran out of them so I gotta head to Blackrock, they got the only infirmary in this cursed island. \n\nSpeaking of, since when do wolves attack people on sight now? One of them bit on my hand and it's looking bad! I can't stop the bleeding well enough... Better go fast. \n\n\nIf you find this note, do whatever you want. When the power is back, I'm flying back to Florida. \n\nAt least I'll be dealing with crazed people than wolves and the occasional bear or moose.",
         "Japanese": "包帯を買い忘れた代わりに手に入れてしまったのは頼むつもりなどない大量のシリアルの箱とウオッカの瓶だった。最寄りの店があいつらのせいで使えなくなった以上、この呪われた島で唯一の診療所があるブラックロックへ向かうしかない。\n\n狼たちが見つけ次第人々を襲い始めたことについて言うこと？奴らの一匹が私の手に噛みついて酷い怪我を負わせた！出血を完全に止められない……早く何とかしないと。\n\n\nもし君がこのメモを見つけたなら、好きにしてくれ。元気になったらフロリダに帰る。\n\n狼やたまに現れるクマやヘラジカより、馬鹿であっても人間と付き合いたい。",
-		"German": "Ich hätte nie eine große Menge Müslischachteln und Wodkaflaschen bestellen sollen, wenn ich immer wieder vergesse, Verbandsmaterial zu kaufen. Im nächsten Laden sind sie ausgegangen, also muss ich nach Schwarzfels fahren, dort gibt es die einzige Krankenstation auf dieser verfluchten Insel. \n\nApropos, seit wann greifen Wölfe Menschen an, wenn sie sie sehen? Einer davon hat mir in die Hand gebissen und es sieht schlimm aus! Ich kann die Blutung nicht gut genug stoppen... Es ist besser, schnell zu gehen. \n\n\nWenn jemand diese Notiz findet, tun Sie, was Sie wollen. Wenn der Strom wieder da ist, fliege ich zurück nach Florida. \n\nZumindest werde ich es mit verrückten Menschen zu tun haben, nicht mehr mit Wölfen, dem einen oder anderen Bären oder Elch.",
-		"Russian": "Не стоило мне заказывать столько коробок с хлопьями и бутылок водки, когда я все время забываю купить бинты. В ближайшем магазине они закончились, так что мне нужно отправиться в Блэкрок, там единственный лазарет на этом проклятом острове. \n\nКстати, с каких это пор волки нападают на людей, как только увидят? Один из них укусил меня за руку, и выглядит это дело плохо! Я не могу полностью остановить кровотечение... Надо бы поторопиться. \n\n\nЕсли вы найдете эту записку, делайте, что хотите. Когда электричество вернется, я лечу обратно во Флориду. \n\nПо крайней мере, я буду иметь дело с сумасшедшими, а не с волками и медведями или лосями время от времени.",
-        "Spanish (Spain)" : "Jamás debería haber encargado tal cantidad de cajas de cereales y botellas de vodka cuando sigo olvidándome de comprar vendas. La tienda más cercana se ha quedado sin, así que tendré que ir a Rocanegra, ya que es el único lugar en esta maldita isla donde tienen una enfermería. \n\nHablando de eso ¿Desde cuándo los lobos atacan a la gente nada más verlos? ¡Uno me mordió en la mano y no tiene buena pinta! No puedo detener la hemorragia muy bien... más me vale ir rápido. \n\n\nSi encuentras esta nota, haz lo que te de la gana. Cuando vuelva la luz, me vuelvo a Florida. \n\nAl menos lidiaré con locos, y no con lobos, o el ocasional oso o alce."
-	}
+        "German": "Ich hätte nie eine große Menge Müslischachteln und Wodkaflaschen bestellen sollen, wenn ich immer wieder vergesse, Verbandsmaterial zu kaufen. Im nächsten Laden sind sie ausgegangen, also muss ich nach Schwarzfels fahren, dort gibt es die einzige Krankenstation auf dieser verfluchten Insel. \n\nApropos, seit wann greifen Wölfe Menschen an, wenn sie sie sehen? Einer davon hat mir in die Hand gebissen und es sieht schlimm aus! Ich kann die Blutung nicht gut genug stoppen... Es ist besser, schnell zu gehen. \n\n\nWenn jemand diese Notiz findet, tun Sie, was Sie wollen. Wenn der Strom wieder da ist, fliege ich zurück nach Florida. \n\nZumindest werde ich es mit verrückten Menschen zu tun haben, nicht mehr mit Wölfen, dem einen oder anderen Bären oder Elch.",
+        "Russian": "Не стоило мне заказывать столько коробок с хлопьями и бутылок водки, когда я все время забываю купить бинты. В ближайшем магазине они закончились, так что мне нужно отправиться в Блэкрок, там единственный лазарет на этом проклятом острове. \n\nКстати, с каких это пор волки нападают на людей, как только увидят? Один из них укусил меня за руку, и выглядит это дело плохо! Я не могу полностью остановить кровотечение... Надо бы поторопиться. \n\n\nЕсли вы найдете эту записку, делайте, что хотите. Когда электричество вернется, я лечу обратно во Флориду. \n\nПо крайней мере, я буду иметь дело с сумасшедшими, а не с волками и медведями или лосями время от времени.",
+        "Spanish (Spain)": "Jamás debería haber encargado tal cantidad de cajas de cereales y botellas de vodka cuando sigo olvidándome de comprar vendas. La tienda más cercana se ha quedado sin, así que tendré que ir a Rocanegra, ya que es el único lugar en esta maldita isla donde tienen una enfermería. \n\nHablando de eso ¿Desde cuándo los lobos atacan a la gente nada más verlos? ¡Uno me mordió en la mano y no tiene buena pinta! No puedo detener la hemorragia muy bien... más me vale ir rápido. \n\n\nSi encuentras esta nota, haz lo que te de la gana. Cuando vuelva la luz, me vuelvo a Florida. \n\nAl menos lidiaré con locos, y no con lobos, o el ocasional oso o alce.",
+        "Turkish" : "Bandaj almayı unutup dururken asla büyük miktarda mısır gevreği kutusu ve votka şişesi sipariş etmemeliydim. En yakın mağazada kalmadı, bu yüzden Blackrock'a gitmeliyim, bu lanetli adadaki tek revire sahipler. \n\nBu arada, ne zamandan beri kurtlar insanlara gördükleri yerde saldırıyorlar? Biri elimi ısırdı ve kötü görünüyor! Kanamayı yeterince iyi durduramıyorum... Hızlı gitsen iyi olur. \n\n\nBu notu bulursanız, ne isterseniz yapın. Güç geri geldiğinde, Florida'ya geri uçuyorum. \n\nEn azından kurtlardan ve ara sıra ayı veya amerikan geyiğinden daha çılgın insanlarla uğraşıyor olacağım."
+    }
 }
