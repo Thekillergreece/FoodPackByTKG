@@ -18,7 +18,7 @@ Food items will be rarely found in cars, caves, etc or in places that they would
 ---
 AlcoholMod (Soft Dependency) - All alcoholic drinks will function as non-alcoholic without it.
 
-Jods' Greenery Indors (Soft Dependency) - Install FoodPackByTKG+.modcomponent if using that mod.
+Jods' Greenery Indors (Soft Dependency) - Use FoodPackByTKG+.modcomponent if using that mod.
 
 ---
 
@@ -77,8 +77,8 @@ Currently, the mod is supported by the following languages; English, German, Rus
 ---
 - If you haven't done so already, install MelonLoader by downloading and running MelonLoader.Installer.exe
 - Install the latest version of ModComponent and its dependencies.
-- (IF NOT USING JODS' INDOORS GREENERY MOD) Download latest version of FoodPackByTKG.modcomponent from the releases page.
-- (IF USING JODS' INDOORS GREENERY MOD) Download latest version of FoodPackByTKG+.modcomponent from the releases page.
+- (IF NOT USING JODS' INDOORS GREENERY MOD) Use FoodPackByTKG.modcomponent from the folder.
+- (IF USING JODS' INDOORS GREENERY MOD) Use FoodPackByTKG+.modcomponent from the folder.
 - Move the .modcomponent file to your mods folder.
 - (OPTIONAL) Download latest version of Foods by 'Calorie Waltz' from their releases page.
 - (OPTIONAL) Move the mod's content to mods folder.
