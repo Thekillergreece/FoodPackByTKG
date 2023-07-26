@@ -8,7 +8,7 @@
     ".NETCoreApp,Version=v6.0": {
       "FoodPackByTKG/1.0.0": {
         "dependencies": {
-          "STBlade.Modding.TLD.Il2CppAssemblies.Windows": "2.10.0"
+          "STBlade.Modding.TLD.Il2CppAssemblies.Windows": "2.17.0"
         },
         "runtime": {
           "FoodPackByTKG.dll": {}
@@ -235,7 +235,7 @@
       "runtime.ubuntu.14.04-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.2": {},
       "runtime.ubuntu.16.04-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.2": {},
       "runtime.ubuntu.16.10-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.2": {},
-      "STBlade.Modding.TLD.Il2CppAssemblies.Windows/2.10.0": {
+      "STBlade.Modding.TLD.Il2CppAssemblies.Windows/2.17.0": {
         "dependencies": {
           "AsmResolver.DotNet": "5.0.0",
           "AssetRipper.VersionUtilities": "1.2.1",
@@ -1502,12 +1502,12 @@
       "path": "runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl/4.3.2",
       "hashPath": "runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512"
     },
-    "STBlade.Modding.TLD.Il2CppAssemblies.Windows/2.10.0": {
+    "STBlade.Modding.TLD.Il2CppAssemblies.Windows/2.17.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-N7xxX8oMG43RWwA0GqohfvOP5VnhjUDJJ62k3SvFePH87glIf23e6EOq2Wj8H4SYsRebtORP6BcczcAeKbyUow==",
-      "path": "stblade.modding.tld.il2cppassemblies.windows/2.10.0",
-      "hashPath": "stblade.modding.tld.il2cppassemblies.windows.2.10.0.nupkg.sha512"
+      "sha512": "sha512-sZ5R9m8tyu1F+Ef2d5E76eQxHyqbHaisZ4d1a8AvLptjTgWMfyWzMXDW8yUsnznKP/Adv+P0KU2OITfSZE5GjQ==",
+      "path": "stblade.modding.tld.il2cppassemblies.windows/2.17.0",
+      "hashPath": "stblade.modding.tld.il2cppassemblies.windows.2.17.0.nupkg.sha512"
     },
     "System.Collections/4.3.0": {
       "type": "package",

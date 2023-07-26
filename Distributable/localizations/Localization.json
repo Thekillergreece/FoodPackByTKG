@@ -44,7 +44,7 @@
         "Turkish": "Ortalama bir şişe bira."
     },
     "GAMEPLAY_Bread": {
-        "English": "Loaf of Bread",
+        "English": "White Bread Bannock",
         "French (France)": "Miche de pain",
         "German": "Ein Brotlaib",
         "Russian": "Хлеб",
@@ -53,7 +53,7 @@
         "Turkish": "Somun Ekmek"
     },
     "GAMEPLAY_BreadDescription": {
-        "English": "A loaf of generic brown bread.",
+        "English": "A soft doughy flatbread.",
         "French (France)": "Une minche de pain brun ordinaire.",
         "German": "Ein normales Laib Schwarzbrot.",
         "Russian": "Буханка хлеба",
@@ -495,7 +495,7 @@
         "Spanish (Spain)": "Arroz largo (Cocido)"
     },
     "GAMEPLAY_RiceCookedDescription": {
-        "English": "Pure cooked white rice, rather dull -- but provides good calories.",
+        "English": "White rice cooked in water -- rather dull but provides good calories. Sustaining and timeless.",
         "French (France)": "Riz blanche pur cuit, plutot plat -- mais il fournit des calories.",
         "German": "Reiner, gekochter, weißer Reis. Eher langweilig, liefert aber gute Kalorien.",
         "Russian": "Приготовленный рис - довольно пресный, но калорийный.",
@@ -526,7 +526,7 @@
         "Turkish": "Dünyada en çok tüketilen gıdalardan biri. Yenilebilmesi için önce pişirilmesi gerekiyor: bir ölçü pirinç ve iki ölçü su."
     },
     "GAMEPLAY_SPAM": {
-        "English": "BLAM",
+        "English": "Can of Ham",
         "French (France)": "BLAM",
         "German": "BLAM",
         "Russian": "БЛЭМ",
@@ -535,7 +535,7 @@
         "Turkish": "BLAM"
     },
     "GAMEPLAY_SPAMDescription": {
-        "English": "Canned and chopped ham. Cheap, simple, and will do in a pinch.",
+        "English": "Chopped and canned ham. An acquired taste but cheap, simple, and will do in a pinch.",
         "French (France)": "Jambon en conserve. Pas cher, simple et fera l'affaire à la rigueur",
         "German": "Zerkleinerter, gekochter Schinken in der Dose. Günstig und im Notfall ausreichend.",
         "Russian": "Порезанная консервированная ветчина. Дешево, просто, пойдет при необходимости.",
@@ -668,7 +668,7 @@
         "Turkish": "Küçük bir porsiyon ton balığı."
     },
     "GAMEPLAY_FlourBag": {
-        "English": "Bag of Flour",
+        "English": "Bag of White Flour",
         "French (France)": "Sac de farine",
         "German": "Mehltüte",
         "Russian": "Упаковка муки",
@@ -677,7 +677,7 @@
         "Turkish": "Bir paket un"
     },
     "GAMEPLAY_FlourBagDescription": {
-        "English": "Fluffy and ready for baking. Raw consumption not advised.",
+        "English": "Fluffy and cheap. Raw consumption not advised.",
         "French (France)": "Duveteux et pret pour patisserie. Consommation brute déconseillé.",
         "German": "Flauschig und fertig zum Backen. Vom Rohverzehr wird abgeraten.",
         "Russian": "Рыхлая и подходящая для выпечки. Не рекомендуется к употреблению в сыром виде.",

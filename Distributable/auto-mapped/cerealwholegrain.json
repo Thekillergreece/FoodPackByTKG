@@ -35,7 +35,7 @@
                             "DaysToDecayIndoors" : 1000,
                             "Calories" : 600,
                             "Servings" : 4,
-                            "EatingTime" : 8,
+                            "EatingTime" : 6,
                             "EatingAudio" : "Play_OpenCrackers",
                             "EatingPackagedAudio" : "Play_OpenCrackers",
                             "ThirstEffect" : -25,

@@ -72,6 +72,7 @@ item=GEAR_SoyRamenCooked p=-4.5771,0.9494,1.5713 r=0.0000,312.3146,0.0000 c=65
 item=GEAR_SoyRamen p=-2.4949,0.2304,-3.0908 r=-0.0000,54.8863,-0.0000 c=45
 item=GEAR_CupNoodles p=-2.6717,0.2304,-3.0326 r=0.0000,211.9573,0.0000 c=45
 item=GEAR_HotCocoaBox p=0.6821,0.2004,-1.3632 r=9.4151,94.9361,0.8206 c=35
+item=GEAR_CatFood p=-0.6827,0.0601,3.0272 r=0.0000,254.0141,269.9999 c=60
 #
 scene=MiltonHouseH3
 item=GEAR_ModChocolateBar p=-1.5432,-0.2000,-2.9383 r=0.0000,251.7494,0.0000 c=70
@@ -112,6 +113,8 @@ item=GEAR_SoyRamen p=-8.1052,1.8305,-1.8435 r=0.0000,278.4941,0.0000 c=35
 item=GEAR_HotCocoaBox p=-9.5887,1.1144,-2.9401 r=-0.0000,13.5963,-0.0000 c=35
 item=GEAR_BeerBottle p=3.6395,-0.0000,0.6481 r=0.0000,238.1159,0.0000 c=65
 item=GEAR_BeerBottle p=3.6502,0.0300,0.7599 r=90.0000,131.1187,0.0000 c=45
+item=GEAR_CatFood p=-9.0533,0.2304,-3.3024 r=0.0000,219.7090,0.0000 c=50
+item=GEAR_CatFood p=3.3888,0.0001,0.6350 r=-0.0000,45.3866,-0.0000 c=25
 #
 scene=MiltonHouseD
 item=GEAR_Bread p=-0.7529,1.1144,0.4841 r=-0.0000,85.5791,-0.0000 c=45
@@ -126,6 +129,7 @@ item=GEAR_CupNoodles p=-2.4927,0.0133,0.3585 r=0.0000,315.4293,0.0000 c=45
 item=GEAR_SoyRamenCooked p=-1.2438,1.0903,-2.9600 r=0.0000,343.4313,0.0000 c=50
 item=GEAR_HotCocoaBox p=-2.0933,0.2304,3.0591 r=0.0000,352.6055,0.0000 c=35
 item=GEAR_BeerBottle p=-8.0745,0.0300,0.5490 r=285.9414,218.4223,105.8906 c=45
+item=GEAR_CatFood p=-4.5859,0.2188,1.9909 r=0.6676,220.3598,358.1754 c=50
 #
 scene=MiltonHouseF3
 item=GEAR_randomcerealbox p=-4.8890,1.1004,-2.6809 r=0.0000,254.6252,0.0000 c=75
@@ -137,6 +141,7 @@ item=GEAR_randomsodatall p=-0.1730,0.4013,-2.9417 r=-0.0000,0.3515,-0.0000 c=45
 item=GEAR_Jalapeno p=0.2409,0.6304,0.1558 r=0.0000,287.5554,0.0000 c=35
 item=GEAR_FlourBag p=-2.9862,1.6915,0.2450 r=-0.0000,90.3783,-0.0000 c=25
 item=GEAR_CupNoodles p=-4.1098,1.1004,-3.4347 r=-0.0000,18.7584,-0.0000 c=45
+item=GEAR_CatFood p=-2.3758,0.0074,-0.0730 r=0.0000,352.1654,0.0000 c=15
 #
 scene=MiltonHouseH1
 item=GEAR_DryMilkPacket p=-0.6134,1.4258,-0.8253 r=0.0000,254.2178,0.0000 c=75
@@ -156,7 +161,7 @@ item=GEAR_randomlargecannedfood p=-3.0732,1.1145,-3.5180 r=0.0000,299.2325,0.000
 item=GEAR_RiceCooked p=-4.0636,1.0240,2.1615 r=-0.0000,161.0183,-0.0000 c=65
 item=GEAR_RiceRaw p=-0.7749,0.2304,-2.1573 r=-0.0000,144.1716,-0.0000 c=35
 item=GEAR_Bread p=-0.7951,1.1144,-1.3571 r=0.0000,309.8249,0.0000 c=65
-item=GEAR_CatFood p=-2.6852,0.2304,-3.1851 r=0.0000,352.9437,0.0000 c=45
+item=GEAR_CatFood p=-2.6852,0.2304,-3.1851 r=0.0000,352.9437,0.0000 c=65
 item=GEAR_Jalapeno p=-3.3539,0.9910,2.0144 r=0.0000,356.4785,0.0000 c=45
 item=GEAR_FlourBag p=-0.5421,2.7289,-2.4915 r=0.0000,311.3602,0.0000 c=45
 item=GEAR_CatFoodSmall p=-2.7040,1.1149,-3.2109 r=-0.0000,154.5729,-0.0000 c=50
@@ -189,6 +194,7 @@ item=GEAR_CupNoodles p=-4.5926,1.1144,1.4547 r=2.8617,309.5511,359.3330 c=45
 item=GEAR_SoyRamen p=-4.5732,1.1144,1.5852 r=0.0009,194.6912,359.3330 c=45
 item=GEAR_SoyRamenCooked p=-4.0441,1.1080,-2.5048 r=0.0000,358.9559,0.0000 c=35
 item=GEAR_HotCocoaBox p=-0.8200,0.2304,3.1340 r=-0.0000,54.5052,-0.0000 c=35
+item=GEAR_CatFood p=-5.2181,0.0001,0.8225 r=0.0000,218.7280,359.3330 c=50
 #
 scene=CoastalHouseC
 item=GEAR_bread p=-9.3142,1.7071,-2.2929 r=0,6.4062,0 c=55
@@ -208,6 +214,7 @@ item=GEAR_CannedChili p=-5.6971,0.8877,-5.8790 r=-0.0000,134.4444,-0.0000 c=50
 item=GEAR_SoyRamen p=-9.0159,0.2304,-3.5391 r=0.0000,359.3029,0.0000 c=40
 item=GEAR_SoyRamen p=-8.9754,0.2304,-3.3584 r=-0.0000,52.3225,-0.0000 c=35
 item=GEAR_HotCocoaBox p=-3.7022,0.0300,2.9898 r=0.0000,36.0732,90.0000 c=35
+item=GEAR_CatFood p=-5.6234,0.0001,-6.3574 r=0.0000,341.0756,0.0000 c=45
 #
 scene=CoastalHouseD
 item=GEAR_bread p=-0.7905,1.7071,3.3891 r=0,101.4994,0 c=65
@@ -237,7 +244,7 @@ item=GEAR_whiskyflask p=4.6034,4.3503,-4.8179 r=0,137.5099,0 c=75
 item=GEAR_ModChocolateBar p=2.8352,0.7581,-0.6486 r=329.9999,151.0085,0.0000 c=75
 item=GEAR_RiceCooked p=-3.1902,0.9752,1.1868 r=0.1385,103.3823,358.9489 c=70
 item=GEAR_RiceRaw p=-0.3489,1.1004,-2.5847 r=0.1385,161.0023,358.9489 c=55
-item=GEAR_CatFood p=-4.7205,0.2184,-0.9011 r=0.1571,49.1348,358.9735 c=35
+item=GEAR_CatFood p=-4.7205,0.2184,-0.9011 r=0.1571,49.1348,358.9735 c=65
 item=GEAR_Jalapeno p=-4.5769,1.1029,-0.2323 r=-0.0000,148.7636,-0.0000 c=35
 item=GEAR_FlourBag p=-0.8273,0.2164,-2.1262 r=359.6895,169.4846,2.3569 c=45
 item=GEAR_CatFoodSmall p=-4.9051,1.6966,-1.0497 r=0.0000,274.8481,0.0000 c=35
@@ -266,6 +273,7 @@ item=GEAR_Jalapeno p=-4.5892,1.1423,-2.4242 r=2.7971,350.0531,358.3475 c=25
 item=GEAR_SoyRamenCooked p=-0.3428,1.1323,-3.0585 r=-0.0000,17.7758,-0.0000 c=50
 item=GEAR_CupNoodles p=-3.6904,1.1004,-3.4429 r=-0.0000,4.0718,-0.0000 c=45
 item=GEAR_CupNoodles p=0.0107,0.0500,0.8357 r=-0.0000,76.4369,90.0000 c=35
+item=GEAR_CatFood p=-4.5160,0.2164,-1.2065 r=0.0000,243.4826,0.0000 c=60
 #
 scene=CoastalHouseH
 item=GEAR_BeerBottle p=-1.6917,-0.2,-3.5822 r=0,103.5045,0 c=65
@@ -284,6 +292,7 @@ item=GEAR_CannedChili p=1.5079,0.8490,3.4965 r=-0.0000,98.8682,-0.0000 c=45
 item=GEAR_AuroraEnergyDrink p=-1.8068,0.9059,1.6616 r=0.0000,271.5494,0.0000 c=40
 item=GEAR_Jalapeno p=-0.8026,0.1721,-3.4784 r=-0.0000,16.7843,-0.0000 c=25
 item=GEAR_CupNoodles p=1.5158,0.8489,3.6535 r=-0.0000,92.2104,-0.0000 c=45
+item=GEAR_CatFood p=1.3976,0.8490,3.4287 r=0.0000,335.4550,0.0000 c=35
 
 scene=WoodCabinC
 item=GEAR_Bread p=1.8132,1.0257,-1.8175 r=-0.0000,102.4388,-0.0000 c=55
@@ -319,6 +328,7 @@ item=GEAR_randomliquorbottle p=2.4059,0,-2.4563 r=0,129.0052,0 c=25
 item=GEAR_ForsakenSpiritsPlastic p=2.3946,0.5922,1.8738 r=0.0000,181.8737,0.0000 c=45
 item=GEAR_CatFoodSmall p=-1.4916,0.2340,-2.9186 r=-0.0000,46.3769,-0.0000 c=45
 item=GEAR_SoyRamen p=2.0864,0.5921,1.8890 r=0.0000,347.7185,0.0000 c=35
+item=GEAR_CatFood p=-2.1701,0.0001,-1.3549 r=-0.0000,24.4148,-0.0000 c=25
 #
 scene=LakeCabinD
 item=GEAR_randomliquorbottle p=-0.3065,0.0297,3.075 r=359.4057,3.9587,5.3995 c=35
@@ -355,14 +365,16 @@ scene=FishingCabinD
 item=GEAR_randomsodatall p=1.8463,0.8139,0.3971 r=359.8361,31.0491,1.2255 c=50
 item=GEAR_spam p=-2.196,0,2.1976 r=0,176.7029,0 c=50
 item=GEAR_CatFoodSmall p=0.0106,1.6752,2.6897 r=358.2947,270.6670,355.2911 c=50
-item=GEAR_CupNoodles p=-2.1608,0.0350,2.5091 r=0.0000,235.9379,0.0000 c=25
+item=GEAR_CupNoodles p=-2.0962,0.0350,2.6723 r=0.0000,255.9243,0.0000 c=25
 item=GEAR_SoyRamen p=1.6167,-0.0000,3.0362 r=0.0000,311.9883,0.0000 c=25
+item=GEAR_CatFood p=-2.1704,0.0351,3.1127 r=0.0000,301.8903,0.0000 c=25
 #
 scene=HouseBasementC 
 item=GEAR_MountainSoda p=-14.2448,152.8839,-1.1664 r=270.0000,180.7724,0.0000 c=85
 item=GEAR_ModChocolateBar p=-0.2602,151.6039,2.3749 r=0.0000,216.2260,0.0000 c=85
 item=GEAR_CannedStew p=-0.6944,150.9617,2.6694 r=-0.0000,53.4599,-0.0000 c=85
 item=GEAR_CupNoodles p=-0.4375,151.6039,2.4027 r=0.0000,300.3154,0.0000 c=50
+item=GEAR_CatFood p=-0.9331,150.9617,2.4494 r=0.0000,238.6842,0.0000 c=40
 #
 scene=SafeHouseA
 item=GEAR_randommediumcannedfood p=-1.3650,0.4407,1.5445 r=0.0000,205.5297,0.0000 c=85

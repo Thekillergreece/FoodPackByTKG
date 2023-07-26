@@ -86,8 +86,8 @@ item=CannedPears w=4
 item=CannedPineapples w=5
 item=CannedSpaghetti w=5
 item=CannedStew w=5
-item=CatFood w=2
-item=CatFoodSmall w=4
+item=CatFood w=4
+item=CatFoodSmall w=2
 item=Cornflakes w=7
 item=CerealWholeGrain w=7
 item=CerealHoney w=7
@@ -149,7 +149,7 @@ item=BeerBottle w=1
 #-------------------------
 loottable=VehicleTrunk
 #-------------------------
-item=CatFood w=1
+item=CatFood w=2
 item=HoneyJar w=1
 item=riceraw w=1
 item=FlourBag w=1

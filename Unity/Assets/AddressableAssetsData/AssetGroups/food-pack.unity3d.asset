@@ -17,16 +17,16 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: e931af9cccdf42143a0809956b8612dc
   m_SerializeEntries:
-  - m_GUID: 686bb94eaa60d1b489a70abc26279942
-    m_Address: ico_GearItem__BeerBottle
+  - m_GUID: 06f6b861798692a42988d170f5b8a322
+    m_Address: ico_GearItem__FlourBag
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: f88890b93cea35f4b8ef34738170b66d
     m_Address: ico_GearItem__AuroraEnergyDrink
     m_ReadOnly: 0
     m_SerializedLabels: []
-  - m_GUID: cb288e5b27225a247be894d979bf9a50
-    m_Address: ico_GearItem__Bread
+  - m_GUID: 6c789f6aa19b5264297cb2985aec3794
+    m_Address: ico_GearItem__SPAM
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: 8094ea453841a764eb40d6731541cb97
@@ -61,8 +61,8 @@ MonoBehaviour:
     m_Address: ico_GearItem__CatFoodSmall
     m_ReadOnly: 0
     m_SerializedLabels: []
-  - m_GUID: 0ee5a326c220ff94fbbd0cb79a8af000
-    m_Address: ico_GearItem__CerealHoney
+  - m_GUID: 41ae1e7ec5c72094bb424cd117d4df85
+    m_Address: ico_GearItem__RiceCooked
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: 5167eaecb3746d64b9c15201ce26c20c
@@ -93,8 +93,8 @@ MonoBehaviour:
     m_Address: GEAR_VodkaBottle
     m_ReadOnly: 0
     m_SerializedLabels: []
-  - m_GUID: 05352b23cde658b4ea80d83d057f272b
-    m_Address: ico_GearItem__SPAM
+  - m_GUID: 1335d9e52a0c5f24fad1f4164cb443ca
+    m_Address: ico_GearItem__Bread
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: 9861a099372d5c544b17424e92105143
@@ -137,16 +137,16 @@ MonoBehaviour:
     m_Address: ico_GearItem__RandomSodaTall
     m_ReadOnly: 0
     m_SerializedLabels: []
-  - m_GUID: dc7d7712013e9464cb0147eeba86843b
-    m_Address: GEAR_RiceCooked
+  - m_GUID: 497c53a809bc08543952e07a0d6241ba
+    m_Address: GEAR_Bread
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: 39511a74603e2f6488f1ba921160740d
     m_Address: GEAR_RedWineBottle
     m_ReadOnly: 0
     m_SerializedLabels: []
-  - m_GUID: 7ec187539b51e2b46aa344bc8b514837
-    m_Address: ico_GearItem__ModSyrup
+  - m_GUID: 9f0366ea93e588a4b9132d83d797bb15
+    m_Address: ico_GearItem__HoneyJar
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: 0f3f922e0ada4c84f849644b3720dd0d
@@ -165,12 +165,12 @@ MonoBehaviour:
     m_Address: GEAR_AuroraEnergyDrink
     m_ReadOnly: 0
     m_SerializedLabels: []
-  - m_GUID: df18f695ebed1e5469d9bf037127a887
+  - m_GUID: 980cae0a455242e4686445f67429d1ec
     m_Address: GEAR_BeerBottle
     m_ReadOnly: 0
     m_SerializedLabels: []
-  - m_GUID: 5df807a3ec0098841ad9d0c0a94b59d0
-    m_Address: GEAR_Bread
+  - m_GUID: fe8629118eb45d24ca3d16db2989c153
+    m_Address: GEAR_RiceCooked
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: df7ed2e39dfdef34cba35099f71cc3f6
@@ -237,7 +237,7 @@ MonoBehaviour:
     m_Address: GEAR_ForsakenSpiritsPlastic
     m_ReadOnly: 0
     m_SerializedLabels: []
-  - m_GUID: 177f74d34411fb446a3c583812463dad
+  - m_GUID: 41cff7e8097f95e479039ba588be4d98
     m_Address: GEAR_HoneyJar
     m_ReadOnly: 0
     m_SerializedLabels: []
@@ -293,8 +293,8 @@ MonoBehaviour:
     m_Address: GEAR_RandomSodaTall
     m_ReadOnly: 0
     m_SerializedLabels: []
-  - m_GUID: d71d02156a43024498cda861726c99eb
-    m_Address: ico_GearItem__RiceCooked
+  - m_GUID: 31b17647d50d6704aba810b4e881182d
+    m_Address: ico_GearItem__CerealHoney
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: f4ed6d3edd7b8a042a77d5c7d9e2b7b9
@@ -353,8 +353,8 @@ MonoBehaviour:
     m_Address: GEAR_Jalapeno
     m_ReadOnly: 0
     m_SerializedLabels: []
-  - m_GUID: 771cd9be7b89e5d47b45fd20c6086bfb
-    m_Address: ico_GearItem__HoneyJar
+  - m_GUID: 8c9f0c5c59f13be45a9f96a8d6c72e7f
+    m_Address: ico_GearItem__ModSyrup
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: dd252bd718a65204b833878fc8feeef8
@@ -365,8 +365,8 @@ MonoBehaviour:
     m_Address: GEAR_FlourBag
     m_ReadOnly: 0
     m_SerializedLabels: []
-  - m_GUID: be6d09082e259c54288237950871b475
-    m_Address: ico_GearItem__FlourBag
+  - m_GUID: f627a2b7f32ca4245a626589402a1fdb
+    m_Address: ico_GearItem__BeerBottle
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: 3aec4df4b93571f40b4fd6d233ab0d3d

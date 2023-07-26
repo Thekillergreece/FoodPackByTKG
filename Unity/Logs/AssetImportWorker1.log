@@ -15,7 +15,7 @@ C:/Users/PC/Desktop/My mods/Food-Pack-master/Unity
 -logFile
 Logs/AssetImportWorker1.log
 -srvPort
-62027
+56499
 Successfully changed project path to: C:/Users/PC/Desktop/My mods/Food-Pack-master/Unity
 C:/Users/PC/Desktop/My mods/Food-Pack-master/Unity
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -47,7 +47,7 @@ C:/Users/PC/Desktop/My mods/Food-Pack-master/Unity
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Refreshing native plugins compatible for Editor in 60.78 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 64.05 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.3.6f1 (7da38d85baf6)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/Resources/UnitySubsystems
@@ -58,42 +58,42 @@ Direct3D:
     Renderer: NVIDIA GeForce RTX 3080 (ID=0x2206)
     Vendor:   NVIDIA
     VRAM:     10067 MB
-    Driver:   31.0.15.3168
+    Driver:   31.0.15.3179
 Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56696
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56684
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.009207 seconds.
+Registered in 0.008535 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 53.97 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 46.13 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.638 seconds
+- Completed reload, in  0.594 seconds
 Domain Reload Profiling:
-	ReloadAssembly (638ms)
-		BeginReloadAssembly (73ms)
+	ReloadAssembly (595ms)
+		BeginReloadAssembly (82ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (439ms)
-			LoadAssemblies (71ms)
+		EndReloadAssembly (408ms)
+			LoadAssemblies (79ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (109ms)
+			SetupTypeCache (98ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (31ms)
-			SetupLoadedEditorAssemblies (246ms)
+			RebuildScriptCaches (29ms)
+			SetupLoadedEditorAssemblies (232ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (9ms)
+				InitializePlatformSupportModulesInManaged (8ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (54ms)
+				RefreshPlugins (46ms)
 				BeforeProcessingInitializeOnLoad (1ms)
-				ProcessInitializeOnLoadAttributes (140ms)
+				ProcessInitializeOnLoadAttributes (134ms)
 				ProcessInitializeOnLoadMethodAttributes (42ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
@@ -101,35 +101,35 @@ Domain Reload Profiling:
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.006843 seconds.
+Registered in 0.007357 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.70 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.74 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.228 seconds
+- Completed reload, in  1.095 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1229ms)
-		BeginReloadAssembly (117ms)
+	ReloadAssembly (1096ms)
+		BeginReloadAssembly (111ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (5ms)
+			DisableScriptedObjects (7ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (22ms)
-		EndReloadAssembly (978ms)
-			LoadAssemblies (92ms)
+			CreateAndSetChildDomain (16ms)
+		EndReloadAssembly (875ms)
+			LoadAssemblies (80ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (252ms)
+			SetupTypeCache (186ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (56ms)
-			SetupLoadedEditorAssemblies (549ms)
+			RebuildScriptCaches (48ms)
+			SetupLoadedEditorAssemblies (524ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (5ms)
 				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (90ms)
-				ProcessInitializeOnLoadAttributes (282ms)
-				ProcessInitializeOnLoadMethodAttributes (161ms)
+				BeforeProcessingInitializeOnLoad (95ms)
+				ProcessInitializeOnLoadAttributes (277ms)
+				ProcessInitializeOnLoadMethodAttributes (137ms)
 				AfterProcessingInitializeOnLoad (9ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
@@ -137,13 +137,13 @@ Domain Reload Profiling:
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
-Refreshing native plugins compatible for Editor in 0.90 ms, found 2 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.66 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3137 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 61 unused Assets / (93.8 KB). Loaded Objects now: 3599.
-Memory consumption went from 133.5 MB to 133.4 MB.
-Total: 7.157300 ms (FindLiveObjects: 0.247500 ms CreateObjectMapping: 0.188000 ms MarkObjects: 6.594600 ms  DeleteObjects: 0.125800 ms)
+Unloading 61 unused Assets / (92.7 KB). Loaded Objects now: 3601.
+Memory consumption went from 133.6 MB to 133.5 MB.
+Total: 5.641900 ms (FindLiveObjects: 0.255700 ms CreateObjectMapping: 0.168300 ms MarkObjects: 5.107700 ms  DeleteObjects: 0.109500 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -157,19 +157,31 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 34183.380960 seconds.
-  path: Assets/InventoryGridIcons/ico_GearItem__MountainSoda.png
-  artifactKey: Guid(0f3f922e0ada4c84f849644b3720dd0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/InventoryGridIcons/ico_GearItem__MountainSoda.png using Guid(0f3f922e0ada4c84f849644b3720dd0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cc3fd253012805804e3c3f23ed4d210') in 0.102759 seconds 
+  Time since last request: 57466.698460 seconds.
+  path: Assets/Models/Textures/New Textures/Materials/frontierHoneyJar 2.mat
+  artifactKey: Guid(bb50ac007a71c934c86a7adb790279d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Textures/New Textures/Materials/frontierHoneyJar 2.mat using Guid(bb50ac007a71c934c86a7adb790279d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fad044d9c2a72a6877289fea084d075') in 0.152384 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/InventoryGridIcons/ico_GearItem__CupNoodles.png
-  artifactKey: Guid(7ea27291dcae8624d814f5ac4b89896c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/InventoryGridIcons/ico_GearItem__CupNoodles.png using Guid(7ea27291dcae8624d814f5ac4b89896c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '527b849110bc5fc5965a8e5cb34f803a') in 0.009820 seconds 
+  Time since last request: 241.199036 seconds.
+  path: Assets/Prefabs/GEAR_HoneyJar.prefab
+  artifactKey: Guid(41cff7e8097f95e479039ba588be4d98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_HoneyJar.prefab using Guid(41cff7e8097f95e479039ba588be4d98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7898969bc2e060c66a5b285e719a5db5') in 0.038909 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 1.240073 seconds.
-  path: Assets/InventoryGridIcons/ico_GearItem__MountainSoda.png
-  artifactKey: Guid(0f3f922e0ada4c84f849644b3720dd0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/InventoryGridIcons/ico_GearItem__MountainSoda.png using Guid(0f3f922e0ada4c84f849644b3720dd0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '697cacec346b35f3a6b3c277e6e46ff0') in 0.011317 seconds 
+  Time since last request: 153.981491 seconds.
+  path: Assets/Prefabs/GEAR_SPAM.prefab
+  artifactKey: Guid(80e74787ccc91a74dadf818f104a7a24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_SPAM.prefab using Guid(80e74787ccc91a74dadf818f104a7a24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fff236dda4e9faebd858736e24311e4a') in 0.011747 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 43.678159 seconds.
+  path: Assets/Models/Textures/New Textures/Materials/FrontierHoneyJar 3.mat
+  artifactKey: Guid(ac982e569af86c844a5d077af3193be3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Textures/New Textures/Materials/FrontierHoneyJar 3.mat using Guid(ac982e569af86c844a5d077af3193be3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f84eaf0e31cb29c37980397fbfaa2750') in 0.012505 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Models/Textures/New Textures/Materials/FrontierHoneyJar 4.mat
+  artifactKey: Guid(6d4741a243f09c9418414b45df7e29d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Textures/New Textures/Materials/FrontierHoneyJar 4.mat using Guid(6d4741a243f09c9418414b45df7e29d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02fde2c2ada70c36bdf0ad4c73a5314c') in 0.010118 seconds 

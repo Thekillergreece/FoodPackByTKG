@@ -10,7 +10,7 @@
     "RequiresLight": true,
     "CraftedResult": "GEAR_Cookies",
     "CraftedResultCount": 6,
-    "DurationMinutes": 30,
+    "DurationMinutes": 25,
     "CraftingAudio": "",
     "AppliedSkill" : "None",
     "ImprovedSkill" : "None"

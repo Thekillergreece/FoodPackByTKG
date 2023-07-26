@@ -62,7 +62,7 @@ scene=WoodCabinB
 item=GEAR_RiceCooked p=1.1286,0.9509,0.7965 r=-0.0000,40.3273,-0.0000 c=25
 item=GEAR_RiceRaw p=-1.8748,0.0369,2.4945 r=0.0000,340.6703,0.0000 c=50
 item=GEAR_Cookies p=1.6582,0.9757,1.6307 r=-0.0000,86.3477,-0.0000 c=35
-item=GEAR_CatFood p=1.2688,0.9476,2.0741 r=0.0000,315.0977,0.0000 c=25
+item=GEAR_CatFood p=1.2688,0.9476,2.0741 r=0.0000,315.0977,0.0000 c=35
 item=GEAR_ModChocolateBar p=5.6693,0.1716,-1.4724 r=0.0000,294.4891,0.0000 c=15
 item=GEAR_randommediumcannedfood p=0.1432,1.0403,3.7518 r=-0.0000,109.2986,-0.0000 c=20
 item=GEAR_randommediumcannedfood p=0.1858,1.0403,3.6164 r=-0.0000,149.7188,-0.0000 c=20

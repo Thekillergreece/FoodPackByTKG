@@ -35,7 +35,7 @@
                             "DaysToDecayIndoors" : 365,
                             "Calories" : 500,
                             "Servings" : 1,
-                            "EatingTime" : 4,
+                            "EatingTime" : 3,
                             "EatingAudio" : "Play_EatingSoft",
                             "EatingPackagedAudio" : "Play_OpenSardines",
                             "ThirstEffect" : -5,

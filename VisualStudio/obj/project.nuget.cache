@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h9dmsj/hBei++8UWlkSP2RLz31fO61hpzF3IWNoFV6yuXKawR1Ln+Yo4bD6BrhE9zU6cXW3Zc1JCsSmVz0+kvg==",
+  "dgSpecHash": "iBw5uxTpD3641PSpotHdkxar0KS495tZDhUp6zs64ePAocikSrGopLzTFngL9humgpd1CWP5YiurCDbvC4i7KQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\Desktop\\Food-Pack-master\\VisualStudio\\FoodPackByTKG.csproj",
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\My mods\\Food-Pack-master\\VisualStudio\\FoodPackByTKG.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\asmresolver\\5.0.0\\asmresolver.5.0.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\asmresolver.dotnet\\5.0.0\\asmresolver.dotnet.5.0.0.nupkg.sha512",
@@ -36,7 +36,7 @@
     "C:\\Users\\PC\\.nuget\\packages\\runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.2\\runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.2\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl\\4.3.2\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
-    "C:\\Users\\PC\\.nuget\\packages\\stblade.modding.tld.il2cppassemblies.windows\\2.10.0\\stblade.modding.tld.il2cppassemblies.windows.2.10.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\stblade.modding.tld.il2cppassemblies.windows\\2.17.0\\stblade.modding.tld.il2cppassemblies.windows.2.17.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\system.collections.concurrent\\4.3.0\\system.collections.concurrent.4.3.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\system.collections.nongeneric\\4.3.0\\system.collections.nongeneric.4.3.0.nupkg.sha512",

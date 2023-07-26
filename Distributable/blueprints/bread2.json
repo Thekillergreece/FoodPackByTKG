@@ -10,7 +10,7 @@
     "RequiresLight": true,
     "CraftedResult": "GEAR_Bread",
     "CraftedResultCount": 4,
-    "DurationMinutes": 45,
+    "DurationMinutes": 40,
     "CraftingAudio": "",
     "AppliedSkill" : "None",
     "ImprovedSkill" : "None"

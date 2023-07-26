@@ -431,7 +431,7 @@
           }
         }
       },
-      "STBlade.Modding.TLD.Il2CppAssemblies.Windows/2.10.0": {
+      "STBlade.Modding.TLD.Il2CppAssemblies.Windows/2.17.0": {
         "type": "package",
         "dependencies": {
           "AsmResolver.DotNet": "5.0.0",
@@ -2131,10 +2131,10 @@
         "runtimes/ubuntu.16.10-x64/native/System.Security.Cryptography.Native.OpenSsl.so"
       ]
     },
-    "STBlade.Modding.TLD.Il2CppAssemblies.Windows/2.10.0": {
-      "sha512": "N7xxX8oMG43RWwA0GqohfvOP5VnhjUDJJ62k3SvFePH87glIf23e6EOq2Wj8H4SYsRebtORP6BcczcAeKbyUow==",
+    "STBlade.Modding.TLD.Il2CppAssemblies.Windows/2.17.0": {
+      "sha512": "sZ5R9m8tyu1F+Ef2d5E76eQxHyqbHaisZ4d1a8AvLptjTgWMfyWzMXDW8yUsnznKP/Adv+P0KU2OITfSZE5GjQ==",
       "type": "package",
-      "path": "stblade.modding.tld.il2cppassemblies.windows/2.10.0",
+      "path": "stblade.modding.tld.il2cppassemblies.windows/2.17.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -2288,7 +2288,7 @@
         "lib/net6.0/UnityEngine.WindModule.dll",
         "lib/net6.0/UnityEngine.XRModule.dll",
         "lib/net6.0/UnityEngine.dll",
-        "stblade.modding.tld.il2cppassemblies.windows.2.10.0.nupkg.sha512",
+        "stblade.modding.tld.il2cppassemblies.windows.2.17.0.nupkg.sha512",
         "stblade.modding.tld.il2cppassemblies.windows.nuspec"
       ]
     },
@@ -4749,7 +4749,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "STBlade.Modding.TLD.Il2CppAssemblies.Windows >= 2.10.0"
+      "STBlade.Modding.TLD.Il2CppAssemblies.Windows >= 2.17.0"
     ]
   },
   "packageFolders": {
@@ -4758,11 +4758,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\Desktop\\Food-Pack-master\\VisualStudio\\FoodPackByTKG.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\Desktop\\My mods\\Food-Pack-master\\VisualStudio\\FoodPackByTKG.csproj",
       "projectName": "FoodPackByTKG",
-      "projectPath": "C:\\Users\\PC\\Desktop\\Food-Pack-master\\VisualStudio\\FoodPackByTKG.csproj",
+      "projectPath": "C:\\Users\\PC\\Desktop\\My mods\\Food-Pack-master\\VisualStudio\\FoodPackByTKG.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\Desktop\\Food-Pack-master\\VisualStudio\\obj\\",
+      "outputPath": "C:\\Users\\PC\\Desktop\\My mods\\Food-Pack-master\\VisualStudio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4793,7 +4793,7 @@
         "dependencies": {
           "STBlade.Modding.TLD.Il2CppAssemblies.Windows": {
             "target": "Package",
-            "version": "[2.10.0, )"
+            "version": "[2.17.0, )"
           }
         },
         "imports": [
