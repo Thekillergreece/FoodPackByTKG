@@ -20,6 +20,17 @@ AlcoholMod (Soft Dependency) - All alcoholic drinks will function as non-alcohol
 
 Jods' Greenery Indors (Soft Dependency) - Install FoodPackByTKG+.modcomponent if using that mod.
 
+### 5.1 Version - Frontier Comforts Update
+![FoodPackFCudpatePromo](https://github.com/Thekillergreece/FoodPackByTKG/assets/95387832/3e322fb4-491b-47e5-80c4-6ac4fb9ab3d8)
+
+- NEW: Added food mesh on cooking pots when cooking. (Work by Jods)
+- Some food items have been re-textured / re-modelled. (Work by Kai)
+- Increased weight for Honey Jar.
+- Slightly increased calories for Jalapeno and tuna can.
+- Decreased eating times on some foods.
+- Added new spawn spots and increased existing spawn rates for Cat food.
+- Added Turkish localization. (Work by Elderly-Emre)
+
 ### 5.0 Version
 ---
 ![Redux](https://github.com/Thekillergreece/FoodPackByTKG/assets/95387832/da116761-9512-4723-896d-37388b961843)
