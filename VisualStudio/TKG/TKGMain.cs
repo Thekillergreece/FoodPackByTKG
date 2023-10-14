@@ -50,27 +50,35 @@ namespace TKG
                 cookableGear.Add("CupNoodles");
                 cookableGear.Add("CupNoodlesOpen");
 
-                Material potMat;
+                Material? potMat;
                 GameObject potGear;
 
                 for (int i = 0; i < cookableGear.Count; i++)
                 {
-                    potGear = GearItem.LoadGearItemPrefab("GEAR_" + cookableGear[i]).gameObject;
+                    GearItem _ = GearItem.LoadGearItemPrefab("GEAR_" + cookableGear[i]);
+                    if (_ == null) continue;
 
+                    potGear = _.gameObject;
                     if (potGear == null) continue;
 
                     Texture tex = potGear.transform.GetChild(0).GetComponent<MeshRenderer>().material.mainTexture;
+                    if (tex == null) continue;
 
                     potMat = InstantiateLiquidMaterial();
-                    potMat.name = ("CKN_" + cookableGear[i] + "_MAT");
 
-                    potMat.mainTexture = tex;
-                    potMat.SetTexture("_Main_texture2", tex);
+                    if (potMat != null)
+                    {
+                        potMat.name = ("CKN_" + cookableGear[i] + "_MAT");
 
-                    potGear.GetComponent<Cookable>().m_CookingPotMaterialsList = new Material[1] { potMat };
+                        potMat.mainTexture = tex;
+                        potMat.SetTexture("_Main_texture2", tex);
+
+                        potGear.GetComponent<Cookable>().m_CookingPotMaterialsList = new Material[1] { potMat };
+
+                        loadedCookingTex = true;
+                    }
                 }
-
-                loadedCookingTex = true;
+                base.OnSceneWasInitialized(buildIndex, sceneName);
             }
         }
     }
