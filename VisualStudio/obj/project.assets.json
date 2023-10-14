@@ -431,7 +431,7 @@
           }
         }
       },
-      "STBlade.Modding.TLD.Il2CppAssemblies.Windows/2.17.0": {
+      "STBlade.Modding.TLD.Il2CppAssemblies.Windows/2.23.0": {
         "type": "package",
         "dependencies": {
           "AsmResolver.DotNet": "5.0.0",
@@ -518,10 +518,6 @@
           "lib/net6.0/Unity.ScriptableBuildPipeline.dll": {},
           "lib/net6.0/Unity.TextMeshPro.dll": {},
           "lib/net6.0/Unity.Timeline.dll": {},
-          "lib/net6.0/Unity.VisualScripting.Antlr3.Runtime.dll": {},
-          "lib/net6.0/Unity.VisualScripting.Core.dll": {},
-          "lib/net6.0/Unity.VisualScripting.Flow.dll": {},
-          "lib/net6.0/Unity.VisualScripting.State.dll": {},
           "lib/net6.0/UnityEngine.AIModule.dll": {},
           "lib/net6.0/UnityEngine.ARModule.dll": {},
           "lib/net6.0/UnityEngine.AccessibilityModule.dll": {},
@@ -668,10 +664,6 @@
           "lib/net6.0/Unity.ScriptableBuildPipeline.dll": {},
           "lib/net6.0/Unity.TextMeshPro.dll": {},
           "lib/net6.0/Unity.Timeline.dll": {},
-          "lib/net6.0/Unity.VisualScripting.Antlr3.Runtime.dll": {},
-          "lib/net6.0/Unity.VisualScripting.Core.dll": {},
-          "lib/net6.0/Unity.VisualScripting.Flow.dll": {},
-          "lib/net6.0/Unity.VisualScripting.State.dll": {},
           "lib/net6.0/UnityEngine.AIModule.dll": {},
           "lib/net6.0/UnityEngine.ARModule.dll": {},
           "lib/net6.0/UnityEngine.AccessibilityModule.dll": {},
@@ -2131,13 +2123,12 @@
         "runtimes/ubuntu.16.10-x64/native/System.Security.Cryptography.Native.OpenSsl.so"
       ]
     },
-    "STBlade.Modding.TLD.Il2CppAssemblies.Windows/2.17.0": {
-      "sha512": "sZ5R9m8tyu1F+Ef2d5E76eQxHyqbHaisZ4d1a8AvLptjTgWMfyWzMXDW8yUsnznKP/Adv+P0KU2OITfSZE5GjQ==",
+    "STBlade.Modding.TLD.Il2CppAssemblies.Windows/2.23.0": {
+      "sha512": "B88Vc/ectVnmcWYhucQZfMsmj/WTBHFCHMnMD2Ayai1Bo+z9qKlmegH8y5jxjgwgTkWEEaeO1uqOiYyLyTDHPw==",
       "type": "package",
-      "path": "stblade.modding.tld.il2cppassemblies.windows/2.17.0",
+      "path": "stblade.modding.tld.il2cppassemblies.windows/2.23.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "LICENSE.md",
         "README.md",
         "lib/net6.0/Assembly-CSharp-firstpass.dll",
@@ -2215,10 +2206,6 @@
         "lib/net6.0/Unity.ScriptableBuildPipeline.dll",
         "lib/net6.0/Unity.TextMeshPro.dll",
         "lib/net6.0/Unity.Timeline.dll",
-        "lib/net6.0/Unity.VisualScripting.Antlr3.Runtime.dll",
-        "lib/net6.0/Unity.VisualScripting.Core.dll",
-        "lib/net6.0/Unity.VisualScripting.Flow.dll",
-        "lib/net6.0/Unity.VisualScripting.State.dll",
         "lib/net6.0/UnityEngine.AIModule.dll",
         "lib/net6.0/UnityEngine.ARModule.dll",
         "lib/net6.0/UnityEngine.AccessibilityModule.dll",
@@ -2288,7 +2275,7 @@
         "lib/net6.0/UnityEngine.WindModule.dll",
         "lib/net6.0/UnityEngine.XRModule.dll",
         "lib/net6.0/UnityEngine.dll",
-        "stblade.modding.tld.il2cppassemblies.windows.2.17.0.nupkg.sha512",
+        "stblade.modding.tld.il2cppassemblies.windows.2.23.0.nupkg.sha512",
         "stblade.modding.tld.il2cppassemblies.windows.nuspec"
       ]
     },
@@ -4749,23 +4736,23 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "STBlade.Modding.TLD.Il2CppAssemblies.Windows >= 2.17.0"
+      "STBlade.Modding.TLD.Il2CppAssemblies.Windows >= 2.23.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\PC\\.nuget\\packages\\": {}
+    "C:\\Users\\james\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\Desktop\\My mods\\Food-Pack-master\\VisualStudio\\FoodPackByTKG.csproj",
+      "projectUniqueName": "P:\\Modding\\The Long Dark\\UPDATES\\FoodPackByTKG\\VisualStudio\\FoodPackByTKG.csproj",
       "projectName": "FoodPackByTKG",
-      "projectPath": "C:\\Users\\PC\\Desktop\\My mods\\Food-Pack-master\\VisualStudio\\FoodPackByTKG.csproj",
-      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\Desktop\\My mods\\Food-Pack-master\\VisualStudio\\obj\\",
+      "projectPath": "P:\\Modding\\The Long Dark\\UPDATES\\FoodPackByTKG\\VisualStudio\\FoodPackByTKG.csproj",
+      "packagesPath": "C:\\Users\\james\\.nuget\\packages\\",
+      "outputPath": "P:\\Modding\\The Long Dark\\UPDATES\\FoodPackByTKG\\VisualStudio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\james\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4773,6 +4760,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://165.232.96.237:5555/v3/index.json": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -4793,7 +4781,7 @@
         "dependencies": {
           "STBlade.Modding.TLD.Il2CppAssemblies.Windows": {
             "target": "Package",
-            "version": "[2.17.0, )"
+            "version": "[2.23.0, )"
           }
         },
         "imports": [
@@ -4812,8 +4800,16 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://165.232.96.237:5555/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
 }

@@ -1,36 +1,48 @@
-<Project Sdk="Microsoft.NET.Sdk">
-	<!--This is an xml comment. Comments have no impact on compiling.-->
+<Project Sdk="Microsoft.NET.Sdk" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+
+	<!-- DO NOT CHANGE ANYTHING BETWEEN THESE (unless you know 100% what you are changing)-->
+	<!-- Further info: This defines critical project details, like the net version, C# language version, null enable and do not generate assembly info (we need a custom one) -->
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<LangVersion>Latest</LangVersion>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+		<!-- Debug is useless for a mod -->
+		<DebugType>none</DebugType>
+	</PropertyGroup>
+	<!-- DO NOT CHANGE ANYTHING BETWEEN THESE -->
 
 	<PropertyGroup>
-		<!--This is the .NET version the mod will be compiled with. Don't change it.-->
-		<TargetFramework>net6.0</TargetFramework>
-
-		<!--This tells the compiler to use the latest C# version.-->
-		<LangVersion>Latest</LangVersion>
-
-		<!--This adds global usings for a few common System namespaces.-->
-		<ImplicitUsings>enable</ImplicitUsings>
-
-		<!--This enables nullable annotation and analysis. It's good coding form.-->
-		<Nullable>enable</Nullable>
-
-		<!--This tells the compiler to use assembly attributes instead of generating its own.-->
-		<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
-
-		<!--PDB files give line numbers in stack traces (errors). This is useful for debugging. There are 3 options:-->
-		<!--full has a pdb file created beside the dll.-->
-		<!--embedded has the pdb data embedded within the dll. This is useful because bug reports will then have line numbers.-->
-		<!--none skips creation of pdb data.-->
-		<DebugType>embedded</DebugType>
-		<BaseOutputPath></BaseOutputPath>
-		<BaseIntermediateOutputPath></BaseIntermediateOutputPath>
+		<!-- This should point to wherever your games primary EXE is -->
+		<TheLongDarkPath>O:\SteamLibrary\steamapps\common\TheLongDark</TheLongDarkPath>
+		<ReleaseFolderPath>P:\Modding\The Long Dark\UPDATES\FoodPackByTKG\Release</ReleaseFolderPath>
 	</PropertyGroup>
 
 	<!--This is the of packages that the mod references.-->
 	<ItemGroup>
 		<!--This package contains almost everything a person could possibly need to reference while modding.-->
-		<PackageReference Include="STBlade.Modding.TLD.Il2CppAssemblies.Windows" Version="2.17.0" />
+		<PackageReference Include="STBlade.Modding.TLD.Il2CppAssemblies.Windows" Version="2.23.0" />
 		<!--The package version here in this template may be outdated and need to be updated. Visual Studio can update package versions automatically.-->
 		<!--If the mod references any other mods (such as ModSettings), that NuGet package will also need to be listed here.-->
 	</ItemGroup>
+
+	<!-- Most commonly used using's. Add to this so you dont need to define them in the cs files -->
+	<ItemGroup>
+		<Using Include="System.Reflection" />
+		<Using Include="System.Diagnostics.CodeAnalysis" />
+		<Using Include="Il2Cpp" />
+		<Using Include="HarmonyLib" />
+		<Using Include="MelonLoader" />
+		<Using Include="UnityEngine" />
+	</ItemGroup>
+
+	<!-- This is a build event. It will copy your dll to the currently defined TheLongDarkPath's Mods folder -->
+	<Target Name="PostBuild" AfterTargets="PostBuildEvent">
+		<!-- This copies the mods files to the games mod dir -->
+		<Copy SourceFiles="$(TargetPath)" DestinationFolder="$(TheLongDarkPath)/Mods" />
+		<!-- This copies the mods files to a designated release folder. Speeds up finding the dll after a build -->
+		<Copy SourceFiles="$(TargetPath)" DestinationFolder="$(ReleaseFolderPath)" />
+	</Target>
+	
 </Project>
