@@ -28,7 +28,7 @@ namespace TKG
             return new Material(vanillaLiquidMaterial);
         }
 
-        public override void OnSceneWasInitialized(int level, string name)
+        public override void OnSceneWasInitialized(int buildIndex, string sceneName)
         {
             if (!SceneUtilities.IsScenePlayable(sceneName)) return;
 
