@@ -22,3 +22,11 @@ C:\Users\Jodariel\Downloads\VisualStudio\VisualStudio\obj\Debug\net6.0\FoodPackB
 C:\Users\Jodariel\Downloads\VisualStudio\VisualStudio\obj\Debug\net6.0\FoodPackByTKG.dll
 C:\Users\Jodariel\Downloads\VisualStudio\VisualStudio\obj\Debug\net6.0\refint\FoodPackByTKG.dll
 C:\Users\Jodariel\Downloads\VisualStudio\VisualStudio\obj\Debug\net6.0\ref\FoodPackByTKG.dll
+P:\Modding\The Long Dark\UPDATES\FoodPackByTKG\VisualStudio\bin\Debug\net6.0\FoodPackByTKG.deps.json
+P:\Modding\The Long Dark\UPDATES\FoodPackByTKG\VisualStudio\bin\Debug\net6.0\FoodPackByTKG.dll
+P:\Modding\The Long Dark\UPDATES\FoodPackByTKG\VisualStudio\obj\Debug\net6.0\FoodPackByTKG.csproj.AssemblyReference.cache
+P:\Modding\The Long Dark\UPDATES\FoodPackByTKG\VisualStudio\obj\Debug\net6.0\FoodPackByTKG.GeneratedMSBuildEditorConfig.editorconfig
+P:\Modding\The Long Dark\UPDATES\FoodPackByTKG\VisualStudio\obj\Debug\net6.0\FoodPackByTKG.csproj.CoreCompileInputs.cache
+P:\Modding\The Long Dark\UPDATES\FoodPackByTKG\VisualStudio\obj\Debug\net6.0\FoodPackByTKG.dll
+P:\Modding\The Long Dark\UPDATES\FoodPackByTKG\VisualStudio\obj\Debug\net6.0\refint\FoodPackByTKG.dll
+P:\Modding\The Long Dark\UPDATES\FoodPackByTKG\VisualStudio\obj\Debug\net6.0\ref\FoodPackByTKG.dll
