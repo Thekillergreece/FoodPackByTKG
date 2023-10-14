@@ -7,9 +7,9 @@ namespace TKG
 {
     public class TKGMain : MelonMod
     {
-        public static bool loadedCookingTex;
-        private static List<string> cookableGear = new List<string>();
-        public static Material vanillaLiquidMaterial;
+        public static bool loadedCookingTex { get; set; }
+        private static List<string> cookableGear { get; } = new List<string>();
+        public static Material? vanillaLiquidMaterial { get; set; }
 
         public static Material InstantiateLiquidMaterial()
         {
