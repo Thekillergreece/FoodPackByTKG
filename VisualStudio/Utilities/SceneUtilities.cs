@@ -1,6 +1,4 @@
-﻿using Il2Cpp;
-
-namespace TKG.Utilities
+﻿namespace TKG.Utilities
 {
     public class SceneUtilities
     {
