@@ -1,11 +1,8 @@
-﻿using Il2Cpp;
-using MelonLoader;
-using TKG.Utilities;
-using UnityEngine;
+﻿using TKG.Utilities;
 
 namespace TKG
 {
-    public class TKGMain : MelonMod
+    public class Main : MelonMod
     {
         public static bool loadedCookingTex { get; set; }
         private static List<string> cookableGear { get; } = new List<string>();
