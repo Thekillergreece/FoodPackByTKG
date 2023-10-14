@@ -1,5 +1,6 @@
 ﻿using Il2Cpp;
 using MelonLoader;
+using TKG.Utilities;
 using UnityEngine;
 
 namespace TKG
@@ -29,6 +30,8 @@ namespace TKG
 
         public override void OnSceneWasInitialized(int level, string name)
         {
+            if (!SceneUtilities.IsScenePlayable(sceneName)) return;
+
             if (!loadedCookingTex) // adding pot cooking textures
             {
                 cookableGear.Add("CannedChiliOpened"); // case-sensitive
