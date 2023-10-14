@@ -11,12 +11,21 @@ namespace TKG
         private static List<string> cookableGear { get; } = new List<string>();
         public static Material? vanillaLiquidMaterial { get; set; }
 
-        public static Material InstantiateLiquidMaterial()
+        public static Material? InstantiateLiquidMaterial()
         {
-            if (!vanillaLiquidMaterial)
+            if (vanillaLiquidMaterial == null)
             {
-                vanillaLiquidMaterial = new Material(GearItem.LoadGearItemPrefab("GEAR_CoffeeCup").gameObject.GetComponent<Cookable>().m_CookingPotMaterialsList[0]);
+                // Ensure each component is NOT null before operating with it
+                GearItem gi = GearItem.LoadGearItemPrefab("GEAR_CoffeeCup");
+                if (gi == null) return null;
 
+                GameObject go = gi.gameObject;
+                if (go == null) return null;
+
+                Cookable cookable = go.GetComponent<Cookable>();
+                if (cookable == null) return null;
+
+                vanillaLiquidMaterial = new Material(cookable.m_CookingPotMaterialsList[0]);
                 vanillaLiquidMaterial.name = "Liquid";
             }
 
