@@ -5,7 +5,7 @@ using UnityEngine;
 
 namespace TKG
 {
-    internal sealed class TKGMain : MelonMod
+    public class TKGMain : MelonMod
     {
         public static bool loadedCookingTex;
         private static List<string> cookableGear = new List<string>();
