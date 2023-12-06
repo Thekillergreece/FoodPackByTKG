@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "P:\\Modding\\The Long Dark\\UPDATES\\FoodPackByTKG\\VisualStudio\\FoodPackByTKG.csproj": {}
+    "C:\\Users\\PC\\Desktop\\My mods\\Food-Pack-master\\VisualStudio\\FoodPackByTKG.csproj": {}
   },
   "projects": {
-    "P:\\Modding\\The Long Dark\\UPDATES\\FoodPackByTKG\\VisualStudio\\FoodPackByTKG.csproj": {
+    "C:\\Users\\PC\\Desktop\\My mods\\Food-Pack-master\\VisualStudio\\FoodPackByTKG.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\Modding\\The Long Dark\\UPDATES\\FoodPackByTKG\\VisualStudio\\FoodPackByTKG.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Desktop\\My mods\\Food-Pack-master\\VisualStudio\\FoodPackByTKG.csproj",
         "projectName": "FoodPackByTKG",
-        "projectPath": "P:\\Modding\\The Long Dark\\UPDATES\\FoodPackByTKG\\VisualStudio\\FoodPackByTKG.csproj",
-        "packagesPath": "C:\\Users\\james\\.nuget\\packages\\",
-        "outputPath": "P:\\Modding\\The Long Dark\\UPDATES\\FoodPackByTKG\\VisualStudio\\obj\\",
+        "projectPath": "C:\\Users\\PC\\Desktop\\My mods\\Food-Pack-master\\VisualStudio\\FoodPackByTKG.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PC\\Desktop\\My mods\\Food-Pack-master\\VisualStudio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\james\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://165.232.96.237:5555/v3/index.json": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -62,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

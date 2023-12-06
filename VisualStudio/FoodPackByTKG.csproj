@@ -13,12 +13,6 @@
 	</PropertyGroup>
 	<!-- DO NOT CHANGE ANYTHING BETWEEN THESE -->
 
-	<PropertyGroup>
-		<!-- This should point to wherever your games primary EXE is -->
-		<TheLongDarkPath>O:\SteamLibrary\steamapps\common\TheLongDark</TheLongDarkPath>
-		<ReleaseFolderPath>P:\Modding\The Long Dark\UPDATES\FoodPackByTKG\Release</ReleaseFolderPath>
-	</PropertyGroup>
-
 	<!--This is the of packages that the mod references.-->
 	<ItemGroup>
 		<!--This package contains almost everything a person could possibly need to reference while modding.-->
@@ -36,13 +30,5 @@
 		<Using Include="MelonLoader" />
 		<Using Include="UnityEngine" />
 	</ItemGroup>
-
-	<!-- This is a build event. It will copy your dll to the currently defined TheLongDarkPath's Mods folder -->
-	<Target Name="PostBuild" AfterTargets="PostBuildEvent">
-		<!-- This copies the mods files to the games mod dir -->
-		<Copy SourceFiles="$(TargetPath)" DestinationFolder="$(TheLongDarkPath)/Mods" />
-		<!-- This copies the mods files to a designated release folder. Speeds up finding the dll after a build -->
-		<Copy SourceFiles="$(TargetPath)" DestinationFolder="$(ReleaseFolderPath)" />
-	</Target>
 	
 </Project>

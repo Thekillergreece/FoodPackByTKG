@@ -3,8 +3,8 @@
 #Timberwolf Mountain
 scene=CrashMountainRegion
 item=GEAR_HoneyJar p=889.1611,162.4090,339.3607 r=0.0000,260.1409,0.0000 c=25
-item=GEAR_randomsodatall p=886.1189,160.6400,345.2701 r=0.0000,287.7862,0.0000 c=85
-item=GEAR_randomsodatall p=886.4289,160.6700,345.2591 r=-0.0000,306.8011,90.0001 c=75
+item=GEAR_randomsodatall p=886.1189,160.6400,345.2701 r=0.0000,287.7862,0.0000 c=45
+item=GEAR_randomsodatall p=886.4289,160.6700,345.2591 r=-0.0000,306.8011,90.0001 c=45
 item=GEAR_CannedSpaghetti p=886.4881,161.1723,340.7732 r=0.0000,341.4180,0.0000 c=50
 item=GEAR_CannedSpaghetti p=886.6316,161.1723,340.7702 r=-0.0000,39.8357,-0.0000 c=25
 item=GEAR_HotCocoaCup p=890.6815,160.9308,339.7182 r=0.0000,323.8402,0.0000 c=25
@@ -23,7 +23,7 @@ item=GEAR_randommediumcannedfood p=770.0543,397.7242,1691.8319 r=15.5224,163.693
 item=GEAR_randommediumcannedfood p=1018.6156,491.8799,1399.4622 r=278.3885,348.8427,248.3479 c=75
 
 scene=MountainCaveA
-item=GEAR_ModChocolateBar p=-9.2564,-21.0508,-62.1194 r=3.5320,342.2679,3.6980 c=65
+item=GEAR_ModChocolateBar p=-9.2564,-21.0508,-62.1194 r=3.5320,342.2679,3.6980 c=45
 item=GEAR_randommediumcannedfood p=-24.4596,15.3038,8.9962 r=357.0526,75.3570,1.0385 c=45
 
 scene=MountainCaveB
