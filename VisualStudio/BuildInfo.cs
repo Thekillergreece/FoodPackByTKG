@@ -9,9 +9,9 @@
         /// <summary>The machine readable name of the mod (no special characters or spaces)</summary>
         public const string Name                            = "FoodPackByTKG";
         /// <summary>Who made the mod</summary>
-        public const string Author                          = "Thekillergreece";
+        public const string Author                          = "Thekillergreece and Kaiusername";
         /// <summary>Current version (Using Major.Minor.Build) </summary>
-        public const string Version                         = "5.3";
+        public const string Version                         = "5.4";
         /// <summary>Name used on GUI's, like ModSettings</summary>
         public const string GUIName                         = "Food Pack by TKG";
         /// <summary>The minimum Melon Loader version that your mod requires</summary>
