@@ -396,7 +396,7 @@
         "Japanese": "ホットココア用のパックが詰まった箱。マシュマロ入り。",
         "Spanish (Spain)": "Una caja llena de paquetes para hacer chocolate caliente. Ahora con malvaviscos.",
         "Turkish": "Sıcak kakao yapmak için kullanılan paketlerle dolu bir kutu. Şimdi marshmallow ile",
-        "Italian": "Una scatola pieni di bustine usate per fare la cioccolata calda. Ora con marshmallows."
+        "Italian": "Una scatola piena di bustine usate per fare la cioccolata calda. Ora con marshmallows."
     },
     "GAMEPLAY_HotCocoaBoxStackSingle": {
         "English": "Hot Cocoa Packet",
@@ -620,7 +620,7 @@
         "Japanese": "ウィスキーのような香りだ……。 \n刻まれている模様は謎めいた場所を連想させる。",
         "Spanish (Spain)": "Huele a whisky... \nEl grabado metálico alude a un misterioso lugar.",
         "Turkish": "Viski gibi kokuyor... \nMetal ikonografi gizemli bir yeri ima ediyor.",
-        "Italian": "Odora di Whisky... \nIl metallo iconografia allude a un posto misterioso."
+        "Italian": "Odora di Whisky... \nL'iconografia del metallo allude a un posto misterioso."
     },
     "GAMEPLAY_WineBottle": {
         "English": "Wine Bottle",
@@ -666,7 +666,7 @@
         "Japanese": "ハチミツとトウモロコシで作られた甘いシリアル。",
         "Spanish (Spain)": "Cereales dulces azucarados, hechos con miel y maiz.",
         "Turkish": "Bal ve mısırla yapılan tatlı, şekerli bir tahıl gevreği.",
-        "Italian": "Cereali dolci e zuccherate fatti con miele e mais."
+        "Italian": "Cereali dolci e zuccherati fatti con miele e mais."
     },
     "GAMEPLAY_CerealWholeGrain": {
         "English": "Fiberwheat Crunch",
@@ -960,7 +960,7 @@
         "Russian": "Записка от работника заправки Квонсета",
         "Spanish (Spain)": "Nota de un trabajador del taller Quonset",
         "Turkish" : "Bir Quonset Benzin İstasyonu Çalışanından Not",
-        "Italian": "Nota da un dipendente della stazione di servizio Quonset"
+        "Italian": "Nota da un impiegato della stazione di servizio Quonset"
     },
     "GAMEPLAY_NOTE_DESC": {
         "English": "A note written by an employee at the Gas Station Employee.",
@@ -970,7 +970,7 @@
         "Russian": "Записка, оставленная работником заправки Квонсета.",
         "Spanish (Spain)": "Una nota escrita por un trabajador del taller Quonset.",
         "Turkish" : "Benzin istasyonuda çalışan bir kişi tarafından yazılmış not.",
-        "Italian": "Una nota scritta da un dipendente della stazione di servizio Quonset."
+        "Italian": "Una nota scritta da un impiegato della stazione di servizio Quonset."
     },
     "GAMEPLAY_NOTE_LORE": {
         "English": "Twelve cereal boxes, four Honey Jars, and a couple packages of... vodka bottles? I gotta import these goods from my local dealer whose nickname comes by as 'Kai' whatever that means. He rarely drops by, it's gonna take weeks if not months. Besides, what the hell is going on out there? There's no power, no communication from the outside. How the hell am I gonna restock? \n\nIf only I could communicate with the Old Man at the Pleasant Valley Farmhouse... He's a complete dickhead but tips quite well, even though he totally doesn't have to. \n\n\nFor now, I'm gonna go home. \n\n*a signature would be seen here; 'G. Chalkias'.",
@@ -980,7 +980,7 @@
         "Japanese": "シリアル12箱、ハチミツの瓶が4箱、そしてウオッカ？のパッケージが二つ。私はこれらの品物を「カイ」と呼ばれている地元の業者から入手している。彼は滅多に来ないから、入手には数週間はかかるだろう。その上、一体全体何がここで起こっているのか？ここには電力も、島外との通信も何一つない。物資の補充はどうすればいいんだ？\n\nもしプレザント・バレー農場の主人と話せたなら……彼はどうしようもないバカだがこの手のことはよく心得ている、たとえ、彼にそうする義務が一切なかったとしてもだ。\n\n\nひとまず、家に帰るつもりだ。\n\n*ここに署名がある。 'G.ハルキアス' ",
         "Spanish (Spain)": "Doce cajas de cereales, cuatro tarros de miel, y un par de paquetes de... ¿Botellas de vodka? Tengo que importar esta mercancía a través de mi distribuidor local cuyo apodo es 'Kai', lo que sea que signifique eso. Raramente se pasa por aquí, le va a llevar semanas, meses incluso. Además ¿Qué cojones está pasando ahí fuera? No hay luz, ni comunicación de fuera. ¿Cómo demonios voy a reponer todo esto? \n\n Si pudiese comunicarme con el anciano de la granja en Valle Apacible... Es un gilipollas de cuidado pero deja buena propina, teniendo en cuenta que ni siquiera hace falta. \n\n\nPor ahora, me voy a casa. \n\n*Se puede ver una firma a pie de página; 'G. Chalkias'.",
         "Turkish" : "On iki mısır gevreği kutusu, dört bal kavanozu ve birkaç paket... votka şişesi? Bu malları, takma adı 'Kai' olan yerel satıcımdan ithal etmeliyim, bu ne anlama geliyorsa. Nadiren uğrar, aylar olmasa da haftalar alır. Ayrıca, orada neler oluyor? Güç yok, dışarıdan iletişim yok. Nasıl stok yapacağım? \n\nKeşke Pleasant Valley Çiftlik Evi'ndeki Yaşlı Adam'la iletişim kurabilseydim... O tam bir sik kafalı ama buna hiç gerek olmadığı halde oldukça iyi bahşiş veriyor. \n\n\nŞimdilik eve gideceğim. \n\n*burada bir imza görülecektir; 'G. Chalkias'.",
-        "Italian": "Dodici scatole di cereali, quattro barattoli di miele e un paio di pacchetti di... bottigle di vodka? Devo importare questi beni dal mio rivenditore locale di cui il soppranome va di 'Kai' qualsiasi cosa significa. Lui raramente passa, ci vorrà settimane se non mesi. Oltretutto, cosa diavolo sta succedendo là fuori? Non c'è corrente, nessuna communicazione dall'esterno. Come diavolo farò il rifornimetno? \n\nSe solo potessi communicare con il Vecchio della Fattoria Pleasant Valley... È uno stronzo ma le sue mancie sono buone, anche se non deve farlo per forza. \n\n\n Per ora, andrò a casa. \n\n*Si vede una firma; 'G. Chalkias'."
+        "Italian": "Dodici scatole di cereali, quattro barattoli di miele e un paio di pacchetti di... bottigle di vodka? Devo importare questi beni dal mio rivenditore locale di cui il soppranome va di 'Kai' qualsiasi cosa significa. Lui raramente passa, ci vorranno settimane se non mesi. Oltretutto, cosa diavolo sta succedendo là fuori? Non c'è corrente, nessuna communicazione dall'esterno. Come diavolo farò il rifornimetno? \n\nSe solo potessi communicare con il Vecchio della Fattoria Pleasant Valley... È uno stronzo ma le sue mancie sono buone, anche se non deve farlo per forza. \n\n\n Per ora, andrò a casa. \n\n*Si vede una firma; 'G. Chalkias'."
     },
     "GAMEPLAY_NOTE_TITL_2": {
         "English": "Note from a Rural Store Employee",
@@ -990,7 +990,7 @@
         "Russian": "Записка от работника сельского магазина",
         "Spanish (Spain)": "Nota de un empleado de una tienda rural",
         "Turkish" : "Bir Kırsal Mağaza Çalışanından Not",
-        "Italian": "Nota da un dipendente del negozio rurale"
+        "Italian": "Nota da un impiegato del negozio rurale"
     },
     "GAMEPLAY_NOTE_DESC_2": {
         "English": "A note written by an employee at the Rural Store.",
@@ -1000,7 +1000,7 @@
         "Russian": "Записка, написанная работником сельского магазина.",
         "Spanish (Spain)": "Una nota escrita por un empleado de la tienda del Valle Apacible.",
         "Turkish" : "Kırsal Mağazadaki bir çalışan tarafından yazılmış not.",
-        "Italian": "Una nota scritta da un dipendente del negozio rurale."
+        "Italian": "Una nota scritta da un impiegato del negozio rurale."
     },
     "GAMEPLAY_NOTE_LORE_2": {
         "English": "A shady guy just dropped by and told me that my can of tunas scares away, what, wolves? I'm not sure what was he on but we don't have wolves around here. However, I did hear their howl from time to time which seemed strange to me because they rarely if ever approach settlements. \n\nAnyway, I'm not sure what my colleague is doing down there at Coastal Highway but the Old Man has been complaining something about his needs not being met, something about not getting enough alcoholic drinks? What a weird person, he should be at a nursery instead. \n\n\nFor some reason my shipment hasn't arrived yet. Not a surprise since the power has been out for a few days and I got a backup generator. I hope it'll come soon enough. \nI'm gonna pay a visit to another colleague of mine up at Mountain Town, and see how he's holding up.",
@@ -1010,7 +1010,7 @@
         "Japanese": "ついさっき立ち寄った怪しい男がうちのツナ缶がやつら（……狼？）を追い払ってるのだ、と言っていた。その通りだとは思えないが、我々がこのあたりで狼に出くわしてないのは確かだ。けれども、あいつらの吠え声を時々聞くこと自体は奇妙なことに思える。なぜなら、連中が住宅地に近づくことは皆無ではないが滅多にないことだからだ。\n\nそれはそうと、沿岸のハイウェイで仕事をしている私の同僚に用事がある（酒が十分手に入らないことについてだろうか？）のに会えない、と農場主が愚痴っていたことについては同意できない。変人め、それより苗床の様子でも見ているべきだ。\n\n\n諸々の事情により私の貨物はいまだ到着していない。数日間にわたる停電を経験し、非常用発電機を入手することになった今では驚くようなことではない。だが私は貨物が速やかに届くであろうことを願っている。\n私はこれから山間の町へ行ったもう一人の同僚のもとを訪れて、支払いと彼の難渋している状況を確かめるつもりだ。",
         "Spanish (Spain)": "Un tipo un poco turbio acaba de venir para decirme que mis latas de atún asusta... a qué ¿Lobos?. No sé de que iba pero aquí no hay lobos. Aunque, me parece haber escuchado sus aullidos de vez en cuando, lo cual me parece un poco raro ya que raramente se acercan aquí. \n\nEn cualquier caso, no sé que estará haciendo mi compañero en la Autovía Litoral, pero el anciano se ha estado quejando de que sus necesidades no están cubiertas ¿Algo sobre que no está recibiendo suficientes bebidas alcohólicas, o algo así? Que persona más extraña, debería estar en una residencia. \n\n\nPor alguna razón my cargamento no ha llegado todavía. Tampoco es una sorpresa porque la electricidad lleva cortada unos días y tengo un generador de emergencia. Espero que venga lo antes posible. \nVoy a hacerle una visita a mi compañera en Milton, a ver cómo le va.",
         "Turkish" : "Az önce gölgeli bir adam uğradı ve ton balığı konservemin korkuttuğunu söyledi, hangi kurtlar? Ne kullandığından emin değilim ama buralarda kurt yok. Bununla birlikte, zaman zaman ulumalarını duydum, bu bana garip geldi çünkü yerleşim yerlerine nadiren yaklaşırlar, hatta hiç yaklaşmazlar. \n\nHer neyse, meslektaşımın Sahil Yolu'nda ne yaptığından emin değilim ama Yaşlı Adam ihtiyaçlarının karşılanmadığından, yeterince alkollü içki almadığından şikayet ediyor? Ne tuhaf bir insan, onun yerine çocuk odasında olmalı. \n\n\nNedense kargom henüz ulaşmadı. Güç birkaç gündür kesildiğinden ve bir yedek jeneratör aldığımdan beri sürpriz değil. Umarım yakında gelir. \nMountain Town'daki başka bir meslektaşımı ziyaret edeceğim ve nasıl dayandığına bakacağım.",
-        "Italian": "Un tipo sospettoso è appena passato e mi ha detto che le mie lattine di tonno spaventano via, cosa, lupi? Non sono certo su cosa intende ma non abbiamo lupi da queste parti. Però, ho sentito il loro ululare di volta in volta quale appare strano per me siccome loro raramente se mai si avvicinano agli insediamenti. \n\nComunque, non sono sicuro cosa il mio collega sta facendo lì nell'Autostrada Costiera, ma il Vecchio si è lamentato di qualcosa riguardante i sui bisogni non soddisfati, qualcosa a proposito di non aver ricevuto abbastanta bevande alcoliche? Che persona strana, dovrebbe invecere essere in un asilo nido. \n\n\nPer qualche motivo la mia spedizione non è arrivata ancora. Non mi sorprende visto che la corrente è assente già da qualche giorno e ho un generatore di riserva. Spero che arrivi abbastanza presto. \nAndrò a visitare un'altro mio collega su nel Villaggio di Montagna a vedere come se la cava."
+        "Italian": "Un tipo sospettoso è appena passato e mi ha detto che le mie lattine di tonno spaventano via, cosa, lupi? Non sono certo su cosa intende ma non abbiamo lupi da queste parti. Però, ho sentito il loro ululare di volta in volta il che appare strano per me siccome loro raramente se mai si avvicinano agli insediamenti. \n\nComunque, non sono sicuro cosa il mio collega sta facendo lì nell'Autostrada Costiera, ma il Vecchio si è lamentato di qualcosa riguardante i sui bisogni non soddisfati, qualcosa a proposito di non aver ricevuto abbastanta bevande alcoliche? Che persona strana, dovrebbe invece essere in un asilo nido. \n\n\nPer qualche motivo la mia spedizione non è ancora arrivata. Non mi sorprende visto che la corrente è assente già da qualche giorno e ho un generatore di riserva. Spero che arrivi abbastanza presto. \nAndrò a visitare un'altro mio collega su nel Villaggio di Montagna a vedere come se la cava."
     },
     "GAMEPLAY_NOTE_TITL_3": {
         "English": "Note from a Convenience Store Employee",
@@ -1020,7 +1020,7 @@
         "Russian": "Записка от работника минимаркета",
         "Spanish (Spain)": "Nota de una empleada de una tienda de ultramarinos",
         "Turkish" : "Bir market çalışanından not",
-        "Italian": "Nota da un dipendente del minimarket"
+        "Italian": "Nota da un impiegato del minimarket"
     },
     "GAMEPLAY_NOTE_DESC_3": {
         "English": "A note written by an employee at the Convenience Store",
@@ -1030,7 +1030,7 @@
         "Russian": "Записка, оставленная работником минимаркета",
         "Spanish (Spain)": "Una nota escrita por una empleada de la tienda de ultramarinos de Milton",
         "Turkish" : "Marketteki bir çalışan tarafından yazılmış not",
-        "Italian": "Una nota scritta da un dipendente del minimarket"
+        "Italian": "Una nota scritta da un impiegato del minimarket"
     },
     "GAMEPLAY_NOTE_LORE_3": {
         "English": "I just delivered ten stocks of twenty cans and plastics of Forsaken Spirits drinks, a supply order from Mr. Smith at Forsaken Hangar. \nAre they crazy or addicted to this drink? Yeah, the brand happened to share the name of that airport 'Forsaken Airfield' but they are overdoing it. I'm almost out of Forsaken Spirits stock and I don't know when I'll get my next delivery because of this stupid power outage. \n\nThis old hag is pestering me about her boxes of hot cocoa running out as if I care enough about that on top of the supply problems I got right now. \n\n\nMaybe I should ask my old pal, Chalkias, to share some of his goods in the meantime.",
@@ -1040,7 +1040,7 @@
         "Russian": "Я только что доставил десять комплектов из двадцати банок и пластиковых бутылок напитка 'Покинутые духи' по заказу мистера Смита из Покинутого ангара. \nОни там с ума сошли или пристрастились к этому напитку? Да, бренд случайно назвал напиток 'покинутым', как и этот аэродром, но это они переусердствовали. У меня почти закончились запасы 'Покинутых духов', и я не знаю, когда получу следующую доставку из-за этого дурацкого отключения электричества. \n\nЭта старая ведьма пристает ко мне из-за того, что у нее заканчиваются коробки с какао. Как будто меня это волнует, в придачу со всеми другими проблемами с поставками. \n\n\nМожет быть, мне стоит попросить моего старого приятеля Халкия поделиться чем-нибудь из его товаров.",
         "Spanish (Spain)": "Acabo de enviar diez reservas de veinte latas y botellas de Espíritus Olvidados, una petición del señor Smith, el del Aeródromo Olvidado. \n ¿Están majaras o adictos a esta mierda? Sí, da la casualidad que la el nombre de la marca se parece al del aeródromo y tal, pero creo que se están`pasando. Ya casi no me quedan reservas de Espíritus Olvidados I no tengo ni idea de cuando llega el siguiente paquete por culpa del puñetero corte de luz. \n\nLa vieja arpía esta me está tocando las narices con que su reserva de cacao se está acabando, como si me importase lo más mínimo, teniendo en cuenta el resto de problemas que tengo ahora. \n\n\nQuizás le pregunte a mi viejo amigo, Chalkias, a ver si puede compartir de lo suyo mientras tanto.",
         "Turkish" : "Az önce Forsaken Hangar'daki Bay Smith'in tedarik siparişi olan on stok yirmi kutu ve plastik Forsaken Spirits içeceği teslim ettim. \nDeli mi yoksa bu içkiye bağımlı mı? Evet, marka tesadüfen o havaalanının adını 'Forsaken Airfield' olarak paylaşıyordu ama abartıyorlar. Forsaken Spirits stoğum neredeyse bitmek üzere ve bu aptalca elektrik kesintisi yüzünden bir sonraki teslimatımı ne zaman alacağımı bilmiyorum. \n\nBu yaşlı cadı, sanki şu anda sahip olduğum tedarik sorunlarına ek olarak bunu yeterince önemsiyormuşum gibi, sıcak kakao kutularının bitmesi konusunda beni rahatsız ediyor. \n\n\nBelki de bu arada eski dostum Chalkias'tan mallarından bazılarını paylaşmasını istemeliyim.",
-        "Italian": "Ho appena consegnato dieci scorte da venti bevande in lattine e plastiche di Spiriti Abbandonati, una scorta ordinata da Mr. Smith dall'Hangar abbandonato. \nSono pazzi o dipendenti da questa bevanda? Bhe sì, alla marca è successo di condividere il nome di quel 'Campo D'aviazione Abbandonato' ma stanno esagerando. Sono quasi a corto delle scorte di Spiriti Abbandonati e non so quando ricevero il prossimo rifornimento a colpa di questa stupida interruzione di corrente. \n\nQuesta vecchia strema mi sta importunando per esaurimento delle sue scorte di cioccolata calda come se me ne importasse abbastanza di questo oltre al problema della fornituro che ho proprio adesso. \n\n\nForse dovrei chiedere al mio vecchio amico, Chalkias, di condividere i suoi beni nel frattempo."
+        "Italian": "Ho appena consegnato dieci scorte da venti bevande in lattine e plastiche di Spiriti Abbandonati, una scorta ordinata da Mr. Smith dall'Hangar abbandonato. \nSono pazzi o dipendenti da questa bevanda? Bhe sì, alla marca è successo di condividere il nome di quel 'Campo D'aviazione Abbandonato' ma stanno esagerando. Sono quasi a corto delle scorte di Spiriti Abbandonati e non so quando riceverò il prossimo rifornimento a colpa di questa stupida interruzione di corrente. \n\nQuesta vecchia strega mi sta importunando per esaurimento delle sue scorte di cioccolata calda come se me ne importasse abbastanza di questo oltre al problema della fornitura che ho proprio adesso. \n\n\nForse dovrei chiedere al mio vecchio amico, Chalkias, di condividere i suoi beni nel frattempo."
     },
     "GAMEPLAY_NOTE_TITL_4": {
         "English": "Note from the Old Man.",
@@ -1070,6 +1070,6 @@
         "Russian": "Не стоило мне заказывать столько коробок с хлопьями и бутылок водки, когда я все время забываю купить бинты. В ближайшем магазине они закончились, так что мне нужно отправиться в Блэкрок, там единственный лазарет на этом проклятом острове. \n\nКстати, с каких это пор волки нападают на людей, как только увидят? Один из них укусил меня за руку, и выглядит это дело плохо! Я не могу полностью остановить кровотечение... Надо бы поторопиться. \n\n\nЕсли вы найдете эту записку, делайте, что хотите. Когда электричество вернется, я лечу обратно во Флориду. \n\nПо крайней мере, я буду иметь дело с сумасшедшими, а не с волками и медведями или лосями время от времени.",
         "Spanish (Spain)": "Jamás debería haber encargado tal cantidad de cajas de cereales y botellas de vodka cuando sigo olvidándome de comprar vendas. La tienda más cercana se ha quedado sin, así que tendré que ir a Rocanegra, ya que es el único lugar en esta maldita isla donde tienen una enfermería. \n\nHablando de eso ¿Desde cuándo los lobos atacan a la gente nada más verlos? ¡Uno me mordió en la mano y no tiene buena pinta! No puedo detener la hemorragia muy bien... más me vale ir rápido. \n\n\nSi encuentras esta nota, haz lo que te de la gana. Cuando vuelva la luz, me vuelvo a Florida. \n\nAl menos lidiaré con locos, y no con lobos, o el ocasional oso o alce.",
         "Turkish" : "Bandaj almayı unutup dururken asla büyük miktarda mısır gevreği kutusu ve votka şişesi sipariş etmemeliydim. En yakın mağazada kalmadı, bu yüzden Blackrock'a gitmeliyim, bu lanetli adadaki tek revire sahipler. \n\nBu arada, ne zamandan beri kurtlar insanlara gördükleri yerde saldırıyorlar? Biri elimi ısırdı ve kötü görünüyor! Kanamayı yeterince iyi durduramıyorum... Hızlı gitsen iyi olur. \n\n\nBu notu bulursanız, ne isterseniz yapın. Güç geri geldiğinde, Florida'ya geri uçuyorum. \n\nEn azından kurtlardan ve ara sıra ayı veya amerikan geyiğinden daha çılgın insanlarla uğraşıyor olacağım.",
-        "Italian": "Non ho dovuto ordinare una enorme quantità di scatole di cereali e bottiglie di vodka quando mi dimentico di comprare bende. Il negozio più vicino le ha esaurito quindi devo andare a Blackrock, loro hanno l'unica infermeria in questa maledetta isola. \n\nParlando di questo, da quando i lupi attaccano persone a vista adesso? Uno di loro mi ha morso la mano e ora sembra brutto! Non posso fermare il sanguinamento abbastanza bene... Meglio andare veloce. \n\n\nSe trovi questa nota, fai qualunque cosa vuoi fare. Quando la corrente ritorna, tornero in Florida. \n\nAlmeno avrò a che fare con gente pazza che lupi e occasinalmente orsi e alci."
+        "Italian": "Non ho dovuto ordinare una enorme quantità di scatole di cereali e bottiglie di vodka quando mi dimentico di comprare bende. Il negozio più vicino le ha esaurito quindi devo andare a Blackrock, loro hanno l'unica infermeria in questa maledetta isola. \n\nParlando di questo, da quando i lupi attaccano persone a vista adesso? Uno di loro mi ha morso la mano e ora non ha un bell'aspetto! Non posso fermare il sanguinamento abbastanza bene... Meglio andare veloce. \n\n\nSe trovi questa nota, fai qualunque cosa vuoi fare. Quando la corrente ritorna, tornero in Florida. \n\nAlmeno avrò a che fare con gente pazza che lupi e occasinalmente orsi e alci."
     }
 }
