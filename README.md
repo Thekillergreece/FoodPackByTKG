@@ -77,8 +77,7 @@ Currently, the mod is supported by the following languages; English, German, Rus
 ---
 - If you haven't done so already, install MelonLoader by downloading and running MelonLoader.Installer.exe
 - Install the latest version of ModComponent and its dependencies.
-- (IF NOT USING JODS' INDOORS GREENERY MOD) Use FoodPackByTKG.modcomponent from the folder.
-- (IF USING JODS' INDOORS GREENERY MOD) Use FoodPackByTKG+.modcomponent from the folder.
+- Read instructions in the mod file.
 - Move the .modcomponent file to your mods folder.
 - (OPTIONAL) Download latest version of Foods by 'Calorie Waltz' from their releases page.
 - (OPTIONAL) Move the mod's content to mods folder.
