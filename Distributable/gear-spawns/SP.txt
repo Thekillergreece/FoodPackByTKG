@@ -1,0 +1,44 @@
+# SUNDERED PASS SPAWN POINTS
+
+# Sundered Pass
+scene=MountainPassRegion
+# Cabin A
+item=GEAR_ForsakenSpirits p=202.5718,198.2712,763.3864 r=-0.0000,174.0383,90.0001 c=45
+item=GEAR_CupMilk p=204.6865,197.9094,761.2477 r=-0.0000,101.3455,-0.0000 c=40
+# Cabin B
+item=GEAR_CannedChili p=258.7242,371.5902,-53.3494 r=358.7794,341.3830,359.9916 c=35
+item=GEAR_CatFood p=259.0973,371.5902,-52.7067 r=0.0000,294.5832,0.0000 c=65
+item=GEAR_CannedMangos p=253.5295,371.1281,-46.9583 r=291.0249,343.3143,357.1682 c=45
+# Cabin C
+item=GEAR_MountainSoda p=-336.5463,599.9246,-998.3871 r=-0.0000,352.3578,270.0000 c=45
+item=GEAR_DryMilkPacket p=-338.1454,601.0610,-1001.8939 r=0.0000,346.3016,0.0000 c=65
+# Near Radar Station
+item=GEAR_ModChocolateBar p=544.4438,587.4080,-581.7156 r=357.6440,278.5771,0.5373 c=75
+
+
+#
+scene=MountainPassCabinA
+item=GEAR_ForsakenSpirits p=1.6086,0.0301,1.8917 r=-0.0000,254.7565,90.0000 c=55
+item=GEAR_CannedSpaghetti p=-1.3587,0.0620,3.8619 r=0.0000,176.3267,90.0000 c=65
+item=GEAR_MountainSoda p=5.5482,0.9764,-2.8967 r=-0.0000,164.4066,-0.0000 c=45
+#
+scene=MountainPassBuriedCabin
+item=GEAR_MountainSodaPlastic p=-2.8169,3.7856,-2.0976 r=-0.0000,20.7837,90.0000 c=55
+item=GEAR_FlourBag p=-2.4291,0.6338,6.0590 r=270.0000,45.8328,0.0000 c=85
+item=GEAR_RandomMediumCannedFood p=-3.2473,1.8866,6.3828 r=-0.0000,62.6545,-0.0000 c=45
+item=GEAR_RandomMediumCannedFood p=-3.0912,1.9416,6.5396 r=273.8492,7.1134,82.7499 c=40
+item=GEAR_CerealWholeGrain p=-2.4151,0.1874,6.0014 r=-0.0000,92.2364,-0.0000 c=35
+#
+scene=RadarBuilding
+item=GEAR_RedWineBottle p=-4.2814,0.0461,-3.4925 r=270.0000,320.4836,0.0000 c=100
+item=GEAR_ModSyrup p=-4.0400,0.9218,-2.6174 r=-0.0000,28.6716,-0.0000 c=75
+item=GEAR_ModChocolateBar p=-5.6233,0.9976,-2.5746 r=0.0000,199.5727,0.0000 c=50
+item=GEAR_SoyRamenCooked p=-3.2861,0.9218,-2.8388 r=-0.0000,41.7589,-0.0000 c=35
+#
+scene=MountainPassCaveA
+item=GEAR_CannedChili p=-13.7198,42.4192,22.1226 r=281.8560,225.8877,47.6246 c=35
+#
+scene=MountainPassCaveB
+item=GEAR_ForsakenSpiritsPlastic p=75.5475,56.8967,11.9371 r=6.6699,271.1664,93.6555 c=45
+item=GEAR_HoneyJar p=71.9417,56.4622,17.2936 r=0.0000,356.6808,0.0000 c=25
+item=GEAR_RandomMediumCannedFood p=18.7842,58.2009,-51.0007 r=6.6841,15.6664,0.3456 c=35

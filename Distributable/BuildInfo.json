@@ -1,6 +1,6 @@
 {
     "Name" : "Food Pack",
-    "Version" : "5.4",
+    "Version" : "5.5",
     "Author" : "Thekillergreece & Kaiusername",
 	"Requires":["Indoors_Greenery_DLC"],
     "RequiresDLC": true
