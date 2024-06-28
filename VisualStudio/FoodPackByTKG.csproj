@@ -1,34 +1,14 @@
-<Project Sdk="Microsoft.NET.Sdk" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project Sdk="Microsoft.NET.Sdk">
 
-	<!-- DO NOT CHANGE ANYTHING BETWEEN THESE (unless you know 100% what you are changing)-->
-	<!-- Further info: This defines critical project details, like the net version, C# language version, null enable and do not generate assembly info (we need a custom one) -->
-	<PropertyGroup>
-		<TargetFramework>net6.0</TargetFramework>
-		<LangVersion>Latest</LangVersion>
-		<ImplicitUsings>enable</ImplicitUsings>
-		<Nullable>enable</Nullable>
-		<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
-		<!-- Debug is useless for a mod -->
-		<DebugType>none</DebugType>
-	</PropertyGroup>
-	<!-- DO NOT CHANGE ANYTHING BETWEEN THESE -->
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
 
-	<!--This is the of packages that the mod references.-->
-	<ItemGroup>
-		<!--This package contains almost everything a person could possibly need to reference while modding.-->
-		<PackageReference Include="STBlade.Modding.TLD.Il2CppAssemblies.Windows" Version="2.23.0" />
-		<!--The package version here in this template may be outdated and need to be updated. Visual Studio can update package versions automatically.-->
-		<!--If the mod references any other mods (such as ModSettings), that NuGet package will also need to be listed here.-->
-	</ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="STBlade.Modding.TLD.Il2CppAssemblies.Windows" Version="2.28.0" />
+    <PackageReference Include="STBlade.Modding.TLD.ModComponent" Version="6.2.3" />
+  </ItemGroup>
 
-	<!-- Most commonly used using's. Add to this so you dont need to define them in the cs files -->
-	<ItemGroup>
-		<Using Include="System.Reflection" />
-		<Using Include="System.Diagnostics.CodeAnalysis" />
-		<Using Include="Il2Cpp" />
-		<Using Include="HarmonyLib" />
-		<Using Include="MelonLoader" />
-		<Using Include="UnityEngine" />
-	</ItemGroup>
-	
 </Project>

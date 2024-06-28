@@ -1,40 +1,36 @@
-C:\Users\PC\Desktop\Food-Pack-master\VisualStudio\obj\Debug\net6.0\FoodPackByTKG.csproj.AssemblyReference.cache
-C:\Users\PC\Desktop\Food-Pack-master\VisualStudio\obj\Debug\net6.0\FoodPackByTKG.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\PC\Desktop\Food-Pack-master\VisualStudio\obj\Debug\net6.0\FoodPackByTKG.csproj.CoreCompileInputs.cache
-C:\Users\PC\Desktop\Food-Pack-master\VisualStudio\bin\Debug\net6.0\FoodPackByTKG.deps.json
-C:\Users\PC\Desktop\Food-Pack-master\VisualStudio\bin\Debug\net6.0\FoodPackByTKG.dll
-C:\Users\PC\Desktop\Food-Pack-master\VisualStudio\obj\Debug\net6.0\FoodPackByTKG.dll
-C:\Users\PC\Desktop\Food-Pack-master\VisualStudio\obj\Debug\net6.0\refint\FoodPackByTKG.dll
-C:\Users\PC\Desktop\Food-Pack-master\VisualStudio\obj\Debug\net6.0\ref\FoodPackByTKG.dll
-C:\Users\PC\Desktop\My mods\Food-Pack-master\VisualStudio\bin\Debug\net6.0\FoodPackByTKG.deps.json
-C:\Users\PC\Desktop\My mods\Food-Pack-master\VisualStudio\bin\Debug\net6.0\FoodPackByTKG.dll
-C:\Users\PC\Desktop\My mods\Food-Pack-master\VisualStudio\obj\Debug\net6.0\FoodPackByTKG.csproj.AssemblyReference.cache
-C:\Users\PC\Desktop\My mods\Food-Pack-master\VisualStudio\obj\Debug\net6.0\FoodPackByTKG.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\PC\Desktop\My mods\Food-Pack-master\VisualStudio\obj\Debug\net6.0\FoodPackByTKG.csproj.CoreCompileInputs.cache
-C:\Users\PC\Desktop\My mods\Food-Pack-master\VisualStudio\obj\Debug\net6.0\FoodPackByTKG.dll
-C:\Users\PC\Desktop\My mods\Food-Pack-master\VisualStudio\obj\Debug\net6.0\refint\FoodPackByTKG.dll
-C:\Users\PC\Desktop\My mods\Food-Pack-master\VisualStudio\obj\Debug\net6.0\ref\FoodPackByTKG.dll
-C:\Users\Jodariel\Downloads\VisualStudio\VisualStudio\bin\Debug\net6.0\FoodPackByTKG.deps.json
-C:\Users\Jodariel\Downloads\VisualStudio\VisualStudio\bin\Debug\net6.0\FoodPackByTKG.dll
-C:\Users\Jodariel\Downloads\VisualStudio\VisualStudio\obj\Debug\net6.0\FoodPackByTKG.csproj.AssemblyReference.cache
-C:\Users\Jodariel\Downloads\VisualStudio\VisualStudio\obj\Debug\net6.0\FoodPackByTKG.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Jodariel\Downloads\VisualStudio\VisualStudio\obj\Debug\net6.0\FoodPackByTKG.csproj.CoreCompileInputs.cache
-C:\Users\Jodariel\Downloads\VisualStudio\VisualStudio\obj\Debug\net6.0\FoodPackByTKG.dll
-C:\Users\Jodariel\Downloads\VisualStudio\VisualStudio\obj\Debug\net6.0\refint\FoodPackByTKG.dll
-C:\Users\Jodariel\Downloads\VisualStudio\VisualStudio\obj\Debug\net6.0\ref\FoodPackByTKG.dll
-P:\Modding\The Long Dark\UPDATES\FoodPackByTKG\VisualStudio\bin\Debug\net6.0\FoodPackByTKG.deps.json
-P:\Modding\The Long Dark\UPDATES\FoodPackByTKG\VisualStudio\bin\Debug\net6.0\FoodPackByTKG.dll
-P:\Modding\The Long Dark\UPDATES\FoodPackByTKG\VisualStudio\obj\Debug\net6.0\FoodPackByTKG.csproj.AssemblyReference.cache
-P:\Modding\The Long Dark\UPDATES\FoodPackByTKG\VisualStudio\obj\Debug\net6.0\FoodPackByTKG.GeneratedMSBuildEditorConfig.editorconfig
-P:\Modding\The Long Dark\UPDATES\FoodPackByTKG\VisualStudio\obj\Debug\net6.0\FoodPackByTKG.csproj.CoreCompileInputs.cache
-P:\Modding\The Long Dark\UPDATES\FoodPackByTKG\VisualStudio\obj\Debug\net6.0\FoodPackByTKG.dll
-P:\Modding\The Long Dark\UPDATES\FoodPackByTKG\VisualStudio\obj\Debug\net6.0\refint\FoodPackByTKG.dll
-P:\Modding\The Long Dark\UPDATES\FoodPackByTKG\VisualStudio\obj\Debug\net6.0\ref\FoodPackByTKG.dll
-C:\Users\PC\Desktop\FoodPackByTKG-main\VisualStudio\bin\Debug\net6.0\FoodPackByTKG.deps.json
-C:\Users\PC\Desktop\FoodPackByTKG-main\VisualStudio\bin\Debug\net6.0\FoodPackByTKG.dll
-C:\Users\PC\Desktop\FoodPackByTKG-main\VisualStudio\obj\Debug\net6.0\FoodPackByTKG.csproj.AssemblyReference.cache
-C:\Users\PC\Desktop\FoodPackByTKG-main\VisualStudio\obj\Debug\net6.0\FoodPackByTKG.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\PC\Desktop\FoodPackByTKG-main\VisualStudio\obj\Debug\net6.0\FoodPackByTKG.csproj.CoreCompileInputs.cache
-C:\Users\PC\Desktop\FoodPackByTKG-main\VisualStudio\obj\Debug\net6.0\FoodPackByTKG.dll
-C:\Users\PC\Desktop\FoodPackByTKG-main\VisualStudio\obj\Debug\net6.0\refint\FoodPackByTKG.dll
-C:\Users\PC\Desktop\FoodPackByTKG-main\VisualStudio\obj\Debug\net6.0\ref\FoodPackByTKG.dll
+C:\Users\PC\Desktop\My mods\Food-Pack-master\VisualStudio\FoodPackByTKG\obj\Debug\net6.0\FoodPackByTKG.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\My mods\Food-Pack-master\VisualStudio\FoodPackByTKG\obj\Debug\net6.0\FoodPackByTKG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\My mods\Food-Pack-master\VisualStudio\FoodPackByTKG\obj\Debug\net6.0\FoodPackByTKG.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\My mods\Food-Pack-master\VisualStudio\FoodPackByTKG\obj\Debug\net6.0\FoodPackByTKG.AssemblyInfo.cs
+C:\Users\PC\Desktop\My mods\Food-Pack-master\VisualStudio\FoodPackByTKG\obj\Debug\net6.0\FoodPackByTKG.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\My mods\Food-Pack-master\VisualStudio\FoodPackByTKG\bin\Debug\net6.0\FoodPackByTKG.deps.json
+C:\Users\PC\Desktop\My mods\Food-Pack-master\VisualStudio\FoodPackByTKG\bin\Debug\net6.0\FoodPackByTKG.dll
+C:\Users\PC\Desktop\My mods\Food-Pack-master\VisualStudio\FoodPackByTKG\bin\Debug\net6.0\FoodPackByTKG.pdb
+C:\Users\PC\Desktop\My mods\Food-Pack-master\VisualStudio\FoodPackByTKG\obj\Debug\net6.0\FoodPackByTKG.dll
+C:\Users\PC\Desktop\My mods\Food-Pack-master\VisualStudio\FoodPackByTKG\obj\Debug\net6.0\refint\FoodPackByTKG.dll
+C:\Users\PC\Desktop\My mods\Food-Pack-master\VisualStudio\FoodPackByTKG\obj\Debug\net6.0\FoodPackByTKG.pdb
+C:\Users\PC\Desktop\My mods\Food-Pack-master\VisualStudio\FoodPackByTKG\obj\Debug\net6.0\ref\FoodPackByTKG.dll
+C:\Users\PC\Documents\GitHub\FoodPackByTKG\VisualStudio\FoodPackByTKG\bin\Debug\net6.0\FoodPackByTKG.deps.json
+C:\Users\PC\Documents\GitHub\FoodPackByTKG\VisualStudio\FoodPackByTKG\bin\Debug\net6.0\FoodPackByTKG.dll
+C:\Users\PC\Documents\GitHub\FoodPackByTKG\VisualStudio\FoodPackByTKG\bin\Debug\net6.0\FoodPackByTKG.pdb
+C:\Users\PC\Documents\GitHub\FoodPackByTKG\VisualStudio\FoodPackByTKG\obj\Debug\net6.0\FoodPackByTKG.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\FoodPackByTKG\VisualStudio\FoodPackByTKG\obj\Debug\net6.0\FoodPackByTKG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\FoodPackByTKG\VisualStudio\FoodPackByTKG\obj\Debug\net6.0\FoodPackByTKG.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\FoodPackByTKG\VisualStudio\FoodPackByTKG\obj\Debug\net6.0\FoodPackByTKG.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\FoodPackByTKG\VisualStudio\FoodPackByTKG\obj\Debug\net6.0\FoodPackByTKG.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\FoodPackByTKG\VisualStudio\FoodPackByTKG\obj\Debug\net6.0\FoodPackByTKG.dll
+C:\Users\PC\Documents\GitHub\FoodPackByTKG\VisualStudio\FoodPackByTKG\obj\Debug\net6.0\refint\FoodPackByTKG.dll
+C:\Users\PC\Documents\GitHub\FoodPackByTKG\VisualStudio\FoodPackByTKG\obj\Debug\net6.0\FoodPackByTKG.pdb
+C:\Users\PC\Documents\GitHub\FoodPackByTKG\VisualStudio\FoodPackByTKG\obj\Debug\net6.0\ref\FoodPackByTKG.dll
+C:\Users\PC\Documents\GitHub\FoodPackByTKG\VisualStudio\bin\Debug\net6.0\FoodPackByTKG.deps.json
+C:\Users\PC\Documents\GitHub\FoodPackByTKG\VisualStudio\bin\Debug\net6.0\FoodPackByTKG.dll
+C:\Users\PC\Documents\GitHub\FoodPackByTKG\VisualStudio\bin\Debug\net6.0\FoodPackByTKG.pdb
+C:\Users\PC\Documents\GitHub\FoodPackByTKG\VisualStudio\obj\Debug\net6.0\FoodPackByTKG.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\FoodPackByTKG\VisualStudio\obj\Debug\net6.0\FoodPackByTKG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\FoodPackByTKG\VisualStudio\obj\Debug\net6.0\FoodPackByTKG.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\FoodPackByTKG\VisualStudio\obj\Debug\net6.0\FoodPackByTKG.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\FoodPackByTKG\VisualStudio\obj\Debug\net6.0\FoodPackByTKG.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\FoodPackByTKG\VisualStudio\obj\Debug\net6.0\FoodPackByTKG.dll
+C:\Users\PC\Documents\GitHub\FoodPackByTKG\VisualStudio\obj\Debug\net6.0\refint\FoodPackByTKG.dll
+C:\Users\PC\Documents\GitHub\FoodPackByTKG\VisualStudio\obj\Debug\net6.0\FoodPackByTKG.pdb
+C:\Users\PC\Documents\GitHub\FoodPackByTKG\VisualStudio\obj\Debug\net6.0\ref\FoodPackByTKG.dll

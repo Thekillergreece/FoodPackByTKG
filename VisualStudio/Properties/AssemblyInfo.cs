@@ -1,19 +1,16 @@
-using BuildInfo = TKG.BuildInfo;
+﻿using MelonLoader;
+using System.Reflection;
+using System.Runtime.InteropServices;
+using static UnityEngine.RemoteConfigSettingsHelper;
 
-[assembly: AssemblyTitle(BuildInfo.Name)]
-[assembly: AssemblyDescription(BuildInfo.Description)]
-[assembly: AssemblyCompany(BuildInfo.Company)]
-[assembly: AssemblyProduct(BuildInfo.Product)]
-[assembly: AssemblyCopyright(BuildInfo.Copyright)]
-[assembly: AssemblyTrademark(BuildInfo.Trademark)]
-[assembly: AssemblyCulture(BuildInfo.Culture)]
+//This is a C# comment. Comments have no impact on compilation.
 
-[assembly: AssemblyVersion(BuildInfo.Version)]
-[assembly: AssemblyFileVersion(BuildInfo.Version)]
+[assembly: AssemblyTitle("FoodPack")]
+[assembly: AssemblyCopyright($"Created by Inarissa & Thekillergreece")]
 
-[assembly: MelonInfo(typeof(TKG.Main), BuildInfo.GUIName, BuildInfo.Version, BuildInfo.Author, BuildInfo.DownloadLink)]
+[assembly: AssemblyVersion("1.6")]
+[assembly: AssemblyFileVersion("1.6")]
+[assembly: MelonInfo(typeof(TKG.TKGMain), "FoodPack", "1.3", "Inarissa & Thekillergreece")]
+
+//This tells MelonLoader that the mod is only for The Long Dark.
 [assembly: MelonGame("Hinterland", "TheLongDark")]
-
-[assembly: VerifyLoaderVersion(BuildInfo.MelonLoaderVersion, true)]
-[assembly: MelonPriority(BuildInfo.Priority)]
-[assembly: MelonIncompatibleAssemblies(null)]

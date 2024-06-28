@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v6.0": {
       "FoodPackByTKG/1.0.0": {
         "dependencies": {
-          "STBlade.Modding.TLD.Il2CppAssemblies.Windows": "2.23.0"
+          "STBlade.Modding.TLD.Il2CppAssemblies.Windows": "2.28.0",
+          "STBlade.Modding.TLD.ModComponent": "6.2.3"
         },
         "runtime": {
           "FoodPackByTKG.dll": {}
@@ -235,7 +236,31 @@
       "runtime.ubuntu.14.04-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.2": {},
       "runtime.ubuntu.16.04-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.2": {},
       "runtime.ubuntu.16.10-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.2": {},
-      "STBlade.Modding.TLD.Il2CppAssemblies.Windows/2.23.0": {
+      "STBlade.Modding.TLD.CraftingRevisions/2.2.0": {
+        "dependencies": {
+          "STBlade.Modding.TLD.Il2CppAssemblies.Windows": "2.28.0",
+          "STBlade.Modding.TLD.ModSettings": "1.9.0"
+        },
+        "runtime": {
+          "lib/net6.0/CraftingRevisions.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.0.0"
+          }
+        }
+      },
+      "STBlade.Modding.TLD.GearSpawner/2.3.1": {
+        "dependencies": {
+          "STBlade.Modding.TLD.Il2CppAssemblies.Windows": "2.28.0",
+          "STBlade.Modding.TLD.ModSettings": "1.9.0"
+        },
+        "runtime": {
+          "lib/net6.0/GearSpawner.dll": {
+            "assemblyVersion": "2.3.1.0",
+            "fileVersion": "2.3.1.0"
+          }
+        }
+      },
+      "STBlade.Modding.TLD.Il2CppAssemblies.Windows/2.28.0": {
         "dependencies": {
           "AsmResolver.DotNet": "5.0.0",
           "AssetRipper.VersionUtilities": "1.2.1",
@@ -414,6 +439,10 @@
             "assemblyVersion": "0.0.0.0",
             "fileVersion": "0.0.0.0"
           },
+          "lib/net6.0/Il2CppTLD.IntBackedUnit.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          },
           "lib/net6.0/Il2CppTLD.Logging.dll": {
             "assemblyVersion": "0.0.0.0",
             "fileVersion": "0.0.0.0"
@@ -491,6 +520,10 @@
             "fileVersion": "0.0.0.0"
           },
           "lib/net6.0/Il2CppXGamingRuntime.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          },
+          "lib/net6.0/Il2Cpp__Generated.dll": {
             "assemblyVersion": "0.0.0.0",
             "fileVersion": "0.0.0.0"
           },
@@ -821,6 +854,43 @@
           "lib/net6.0/UnityEngine.dll": {
             "assemblyVersion": "0.0.0.0",
             "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "STBlade.Modding.TLD.LocalizationUtilities/2.0.0": {
+        "dependencies": {
+          "STBlade.Modding.TLD.Il2CppAssemblies.Windows": "2.28.0"
+        },
+        "runtime": {
+          "lib/net6.0/LocalizationUtilities.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      },
+      "STBlade.Modding.TLD.ModComponent/6.2.3": {
+        "dependencies": {
+          "STBlade.Modding.TLD.CraftingRevisions": "2.2.0",
+          "STBlade.Modding.TLD.GearSpawner": "2.3.1",
+          "STBlade.Modding.TLD.Il2CppAssemblies.Windows": "2.28.0",
+          "STBlade.Modding.TLD.LocalizationUtilities": "2.0.0",
+          "STBlade.Modding.TLD.ModSettings": "1.9.0"
+        },
+        "runtime": {
+          "lib/net6.0/ModComponent.dll": {
+            "assemblyVersion": "6.2.3.0",
+            "fileVersion": "6.2.3.0"
+          }
+        }
+      },
+      "STBlade.Modding.TLD.ModSettings/1.9.0": {
+        "dependencies": {
+          "STBlade.Modding.TLD.Il2CppAssemblies.Windows": "2.28.0"
+        },
+        "runtime": {
+          "lib/net6.0/ModSettings.dll": {
+            "assemblyVersion": "1.9.0.0",
+            "fileVersion": "1.9.0.0"
           }
         }
       },
@@ -1486,12 +1556,47 @@
       "path": "runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl/4.3.2",
       "hashPath": "runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512"
     },
-    "STBlade.Modding.TLD.Il2CppAssemblies.Windows/2.23.0": {
+    "STBlade.Modding.TLD.CraftingRevisions/2.2.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-B88Vc/ectVnmcWYhucQZfMsmj/WTBHFCHMnMD2Ayai1Bo+z9qKlmegH8y5jxjgwgTkWEEaeO1uqOiYyLyTDHPw==",
-      "path": "stblade.modding.tld.il2cppassemblies.windows/2.23.0",
-      "hashPath": "stblade.modding.tld.il2cppassemblies.windows.2.23.0.nupkg.sha512"
+      "sha512": "sha512-RGxxMP1CuZlB7zPc92dlFwS+JJiFJdpCGkq7jQLKxnt7V6eEUq80M/3tBWCY408diqsoxqWvc7+fjb/kar3Jig==",
+      "path": "stblade.modding.tld.craftingrevisions/2.2.0",
+      "hashPath": "stblade.modding.tld.craftingrevisions.2.2.0.nupkg.sha512"
+    },
+    "STBlade.Modding.TLD.GearSpawner/2.3.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gASjxnrtaWG22/+MyDI0NV9vFtjHjpwZTScEOAe/GhfInoArj5TgKOBboP2OhjYU//NaTchtkFuuky+u+4WJOA==",
+      "path": "stblade.modding.tld.gearspawner/2.3.1",
+      "hashPath": "stblade.modding.tld.gearspawner.2.3.1.nupkg.sha512"
+    },
+    "STBlade.Modding.TLD.Il2CppAssemblies.Windows/2.28.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-EdXNlDrabgSJpP0XyohCHHAJDYCdC6AZIcioVpSkVr1duMlURtkyfd8X0RDyDi1GLxpQi0tz9R2nPHn1WvHitQ==",
+      "path": "stblade.modding.tld.il2cppassemblies.windows/2.28.0",
+      "hashPath": "stblade.modding.tld.il2cppassemblies.windows.2.28.0.nupkg.sha512"
+    },
+    "STBlade.Modding.TLD.LocalizationUtilities/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1S3Ivudj898e8el7cSByKFqJfjrHYp3kp703wmmmpJKSLFJ14dO1KqDJyLEZmmfD8RnRG0ncVb0I7euc+zAb+g==",
+      "path": "stblade.modding.tld.localizationutilities/2.0.0",
+      "hashPath": "stblade.modding.tld.localizationutilities.2.0.0.nupkg.sha512"
+    },
+    "STBlade.Modding.TLD.ModComponent/6.2.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-n+7HPB2uhZoH85WHbW7lsMWuYmGjdPAq5wkOXUu7CIJQieu76cZNzsC5JHFnILncBK0fyJ4TM7oNbT2ssfJmSg==",
+      "path": "stblade.modding.tld.modcomponent/6.2.3",
+      "hashPath": "stblade.modding.tld.modcomponent.6.2.3.nupkg.sha512"
+    },
+    "STBlade.Modding.TLD.ModSettings/1.9.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Vs1sg4sP6Jr0qrOHiFSVnksKgYjW28EdGVPq78/Avs6hgOouNwQ/4cJCSy2JX6RWVPaw3QUR6ScKFhhWhduxdw==",
+      "path": "stblade.modding.tld.modsettings/1.9.0",
+      "hashPath": "stblade.modding.tld.modsettings.1.9.0.nupkg.sha512"
     },
     "System.Collections/4.3.0": {
       "type": "package",

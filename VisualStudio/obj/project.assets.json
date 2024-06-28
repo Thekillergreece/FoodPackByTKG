@@ -431,7 +431,37 @@
           }
         }
       },
-      "STBlade.Modding.TLD.Il2CppAssemblies.Windows/2.23.0": {
+      "STBlade.Modding.TLD.CraftingRevisions/2.2.0": {
+        "type": "package",
+        "dependencies": {
+          "STBlade.Modding.TLD.Il2CppAssemblies.Windows": "2.23.0",
+          "STBlade.Modding.TLD.ModSettings": "1.9.0"
+        },
+        "compile": {
+          "lib/net6.0/CraftingRevisions.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/CraftingRevisions.dll": {}
+        }
+      },
+      "STBlade.Modding.TLD.GearSpawner/2.3.1": {
+        "type": "package",
+        "dependencies": {
+          "STBlade.Modding.TLD.Il2CppAssemblies.Windows": "2.10.0",
+          "STBlade.Modding.TLD.ModSettings": "1.9.0"
+        },
+        "compile": {
+          "lib/net6.0/GearSpawner.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/GearSpawner.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "STBlade.Modding.TLD.Il2CppAssemblies.Windows/2.28.0": {
         "type": "package",
         "dependencies": {
           "AsmResolver.DotNet": "5.0.0",
@@ -485,6 +515,7 @@
           "lib/net6.0/Il2CppTLD.Game.Events.Runtime.dll": {},
           "lib/net6.0/Il2CppTLD.GameplayTag.dll": {},
           "lib/net6.0/Il2CppTLD.IO.dll": {},
+          "lib/net6.0/Il2CppTLD.IntBackedUnit.dll": {},
           "lib/net6.0/Il2CppTLD.Logging.dll": {},
           "lib/net6.0/Il2CppTLD.OptionalContent.dll": {},
           "lib/net6.0/Il2CppTLD.PDID.dll": {},
@@ -505,6 +536,7 @@
           "lib/net6.0/Il2CppUserReporting.dll": {},
           "lib/net6.0/Il2CppVolumetricObjects.Runtime.dll": {},
           "lib/net6.0/Il2CppXGamingRuntime.dll": {},
+          "lib/net6.0/Il2Cpp__Generated.dll": {},
           "lib/net6.0/Il2Cppcom.rlabrecque.steamworks.net.dll": {},
           "lib/net6.0/Il2Cppmscorlib.dll": {},
           "lib/net6.0/Il2Cppuniumlib.dll": {},
@@ -631,6 +663,7 @@
           "lib/net6.0/Il2CppTLD.Game.Events.Runtime.dll": {},
           "lib/net6.0/Il2CppTLD.GameplayTag.dll": {},
           "lib/net6.0/Il2CppTLD.IO.dll": {},
+          "lib/net6.0/Il2CppTLD.IntBackedUnit.dll": {},
           "lib/net6.0/Il2CppTLD.Logging.dll": {},
           "lib/net6.0/Il2CppTLD.OptionalContent.dll": {},
           "lib/net6.0/Il2CppTLD.PDID.dll": {},
@@ -651,6 +684,7 @@
           "lib/net6.0/Il2CppUserReporting.dll": {},
           "lib/net6.0/Il2CppVolumetricObjects.Runtime.dll": {},
           "lib/net6.0/Il2CppXGamingRuntime.dll": {},
+          "lib/net6.0/Il2Cpp__Generated.dll": {},
           "lib/net6.0/Il2Cppcom.rlabrecque.steamworks.net.dll": {},
           "lib/net6.0/Il2Cppmscorlib.dll": {},
           "lib/net6.0/Il2Cppuniumlib.dll": {},
@@ -733,6 +767,58 @@
           "lib/net6.0/UnityEngine.WindModule.dll": {},
           "lib/net6.0/UnityEngine.XRModule.dll": {},
           "lib/net6.0/UnityEngine.dll": {}
+        }
+      },
+      "STBlade.Modding.TLD.LocalizationUtilities/2.0.0": {
+        "type": "package",
+        "dependencies": {
+          "STBlade.Modding.TLD.Il2CppAssemblies.Windows": "2.10.0"
+        },
+        "compile": {
+          "lib/net6.0/LocalizationUtilities.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/LocalizationUtilities.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "STBlade.Modding.TLD.ModComponent/6.2.3": {
+        "type": "package",
+        "dependencies": {
+          "STBlade.Modding.TLD.CraftingRevisions": "2.2.0",
+          "STBlade.Modding.TLD.GearSpawner": "2.3.1",
+          "STBlade.Modding.TLD.Il2CppAssemblies.Windows": "2.25.0",
+          "STBlade.Modding.TLD.LocalizationUtilities": "2.0.0",
+          "STBlade.Modding.TLD.ModSettings": "1.9.0"
+        },
+        "compile": {
+          "lib/net6.0/ModComponent.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/ModComponent.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "STBlade.Modding.TLD.ModSettings/1.9.0": {
+        "type": "package",
+        "dependencies": {
+          "STBlade.Modding.TLD.Il2CppAssemblies.Windows": "2.10.0"
+        },
+        "compile": {
+          "lib/net6.0/ModSettings.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/ModSettings.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.Collections/4.3.0": {
@@ -2123,12 +2209,39 @@
         "runtimes/ubuntu.16.10-x64/native/System.Security.Cryptography.Native.OpenSsl.so"
       ]
     },
-    "STBlade.Modding.TLD.Il2CppAssemblies.Windows/2.23.0": {
-      "sha512": "B88Vc/ectVnmcWYhucQZfMsmj/WTBHFCHMnMD2Ayai1Bo+z9qKlmegH8y5jxjgwgTkWEEaeO1uqOiYyLyTDHPw==",
+    "STBlade.Modding.TLD.CraftingRevisions/2.2.0": {
+      "sha512": "RGxxMP1CuZlB7zPc92dlFwS+JJiFJdpCGkq7jQLKxnt7V6eEUq80M/3tBWCY408diqsoxqWvc7+fjb/kar3Jig==",
       "type": "package",
-      "path": "stblade.modding.tld.il2cppassemblies.windows/2.23.0",
+      "path": "stblade.modding.tld.craftingrevisions/2.2.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net6.0/CraftingRefivions.xml",
+        "lib/net6.0/CraftingRevisions.dll",
+        "stblade.modding.tld.craftingrevisions.2.2.0.nupkg.sha512",
+        "stblade.modding.tld.craftingrevisions.nuspec"
+      ]
+    },
+    "STBlade.Modding.TLD.GearSpawner/2.3.1": {
+      "sha512": "gASjxnrtaWG22/+MyDI0NV9vFtjHjpwZTScEOAe/GhfInoArj5TgKOBboP2OhjYU//NaTchtkFuuky+u+4WJOA==",
+      "type": "package",
+      "path": "stblade.modding.tld.gearspawner/2.3.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net6.0/GearSpawner.dll",
+        "lib/net6.0/GearSpawner.xml",
+        "stblade.modding.tld.gearspawner.2.3.1.nupkg.sha512",
+        "stblade.modding.tld.gearspawner.nuspec"
+      ]
+    },
+    "STBlade.Modding.TLD.Il2CppAssemblies.Windows/2.28.0": {
+      "sha512": "EdXNlDrabgSJpP0XyohCHHAJDYCdC6AZIcioVpSkVr1duMlURtkyfd8X0RDyDi1GLxpQi0tz9R2nPHn1WvHitQ==",
+      "type": "package",
+      "path": "stblade.modding.tld.il2cppassemblies.windows/2.28.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "LICENSE.md",
         "README.md",
         "lib/net6.0/Assembly-CSharp-firstpass.dll",
@@ -2173,6 +2286,7 @@
         "lib/net6.0/Il2CppTLD.Game.Events.Runtime.dll",
         "lib/net6.0/Il2CppTLD.GameplayTag.dll",
         "lib/net6.0/Il2CppTLD.IO.dll",
+        "lib/net6.0/Il2CppTLD.IntBackedUnit.dll",
         "lib/net6.0/Il2CppTLD.Logging.dll",
         "lib/net6.0/Il2CppTLD.OptionalContent.dll",
         "lib/net6.0/Il2CppTLD.PDID.dll",
@@ -2193,6 +2307,7 @@
         "lib/net6.0/Il2CppUserReporting.dll",
         "lib/net6.0/Il2CppVolumetricObjects.Runtime.dll",
         "lib/net6.0/Il2CppXGamingRuntime.dll",
+        "lib/net6.0/Il2Cpp__Generated.dll",
         "lib/net6.0/Il2Cppcom.rlabrecque.steamworks.net.dll",
         "lib/net6.0/Il2Cppmscorlib.dll",
         "lib/net6.0/Il2Cppuniumlib.dll",
@@ -2275,8 +2390,47 @@
         "lib/net6.0/UnityEngine.WindModule.dll",
         "lib/net6.0/UnityEngine.XRModule.dll",
         "lib/net6.0/UnityEngine.dll",
-        "stblade.modding.tld.il2cppassemblies.windows.2.23.0.nupkg.sha512",
+        "stblade.modding.tld.il2cppassemblies.windows.2.28.0.nupkg.sha512",
         "stblade.modding.tld.il2cppassemblies.windows.nuspec"
+      ]
+    },
+    "STBlade.Modding.TLD.LocalizationUtilities/2.0.0": {
+      "sha512": "1S3Ivudj898e8el7cSByKFqJfjrHYp3kp703wmmmpJKSLFJ14dO1KqDJyLEZmmfD8RnRG0ncVb0I7euc+zAb+g==",
+      "type": "package",
+      "path": "stblade.modding.tld.localizationutilities/2.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net6.0/LocalizationUtilities.dll",
+        "lib/net6.0/LocalizationUtilities.xml",
+        "stblade.modding.tld.localizationutilities.2.0.0.nupkg.sha512",
+        "stblade.modding.tld.localizationutilities.nuspec"
+      ]
+    },
+    "STBlade.Modding.TLD.ModComponent/6.2.3": {
+      "sha512": "n+7HPB2uhZoH85WHbW7lsMWuYmGjdPAq5wkOXUu7CIJQieu76cZNzsC5JHFnILncBK0fyJ4TM7oNbT2ssfJmSg==",
+      "type": "package",
+      "path": "stblade.modding.tld.modcomponent/6.2.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net6.0/ModComponent.dll",
+        "lib/net6.0/ModComponent.xml",
+        "stblade.modding.tld.modcomponent.6.2.3.nupkg.sha512",
+        "stblade.modding.tld.modcomponent.nuspec"
+      ]
+    },
+    "STBlade.Modding.TLD.ModSettings/1.9.0": {
+      "sha512": "Vs1sg4sP6Jr0qrOHiFSVnksKgYjW28EdGVPq78/Avs6hgOouNwQ/4cJCSy2JX6RWVPaw3QUR6ScKFhhWhduxdw==",
+      "type": "package",
+      "path": "stblade.modding.tld.modsettings/1.9.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net6.0/ModSettings.dll",
+        "lib/net6.0/ModSettings.xml",
+        "stblade.modding.tld.modsettings.1.9.0.nupkg.sha512",
+        "stblade.modding.tld.modsettings.nuspec"
       ]
     },
     "System.Collections/4.3.0": {
@@ -4736,7 +4890,8 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "STBlade.Modding.TLD.Il2CppAssemblies.Windows >= 2.23.0"
+      "STBlade.Modding.TLD.Il2CppAssemblies.Windows >= 2.28.0",
+      "STBlade.Modding.TLD.ModComponent >= 6.2.3"
     ]
   },
   "packageFolders": {
@@ -4780,7 +4935,11 @@
         "dependencies": {
           "STBlade.Modding.TLD.Il2CppAssemblies.Windows": {
             "target": "Package",
-            "version": "[2.23.0, )"
+            "version": "[2.28.0, )"
+          },
+          "STBlade.Modding.TLD.ModComponent": {
+            "target": "Package",
+            "version": "[6.2.3, )"
           }
         },
         "imports": [
