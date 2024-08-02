@@ -7,7 +7,7 @@
         "Japanese": "オーロラエナジードリンク",
         "Spanish (Spain)": "Bebida energética Aurora",
         "Turkish": "Kuzey Işıkları Enerji İçeceği",
-        "Italian": "Bevanda energetica Aurora"
+        "Italian": "Bevanda Energetica Aurora"
     },
     "GAMEPLAY_AuroraEnergyDrinkDescription": {
         "English": "Might keep you awake for a few more hours, but this won't make you fly.",
@@ -96,7 +96,7 @@
         "Japanese": "角切りマンゴーの缶詰",
         "Spanish (Spain)": "Mangos troceados",
         "Turkish": "Konserve Mango",
-        "Italian": "Mango a cubetti"
+        "Italian": "Mango a Cubetti"
     },
     "GAMEPLAY_CannedMangosDescription": {
         "English": "Delicious, sweet, and slimey.",
@@ -116,7 +116,7 @@
         "Japanese": "二つ切り洋梨の缶詰",
         "Spanish (Spain)": "Peras partidas",
         "Turkish": "İkiye Bölünmüş Armut",
-        "Italian": "Pere affettate"
+        "Italian": "Pere Affettate"
     },
     "GAMEPLAY_CannedPearsDescription": {
         "English": "Not the freshest but tasty regardless.",
@@ -136,7 +136,7 @@
         "Japanese": "角切りりんごの缶詰",
         "Spanish (Spain)": "Manzanas trozeadas",
         "Turkish": "Doğranmış elma",
-        "Italian": "Mele tagliate a dadini"
+        "Italian": "Mele Tagliate a Dadini"
     },
     "GAMEPLAY_CannedPineapplesDescription": {
         "English": "A staple fruit loved by all.",
@@ -186,7 +186,7 @@
         "Japanese": "牛肉と野菜が入った愛情あふれる料理。理想の一品だ。",
         "Spanish (Spain)": "Un plato copioso con ternera y verduras. Una comida ideal.",
         "Turkish": "Sığır eti ve sebze ile doyurucu bir yemek. İdeal bir yemek.",
-        "Italian": "Un caloroso pasto con manzo e vegetali. Un pasto ideale."
+        "Italian": "Un caloroso pasto con manzo e verdure. Un pasto ideale."
     },
     "GAMEPLAY_CatFood": {
         "English": "Cat Food",
@@ -196,7 +196,7 @@
         "French (France)": "Nourriture pour chat",
         "Turkish": "Kedi Maması",
         "Korean": "고양이 밥",
-        "Italian": "Cibo per gatti",
+        "Italian": "Cibo per Gatti",
         "Simplified Chinese": "猫食",
         "Japanese": "キャットフード",
         "Spanish (Spain)": "Comida para gato"
@@ -258,7 +258,7 @@
         "Japanese": "コーンフレークの大箱。ドライでカロリー控えめ。",
         "Spanish (Spain)": "Una caja grande de copos de maíz. Secos y faltos de calorias.",
         "Turkish": "Büyük boy mısır gevreği. Kuru ve nispeten kalorisiz.",
-        "Italian": "Una grande scatola di cornflakes. Secche e relativamente carenti di calorie."
+        "Italian": "Una grossa scatola di cornflakes. Secchi e relativamente carenti di calorie."
     },
     "GAMEPLAY_CupMilk": {
         "English": "Cup of Milk",
@@ -268,7 +268,7 @@
         "Japanese": "カップ入りミルク",
         "Spanish (Spain)": "Taza de leche",
         "Turkish": "Bir Bardak Süt",
-        "Italian": "Tazza di latte"
+        "Italian": "Tazza di Latte"
     },
     "GAMEPLAY_CupMilkDescription": {
         "English": "Might taste better than water -- but it won't strengthen your bones.",
@@ -288,7 +288,7 @@
         "French (France)": "Sachet de lait en poudre",
         "Turkish": "Süt Tozu Paketi",
         "Korean": "분유팩",
-        "Italian": "Pacchetto di latte in polvere",
+        "Italian": "Bustina di Latte in Polvere",
         "Simplified Chinese": "干奶包",
         "Japanese": "粉ミルクのパック",
         "Spanish (Spain)": "Paquete de leche en polvo"
@@ -301,7 +301,7 @@
         "French (France)": "Un paquet de lait en poudre.",
         "Turkish": "Bir paket süt tozu.",
         "Korean": "팩에담긴 우유 분말",
-        "Italian": "Una confezione di latte in polvere.",
+        "Italian": "Una bustina di latte in polvere.",
         "Simplified Chinese": "一包奶粉。",
         "Japanese": "粉ミルクの小さなパック。水に溶かして使う。",
         "Spanish (Spain)": "Un paquete de leche en polvo. Mézclalo con agua para rehidratarla."
@@ -327,7 +327,7 @@
         "Japanese": "崖っぷちよりはまし。The Long Developmentの公式飲料です！",
         "Spanish (Spain)": "La vida es mejor al límite ¡Bebida oficial de El Largo Desarrollo!",
         "Turkish": "Hayat sınırda daha iyidir. The Long Development'ın resmi içeceği!",
-        "Italian": "La vita è meglio al limite. Bevanda officiale di The Long Development!"
+        "Italian": "La vita è meglio al limite. Bevanda ufficiale di The Long Development!"
     },
     "GAMEPLAY_HoneyJar": {
         "English": "Jar of Honey",
@@ -337,7 +337,7 @@
         "French (France)": "Pot de miel",
         "Turkish": "Bal kavanozu",
         "Korean": "꿀단지",
-        "Italian": "Barattolo di miele",
+        "Italian": "Barattolo di Miele",
         "Simplified Chinese": "一罐蜂蜜",
         "Japanese": "瓶入りのハチミツ",
         "Spanish (Spain)": "Tarro de miel"
@@ -360,7 +360,7 @@
         "French (France)": "Sachet de chocolat en poudre.",
         "Turkish": "Sıcak Kakao Paketi",
         "Korean": "핫초코 팩",
-        "Italian": "Bustina di cioccolato in polvere.",
+        "Italian": "Bustina di Cioccolato in Polvere.",
         "Simplified Chinese": "热可可包",
         "Japanese": "ホットココアのパック",
         "Spanish (Spain)": "Paquete de cacao"
@@ -383,7 +383,7 @@
         "French (France)": "Boite de chocolat en poudre",
         "Turkish": "Sıcak Kakao Kutusu",
         "Korean": "핫초코 박스",
-        "Italian": "Scatola di cioccolata calda",
+        "Italian": "Scatola di Cioccolata Calda",
         "Simplified Chinese": "热可可盒",
         "Japanese": "ホットココアの箱",
         "Spanish (Spain)": "Caja de cacao en polvo"
@@ -406,7 +406,7 @@
         "French (France)": "Sachet de chocolat en poudre.",
         "Turkish": "Sıcak Kakao Paketleri",
         "Korean": "핫초코 팩",
-        "Italian": "Bustina di cioccolato in polvere.",
+        "Italian": "Bustina di Cioccolato in Polvere.",
         "Simplified Chinese": "热可可包",
         "Japanese": "ホットココアのパック",
         "Spanish (Spain)": "paquete"
@@ -419,7 +419,7 @@
         "French (France)": "Sachets de chocolat en poudre.",
         "Turkish": "Sıcak Kakao Paketleri",
         "Korean": "핫초코 팩",
-        "Italian": "Bustine di cioccolata in polvere.",
+        "Italian": "Bustine di Cioccolata in Polvere.",
         "Simplified Chinese": "热可可包",
         "Japanese": "ホットココアのパック",
         "Spanish (Spain)": "paquetes."
@@ -432,7 +432,7 @@
         "French (France)": "Tasse de chocolat chaud.",
         "Turkish": "Bir Fincan Sıcak Kakao",
         "Korean": "핫초코",
-        "Italian": "Tazza di cioccolata calda.",
+        "Italian": "Tazza di Cioccolata Calda.",
         "Simplified Chinese": "一杯热可可",
         "Japanese": "ホットココアのカップ",
         "Spanish (Spain)": "Taza de chocolate caliente."
@@ -455,7 +455,7 @@
         "Japanese": "チョコレートバー",
         "Spanish (Spain)": "Tableta de chocolate",
         "Turkish": "Çikolata Bar",
-        "Italian": "Barra di cioccolato"
+        "Italian": "Barra di Cioccolato"
     },
     "GAMEPLAY_ModChocolateBarDescription": {
         "English": "A large bar of chocolate. Now made with coffee for that little boost!",
@@ -465,7 +465,7 @@
         "Japanese": "大きなチョコレートバー。コーヒー入りなのでちょっとだけ元気が出る。",
         "Spanish (Spain)": "Una barra de chocolate grande ¡Ahora con un poco de café para ese impulso extra!",
         "Turkish": "Büyük bir çikolata barı. Şimdi o küçük destek için kahve ile yapıldı!",
-        "Italian": "Una grande barra di cioccolato. Ora fatta con il caffè per quella piccola spinta!"
+        "Italian": "Una grossa barra di cioccolato. Ora fatta con il caffè per quella piccola spinta!"
     },
     "GAMEPLAY_ModSyrup": {
         "English": "Maple Honey Syrup",
@@ -475,7 +475,7 @@
         "Japanese": "ハチミツ入りメープルシロップ",
         "Spanish (Spain)": "Sirope de arce con miel",
         "Turkish": "Akçaağaç Balı Şurubu",
-        "Italian": "Sciroppo d'acero con miele"
+        "Italian": "Sciroppo d'Acero con Miele"
     },
     "GAMEPLAY_ModSyrupDescription": {
         "English": "Not your regular syrup. Infused with a honey flavour!\nMaple syrup will never spoil!",
@@ -495,7 +495,7 @@
         "Japanese": "マウンテンソーダ",
         "Spanish (Spain)": "Sidra Mountain",
         "Turkish": "Maden Suyu",
-        "Italian": "Soda di cidro della montagna"
+        "Italian": "Soda di Cidro della Montagna"
     },
     "GAMEPLAY_MountainSodaDescription": {
         "English": "Mountain made. Mountain fresh.",
@@ -518,7 +518,7 @@
         "French (France)": "Riz long (Cuit)",
         "Turkish": "Uzun Taneli Pirinç (Pişmiş)",
         "Korean": "쌀 (조리됨)",
-        "Italian": "Riso a chicco lungo (Cotto)",
+        "Italian": "Riso a Chicco Lungo (Cotto)",
         "Simplified Chinese": "长粒米（熟）",
         "Japanese": "白飯（長粒種）",
         "Spanish (Spain)": "Arroz largo (Cocido)"
@@ -531,7 +531,7 @@
         "Japanese": "交じりっけなしの白飯、味気ない -- でもカロリーは十分だ。",
         "Spanish (Spain)": "Arroz blanco cocido. Un poco insipido, pero aporta muchas calorías.",
         "Turkish": "Saf pişmiş beyaz pirinç, biraz sıkıcı ama iyi kalori sağlıyor.",
-        "Italian": "Riso bianco cotto in acqua -- abbastanza noioso ma fornisce una buona quantità di calorie. Nutriente e senza tempo."
+        "Italian": "Riso bianco cotto in acqua -- piuttosto noioso ma fornisce una buona quantità di calorie. Nutriente e senza tempo."
     },
     "GAMEPLAY_RiceRaw": {
         "English": "Long-Grain Rice (Raw)",
@@ -541,7 +541,7 @@
         "French (France)": "Riz long (Cru)",
         "Turkish": "Uzun Taneli Pirinç (Çiğ)",
         "Korean": "쌀 (조리되지 않음)",
-        "Italian": "Riso a chicco lungo (Crudo)",
+        "Italian": "Riso a Chicco Lungo (Crudo)",
         "Simplified Chinese": "长粒米（生）",
         "Japanese": "白米（長粒種）",
         "Spanish (Spain)": "Arroz largo (Crudo)"
@@ -584,7 +584,7 @@
         "French (France)": "Bouteille de vodka",
         "Turkish": "Votka Şişesi",
         "Korean": "보드카",
-        "Italian": "Bottiglia di vodka",
+        "Italian": "Bottiglia di Vodka",
         "Simplified Chinese": "伏特加瓶",
         "Japanese": "ウオッカの瓶",
         "Spanish (Spain)": "Botella de vodka"
@@ -597,7 +597,7 @@
         "Japanese": "強い酒。一部の地域で作られている。あまりお目にかかれない。",
         "Spanish (Spain)": "Una botella de las fuertes. Destilado local. Un hallazgo raro.",
         "Turkish": "Sert şeylerden bir şişe. Yerel olarak damıtılmış. Biraz nadir bir manzara.",
-        "Italian": "Una bottiglia di roba forte. Distillato localmente. Uno spettacolo alquando raro."
+        "Italian": "Una bottiglia di roba forte. Distillata localmente. Uno spettacolo alquando raro."
     },
     "GAMEPLAY_WhiskyFlask": {
         "English": "Hip Flask",
@@ -630,7 +630,7 @@
         "French (France)": "Bouteille de vin",
         "Turkish": "Şarap Şişesi",
         "Korean": "병 와인",
-        "Italian": "Bottiglia di vino",
+        "Italian": "Bottiglia di Vino",
         "Simplified Chinese": "酒瓶",
         "Japanese": "ワインボトル",
         "Spanish (Spain)": "Botella de vino"
@@ -686,7 +686,7 @@
         "Japanese": "とてもドライで歯ごたえあり。意外と栄養分がある。",
         "Spanish (Spain)": "Extremadamente secos y crujientes. Sorprendentemente nutritivos.",
         "Turkish": "Son derece kuru ve gevrek. Şaşırtıcı derecede besleyici",
-        "Italian": "Estremamente secche e croccanti. Sorprendentemente nutrienti."
+        "Italian": "Estremamente secchi e croccanti. Sorprendentemente nutrienti."
     },
     "GAMEPLAY_CatFoodSmall": {
         "English": "Can of Tuna",
@@ -706,7 +706,7 @@
         "Japanese": "小さなツナ缶",
         "Spanish (Spain)": "Una pequeña porción de atún desmenuzado.",
         "Turkish": "Küçük bir porsiyon ton balığı.",
-        "Italian": "Una piccola porzione di tonno a pezzi."
+        "Italian": "Una piccola porzione di tonno in fiocchi."
     },
     "GAMEPLAY_FlourBag": {
         "English": "Bag of White Flour",
@@ -716,7 +716,7 @@
         "Japanese": "小麦粉の袋",
         "Spanish (Spain)": "Saco de harina",
         "Turkish": "Bir paket un",
-        "Italian": "Sacco di farina bianca"
+        "Italian": "Sacco di Farina Bianca"
     },
     "GAMEPLAY_FlourBagDescription": {
         "English": "Fluffy and cheap. Raw consumption not advised.",
@@ -746,7 +746,7 @@
         "Japanese": "酸っぱくてスパイシー。食べると喉が渇く。",
         "Spanish (Spain)": "Encurtidos y picantes. Te darán sed.",
         "Turkish": "Turşu ve baharatlı. Seni susatacak.",
-        "Italian": "Piccante e sott'aceto. Ti farà venire sete."
+        "Italian": "Piccante e sottaceto. Ti farà venire sete."
     },
     "GAMEPLAY_CupNoodles": {
         "English": "Cup of Ramen",
@@ -764,7 +764,7 @@
         "Japanese": "小さなカップ入りのインスタント麺。鍋で調理するとより美味しく食べられる。",
         "Spanish (Spain)": "Un pequeño tazón de fideos instantáneos pasados. Pueden cocinarse en una cazuela para hacer un delicioso plato.",
         "Turkish": "Küçük bir bardak bayat hazır erişte. Daha iyi bir yemek için bir tencerede pişirilebilir.",
-        "Italian": "Un piccolo bicchiere di carta con tagliatelle istantanei stantie. Può essere cotto in una pentola per un pasto migliore."
+        "Italian": "Un piccolo bicchiere di cartone con tagliatelle istantanee stantie. Può essere cotto in una pentola per un pasto migliore."
     },
     "GAMEPLAY_CupNoodlesOpen": {
         "English": "Cup of Ramen (Cooked)",
@@ -782,7 +782,7 @@
         "Japanese": "調理済みのカップラーメン。よいひと時を！",
         "Spanish (Spain)": "Un pequeño tazón de fideos intantáneos cocinados ¡Que aproveche!",
         "Turkish": "Küçük bir bardak pişmiş hazır erişte. Eğlence!",
-        "Italian": "Un piccolo bicchiere di carta con tagliatelle istantanei cotti. Goditele!"
+        "Italian": "Un piccolo bicchiere di cartone con tagliatelle istantanee cotte. Goditele!"
     },
     "GAMEPLAY_SoyRamen": {
         "English": "Pack of Ramen",
@@ -800,7 +800,7 @@
         "Japanese": "袋入りのインスタントラーメン。鍋で調理するとより美味しく食べられる。",
         "Spanish (Spain)": "Un pequeño paquete de fideos instantáneos pasados. Pueden cocinarse en una cazuela para hacer un delicioso plato.",
         "Turkish": "Küçük bir paket bayat hazır erişte. Daha iyi bir yemek için tencerede pişirilebilir.",
-        "Italian": "Un piccolo pachetto di tagliatelle istantanei stantie. Può essere cotto in una pentola per un pasto migliore."
+        "Italian": "Un piccolo pachetto di tagliatelle istantanee stantie. Può essere cotto in una pentola per un pasto migliore."
     },
     "GAMEPLAY_SoyRamenCooked": {
         "English": "Bowl of Ramen",
@@ -818,7 +818,7 @@
         "Japanese": "調理済みのインスタントラーメン。醤油味。",
         "Spanish (Spain)": "Un bol de fideos instantáneos. Huelen a salsa de soja.",
         "Turkish": "Bir kase pişmiş hazır erişte - soya sosu kokuyor.",
-        "Italian": "Una ciotola di tagliatelle istantanei cotte - odora di salsa di soia."
+        "Italian": "Una ciotola di tagliatelle istantanee cotte - odora di salsa di soia."
     },
     "GAMEPLAY_RandomLargeCannedFood": {
         "English": "Random Large Canned Food",
@@ -827,7 +827,7 @@
         "Russian": "Случайные большие консервы",
         "Turkish": "Rastgele Büyük Konserve Gıda",
         "Korean": "무작위 대용량 통조림",
-        "Italian": "Grossa confezione di cibo in scatola casuale",
+        "Italian": "Grossa Confezione di Cibo in Scatola Casuale",
         "Simplified Chinese": "随机大罐头",
         "Japanese": "ランダム配置される缶詰（大）"
     },
@@ -838,7 +838,7 @@
         "Russian": "Место появления крупных консервов.",
         "Turkish": "Büyük konserve yiyecekler için bir yumurtlama noktası.",
         "Korean": "무작위 큰 통조림 아이템의 스폰 지점입니다.",
-        "Italian": "Punto di generazione per grandi confezioni di cibo in scatola.",
+        "Italian": "Punto di generazione perconfezioni di cibo in scatola di grandi dimensioni.",
         "Simplified Chinese": "大型罐头食品的刷新点。",
         "Japanese": "缶詰（大）の配置されるポイント。"
     },
@@ -849,7 +849,7 @@
         "Russian": "Случайные консервы среднего размера",
         "Turkish": "Rastgele Orta Konserve Gıda",
         "Korean": "무작위 중간 통조림",
-        "Italian": "Confezione media di cibo in scatola casuale",
+        "Italian": "Confezione di Cibo in Scatola Casuale di Medie Dimensioni",
         "Simplified Chinese": "随机中等罐头食品",
         "Japanese": "ランダム配置される缶詰（中）"
     },
@@ -860,7 +860,7 @@
         "Russian": "Место появления консервов среднего размера.",
         "Turkish": "Orta boy konserve yiyecekler için bir yumurtlama noktası.",
         "Korean": "무작위 중간 통조림 아이템의 스폰 지점입니다.",
-        "Italian": "Punto di generazione per confezioni di cibo in scatola medie.",
+        "Italian": "Punto di generazione per confezioni di cibo in scatola di medie dimensioni.",
         "Simplified Chinese": "中等罐头食品的刷新点。",
         "Japanese": "缶詰（中）の配置されるポイント"
     },
@@ -871,7 +871,7 @@
         "Russian": "Случайная большая банка газировки",
         "Turkish": "Rastgele Uzun Soda Kutusu",
         "Korean": "무작위 큰 소다 캔.",
-        "Italian": "Bevanda in lattina grande casuale",
+        "Italian": "Bevanda in Lattina Alta Casuale",
         "Simplified Chinese": "随机高苏打罐",
         "Japanese": "ランダム配置される缶飲料"
     },
@@ -882,7 +882,7 @@
         "Russian": "Место появления больших банок с газировкой.",
         "Turkish": "Uzun soda kutuları için bir yumurtlama noktası.",
         "Korean": "무작위 큰 소다 캔 아이템의 스폰 지점입니다.",
-        "Italian": "Punto di generazione per grandi bavende in lattina.",
+        "Italian": "Punto di generazione per bevende in lattina alte.",
         "Simplified Chinese": "高汽水罐的刷新点。",
         "Japanese": "缶飲料の配置されるポイント。"
     },
@@ -893,7 +893,7 @@
         "Russian": "Случайный маленький пакет",
         "Turkish": "Rastgele Küçük Paket",
         "Korean": "무작위 소용량 분말팩",
-        "Italian": "Bustina casuale",
+        "Italian": "Bustina Casuale",
         "Simplified Chinese": "随机小包",
         "Japanese": "ランダム配置される粉末飲料パック"
     },
@@ -915,7 +915,7 @@
         "Russian": "Случайная коробка с хлопьями",
         "Turkish": "Rastgele Tahıl Kutusu",
         "Korean": "무작위 시리얼 박스",
-        "Italian": "Scatola di cereali casuale",
+        "Italian": "Scatola di Cereali Casuale",
         "Simplified Chinese": "随机麦片盒",
         "Japanese": "ランダム配置されるシリアルの箱"
     },
@@ -937,7 +937,7 @@
         "Russian": "Случайная бутылка алкоголя",
         "Turkish": "Rastgele Likör Şişesi",
         "Korean": "무작위 주류 병",
-        "Italian": "Bottiglia di liquore casuale",
+        "Italian": "Bottiglia di Liquore Casuale",
         "Simplified Chinese": "随机酒瓶",
         "Japanese": "ランダム配置される酒瓶"
     },
@@ -960,7 +960,7 @@
         "Russian": "Записка от работника заправки Квонсета",
         "Spanish (Spain)": "Nota de un trabajador del taller Quonset",
         "Turkish" : "Bir Quonset Benzin İstasyonu Çalışanından Not",
-        "Italian": "Nota da un impiegato della stazione di servizio Quonset"
+        "Italian": "Nota da un Impiegato della Stazione di Servizio Quonset"
     },
     "GAMEPLAY_NOTE_DESC": {
         "English": "A note written by an employee at the Gas Station Employee.",
@@ -970,7 +970,7 @@
         "Russian": "Записка, оставленная работником заправки Квонсета.",
         "Spanish (Spain)": "Una nota escrita por un trabajador del taller Quonset.",
         "Turkish" : "Benzin istasyonuda çalışan bir kişi tarafından yazılmış not.",
-        "Italian": "Una nota scritta da un impiegato della stazione di servizio Quonset."
+        "Italian": "Una nota scritta da un Impiegato della Stazione di Servizio Quonset."
     },
     "GAMEPLAY_NOTE_LORE": {
         "English": "Twelve cereal boxes, four Honey Jars, and a couple packages of... vodka bottles? I gotta import these goods from my local dealer whose nickname comes by as 'Kai' whatever that means. He rarely drops by, it's gonna take weeks if not months. Besides, what the hell is going on out there? There's no power, no communication from the outside. How the hell am I gonna restock? \n\nIf only I could communicate with the Old Man at the Pleasant Valley Farmhouse... He's a complete dickhead but tips quite well, even though he totally doesn't have to. \n\n\nFor now, I'm gonna go home. \n\n*a signature would be seen here; 'G. Chalkias'.",
@@ -990,7 +990,7 @@
         "Russian": "Записка от работника сельского магазина",
         "Spanish (Spain)": "Nota de un empleado de una tienda rural",
         "Turkish" : "Bir Kırsal Mağaza Çalışanından Not",
-        "Italian": "Nota da un impiegato del negozio rurale"
+        "Italian": "Nota da un Impiegato del Negozio Rurale"
     },
     "GAMEPLAY_NOTE_DESC_2": {
         "English": "A note written by an employee at the Rural Store.",
@@ -1000,7 +1000,7 @@
         "Russian": "Записка, написанная работником сельского магазина.",
         "Spanish (Spain)": "Una nota escrita por un empleado de la tienda del Valle Apacible.",
         "Turkish" : "Kırsal Mağazadaki bir çalışan tarafından yazılmış not.",
-        "Italian": "Una nota scritta da un impiegato del negozio rurale."
+        "Italian": "Una nota scritta da un Impiegato del Negozio Rurale."
     },
     "GAMEPLAY_NOTE_LORE_2": {
         "English": "A shady guy just dropped by and told me that my can of tunas scares away, what, wolves? I'm not sure what was he on but we don't have wolves around here. However, I did hear their howl from time to time which seemed strange to me because they rarely if ever approach settlements. \n\nAnyway, I'm not sure what my colleague is doing down there at Coastal Highway but the Old Man has been complaining something about his needs not being met, something about not getting enough alcoholic drinks? What a weird person, he should be at a nursery instead. \n\n\nFor some reason my shipment hasn't arrived yet. Not a surprise since the power has been out for a few days and I got a backup generator. I hope it'll come soon enough. \nI'm gonna pay a visit to another colleague of mine up at Mountain Town, and see how he's holding up.",
@@ -1020,7 +1020,7 @@
         "Russian": "Записка от работника минимаркета",
         "Spanish (Spain)": "Nota de una empleada de una tienda de ultramarinos",
         "Turkish" : "Bir market çalışanından not",
-        "Italian": "Nota da un impiegato del minimarket"
+        "Italian": "Nota da un Impiegato del Negozio di Generi Alimentari"
     },
     "GAMEPLAY_NOTE_DESC_3": {
         "English": "A note written by an employee at the Convenience Store",
@@ -1030,7 +1030,7 @@
         "Russian": "Записка, оставленная работником минимаркета",
         "Spanish (Spain)": "Una nota escrita por una empleada de la tienda de ultramarinos de Milton",
         "Turkish" : "Marketteki bir çalışan tarafından yazılmış not",
-        "Italian": "Una nota scritta da un impiegato del minimarket"
+        "Italian": "Una nota scritta da un impiegato del Negozio di Generi Alimentari"
     },
     "GAMEPLAY_NOTE_LORE_3": {
         "English": "I just delivered ten stocks of twenty cans and plastics of Forsaken Spirits drinks, a supply order from Mr. Smith at Forsaken Hangar. \nAre they crazy or addicted to this drink? Yeah, the brand happened to share the name of that airport 'Forsaken Airfield' but they are overdoing it. I'm almost out of Forsaken Spirits stock and I don't know when I'll get my next delivery because of this stupid power outage. \n\nThis old hag is pestering me about her boxes of hot cocoa running out as if I care enough about that on top of the supply problems I got right now. \n\n\nMaybe I should ask my old pal, Chalkias, to share some of his goods in the meantime.",
