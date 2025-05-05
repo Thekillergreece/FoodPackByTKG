@@ -13,6 +13,7 @@ Due to ds5678's unfortunate departure from the modding site, the mod was left wi
 If you are considering to download and install this Food Pack, I strongly recommend you download and install Waltz's food pack ((https://github.com/HAHAYOUDEAD/FoodsByCalorieWaltz)) as well. Both of these mods will bring significant food varieties. This mod was expanded with Waltz's mod in mind.
 
 Food items will be rarely found in cars, caves, etc or in places that they wouldn't make much sense. This food pack will work excellently with Waltz's Food Pack.
+
 Only major changelogs will be displayed here. Any other changelogs, visit TLD Modding discord server.
 
 ### Dependencies
