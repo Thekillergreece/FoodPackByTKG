@@ -14,6 +14,8 @@ If you are considering to download and install this Food Pack, I strongly recomm
 
 Food items will be rarely found in cars, caves, etc or in places that they wouldn't make much sense. This food pack will work excellently with Waltz's Food Pack.
 
+Only major changelogs will be displayed here. Any other changelogs, visit TLD Modding discord server.
+
 ### Dependencies
 ---
 AlcoholMod (Soft Dependency) - All alcoholic drinks will function as non-alcoholic without it.
