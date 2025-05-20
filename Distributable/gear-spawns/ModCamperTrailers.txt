@@ -1,0 +1,10 @@
+scene=ModCamperTrailers
+item=GEAR_AuroraEnergyDrink p=-46.3266,1.7271,30.8804 r=-0.0000,96.5808,-0.0000 c=85
+item=GEAR_ForsakenSpirits p=-46.3961,1.7671,30.9706 r=-0.0000,309.7087,90.0000 c=45
+item=GEAR_CatFoodSmall p=-47.1707,1.7276,35.9875 r=0.0000,344.3404,0.0000 c=30
+
+item=GEAR_HoneyJar p=-41.1193,1.3562,31.0768 r=0.0000,350.1997,0.0000 c=45
+item=GEAR_MountainSodaPlastic p=-40.5576,0.3702,33.4642 r=-0.0000,356.2347,90.0001 c=30
+
+item=GEAR_RandomMediumCannedFood p=-37.6310,0.3031,31.5004 r=-0.0000,243.1410,90.0000 c=55
+item=GEAR_DryMilkPacket p=-36.7652,1.3544,33.3095 r=0.0000,347.3437,0.0000 c=30

@@ -1,0 +1,37 @@
+{
+  "ModGenericComponent": {
+    "DisplayNameLocalizationId": "GAMEPLAY_CocoaPackage2",
+    "DescriptionLocalizatonId": "GAMEPLAY_CocoaPackage2Description",
+    "InventoryActionLocalizationId": "",
+    "WeightKG": 1.6,
+    "DaysToDecay": 0,
+    "MaxHP": 100,
+    "InitialCondition": "Perfect",
+    "InventoryCategory": "Material",
+    "PickUpAudio": "Play_SndInvAmmoCardboardBox",
+    "PutBackAudio": "Play_SndInvAmmoCardboardBox",
+    "StowAudio": "Play_InventoryStow",
+    "WornOutAudio": "",
+    "InspectOnPickup": true,
+    "InspectDistance": 0.8,
+    "InspectAngles": [ -45, 0, 0 ],
+    "InspectOffset": [ 0, 0, 0 ],
+    "InspectScale": [ 1, 1, 1 ],
+    "NormalModel": "",
+    "InspectModel": ""
+  },
+  "ModStackableBehaviour": {
+    "SingleUnitTextId": "",
+    "MultipleUnitTextId": "",
+    "StackSprite": "",
+    "UnitsPerItem": 1,
+    "ChanceFull": 100
+  },
+  "ModHarvestableBehaviour": {
+    "Audio": "",
+    "Minutes": 3,
+    "YieldCounts": [ 40 ],
+    "YieldNames": [ "GEAR_HotCocoaBox" ],
+    "RequiredToolNames": []
+  }
+}

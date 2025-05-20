@@ -30,6 +30,7 @@ item=CannedSpaghetti w=2
 item=CannedStew w=2
 item=WhiskyFlask w=1
 item=Jalapeno w=1
+item=CatFoodSmall w=5
 
 #----------------------
 loottable=KitchenDrawer
@@ -45,12 +46,14 @@ item=SoyRamen w=4
 #----------------
 loottable=Freezer
 #----------------
-item=AuroraEnergyDrink w=8
+item=AuroraEnergyDrink w=3
 item=Jalapeno w=2
+item=CheesePackage w=8
 
 #---------------
 loottable=Fridge
 #---------------
+item=CheesePackage w=8
 item=AuroraEnergyDrink w=5
 item=BeerBottle w=4
 item=forsakenspirits w=5
@@ -63,9 +66,7 @@ item=CannedSpaghetti w=5
 item=CannedStew w=5
 item=CannedChili w=5
 item=CannedMangos w=5
-item=Jalapeno w=8
-item=CatFoodSmall w=2
-item=CupNoodles w=2
+item=Jalapeno w=5
 
 #--------------------
 loottable=HumanCorpse
@@ -107,20 +108,13 @@ item=DryMilkPacket w=3
 item=ForsakenSpirits w=3
 item=CatFood w=2
 item=CatFoodSmall w=2
-item=WhiskyFlask w=2
 item=SoyRamen w=1
 
 #---------------
 loottable=LockerLocked
 #---------------
-item=DryMilkPacket w=5
-item=ForsakenSpirits w=5
-item=HotCocoaBox w=5
+item=WhiskyFlash w=1
 item=Spam w=3
-item=Cornflakes w=1
-item=CerealWholeGrain w=1
-item=CerealHoney w=1
-item=FlourBag w=3
 item=SoyRamen w=3
 item=CupNoodles w=1
 

@@ -1,0 +1,37 @@
+{
+  "ModGenericComponent": {
+    "DisplayNameLocalizationId": "GAMEPLAY_CerealHoneyPackage2",
+    "DescriptionLocalizatonId": "GAMEPLAY_CerealHoneyPackage2Description",
+    "InventoryActionLocalizationId": "",
+    "WeightKG": 2,
+    "DaysToDecay": 0,
+    "MaxHP": 100,
+    "InitialCondition": "Perfect",
+    "InventoryCategory": "Material",
+    "PickUpAudio": "Play_SndInvAmmoCardboardBox",
+    "PutBackAudio": "Play_SndInvAmmoCardboardBox",
+    "StowAudio": "Play_InventoryStow",
+    "WornOutAudio": "",
+    "InspectOnPickup": true,
+    "InspectDistance": 1.2,
+    "InspectAngles": [ -45, 0, 0 ],
+    "InspectOffset": [ 0, 0, 0 ],
+    "InspectScale": [ 1, 1, 1 ],
+    "NormalModel": "",
+    "InspectModel": ""
+  },
+  "ModStackableBehaviour": {
+    "SingleUnitTextId": "",
+    "MultipleUnitTextId": "",
+    "StackSprite": "",
+    "UnitsPerItem": 1,
+    "ChanceFull": 100
+  },
+  "ModHarvestableBehaviour": {
+    "Audio": "",
+    "Minutes": 3,
+    "YieldCounts": [ 10 ],
+    "YieldNames": [ "GEAR_CerealHoney" ],
+    "RequiredToolNames": []
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "RecipeName": "Skillet Pizza",
+  "RecipeDescription": "GAMEPLAY_CookedSkilletPizzaDescription",
+  "RecipeIcon": "ico_GearItem__CookedSkilletPizza",
+  "RequiredSkillLevel": 4,
+  "AllowedCookingPots": [ "GEAR_Skillet" ],
+  "BlueprintData": {
+    "Name": "REC_SkilletPizza",
+    "RequiredGear": [
+      {
+        "Item": "GEAR_CheesePackage",
+        "Count": 2
+      },
+	  {
+        "Item": "GEAR_SPAM",
+        "Count": 1
+      },
+	  {
+        "Item": "GEAR_TomatoSoupCan",
+        "Count": 1
+      }
+    ],
+    "RequiredPowder": [
+	      {
+        "Powder": "POWDER_Flour",
+        "QuantityInKilograms": 0.10
+      }
+    ],
+    "RequiredLiquid": [
+      {
+        "Liquid": "LIQUID_CookingOil",
+        "VolumeInLitres": 0.05
+      },
+	  {
+        "Liquid": "LIQUID_WaterPotable",
+        "VolumeInLitres": 0.15
+      }
+    ],
+    "CraftedResult": "GEAR_UnCookedSkilletPizza",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 25,
+    "CraftingAudio": "PLAY_CRAFTINGBANNOCK"
+  }
+}

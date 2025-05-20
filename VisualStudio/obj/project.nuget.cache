@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PNT5pztsakXqG+eqjexes0edBu5W1xj8DW42x6cYsS7EY5FXMa5ZOsrGqkNiH339/np2sfQce5R22Gnl2LslRA==",
+  "dgSpecHash": "8ZQCh/wmkIjshdjuzBL/2KRurAz972pz0bFFPf7AUZG7nMAXa7x5pEQMPQLPjnOlJ8YrWKlYUYw4JESpkVblKA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\FoodPackByTKG\\VisualStudio\\FoodPackByTKG.csproj",
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\My mods\\Food-Pack-master\\VisualStudio\\FoodPackByTKG.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\asmresolver\\5.0.0\\asmresolver.5.0.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\asmresolver.dotnet\\5.0.0\\asmresolver.dotnet.5.0.0.nupkg.sha512",

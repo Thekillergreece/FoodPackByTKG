@@ -1,0 +1,36 @@
+{
+  "RecipeName": "Apple Pie",
+  "RecipeDescription": "GAMEPLAY_CookedApplePieDescription",
+  "RecipeIcon": "ico_GearItem__CookedApplePie",
+  "RequiredSkillLevel": 3,
+  "AllowedCookingPots": [ "GEAR_Skillet" ],
+  "BlueprintData": {
+    "Name": "REC_ApplePie",
+    "RequiredGear": [
+      {
+        "Item": "GEAR_CannedPineapples",
+        "Count": 1
+      }
+    ],
+    "RequiredPowder": [
+	      {
+        "Powder": "POWDER_Flour",
+        "QuantityInKilograms": 0.15
+      }
+    ],
+    "RequiredLiquid": [
+      {
+        "Liquid": "LIQUID_WaterPotable",
+        "VolumeInLitres": 0.15
+      },
+	  {
+        "Liquid": "LIQUID_CookingOil",
+        "VolumeInLitres": 0.05
+      }
+    ],
+    "CraftedResult": "GEAR_UnCookedApplePie",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 20,
+    "CraftingAudio": "PLAY_CRAFTINGBANNOCK"
+  }
+}

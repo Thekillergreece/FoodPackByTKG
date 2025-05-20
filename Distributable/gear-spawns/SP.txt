@@ -1,4 +1,4 @@
-# SUNDERED PASS SPAWN POINTS
+# SUNDERED PASS SPAWN POINTS - WORK FULLY FINISHED, FIX ONLY IF NEEDED
 
 # Sundered Pass
 scene=MountainPassRegion
@@ -19,21 +19,22 @@ item=GEAR_ModChocolateBar p=544.4438,587.4080,-581.7156 r=357.6440,278.5771,0.53
 #
 scene=MountainPassCabinA
 item=GEAR_ForsakenSpirits p=1.6086,0.0301,1.8917 r=-0.0000,254.7565,90.0000 c=55
-item=GEAR_CannedSpaghetti p=-1.3587,0.0620,3.8619 r=0.0000,176.3267,90.0000 c=65
+item=GEAR_RandomMediumCannedFood p=-1.3587,0.0620,3.8619 r=0.0000,176.3267,90.0000 c=65
 item=GEAR_MountainSoda p=5.5482,0.9764,-2.8967 r=-0.0000,164.4066,-0.0000 c=45
+item=GEAR_SPAM p=4.1759,1.5897,-3.3583 r=-0.0000,54.2659,-0.0000 c=40
 #
 scene=MountainPassBuriedCabin
 item=GEAR_MountainSodaPlastic p=-2.8169,3.7856,-2.0976 r=-0.0000,20.7837,90.0000 c=55
 item=GEAR_FlourBag p=-2.4291,0.6338,6.0590 r=270.0000,45.8328,0.0000 c=85
 item=GEAR_RandomMediumCannedFood p=-3.2473,1.8866,6.3828 r=-0.0000,62.6545,-0.0000 c=45
-item=GEAR_RandomMediumCannedFood p=-3.0912,1.9416,6.5396 r=273.8492,7.1134,82.7499 c=40
+item=GEAR_RandomMediumCannedFood p=-3.0912,1.9416,6.5396 r=273.8492,7.1134,82.7499 c=45
 item=GEAR_CerealWholeGrain p=-2.4151,0.1874,6.0014 r=-0.0000,92.2364,-0.0000 c=35
 #
 scene=RadarBuilding
 item=GEAR_RedWineBottle p=-4.2814,0.0461,-3.4925 r=270.0000,320.4836,0.0000 c=100
-item=GEAR_ModSyrup p=-4.0400,0.9218,-2.6174 r=-0.0000,28.6716,-0.0000 c=75
+item=GEAR_ModSyrup p=-4.0400,0.9218,-2.6174 r=-0.0000,28.6716,-0.0000 c=65
 item=GEAR_ModChocolateBar p=-5.6233,0.9976,-2.5746 r=0.0000,199.5727,0.0000 c=50
-item=GEAR_SoyRamenCooked p=-3.2861,0.9218,-2.8388 r=-0.0000,41.7589,-0.0000 c=35
+item=GEAR_SPAM p=-5.6300,1.4356,-2.0520 r=-0.0000,132.8344,-0.0000 c=40
 #
 scene=MountainPassCaveA
 item=GEAR_CannedChili p=-13.7198,42.4192,22.1226 r=281.8560,225.8877,47.6246 c=35

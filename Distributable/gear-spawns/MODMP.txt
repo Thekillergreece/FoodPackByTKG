@@ -1,0 +1,21 @@
+#MOUNTAIN PASS SPAWN POINTS
+
+scene=ModMountainPass
+item=GEAR_RandomMediumCannedFood p=2320.2649,146.9057,707.6941 r=346.5590,209.5101,98.4192 c=45
+item=GEAR_RandomMediumCannedFood p=2052.8264,147.7084,525.4417 r=0.0000,349.9806,0.0000 c=35
+# Somewhere
+item=GEAR_MountainSodaPlastic p=1921.3005,53.1725,1218.9652 r=-0.0000,25.7264,90.0000 c=30
+# Some place
+item=GEAR_RandomMediumCannedFood p=1744.3572,76.9178,2238.1638 r=359.9225,69.7048,359.8572 c=50
+# Outside Shed
+item=GEAR_ForsakenSpiritsPlastic p=1932.9032,147.2021,473.6381 r=-0.0000,18.7578,-0.0000 c=45
+item=GEAR_ForsakenSpirits p=1933.2007,147.6359,474.2028 r=90.0000,72.7582,0.0000 c=30
+
+scene=ModMountainPass_TrainShed
+item=GEAR_DryMilkPacket p=-2.4169,1.3861,2.8726 r=0.0000,225.8379,0.0000 c=85
+item=GEAR_ModChocolateBar p=-6.5990,1.6333,11.5472 r=0.0000,244.5526,0.0000 c=45
+item=GEAR_RedWineBottle p=-6.6009,0.5187,10.5848 r=-0.0000,35.5235,-0.0000 c=10
+item=GEAR_FlourBag p=-5.9680,0.5620,17.4885 r=-0.0000,60.1437,-0.0000 c=25
+item=GEAR_CocoaPackage p=3.6378,1.6429,0.6370 r=-0.0000,71.0504,-0.0000 c=50
+item=GEAR_SPAM p=-4.0257,1.4461,17.4940 r=-0.0000,120.1244,-0.0000 c=25
+item=GEAR_CheesePackage p=-5.2342,0.3316,15.1104 r=0.0000,269.3629,0.0000 c=75

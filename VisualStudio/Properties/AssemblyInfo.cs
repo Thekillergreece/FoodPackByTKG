@@ -8,9 +8,9 @@ using static UnityEngine.RemoteConfigSettingsHelper;
 [assembly: AssemblyTitle("FoodPackByTKG")]
 [assembly: AssemblyCopyright($"Created by Thekillergreece & Kaiusername")]
 
-[assembly: AssemblyVersion("5.5")]
-[assembly: AssemblyFileVersion("5.5")]
-[assembly: MelonInfo(typeof(TKG.TKGMain), "FoodPackByTKG", "5.5", "Thekillergreece & Kaiusername")]
+[assembly: AssemblyVersion("6.0")]
+[assembly: AssemblyFileVersion("6.0")]
+[assembly: MelonInfo(typeof(TKG.TKGMain), "FoodPackByTKG", "6.0", "Thekillergreece & Kaiusername")]
 
 //This tells MelonLoader that the mod is only for The Long Dark.
 [assembly: MelonGame("Hinterland", "TheLongDark")]

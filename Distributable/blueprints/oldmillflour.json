@@ -9,7 +9,7 @@
     "RequiresLight": false,
     "CraftedResult": "GEAR_Flour",
     "CraftedResultCount": 1,
-    "DurationMinutes": 15,
+    "DurationMinutes": 5,
     "CraftingAudio": "",
     "AppliedSkill" : "None",
     "ImprovedSkill" : "None"

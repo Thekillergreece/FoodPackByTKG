@@ -441,6 +441,158 @@ MonoBehaviour:
     m_Address: GEAR_SoyRamenCooked
     m_ReadOnly: 0
     m_SerializedLabels: []
+  - m_GUID: 034b1673dd9be4543abbf41ce61f3fc0
+    m_Address: GEAR_CocoaPackage
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 64b8a3a333b04db4683f54d0a5c73a35
+    m_Address: GEAR_CannedChiliPackage2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: df83d400de9772545b0d18270956d0ea
+    m_Address: GEAR_CerealWholeGrainPackage
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 36d6def46843fae48a509aedc64b4ec2
+    m_Address: GEAR_CerealHoneyPackage
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 36460210417f95142abe5ef124f1a38d
+    m_Address: GEAR_CerealHoneyPackage2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 15d7796c92c440e45a2b4f986274719c
+    m_Address: GEAR_CerealWholeGrainPackage2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6cf3f81e11125214b82cc3e1e3a2466c
+    m_Address: GEAR_CornflakesPackage
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d6613ef2a06d3fd4a901f6215f43472f
+    m_Address: GEAR_CornflakesPackage2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c23518999cca25d47b801d61b0319b7d
+    m_Address: GEAR_EmptyPackage
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3d1a2f216362dac4fb4be4b1d9e9e464
+    m_Address: GEAR_CocoaPackage2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2b236dde37b67e74a9795cde6c3bf1ae
+    m_Address: GEAR_CannedChiliPackage
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e47bed051b906b74391564df359499f4
+    m_Address: GEAR_CannedSpaghettiPackage
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bdac2ae6884d49b46909e494b681c861
+    m_Address: GEAR_CannedSpaghettiPackage2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 04868728e7b7ca948869f253fb15bfa2
+    m_Address: GEAR_CannedStewPackage2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9da2cc7ad2e7e354a9e2b75d644bdae6
+    m_Address: GEAR_CannedStewPackage
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 41e006390914ade41aa8f85b39c12bd0
+    m_Address: GEAR_CatFoodPackage
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ce1156adda5aa9844b575c3fe1946c85
+    m_Address: GEAR_CookedPoutine
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ff66161bc45ac95478d93b80819ee851
+    m_Address: GEAR_CheesePackage
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: aa4139bbfe61c9641b677aef1eb2c48c
+    m_Address: GEAR_UnCookedPoutine
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9f069d3ecee3a82479e6e9069b81e6dd
+    m_Address: GEAR_UnCookedPierogi
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 47ecc3f90e8ac4a4bbc15b6b2dcc94f3
+    m_Address: GEAR_CookedPierogi
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5116b489875bec74cbb6ef7ddb82bc1b
+    m_Address: GEAR_UnCookedToastedSandwich
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f413082acd090ea4993a5e517b2d20c1
+    m_Address: GEAR_CookedToastedSandwich
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a1b9ea48719c7ad4d9ef983563ff7fdb
+    m_Address: GEAR_CookedSkilletPizza
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a5628510a2a512d45ad544abdbcec04c
+    m_Address: GEAR_UnCookedSkilletPizza
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5e691dc4f2f89584dbc936487b08a201
+    m_Address: ico_GearItem__CookedApplePie
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 22937a5605b2ccd498d103bb841721f0
+    m_Address: ico_GearItem__CookedPoutine
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7bcc7389e1448a34cae073cb4b791ac4
+    m_Address: ico_GearItem__CookedSkilletPizza
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c8cdec49161541c4a9ddfedd23bf436b
+    m_Address: ico_GearItem__CookedToastedSandwich
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: da2046a16687d5745a08506aefb9e313
+    m_Address: ico_GearItem__CookedPierogi
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c3cff3e606d621c479cbf42b480130ad
+    m_Address: ico_GearItem__CheesePackage
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 28ffecaa9105c70438cdf979f4213693
+    m_Address: ico_GearItem__UnCookedToastedSandwich
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9abfada324672f64c877953d1db5886d
+    m_Address: ico_GearItem__UnCookedSkilletPizza
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 78a3e7f07f7c03c419671c41e78f250e
+    m_Address: ico_GearItem__UnCookedPierogi
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8f6d13e90da31b140a2a97a63685f09b
+    m_Address: ico_GearItem__UnCookedApplePie
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 09526607c1c23ac4fa692897ac113182
+    m_Address: ico_GearItem__UnCookedPoutine
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 93075e20058504843941b189f6b0fe49
+    m_Address: GEAR_CookedApplePie
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a064f200966bd9e43b4303ca9eb92c8d
+    m_Address: GEAR_UnCookedApplePie
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 0907a13f08acc0c46b01afbfbf79f40b, type: 2}
   m_SchemaSet:

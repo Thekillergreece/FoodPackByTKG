@@ -820,7 +820,127 @@
         "Turkish": "Bir kase pişmiş hazır erişte - soya sosu kokuyor.",
         "Italian": "Una ciotola di tagliatelle istantanee cotte - odora di salsa di soia."
     },
-    "GAMEPLAY_RandomLargeCannedFood": {
+    "GAMEPLAY_UnCookedSkilletPizza": {
+        "English": "Uncooked Pizza"
+    },
+    "GAMEPLAY_UnCookedSkilletPizzaDescription": {
+        "English": "A failed food production, raw and uncooked."
+    },
+    "GAMEPLAY_CookedSkilletPizza": {
+        "English": "Skillet Pizza"
+    },
+    "GAMEPLAY_CookedSkilletPizzaDescription": {
+        "English": "A classic made from what's left -- a taste of the past."
+    },
+    "GAMEPLAY_UnCookedApplePie": {
+        "English": "Uncooked Apple Pie"
+    },
+    "GAMEPLAY_UnCookedApplePieDescription": {
+        "English": "A failed food production, raw and uncooked."
+    },
+    "GAMEPLAY_CookedApplePie": {
+        "English": "Apple Pie"
+    },
+    "GAMEPLAY_CookedApplePieDescription": {
+        "English": "A mushy Pie oozing with apples. Sweet and warm."
+    },
+    "GAMEPLAY_UnCookedPierogi": {
+        "English": "Uncooked Pierogies"
+    },
+    "GAMEPLAY_UnCookedPierogiDescription": {
+        "English": "A failed food production, raw and uncooked."
+    },
+    "GAMEPLAY_CookedPierogi": {
+        "English": "Pierogies"
+    },
+    "GAMEPLAY_CookedPierogiDescription": {
+        "English": "Pockets filled with potato and cheese. Delicious."
+    },
+    "GAMEPLAY_UnCookedToastedSandwich": {
+        "English": "Uncooked Toasted Sandwich"
+    },
+    "GAMEPLAY_UnCookedToastedSandwichDescription": {
+        "English": "A failed food production, raw and uncooked."
+    },
+    "GAMEPLAY_CookedToastedSandwich": {
+        "English": "Toasted Sandwich"
+    },
+    "GAMEPLAY_CookedToastedSandwichDescription": {
+        "English": "A crispy outside and a gooey inside. Goes well with soup."
+    },
+    "GAMEPLAY_UnCookedPoutine": {
+        "English": "Uncooked Poutine"
+    },
+    "GAMEPLAY_UnCookedPoutineDescription": {
+        "English": "A failed food production, raw and uncooked."
+    },
+    "GAMEPLAY_CookedPoutine": {
+        "English": "Poutine"
+    },
+    "GAMEPLAY_CookedPoutineDescription": {
+        "English": "Fry-cut potatoes buried beneath cheese and gravy. Heavy, messy, and just what you need."
+    },
+    "GAMEPLAY_CheesePackage": {
+        "English": "String Cheese"
+    },
+    "GAMEPLAY_CheesePackageDescription": {
+        "English": "Individually wrapped and satisfying to peel apart."
+    },
+    "GAMEPLAY_CocoaPackage": {
+        "English": "Large Hot Cocoa Package"
+    },
+    "GAMEPLAY_CocoaPackageDescription": {
+        "English": "A large package of Hot Cocoa."
+    },
+	"GAMEPLAY_CocoaPackage2": {
+        "English": "Small Hot Cocoa Package"
+    },
+    "GAMEPLAY_CocoaPackage2Description": {
+        "English": "A small package of Hot Cocoa."
+    },
+	"GAMEPLAY_CerealHoneyPackage": {
+        "English": "Large Cereal Honey Package"
+    },
+    "GAMEPLAY_CerealHoneyPackageDescription": {
+        "English": "A large package of Cereal Honey."
+    },
+	"GAMEPLAY_CerealWholeGrainPackage": {
+        "English": "Large Cereal Whole Grain"
+    },
+    "GAMEPLAY_CerealWholeGrainPackageDescription": {
+        "English": "A large package of Cereal Whole Grain."
+    },
+	"GAMEPLAY_CornflakesPackage": {
+        "English": "Large Cornflakes Package"
+    },
+    "GAMEPLAY_CornflakesPackageDescription": {
+        "English": "A large package of Cornflakes."
+    },
+	"GAMEPLAY_EmptyPackage": {
+        "English": "Empty Package"
+    },
+    "GAMEPLAY_EmptyPackageDescription": {
+        "English": "A small empty package. Can be used to package with other canned food or cereal boxes."
+    },
+	"GAMEPLAY_CerealHoneyPackage2": {
+        "English": "Small Cereal Honey Package"
+    },
+    "GAMEPLAY_CerealHoneyPackage2Description": {
+        "English": "A small package of Cereal Honey."
+    },
+	"GAMEPLAY_CerealWholeGrainPackage2": {
+        "English": "Small Cereal Whole Grain"
+    },
+    "GAMEPLAY_CerealWholeGrainPackage2Description": {
+        "English": "A small package of Cereal Whole Grain."
+    },
+	"GAMEPLAY_CornflakesPackage2": {
+        "English": "Small Cornflakes Package"
+    },
+    "GAMEPLAY_CornflakesPackage2Description": {
+        "English": "A small package of Cornflakes."
+    },
+	"GAMEPLAY_RandomLargeCannedFood": {
         "English": "Random Large Canned Food",
         "French (France)": "Boîte de nourriture au hasard.",
         "German": "Zufällige große Konserven",

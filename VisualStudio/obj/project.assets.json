@@ -4900,11 +4900,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\Documents\\GitHub\\FoodPackByTKG\\VisualStudio\\FoodPackByTKG.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\Desktop\\My mods\\Food-Pack-master\\VisualStudio\\FoodPackByTKG.csproj",
       "projectName": "FoodPackByTKG",
-      "projectPath": "C:\\Users\\PC\\Documents\\GitHub\\FoodPackByTKG\\VisualStudio\\FoodPackByTKG.csproj",
+      "projectPath": "C:\\Users\\PC\\Desktop\\My mods\\Food-Pack-master\\VisualStudio\\FoodPackByTKG.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\Documents\\GitHub\\FoodPackByTKG\\VisualStudio\\obj\\",
+      "outputPath": "C:\\Users\\PC\\Desktop\\My mods\\Food-Pack-master\\VisualStudio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

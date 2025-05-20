@@ -1,0 +1,20 @@
+scene=QuonsetGasStation
+item=GEAR_CocoaPackage p=3.2779,0.0117,7.7978 r=0.0000,182.8250,0.0000 c=100
+item=GEAR_CocoaPackage p=3.1769,0.0117,7.4147 r=-0.0000,126.6262,-0.0000 c=40
+item=GEAR_CannedChiliPackage p=5.2235,0.0017,6.1701 r=0.0000,267.2066,0.0000 c=100
+
+scene=FarmHouseABasement
+item=GEAR_CerealWholeGrainPackage p=-2.5206,1.1663,5.0239 r=0.0000,285.5376,0.0000 c=100
+item=GEAR_CornflakesPackage p=-2.5332,0.0026,5.2933 r=0.0000,212.8747,0.0000 c=100
+item=GEAR_CerealHoneyPackage p=-2.0117,0.0026,5.0956 r=0.0000,302.6066,0.0000 c=100
+
+scene=BunkerXL
+item=GEAR_CerealHoneyPackage p=5.4904,1.0107,25.0720 r=-0.0000,36.8139,-0.0000 c=75
+item=GEAR_CornflakesPackage p=9.6646,0.1153,23.0454 r=0.0000,354.2060,0.0000 c=75
+item=GEAR_CerealWholeGrainPackage p=5.6325,0.1253,19.1970 r=0.9346,177.6761,-0.0000 c=75
+
+scene=RuralStoreA
+item=GEAR_CannedSpaghettiPackage p=-0.4295,0.3329,-7.6926 r=0.0000,317.7061,0.0000 c=100
+
+scene=ConvenienceStoreA
+item=GEAR_CannedStewPackage p=-6.0572,0.3367,-9.0202 r=-0.0000,35.3156,-0.0000 c=100

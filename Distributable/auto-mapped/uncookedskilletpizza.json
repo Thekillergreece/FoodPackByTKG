@@ -1,0 +1,83 @@
+{
+  "ModFoodComponent": {
+    "DisplayNameLocalizationId": "GAMEPLAY_UnCookedSkilletPizza",
+    "DescriptionLocalizatonId": "GAMEPLAY_UnCookedSkilletPizzaDescription",
+    "InventoryActionLocalizationId": "",
+    "WeightKG": 0.4,
+    "DaysToDecay": 10,
+    "MaxHP": 100,
+    "InitialCondition": "Perfect",
+    "InventoryCategory": "Auto",
+    "PickUpAudio": "Play_SndInvUnCookedBannockPickup",
+    "PutBackAudio": "Play_SndInvUnCookedBannockPutBack",
+    "StowAudio": "Play_InventoryStow",
+    "WornOutAudio": "",
+    "InspectOnPickup": true,
+    "InspectDistance": 0.2,
+    "InspectAngles": [ 0, 0, 0 ],
+    "InspectOffset": [ 0, 0, 0 ],
+    "InspectScale": [ 0.5, 0.5, 0.5 ],
+    "NormalModel": "",
+    "InspectModel": "",
+
+    "Cooking": true,
+    "CookingMinutes": 126,
+    "CookingUnitsRequired": 1,
+    "CookingWaterRequired": 0,
+    "CookingResult": "GEAR_CookedSkilletPizza",
+    "BurntMinutes": 20,
+    "Type": "Meat",
+    "CookingAudio": "PLAY_COOKBANNOCK",
+    "StartCookingAudio": "PLAY_COOKINGPLACEMENTBANNOCK",
+
+    "DaysToDecayOutdoors": 5,
+    "DaysToDecayIndoors": 5,
+    "Calories": 100,
+    "Servings": 1,
+    "EatingTime": 5,
+    "EatingAudio": "PLAY_EATINGBANNOCK",
+    "EatingPackagedAudio": "",
+    "ThirstEffect": -10,
+
+    "FoodPoisoning": 15,
+    "FoodPoisoningLowCondition": 30,
+    "ParasiteRiskIncrements": [],
+
+    "Natural": false,
+    "Raw": true,
+    "Drink": false,
+    "Meat": false,
+    "Fish": false,
+    "Canned": false,
+
+    "Opening": false,
+    "OpeningWithCanOpener": false,
+    "OpeningWithKnife": false,
+    "OpeningWithHatchet": false,
+    "OpeningWithSmashing": false,
+
+    "AffectCondition": false,
+    "ConditionRestBonus": 0,
+    "ConditionRestMinutes": 0,
+
+    "AffectRest": false,
+    "InstantRestChange": 0,
+    "RestFactorMinutes": 0,
+
+    "AffectCold": false,
+    "InstantColdChange": 0,
+    "ColdFactorMinutes": 0,
+
+    "ContainsAlcohol": false,
+    "AlcoholPercentage": 0,
+    "AlcoholUptakeMinutes": 45
+  },
+  "ModStackableBehaviour": {
+    "SingleUnitTextId": "GAMEPLAY_SoupSingle",
+    "MultipleUnitTextId": "GAMEPLAY_SoupMultiple",
+    "StackSprite": "",
+    "UnitsPerItem": 1,
+    "ChanceFull": 0
+  }
+
+}

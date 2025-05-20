@@ -1,0 +1,16 @@
+{
+    "Name": "Cereal Honey Package (Small)",
+    "RequiredGear": [{"Item":"GEAR_EmptyPackage","Count":1},{"Item":"GEAR_Cornflakes","Count":10}],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "",
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": false,
+    "CraftedResult": "GEAR_CornflakesPackage2",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 10,
+    "CraftingAudio": "",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

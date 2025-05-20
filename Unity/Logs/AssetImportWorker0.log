@@ -1,6 +1,6 @@
 Using pre-set license
 Built from '2021.3/staging' branch; Version is '2021.3.6f1 (7da38d85baf6) revision 8233869'; Using compiler version '192829333'; Build Type 'Release'
-OS: 'Windows 10  (10.0.19045) 64bit Core' Language: 'el' Physical Memory: 49067 MB
+OS: 'Windows 10  (10.0.19045) 64bit Core' Language: 'el' Physical Memory: 64629 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
 
 COMMAND LINE ARGUMENTS:
@@ -15,7 +15,7 @@ C:/Users/PC/Desktop/My mods/Food-Pack-master/Unity
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-56499
+60251
 Successfully changed project path to: C:/Users/PC/Desktop/My mods/Food-Pack-master/Unity
 C:/Users/PC/Desktop/My mods/Food-Pack-master/Unity
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -47,7 +47,7 @@ C:/Users/PC/Desktop/My mods/Food-Pack-master/Unity
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Refreshing native plugins compatible for Editor in 62.23 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 39.86 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.3.6f1 (7da38d85baf6)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/Resources/UnitySubsystems
@@ -57,93 +57,93 @@ Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
     Renderer: NVIDIA GeForce RTX 3080 (ID=0x2206)
     Vendor:   NVIDIA
-    VRAM:     10067 MB
-    Driver:   31.0.15.3179
+    VRAM:     10053 MB
+    Driver:   32.0.15.7283
 Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56088
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56244
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.007789 seconds.
+Registered in 0.005862 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 58.19 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 31.06 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.617 seconds
+- Completed reload, in  0.359 seconds
 Domain Reload Profiling:
-	ReloadAssembly (617ms)
-		BeginReloadAssembly (80ms)
+	ReloadAssembly (359ms)
+		BeginReloadAssembly (50ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (420ms)
-			LoadAssemblies (78ms)
+			CreateAndSetChildDomain (0ms)
+		EndReloadAssembly (242ms)
+			LoadAssemblies (48ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (110ms)
+			SetupTypeCache (58ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (27ms)
-			SetupLoadedEditorAssemblies (233ms)
+			RebuildScriptCaches (14ms)
+			SetupLoadedEditorAssemblies (139ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (7ms)
+				InitializePlatformSupportModulesInManaged (5ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (58ms)
+				RefreshPlugins (31ms)
 				BeforeProcessingInitializeOnLoad (1ms)
-				ProcessInitializeOnLoadAttributes (125ms)
-				ProcessInitializeOnLoadMethodAttributes (41ms)
+				ProcessInitializeOnLoadAttributes (77ms)
+				ProcessInitializeOnLoadMethodAttributes (25ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.006914 seconds.
+Registered in 0.005245 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.73 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.135 seconds
+- Completed reload, in  0.679 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1136ms)
-		BeginReloadAssembly (102ms)
+	ReloadAssembly (680ms)
+		BeginReloadAssembly (72ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (5ms)
+			DisableScriptedObjects (3ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (17ms)
-		EndReloadAssembly (917ms)
-			LoadAssemblies (114ms)
+			CreateAndSetChildDomain (15ms)
+		EndReloadAssembly (537ms)
+			LoadAssemblies (62ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (189ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (48ms)
-			SetupLoadedEditorAssemblies (528ms)
+			SetupTypeCache (106ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (28ms)
+			SetupLoadedEditorAssemblies (321ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (5ms)
+				InitializePlatformSupportModulesInManaged (4ms)
 				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (87ms)
-				ProcessInitializeOnLoadAttributes (287ms)
-				ProcessInitializeOnLoadMethodAttributes (139ms)
-				AfterProcessingInitializeOnLoad (9ms)
+				BeforeProcessingInitializeOnLoad (60ms)
+				ProcessInitializeOnLoadAttributes (178ms)
+				ProcessInitializeOnLoadMethodAttributes (72ms)
+				AfterProcessingInitializeOnLoad (7ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (6ms)
+			AwakeInstancesAfterBackupRestoration (3ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
-Refreshing native plugins compatible for Editor in 0.66 ms, found 2 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.97 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3137 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 61 unused Assets / (92.7 KB). Loaded Objects now: 3601.
-Memory consumption went from 133.6 MB to 133.5 MB.
-Total: 5.776400 ms (FindLiveObjects: 0.240400 ms CreateObjectMapping: 0.126500 ms MarkObjects: 5.292600 ms  DeleteObjects: 0.115900 ms)
+Memory consumption went from 133.8 MB to 133.7 MB.
+Total: 7.400100 ms (FindLiveObjects: 0.323400 ms CreateObjectMapping: 0.099000 ms MarkObjects: 6.864100 ms  DeleteObjects: 0.113100 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -157,193 +157,13 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 57374.384071 seconds.
-  path: Assets/Prefabs/GEAR_HoneyJar.prefab
-  artifactKey: Guid(41cff7e8097f95e479039ba588be4d98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/GEAR_HoneyJar.prefab using Guid(41cff7e8097f95e479039ba588be4d98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a46ea57a7a04c30fd249f48f1c68242') in 0.181644 seconds 
+  Time since last request: 31354.267041 seconds.
+  path: Assets/InventoryGridIcons/ico_GearItem__CheesePackage.png
+  artifactKey: Guid(c3cff3e606d621c479cbf42b480130ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InventoryGridIcons/ico_GearItem__CheesePackage.png using Guid(c3cff3e606d621c479cbf42b480130ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a719c62e4b340206bb7d84f4b7865ea0') in 0.064906 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 44.585622 seconds.
-  path: Assets/Models/Textures/New Textures/GEAR_SaltBottle.png
-  artifactKey: Guid(b4ac92b7df64b8f4d8e4fbd8a95aace9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Textures/New Textures/GEAR_SaltBottle.png using Guid(b4ac92b7df64b8f4d8e4fbd8a95aace9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3bded0f5a97d333779aff94c30e6323') in 0.050708 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 15.112892 seconds.
-  path: Assets/Models/Textures/New Textures/frontierHoneyJarOLD.png
-  artifactKey: Guid(547aa6bab646a9545bb15b3554ffde91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Textures/New Textures/frontierHoneyJarOLD.png using Guid(547aa6bab646a9545bb15b3554ffde91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddc56edf398573d2213ea2c9be792f10') in 0.012397 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 8.778531 seconds.
-  path: Assets/Models/Textures/New Textures/FrontierHoneyJar.png
-  artifactKey: Guid(b4ac92b7df64b8f4d8e4fbd8a95aace9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Textures/New Textures/FrontierHoneyJar.png using Guid(b4ac92b7df64b8f4d8e4fbd8a95aace9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '020968e38fea806852deed76b6566638') in 0.012686 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.936848 seconds.
-  path: Assets/Prefabs/GEAR_HoneyJar.prefab
-  artifactKey: Guid(41cff7e8097f95e479039ba588be4d98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/GEAR_HoneyJar.prefab using Guid(41cff7e8097f95e479039ba588be4d98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb1f10d0191ef4104f150a5b30084ddb') in 0.015967 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 21.602052 seconds.
-  path: Assets/Models/Textures/New Textures/Materials/FrontierHoneyJar 1.mat
-  artifactKey: Guid(b3df622381b4f53479afda78e41eda65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Textures/New Textures/Materials/FrontierHoneyJar 1.mat using Guid(b3df622381b4f53479afda78e41eda65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77f58a5ecfa8f34d464f612e82f6a2d8') in 0.046234 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000019 seconds.
-  path: Assets/Models/Textures/New Textures/Materials/frontierHoneyJar.mat
-  artifactKey: Guid(1b1176dff0c574f4d991748c203492b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Textures/New Textures/Materials/frontierHoneyJar.mat using Guid(1b1176dff0c574f4d991748c203492b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02964da5d7aff348d579866370909cd2') in 0.022853 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000020 seconds.
-  path: Assets/Models/Textures/New Textures/Materials/FrontierHoneyJar 3.mat
-  artifactKey: Guid(ac982e569af86c844a5d077af3193be3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Textures/New Textures/Materials/FrontierHoneyJar 3.mat using Guid(ac982e569af86c844a5d077af3193be3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '834e962c52e952c06be13ab0b59cb702') in 0.033799 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 33.441431 seconds.
-  path: Assets/Models/Textures/New Textures/Materials/FrontierHoneyJar 4.mat
-  artifactKey: Guid(6d4741a243f09c9418414b45df7e29d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Textures/New Textures/Materials/FrontierHoneyJar 4.mat using Guid(6d4741a243f09c9418414b45df7e29d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a370f0362a53b12e57c37dd9b69cae6') in 0.071044 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 23.588252 seconds.
-  path: Assets/Prefabs/GEAR_HoneyJar.prefab
-  artifactKey: Guid(41cff7e8097f95e479039ba588be4d98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/GEAR_HoneyJar.prefab using Guid(41cff7e8097f95e479039ba588be4d98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92931267e82fd21c0d6cd6dab93ebcb8') in 0.023301 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 53.947516 seconds.
-  path: Assets/InventoryGridIcons/ico_GearItem__HoneyJarOLD2.png
-  artifactKey: Guid(82686f0cb3450a74bb8ddb614d125d5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/InventoryGridIcons/ico_GearItem__HoneyJarOLD2.png using Guid(82686f0cb3450a74bb8ddb614d125d5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd2b5f25403c15374d91abd515285c9d') in 0.010086 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 24.078155 seconds.
-  path: Assets/InventoryGridIcons/ico_GearItem__HoneyJarOLD3.png
-  artifactKey: Guid(82686f0cb3450a74bb8ddb614d125d5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/InventoryGridIcons/ico_GearItem__HoneyJarOLD3.png using Guid(82686f0cb3450a74bb8ddb614d125d5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dad81fb984b895e27aa3d36eb2388aa') in 0.009848 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 13.279289 seconds.
-  path: Assets/InventoryGridIcons/ico_GearItem__HoneyJar.png
-  artifactKey: Guid(9f0366ea93e588a4b9132d83d797bb15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/InventoryGridIcons/ico_GearItem__HoneyJar.png using Guid(9f0366ea93e588a4b9132d83d797bb15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '037ed87eb156ac79b94b2ba6506c0c23') in 0.010435 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.975503 seconds.
-  path: Assets/InventoryGridIcons/ico_GearItem__HoneyJar.png
-  artifactKey: Guid(9f0366ea93e588a4b9132d83d797bb15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/InventoryGridIcons/ico_GearItem__HoneyJar.png using Guid(9f0366ea93e588a4b9132d83d797bb15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46121ac256aeccdc9eb4ddfb540e0d4c') in 0.010124 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 50.608969 seconds.
-  path: Assets/Models/Textures/New Textures/frontierHoneyJar.png
-  artifactKey: Guid(b4ac92b7df64b8f4d8e4fbd8a95aace9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Textures/New Textures/frontierHoneyJar.png using Guid(b4ac92b7df64b8f4d8e4fbd8a95aace9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac8ceeb0e5246d69f63440cf49247740') in 0.013831 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 16.697903 seconds.
-  path: Assets/Models/Textures/New Textures/frontiercerealhoney.png
-  artifactKey: Guid(4c72be830c30c2d49a7a6405e44c3092) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Textures/New Textures/frontiercerealhoney.png using Guid(4c72be830c30c2d49a7a6405e44c3092) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38096a564f4037f748fead10eaae0a86') in 0.064670 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 20.337090 seconds.
-  path: Assets/Models/Textures/New Textures/frontierSpam.png
-  artifactKey: Guid(4d9d7ed30987d9249bc14cda3022daf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Textures/New Textures/frontierSpam.png using Guid(4d9d7ed30987d9249bc14cda3022daf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cbb56bb1de8dadb949105f8f4520992') in 0.009228 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.018240 seconds.
-  path: Assets/Prefabs/GEAR_CerealHoney.prefab
-  artifactKey: Guid(3d4bb1cbac85fd046858b338c936e617) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/GEAR_CerealHoney.prefab using Guid(3d4bb1cbac85fd046858b338c936e617) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3ad240403e578994b5abd5f8ef11195') in 0.015288 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000014 seconds.
-  path: Assets/Prefabs/GEAR_SPAM.prefab
-  artifactKey: Guid(80e74787ccc91a74dadf818f104a7a24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/GEAR_SPAM.prefab using Guid(80e74787ccc91a74dadf818f104a7a24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '186cd6adace152761fb30e009168b058') in 0.015368 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 27.699953 seconds.
-  path: Assets/Models/Textures/New Textures/Materials/cerealhoney-texture 1.mat
-  artifactKey: Guid(2b1d6de705b22a64dbc7ae5a3d7ed3a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Textures/New Textures/Materials/cerealhoney-texture 1.mat using Guid(2b1d6de705b22a64dbc7ae5a3d7ed3a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54c61044f03382bc5aaf993787eb22ec') in 0.016073 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.003115 seconds.
-  path: Assets/Models/Textures/New Textures/Materials/spam-texture 1.mat
-  artifactKey: Guid(a88b5b6cbc22b9d45920050c5583c417) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Textures/New Textures/Materials/spam-texture 1.mat using Guid(a88b5b6cbc22b9d45920050c5583c417) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '979c70e62d39037977ecdd65831a8b26') in 0.044243 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 31.885290 seconds.
-  path: Assets/Models/Textures/New Textures/Materials/frontierbeer.mat
-  artifactKey: Guid(e63a71a5242180a44816f7cfaa557d1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Textures/New Textures/Materials/frontierbeer.mat using Guid(e63a71a5242180a44816f7cfaa557d1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3e92e89fdd9486490eed282244ec6d8') in 0.023559 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 15.084289 seconds.
-  path: Assets/Prefabs/GEAR_BeerBottle.prefab
-  artifactKey: Guid(980cae0a455242e4686445f67429d1ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/GEAR_BeerBottle.prefab using Guid(980cae0a455242e4686445f67429d1ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d3e9392e583cde173c82c39d2554ed8') in 0.043043 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 14.126837 seconds.
-  path: Assets/Models/Textures/New Textures/Materials/frontierBread.mat
-  artifactKey: Guid(7cc9ed1cc3778cf448ef921f66b02ac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Textures/New Textures/Materials/frontierBread.mat using Guid(7cc9ed1cc3778cf448ef921f66b02ac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '181dd07ab9e07bff0b5f4632557564bc') in 0.013747 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 4.695560 seconds.
-  path: Assets/Prefabs/GEAR_Bread.prefab
-  artifactKey: Guid(497c53a809bc08543952e07a0d6241ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/GEAR_Bread.prefab using Guid(497c53a809bc08543952e07a0d6241ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cfb219e322d25f6780988134dca088a') in 0.008894 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 13.499097 seconds.
-  path: Assets/Models/Textures/New Textures/Materials/frontierCerealHoney.mat
-  artifactKey: Guid(2b1d6de705b22a64dbc7ae5a3d7ed3a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Textures/New Textures/Materials/frontierCerealHoney.mat using Guid(2b1d6de705b22a64dbc7ae5a3d7ed3a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd4da4e37f929be3282a2b06531bb9fb') in 0.018944 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 7.663215 seconds.
-  path: Assets/Prefabs/GEAR_CerealHoney.prefab
-  artifactKey: Guid(3d4bb1cbac85fd046858b338c936e617) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/GEAR_CerealHoney.prefab using Guid(3d4bb1cbac85fd046858b338c936e617) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8aa330458a97d6c9ca97e79bf8df06d') in 0.008631 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 19.021598 seconds.
-  path: Assets/Models/Textures/New Textures/Materials/frontierSyrup.mat
-  artifactKey: Guid(7f5222ecd01bb9943aea6b19eef50b15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Textures/New Textures/Materials/frontierSyrup.mat using Guid(7f5222ecd01bb9943aea6b19eef50b15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2b34902f89b31f7e860abac1f00e668') in 0.019201 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 13.101360 seconds.
-  path: Assets/Models/Textures/New Textures/Materials/frontierSpam.mat
-  artifactKey: Guid(a88b5b6cbc22b9d45920050c5583c417) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Textures/New Textures/Materials/frontierSpam.mat using Guid(a88b5b6cbc22b9d45920050c5583c417) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29a45944640826227e69e7f84cd911bf') in 0.009920 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 6.951176 seconds.
-  path: Assets/Prefabs/GEAR_ModSyrup.prefab
-  artifactKey: Guid(5cd4937f55ff2df48a7139da145be60f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/GEAR_ModSyrup.prefab using Guid(5cd4937f55ff2df48a7139da145be60f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7408aa93f739d11aabdb5c85a0497d8') in 0.012524 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 43.678708 seconds.
-  path: Assets/Models/Textures/New Textures/Materials/FrontierHoneyJar 1.mat
-  artifactKey: Guid(b3df622381b4f53479afda78e41eda65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Textures/New Textures/Materials/FrontierHoneyJar 1.mat using Guid(b3df622381b4f53479afda78e41eda65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db792038624ef8903e8233b0d77bbfa3') in 0.014831 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 196.648727 seconds.
-  path: Assets/Prefabs/GEAR_HoneyJar.prefab
-  artifactKey: Guid(41cff7e8097f95e479039ba588be4d98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/GEAR_HoneyJar.prefab using Guid(41cff7e8097f95e479039ba588be4d98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '842e60a3b81efd1bcaa89d0e00e750fa') in 0.015887 seconds 
+  Time since last request: 16.673577 seconds.
+  path: Assets/AddressableAssetsData/AssetGroups/food-pack.unity3d.asset
+  artifactKey: Guid(a2de77c5c0c43654591d2983e7d40860) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AddressableAssetsData/AssetGroups/food-pack.unity3d.asset using Guid(a2de77c5c0c43654591d2983e7d40860) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a768caf7258a49357cac5ad8c1450ea') in 0.004979 seconds 

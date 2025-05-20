@@ -1,4 +1,4 @@
-#PREPPER CACHES LOOT SPAWNS
+#PREPPER CACHES LOOT SPAWNS - WORK FULLY FINISHED, FIX ONLY IF NEEDED
 
 # WEAPONS PREPPER 
 scene=PrepperCacheA
@@ -15,37 +15,37 @@ item=GEAR_ModChocolateBar p=0.7812,0.9745,-1.1733 r=-0.0000,61.2131,-0.0000 c=75
 item=GEAR_ModSyrup p=-3.0386,0.0221,0.8938 r=-0.0000,146.8432,-0.0000 c=65
 item=GEAR_FlourBag p=-2.3392,0.9526,-1.9515 r=0.0000,337.1711,0.0000 c=75
 item=GEAR_FlourBag p=-2.3614,0.9526,-1.8327 r=-0.0000,4.6566,-0.0000 c=50
-item=GEAR_SoyRamenCooked p=0.5492,0.9849,-1.3310 r=0.0000,281.4779,0.0000 c=100
+item=GEAR_SoyRamenCooked p=0.5492,0.9849,-1.3310 r=0.0000,281.4779,0.0000 c=85
 item=GEAR_SoyRamen p=1.7588,1.5813,2.0401 r=0.0000,295.4060,0.0000 c=75
 item=GEAR_SoyRamen p=1.8930,1.5813,1.9536 r=0.0000,228.0994,0.0000 c=50
 item=GEAR_CupNoodles p=1.9565,1.5802,2.0713 r=0.0000,343.5696,0.0000 c=75
 item=GEAR_CupNoodles p=2.0184,1.5802,1.9525 r=0.0000,220.5331,0.0000 c=50
 item=GEAR_Jalapeno p=3.3023,1.1149,1.1553 r=0.0000,274.8344,0.0000 c=75
 item=GEAR_ModChocolateBar p=1.9617,1.1722,2.0175 r=0.0000,346.2214,0.0000 c=75
-item=GEAR_randommediumcannedfood p=3.6172,1.5803,2.0911 r=-0.0000,126.4433,-0.0000 c=85
-item=GEAR_randommediumcannedfood p=3.4502,1.5803,1.9893 r=-0.0000,55.0078,-0.0000 c=75
-item=GEAR_randomlargecannedfood p=3.5627,1.1145,-0.5719 r=0.0000,245.2849,0.0000 c=85
-item=GEAR_randomlargecannedfood p=3.3636,1.1145,-0.3650 r=-0.0000,132.7803,-0.0000 c=75
+item=GEAR_RandomMediumCannedFood p=3.6172,1.5803,2.0911 r=-0.0000,126.4433,-0.0000 c=85
+item=GEAR_RandomMediumCannedFood p=3.4502,1.5803,1.9893 r=-0.0000,55.0078,-0.0000 c=75
+item=GEAR_RandomLargeCannedFood p=3.5627,1.1145,-0.5719 r=0.0000,245.2849,0.0000 c=85
+item=GEAR_RandomLargeCannedFood p=3.3636,1.1145,-0.3650 r=-0.0000,132.7803,-0.0000 c=50
 item=GEAR_AuroraEnergyDrink p=-3.7253,0.0400,0.6970 r=0.0000,238.0405,90.0000 c=100
+item=GEAR_SPAM p=1.5536,1.1144,1.4776 r=0.0000,227.7007,0.0000 c=85
 
 # HUNTING PREPPER
 scene=PrepperCacheC
 item=GEAR_ModSyrup p=2.5536,1.0086,1.8127 r=0.0000,249.4233,0.0000 c=75
 item=GEAR_ModSyrup p=2.3063,1.0086,1.7812 r=-0.0000,146.9486,-0.0000 c=25
-item=GEAR_randommediumcannedfood p=2.3881,0.5382,1.9014 r=-0.0000,63.2219,-0.0000 c=85
-item=GEAR_randommediumcannedfood p=2.2553,0.5382,1.9275 r=-0.0000,149.2551,-0.0000 c=75
-item=GEAR_randommediumcannedfood p=2.2563,0.5982,1.7782 r=90.0000,75.2109,0.0000 c=50
-item=GEAR_randomlargecannedfood p=2.9461,0.5382,1.7187 r=-0.0000,131.5192,-0.0000 c=75
-item=GEAR_randomlargecannedfood p=2.6095,0.1142,1.0366 r=270.0000,126.7257,0.0000 c=50
+item=GEAR_RandomMediumCannedFood p=2.3881,0.5382,1.9014 r=-0.0000,63.2219,-0.0000 c=85
+item=GEAR_RandomMediumCannedFood p=2.2553,0.5382,1.9275 r=-0.0000,149.2551,-0.0000 c=75
+item=GEAR_RandomMediumCannedFood p=2.2563,0.5982,1.7782 r=90.0000,75.2109,0.0000 c=50
+item=GEAR_RandomLargeCannedFood p=2.9461,0.5382,1.7187 r=-0.0000,131.5192,-0.0000 c=50
+item=GEAR_RandomLargeCannedFood p=2.6095,0.1142,1.0366 r=270.0000,126.7257,0.0000 c=35
 item=GEAR_MountainSoda p=2.9409,0.0516,-3.8235 r=0.0000,357.9275,0.0000 c=75
 item=GEAR_MountainSoda p=2.6689,0.0816,-3.8496 r=0.0000,137.1821,90.0001 c=50
 
 # FOOD PREPPER
 scene=PrepperCacheD
 item=GEAR_DryMilkPacket p=-1.7674,1.1255,1.7341 r=-0.0000,116.4067,-0.0000 c=85
-item=GEAR_randommediumcannedfood p=0.3612,0.8050,1.5558 r=-0.0000,162.8315,-0.0000 c=85
-item=GEAR_randommediumcannedfood p=0.1586,0.8050,1.5600 r=-0.0000,83.0017,-0.0000 c=65
-item=GEAR_randommediumcannedfood p=-0.2200,0.8650,1.6981 r=-0.0000,135.3862,269.9999 c=45
+item=GEAR_RandomMediumCannedFood p=0.3612,0.8050,1.5558 r=-0.0000,162.8315,-0.0000 c=85
+item=GEAR_RandomMediumCannedFood p=-0.2200,0.8650,1.6981 r=-0.0000,135.3862,269.9999 c=45
 item=GEAR_VodkaBottle p=2.4922,0.1165,0.9015 r=-0.0000,216.3470,75.0000 c=50
 item=GEAR_VodkaBottle p=3.9174,0.0000,-0.9297 r=1.1818,159.3138,6.1269 c=50
 item=GEAR_randomcerealbox p=-3.5687,1.1144,-0.5380 r=0.0000,246.7583,0.0000 c=75
@@ -58,13 +58,14 @@ item=GEAR_AuroraEnergyDrink p=0.4901,0.0476,-5.6261 r=-0.0000,15.7598,-0.0000 c=
 item=GEAR_CatFood p=-1.3445,0.0001,1.8868 r=0.0000,312.7061,0.0000 c=65
 item=GEAR_CatFoodSmall p=-1.4979,1.1149,1.3863 r=0.0000,228.4408,0.0000 c=60
 item=GEAR_Jalapeno p=-3.3768,1.1149,1.1997 r=0.0000,226.6138,0.0000 c=50
+item=GEAR_SPAM p=-3.5097,1.1144,2.1176 r=0.0000,188.2012,0.0000 c=75
 
 # HUNTING PREPPER
 scene=PrepperCacheE
 item=GEAR_BeerBottle p=-0.0122,1.0092,-9.4078 r=0.0000,249.7222,0.0000 c=85
 item=GEAR_BeerBottle p=-0.1074,1.0092,-9.3832 r=0.0000,284.3522,0.0000 c=75
-item=GEAR_randomliquorbottle p=-0.2240,1.0086,-9.5489 r=0.0000,212.5121,0.0000 c=50
-item=GEAR_randomlargecannedfood p=-3.2968,1.6259,-1.3329 r=-0.0000,11.5338,-0.0000 c=75
+item=GEAR_RandomLiquorBottle p=-0.2240,1.0086,-9.5489 r=0.0000,212.5121,0.0000 c=50
+item=GEAR_RandomLargeCannedFood p=-3.2968,1.6259,-1.3329 r=-0.0000,11.5338,-0.0000 c=75
 item=GEAR_CatFoodSmall p=2.0937,1.0223,1.7349 r=0.0000,306.6694,0.0000 c=75
 item=GEAR_SoyRamenCooked p=2.6684,1.0269,1.5480 r=-0.0000,105.1499,-0.0000 c=85
 item=GEAR_HoneyJar p=-3.2341,2.2969,-1.6593 r=0.0000,328.2601,0.0000 c=75
@@ -72,10 +73,9 @@ item=GEAR_MountainSoda p=-3.3369,0.3630,-1.2418 r=0.0000,335.2176,0.0000 c=85
 
 # WEAPONS PREPPER
 scene=PrepperCacheF
-item=GEAR_randomcerealbox p=0.3808,0.0697,3.8464 r=0.0000,332.0783,0.0000 c=60
+item=GEAR_randomcerealbox p=0.3808,0.0697,3.8464 r=0.0000,332.0783,0.0000 c=35
 item=GEAR_ModChocolateBar p=0.5494,-0.7240,2.1073 r=0.0000,346.3358,0.0000 c=50
-item=GEAR_MountainSoda p=-1.4137,-0.6721,0.1718 r=356.8803,18.0206,270.0373 c=75
+item=GEAR_MountainSoda p=-1.4137,-0.6721,0.1718 r=356.8803,18.0206,270.0373 c=85
 item=GEAR_SPAM p=1.1991,-0.5809,3.8914 r=-0.0000,140.5718,-0.0000 c=85
-item=GEAR_HotCocoaBox p=1.2452,-0.5509,3.5877 r=-0.0000,314.6322,270.0000 c=30
 item=GEAR_FlourBag p=1.0654,0.0697,3.8331 r=0.0000,323.4541,0.0000 c=35
-item=GEAR_SoyRamen p=1.1427,0.0697,3.6532 r=-0.0000,50.1466,-0.0000 c=40
+item=GEAR_SoyRamen p=1.1427,0.0697,3.6532 r=-0.0000,50.1466,-0.0000 c=25

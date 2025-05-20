@@ -1,0 +1,36 @@
+{
+  "RecipeName": "Toasted Sandwich",
+  "RecipeDescription": "GAMEPLAY_CookedToastedSandwichDescription",
+  "RecipeIcon": "ico_GearItem__CookedToastedSandwich",
+  "RequiredSkillLevel": 1,
+  "AllowedCookingPots": [ "GEAR_Skillet" ],
+  "BlueprintData": {
+    "Name": "REC_ToastedSandwich",
+    "RequiredGear": [
+      {
+        "Item": "GEAR_CheesePackage",
+        "Count": 1
+      }
+    ],
+    "RequiredPowder": [
+	      {
+        "Powder": "POWDER_Flour",
+        "QuantityInKilograms": 0.2
+      }
+    ],
+    "RequiredLiquid": [
+      {
+        "Liquid": "LIQUID_WaterPotable",
+        "VolumeInLitres": 0.15
+      },
+	  {
+        "Liquid": "LIQUID_CookingOil",
+        "VolumeInLitres": 0.05
+      }
+    ],
+    "CraftedResult": "GEAR_UnCookedToastedSandwich",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 15,
+    "CraftingAudio": "PLAY_CRAFTINGBANNOCK"
+  }
+}

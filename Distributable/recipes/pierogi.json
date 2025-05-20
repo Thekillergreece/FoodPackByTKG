@@ -1,0 +1,44 @@
+{
+  "RecipeName": "Pierogi",
+  "RecipeDescription": "GAMEPLAY_CookedPierogiDescription",
+  "RecipeIcon": "ico_GearItem__CookedPierogi",
+  "RequiredSkillLevel": 3,
+  "AllowedCookingPots": [ "GEAR_Skillet" ],
+  "BlueprintData": {
+    "Name": "REC_Pierogi",
+    "RequiredGear": [
+      {
+        "Item": "GEAR_CheesePackage",
+        "Count": 2
+      },
+	  {
+        "Item": "GEAR_RoseHip",
+        "Count": 6
+      },
+	  {
+        "Item": "GEAR_Potato",
+        "Count": 2
+      }
+    ],
+    "RequiredPowder": [
+	      {
+        "Powder": "POWDER_Flour",
+        "QuantityInKilograms": 0.10
+      }
+    ],
+    "RequiredLiquid": [
+      {
+        "Liquid": "LIQUID_WaterPotable",
+        "VolumeInLitres": 0.15
+      },
+	  {
+        "Liquid": "LIQUID_CookingOil",
+        "VolumeInLitres": 0.05
+      }
+    ],
+    "CraftedResult": "GEAR_UnCookedPierogi",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 20,
+    "CraftingAudio": "PLAY_CRAFTINGBANNOCK"
+  }
+}

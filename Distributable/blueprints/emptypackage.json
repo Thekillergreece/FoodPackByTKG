@@ -1,0 +1,16 @@
+{
+    "Name": "Empty Package",
+    "RequiredGear": [{"Item": "GEAR_Tinder", "Count":6}],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "",
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": false,
+    "CraftedResult": "GEAR_EmptyPackage",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 3,
+    "CraftingAudio": "",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

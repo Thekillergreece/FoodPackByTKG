@@ -1,0 +1,36 @@
+{
+  "RecipeName": "Poutine",
+  "RecipeDescription": "GAMEPLAY_CookedPoutineDescription",
+  "RecipeIcon": "ico_GearItem__CookedPoutine",
+  "RequiredSkillLevel": 2,
+  "AllowedCookingPots": [ "GEAR_CookingPot" ],
+  "BlueprintData": {
+    "Name": "REC_Poutine",
+    "RequiredGear": [
+      {
+        "Item": "GEAR_CheesePackage",
+        "Count": 1
+      },
+	  {
+        "Item": "GEAR_Potato",
+        "Count": 2
+      }
+    ],
+    "RequiredPowder": [
+	  {
+        "Powder": "POWDER_Flour",
+        "QuantityInKilograms": 0.1
+      }
+    ],
+    "RequiredLiquid": [
+	  {
+        "Liquid": "LIQUID_Broth",
+        "VolumeInLitres": 0.2
+      }
+    ],
+    "CraftedResult": "GEAR_UnCookedPoutine",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 15,
+    "CraftingAudio": "PLAY_CRAFTINGBANNOCK"
+  }
+}
