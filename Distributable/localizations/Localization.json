@@ -821,124 +821,164 @@
         "Italian": "Una ciotola di tagliatelle istantanee cotte - odora di salsa di soia."
     },
     "GAMEPLAY_UnCookedSkilletPizza": {
-        "English": "Uncooked Pizza"
+        "English": "Uncooked Pizza",
+	"Turkish": "Pişirilmemiş Pizza"
     },
     "GAMEPLAY_UnCookedSkilletPizzaDescription": {
-        "English": "A failed food production, raw and uncooked."
+        "English": "A failed food production, raw and uncooked.",
+	"Turkish": "Çiğ ve pişmemiş başarısız bir gıda üretimi."
     },
     "GAMEPLAY_CookedSkilletPizza": {
-        "English": "Skillet Pizza"
+        "English": "Skillet Pizza",
+	"Turkish": "Tavada Pizza"
     },
     "GAMEPLAY_CookedSkilletPizzaDescription": {
-        "English": "A classic made from what's left -- a taste of the past."
+        "English": "A classic made from what's left -- a taste of the past.",
+	"Turkish": "Geriye kalanlardan yapılmış bir klasik - geçmişin tadı."
     },
     "GAMEPLAY_UnCookedApplePie": {
-        "English": "Uncooked Apple Pie"
+        "English": "Uncooked Apple Pie",
+	"Turkish": "Pişmemiş Elmalı Turta"
     },
     "GAMEPLAY_UnCookedApplePieDescription": {
-        "English": "A failed food production, raw and uncooked."
+        "English": "A failed food production, raw and uncooked.",
+	"Turkish": "Çiğ ve pişmemiş başarısız bir gıda üretimi."
     },
     "GAMEPLAY_CookedApplePie": {
-        "English": "Apple Pie"
+        "English": "Apple Pie",
+	"Turkish": "Elmalı Turta"
     },
     "GAMEPLAY_CookedApplePieDescription": {
-        "English": "A mushy Pie oozing with apples. Sweet and warm."
+        "English": "A mushy Pie oozing with apples. Sweet and warm.",
+	"Turkish": "Elmalı, enfes bir turta. Tatlı ve sıcak."
     },
     "GAMEPLAY_UnCookedPierogi": {
-        "English": "Uncooked Pierogies"
+        "English": "Uncooked Pierogies",
+	"Turkish": "Pişmemiş Pierogies"
     },
     "GAMEPLAY_UnCookedPierogiDescription": {
-        "English": "A failed food production, raw and uncooked."
+        "English": "A failed food production, raw and uncooked.",
+	"Turkish": "Başarısız bir gıda üretimi, çiğ ve pişmemiş. Mantıya çok benzer."
     },
     "GAMEPLAY_CookedPierogi": {
-        "English": "Pierogies"
+        "English": "Pierogies",
+	"Turkish": "Piergoies"
     },
     "GAMEPLAY_CookedPierogiDescription": {
-        "English": "Pockets filled with potato and cheese. Delicious."
+        "English": "Pockets filled with potato and cheese. Delicious.",
+	"Turkish": "Patates ve peynirle doldurulmuş hamur. Lezzetli aynı mantı gibi"
     },
     "GAMEPLAY_UnCookedToastedSandwich": {
-        "English": "Uncooked Toasted Sandwich"
+        "English": "Uncooked Toasted Sandwich",
+	"Turkish": "Pişmemiş Tost Sandviç"
     },
     "GAMEPLAY_UnCookedToastedSandwichDescription": {
-        "English": "A failed food production, raw and uncooked."
+        "English": "A failed food production, raw and uncooked.",
+	"Turkish": "Başarısız bir gıda üretimi, çiğ ve pişmemiş."
     },
     "GAMEPLAY_CookedToastedSandwich": {
-        "English": "Toasted Sandwich"
+        "English": "Toasted Sandwich",
+	"Turkish": "Sandviç Tost"
     },
     "GAMEPLAY_CookedToastedSandwichDescription": {
-        "English": "A crispy outside and a gooey inside. Goes well with soup."
+        "English": "A crispy outside and a gooey inside. Goes well with soup.",
+	"Turkish": "Dışı çıtır çıtır, içi yapış yapış. Çorba ile iyi gider."
     },
     "GAMEPLAY_UnCookedPoutine": {
-        "English": "Uncooked Poutine"
+        "English": "Uncooked Poutine",
+	"Turkish": "Pişmemiş Poutine"
     },
     "GAMEPLAY_UnCookedPoutineDescription": {
-        "English": "A failed food production, raw and uncooked."
+        "English": "A failed food production, raw and uncooked.",
+	"Turkish": "Başarısız bir gıda üretimi, çiğ ve pişmemiş"
     },
     "GAMEPLAY_CookedPoutine": {
-        "English": "Poutine"
+        "English": "Poutine",
+	"Turkish": "Poutine"
     },
     "GAMEPLAY_CookedPoutineDescription": {
-        "English": "Fry-cut potatoes buried beneath cheese and gravy. Heavy, messy, and just what you need."
+        "English": "Fry-cut potatoes buried beneath cheese and gravy. Heavy, messy, and just what you need.",
+	"Turkish": "Peynir ve sosun altına gömülmüş kızarmış patatesler.Dağınık ve tam da ihtiyacınız olan şey."
     },
     "GAMEPLAY_CheesePackage": {
-        "English": "String Cheese"
+        "English": "String Cheese",
+	"Turkish": "Telli Peynir"
     },
     "GAMEPLAY_CheesePackageDescription": {
-        "English": "Individually wrapped and satisfying to peel apart."
+        "English": "Individually wrapped and satisfying to peel apart.",
+	"Turkish": "Ayrı ayrı sarılmış ve soyulması tatmin edici."
     },
     "GAMEPLAY_CocoaPackage": {
-        "English": "Large Hot Cocoa Package"
+        "English": "Large Hot Cocoa Package",
+	"Turkish": "Büyük Sıcak Kakao Paketi"
     },
     "GAMEPLAY_CocoaPackageDescription": {
-        "English": "A large package of Hot Cocoa."
+        "English": "A large package of Hot Cocoa.",
+	"Turkish": "Büyük bir paket sıcak kakao."
     },
 	"GAMEPLAY_CocoaPackage2": {
-        "English": "Small Hot Cocoa Package"
+        "English": "Small Hot Cocoa Package",
+	"Turkish": "Küçük Sıcak Kakao Paketi"
     },
     "GAMEPLAY_CocoaPackage2Description": {
-        "English": "A small package of Hot Cocoa."
+        "English": "A small package of Hot Cocoa.",
+	"Turkish": "Küçük bir paket sıcak kakao."
     },
 	"GAMEPLAY_CerealHoneyPackage": {
-        "English": "Large Cereal Honey Package"
+        "English": "Large Cereal Honey Package",
+	"Turkish": "Büyük ballı tahıl paketi"
     },
     "GAMEPLAY_CerealHoneyPackageDescription": {
-        "English": "A large package of Cereal Honey."
+        "English": "A large package of Cereal Honey.",
+	"Turkish": "Büyük bir paket ballı tahıl."
     },
 	"GAMEPLAY_CerealWholeGrainPackage": {
-        "English": "Large Cereal Whole Grain"
+        "English": "Large Cereal Whole Grain",
+	"Turkish": "Büyük Paket Tahıl Gevreği"
     },
     "GAMEPLAY_CerealWholeGrainPackageDescription": {
-        "English": "A large package of Cereal Whole Grain."
+        "English": "A large package of Cereal Whole Grain.",
+	"Turkish": " Büyük bir paket tam tahıl gevreği."
     },
 	"GAMEPLAY_CornflakesPackage": {
-        "English": "Large Cornflakes Package"
+        "English": "Large Cornflakes Package",
+	"Turkish": "Büyük Mısır Gevreği Paketi"
     },
     "GAMEPLAY_CornflakesPackageDescription": {
-        "English": "A large package of Cornflakes."
+        "English": "A large package of Cornflakes.",
+	"Turkish": "Büyük bir paket mısır gevreği."
     },
 	"GAMEPLAY_EmptyPackage": {
-        "English": "Empty Package"
+        "English": "Empty Package",
+	"Turkish": "Boş Paket"
     },
     "GAMEPLAY_EmptyPackageDescription": {
-        "English": "A small empty package. Can be used to package with other canned food or cereal boxes."
+        "English": "A small empty package. Can be used to package with other canned food or cereal boxes.",
+	"Turkish": "Küçük boş bir paket. Diğer konserve veya tahıl kutuları ile paketlemek için kullanılabilir"
     },
 	"GAMEPLAY_CerealHoneyPackage2": {
-        "English": "Small Cereal Honey Package"
+        "English": "Small Cereal Honey Package",
+	"Turkish": "Küçük Ballı Tahıl Paketi"
     },
     "GAMEPLAY_CerealHoneyPackage2Description": {
-        "English": "A small package of Cereal Honey."
+        "English": "A small package of Cereal Honey.",
+	"Turkish": "Küçük bir paket ballı tahıl."
     },
 	"GAMEPLAY_CerealWholeGrainPackage2": {
-        "English": "Small Cereal Whole Grain"
+        "English": "Small Cereal Whole Grain",
+	"Turkish": "Küçük Paket Tahıl Gevreği"
     },
     "GAMEPLAY_CerealWholeGrainPackage2Description": {
-        "English": "A small package of Cereal Whole Grain."
+        "English": "A small package of Cereal Whole Grain.",
+	"Turkish": "Küçük bir paket tam tahıllı gevrek"
     },
 	"GAMEPLAY_CornflakesPackage2": {
-        "English": "Small Cornflakes Package"
+        "English": "Small Cornflakes Package",
+	"Turkish": "Küçük Mısır Gevreği Paketi"
     },
     "GAMEPLAY_CornflakesPackage2Description": {
-        "English": "A small package of Cornflakes."
+        "English": "A small package of Cornflakes.",
+	"Turkish": "Küçük bir paket mısır gevreği"
     },
 	"GAMEPLAY_RandomLargeCannedFood": {
         "English": "Random Large Canned Food",
