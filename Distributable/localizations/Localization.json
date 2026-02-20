@@ -47,7 +47,7 @@
         "Spanish (Spain)": "Una botella de cerveza corriente.",
         "Turkish": "Ortalama bir şişe bira.",
         "Italian": "Una bottiglia di birra ordinaria.",
-        "Ukrainian": "Просто пляшка пива."
+        "Ukrainian": "Звичайна пляшка пива."
     },
     "GAMEPLAY_Bread": {
         "English": "White Bread Bannock",
@@ -58,7 +58,7 @@
         "Spanish (Spain)": "Barra de pan",
         "Turkish": "Somun Ekmek",
         "Italian": "Focaccia Bianca",
-        "Ukrainian": "Білий хліб"
+        "Ukrainian": "Білий коржик"
     },
     "GAMEPLAY_BreadDescription": {
         "English": "A soft doughy flatbread.",
@@ -69,7 +69,7 @@
         "Spanish (Spain)": "Una barra de pan integral normal.",
         "Turkish": "Buğday unundan yapılmış somun ekmek",
         "Italian": "Una morbida focaccia bianca.",
-        "Ukrainian": "М'яка буханка білого хлібу"
+        "Ukrainian": "М'яка буханка білого коржику"
     },
     "GAMEPLAY_CannedChili": {
         "English": "Chili",
@@ -204,7 +204,7 @@
         "Spanish (Spain)": "Un plato copioso con ternera y verduras. Una comida ideal.",
         "Turkish": "Sığır eti ve sebze ile doyurucu bir yemek. İdeal bir yemek.",
         "Italian": "Un caloroso pasto con manzo e verdure. Un pasto ideale.",
-        "Ukrainian": "Поживна страва з м’ясом та овочами. Те, що треба."
+        "Ukrainian": "Поживна страва з м’ясом та овочами. Ідеальна їжа - те, що треба."
     },
     "GAMEPLAY_CatFood": {
         "English": "Cat Food",
@@ -218,7 +218,7 @@
         "Simplified Chinese": "猫食",
         "Japanese": "キャットフード",
         "Spanish (Spain)": "Comida para gato",
-        "Ukrainian": "Котячий корм"
+        "Ukrainian": "Корм для котів"
     },
     "GAMEPLAY_CatFoodDescription": {
         "English": "Can of dry cat food.\nSmells terrible and will probably taste worse.",
@@ -257,7 +257,7 @@
         "Simplified Chinese": "有点陈旧，但它们仍然很好吃。",
         "Japanese": "ちょっと傷んでるけど、味はまだ大丈夫。",
         "Spanish (Spain)": "Un poco pasadas, pero aún están buenas.",
-        "Ukrainian": "Трохи підсохло, але все ще смачне."
+        "Ukrainian": "Трохи підсохле, але все ще смачне."
     },
     "GAMEPLAY_Cornflakes": {
         "English": "Cornflakes",
@@ -293,7 +293,7 @@
         "Spanish (Spain)": "Taza de leche",
         "Turkish": "Bir Bardak Süt",
         "Italian": "Tazza di Latte",
-        "Ukrainian": "Чашка молока"
+        "Ukrainian": "Склянка молока"
     },
     "GAMEPLAY_CupMilkDescription": {
         "English": "Might taste better than water -- but it won't strengthen your bones.",
@@ -304,7 +304,7 @@
         "Spanish (Spain)": "Puede que sepa mejor que el agua, pero no fortalecerá tus huesos.",
         "Turkish": "Tadı sudan daha iyi olabilir ama kemiklerinizi güçlendirmez.",
         "Italian": "Può avere un gusto migliore dell'acqua -- ma non rafforzerà le tue ossa.",
-        "Ukrainian": "Смакує краще за воду, але міцнішим від нього не станеш."
+        "Ukrainian": "Смакує краще за воду, та кістки міцнішими не стануть."
     },
     "GAMEPLAY_DryMilkPacket": {
         "English": "Dry Milk Packet",
@@ -318,7 +318,7 @@
         "Simplified Chinese": "干奶包",
         "Japanese": "粉ミルクのパック",
         "Spanish (Spain)": "Paquete de leche en polvo",
-        "Ukrainian": "Пачка сухого молока"
+        "Ukrainian": "Пакетик сухого молока"
     },
     "GAMEPLAY_DryMilkPacketDescription": {
         "English": "A packet of dried milk powder. Mix it with water to make milk.",
@@ -332,7 +332,7 @@
         "Simplified Chinese": "一包奶粉。",
         "Japanese": "粉ミルクの小さなパック。水に溶かして使う。",
         "Spanish (Spain)": "Un paquete de leche en polvo. Mézclalo con agua para rehidratarla.",
-        "Ukrainian": "Пакетик сухого молочного порошку. Розведіть у воді, щоб отримати молоко."
+        "Ukrainian": "Пакетик сухого молока. Змішайте з водою і отримаєте молоко."
     },
     "GAMEPLAY_ForsakenSpirits": {
         "English": "Forsaken Spirits",
@@ -357,7 +357,7 @@
         "Spanish (Spain)": "La vida es mejor al límite ¡Bebida oficial de El Largo Desarrollo!",
         "Turkish": "Hayat sınırda daha iyidir. The Long Development'ın resmi içeceği!",
         "Italian": "La vita è meglio al limite. Bevanda ufficiale di The Long Development!",
-        "Ukrainian": "На грані — воно й жити веселіше. Спонсор «The Long Development»!"
+        "Ukrainian": "На межі — воно й жити веселіше. Спонсор «The Long Development»!"
     },
     "GAMEPLAY_HoneyJar": {
         "English": "Jar of Honey",
