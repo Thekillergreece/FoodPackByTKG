@@ -511,11 +511,13 @@
     },
     "GAMEPLAY_NanaimoBar": {
         "English": "Nanaimo Bar",
-        "Ukrainian": "Нанаймо-батончик"
+        "Ukrainian": "Нанаймо-батончик",
+        "Japanese": "ナナイモバー"
     },
     "GAMEPLAY_NanaimoBarDescription": {
         "English": "A large bar of Nanaimo bar. Very calorie dense.",
-        "Ukrainian": "Справжня калорійна бомба. Дуже ситне солодке тістечко."
+        "Ukrainian": "Справжня калорійна бомба. Дуже ситне солодке тістечко.",
+        "Japanese": "大きなナナイモバー。とても高カロリーだ。"
     },
     "GAMEPLAY_ModSyrup": {
         "English": "Maple Honey Syrup",
@@ -909,328 +911,380 @@
         "Russian": "Непропеченная пицца",
         "Turkish": "Pişirilmemiş Pizza",
         "Italian": "Pizza Non Cotta",
-        "Ukrainian": "Сира піца"
+        "Ukrainian": "Сира піца",
+        "Japanese": "未調理のピザ"
     },
     "GAMEPLAY_UnCookedSkilletPizzaDescription": {
         "English": "A failed food production, raw and uncooked.",
         "Russian": "Неудачное приготовление. Сырая и неготовая.",
         "Turkish": "Çiğ ve pişmemiş başarısız bir gıda üretimi.",
         "Italian": "Una produzione alimentare fallita, cruda e non cotta.",
-        "Ukrainian": "Харчовий брак. Сира маса, яку ще треба запекти."
+        "Ukrainian": "Харчовий брак. Сира маса, яку ще треба запекти.",
+        "Japanese": "失敗作だ、未調理。"
     },
     "GAMEPLAY_CookedSkilletPizza": {
         "English": "Skillet Pizza",
         "Russian": "Пицца на сковороде",
         "Turkish": "Tavada Pizza",
         "Italian": "Pizza in Padella",
-        "Ukrainian": "Піца на сковорідці"
+        "Ukrainian": "Піца на сковорідці",
+        "Japanese": "スキレットピザ"
     },
     "GAMEPLAY_CookedSkilletPizzaDescription": {
         "English": "A classic made from what's left -- a taste of the past.",
         "Russian": "Классика, созданная из того, что осталось, - вкус прошлого.",
         "Turkish": "Geriye kalanlardan yapılmış bir klasik - geçmişin tadı.",
         "Italian": "Un classico fatto da quello che rimane -- un gusto del passato.",
-        "Ukrainian": "Класика, зліплена з того, що було під рукою. Справжній смак минулого."
+        "Ukrainian": "Класика, зліплена з того, що було під рукою. Справжній смак минулого.",
+        "Japanese": "過ぎ去りしもの -- 思い出の味から作られた最高級品。"
     },
     "GAMEPLAY_UnCookedApplePie": {
         "English": "Uncooked Apple Pie",
         "Russian": "Непропеченный яблочный пирог",
         "Turkish": "Pişmemiş Elmalı Turta",
         "Italian": "Torta di Mele Non Cotta",
-        "Ukrainian": "Сирий яблучний пиріг"
+        "Ukrainian": "Сирий яблучний пиріг",
+        "Japanese": "未調理のアップルパイ"
     },
     "GAMEPLAY_UnCookedApplePieDescription": {
         "English": "A failed food production, raw and uncooked.",
         "Russian": "Неудачное приготовление. Сырой и неготовый.",
         "Turkish": "Çiğ ve pişmemiş başarısız bir gıda üretimi.",
         "Italian": "Una produzione alimentare fallita, cruda e non cotta.",
-        "Ukrainian": "Сире тісто з яблуками. Це ще не їжа, доки не запечеш."
+        "Ukrainian": "Сире тісто з яблуками. Це ще не їжа, доки не запечеш.",
+        "Japanese": "失敗作だ、未調理。"
     },
     "GAMEPLAY_CookedApplePie": {
         "English": "Apple Pie",
         "Russian": "Яблочный пирог",
         "Turkish": "Elmalı Turta",
         "Italian": "Torta di Mele",
-        "Ukrainian": "Яблучний пиріг"
+        "Ukrainian": "Яблучний пиріг",
+        "Japanese": "アップルパイ"
     },
     "GAMEPLAY_CookedApplePieDescription": {
         "English": "A mushy Pie oozing with apples. Sweet and warm.",
         "Russian": "Нежный пирог с яблоками. Сладкий и теплый.",
         "Turkish": "Elmalı, enfes bir turta. Tatlı ve sıcak.",
         "Italian": "Una torta molliccia, riempita di mele. Dolce e calda.",
-        "Ukrainian": "Пиріг, що тане в роті, з яблучним сиропом. Солодощі для душі."
+        "Ukrainian": "Пиріг, що тане в роті, з яблучним сиропом. Солодощі для душі.",
+        "Japanese": "リンゴが滲み出している柔らかなパイ。甘くて温かい。"
     },
     "GAMEPLAY_UnCookedPierogi": {
         "English": "Uncooked Pierogies",
         "Russian": "Неприготовленный вареники",
         "Turkish": "Pişmemiş Pierogies",
         "Italian": "Pierogi Non Cotti",
-        "Ukrainian": "Сирі вареники"
+        "Ukrainian": "Сирі вареники",
+        "Japanese": "未調理のピエロギ"
     },
     "GAMEPLAY_UnCookedPierogiDescription": {
         "English": "A failed food production, raw and uncooked.",
         "Russian": "Неудачное приготовление. Сырые и неготовые.",
         "Turkish": "Başarısız bir gıda üretimi, çiğ ve pişmemiş. Mantıya çok benzer.",
         "Italian": "Una produzione alimentare fallita, cruda e non cotta.",
-        "Ukrainian": "Напівфабрикат. Потребують негайної термічної обробки."
+        "Ukrainian": "Напівфабрикат. Потребують негайної термічної обробки.",
+        "Japanese": "失敗作だ、未調理。"
     },
     "GAMEPLAY_CookedPierogi": {
         "English": "Pierogies",
         "Russian": "Вареники",
         "Turkish": "Piergoies",
         "Italian": "Pierogi",
-        "Ukrainian": "Вареники"
+        "Ukrainian": "Вареники",
+        "Japanese": "ピエロギ"
     },
     "GAMEPLAY_CookedPierogiDescription": {
         "English": "Pockets filled with potato and cheese. Delicious.",
         "Russian": "Тесто, наполненное картофелем и сыром. Вкусно.",
         "Turkish": "Patates ve peynirle doldurulmuş hamur. Lezzetli aynı mantı gibi",
         "Italian": "Fagottini ripieni di patate e formaggio. Deliziosi.",
-        "Ukrainian": "Тісто з начинкою з картоплі та сиру. Смакота."
+        "Ukrainian": "Тісто з начинкою з картоплі та сиру. Смакота.",
+        "Japanese": "ポテトとチーズが詰まった小袋。美味だ。"
     },
     "GAMEPLAY_UnCookedToastedSandwich": {
         "English": "Uncooked Toasted Sandwich",
         "Russian": "Неготовый сэндвич",
         "Turkish": "Pişmemiş Tost Sandviç",
         "Italian": "Panino Tostato Non Cotto",
-        "Ukrainian": "Неготовий бутерброд"
+        "Ukrainian": "Неготовий бутерброд",
+        "Japanese": "未調理のトーストサンドイッチ"
     },
     "GAMEPLAY_UnCookedToastedSandwichDescription": {
         "English": "A failed food production, raw and uncooked.",
         "Russian": "Неудачное приготовление. Сырой и неготовый.",
         "Turkish": "Başarısız bir gıda üretimi, çiğ ve pişmemiş.",
         "Italian": "Una produzione alimentare fallita, cruda e non cotta.",
-        "Ukrainian": "Неготовий бутерброд. Сирий напівфабрикат, який ще треба підсмажити."
+        "Ukrainian": "Неготовий бутерброд. Сирий напівфабрикат, який ще треба підсмажити.",
+        "Japanese": "失敗作だ、未調理。"
     },
     "GAMEPLAY_CookedToastedSandwich": {
         "English": "Toasted Sandwich",
         "Russian": "Сэндвич с тостом",
         "Turkish": "Sandviç Tost",
         "Italian": "Panino Tostato",
-        "Ukrainian": "Гарячий бутерброд"
+        "Ukrainian": "Гарячий бутерброд",
+        "Japanese": "トーストサンドイッチ"
     },
     "GAMEPLAY_CookedToastedSandwichDescription": {
         "English": "A crispy outside and a gooey inside. Goes well with soup.",
         "Russian": "Хрустящий снаружи и тягучий внутри. Хорошо сочетается с супом.",
         "Turkish": "Dışı çıtır çıtır, içi yapış yapış. Çorba ile iyi gider.",
         "Italian": "Esterno croccante, interno appiccicoso. Si abbina bene con la zuppa.",
-        "Ukrainian": "Хрусткий зовні та тягучий усередині. Ідеально підходить до супу."
+        "Ukrainian": "Хрусткий зовні та тягучий усередині. Ідеально підходить до супу.",
+        "Japanese": "外はパリパリ、中はべたべた。スープによく合う。"
     },
     "GAMEPLAY_UnCookedPoutine": {
         "English": "Uncooked Poutine",
         "Russian": "Непропеченный пути́н",
         "Turkish": "Pişmemiş Poutine",
         "Italian": "Poutine Non Cotto",
-        "Ukrainian": "Неготовий пути́н"
+        "Ukrainian": "Неготовий пути́н",
+        "Japanese": "未調理のプーティン"
     },
     "GAMEPLAY_UnCookedPoutineDescription": {
         "English": "A failed food production, raw and uncooked.",
         "Russian": "Неудачное приготовление. Сырой и неготовый.",
         "Turkish": "Başarısız bir gıda üretimi, çiğ ve pişmemiş",
         "Italian": "Una produzione alimentare fallita, cruda e non cotta.",
-        "Ukrainian": "Сирий та неготовий до вживання."
+        "Ukrainian": "Сирий та неготовий до вживання.",
+        "Japanese": "失敗作だ、未調理。"
     },
     "GAMEPLAY_CookedPoutine": {
         "English": "Poutine",
         "Russian": "Пути́н",
         "Turkish": "Poutine",
         "Italian": "Poutine",
-        "Ukrainian": "Пути́н"
+        "Ukrainian": "Пути́н",
+        "Japanese": "プーティン"
     },
     "GAMEPLAY_CookedPoutineDescription": {
         "English": "Fry-cut potatoes buried beneath cheese and gravy. Heavy, messy, and just what you need.",
         "Russian": "Обжаренный картофель, посыпанный сыром и подливкой. Жирный, рассыпчатый и как раз то, что вам нужно",
         "Turkish": "Peynir ve sosun altına gömülmüş kızarmış patatesler.Dağınık ve tam da ihtiyacınız olan şey.",
         "Italian": "Patate fritte sepolte sotto formaggio e sugo. Pesante, disordinato, proprio quello che ti serve.",
-        "Ukrainian": "Скибочки смаженої картоплі, засипані сиром та залиті підливою. Виглядає як місиво, але це саме те, що треба.."
+        "Ukrainian": "Скибочки смаженої картоплі, засипані сиром та залиті підливою. Виглядає як місиво, але це саме те, що треба..",
+        "Japanese": "チーズとグレービーソースの下に揚げたカットポテトが埋まっている。濃厚で、乱雑で、そして君がまさに求めているものだ。"
     },
     "GAMEPLAY_CheesePackage": {
         "English": "String Cheese",
         "Russian": "Сыр-косичка",
         "Turkish": "Telli Peynir",
         "Italian": "Stringa di Formaggio",
-        "Ukrainian": "Сирна паличка"
+        "Ukrainian": "Сирна паличка",
+        "Japanese": "ストリングチーズ"
     },
     "GAMEPLAY_CheesePackageDescription": {
         "English": "Individually wrapped and satisfying to peel apart.",
         "Russian": "В индивидуальной упаковке. Разрезать их на части сплошное удовольствие.",
         "Turkish": "Ayrı ayrı sarılmış ve soyulması tatmin edici.",
         "Italian": "Avvolti singolarmente e soddisfacenti da staccare",
-        "Ukrainian": "В індивідуальній упаковці. Її так приємно розбирати на волокна."
+        "Ukrainian": "В індивідуальній упаковці. Її так приємно розбирати на волокна.",
+        "Japanese": "個別に包装されているので切り離しやすい。"
     },
     "GAMEPLAY_CocoaPackage": {
         "English": "Large Hot Cocoa Package",
         "Russian": "Большая упаковка какао",
         "Turkish": "Büyük Sıcak Kakao Paketi",
         "Italian": "Grande Pacco di Cioccolata Calda",
-        "Ukrainian": "Велика упаковка какао"
+        "Ukrainian": "Велика упаковка какао",
+        "Japanese": "ホットココアの大箱"
     },
     "GAMEPLAY_CocoaPackageDescription": {
         "English": "A large package of Hot Cocoa.",
         "Russian": "Большая упаковка горячего какао.",
         "Turkish": "Büyük bir paket sıcak kakao.",
         "Italian": "Un grande pacco di cioccolata calda",
-        "Ukrainian": "Велика пачка какао."
+        "Ukrainian": "Велика пачка какао.",
+        "Japanese": "ホットココアの大箱。"
     },
     "GAMEPLAY_CocoaPackage2": {
         "English": "Small Hot Cocoa Package",
         "Russian": "Маленькая упаковка какао",
         "Turkish": "Küçük Sıcak Kakao Paketi",
         "Italian": "Piccolo Pacco di Cioccolata Calda",
-        "Ukrainian": "Мала упаковка какао"
+        "Ukrainian": "Мала упаковка какао",
+        "Japanese": "ホットココアの箱"
     },
     "GAMEPLAY_CocoaPackage2Description": {
         "English": "A small package of Hot Cocoa.",
         "Russian": "Маленькая упаковка горячего какао.",
         "Turkish": "Küçük bir paket sıcak kakao.",
         "Italian": "Un piccolo pacco di cioccolata calda.",
-        "Ukrainian": "Пакетик какао. Порція гарячого напою."
+        "Ukrainian": "Пакетик какао. Порція гарячого напою.",
+        "Japanese": "ホットココアの箱。"
     },
     "GAMEPLAY_CerealHoneyPackage": {
         "English": "Large Cereal Honey Package",
         "Russian": "Большая упаковка хлопьев с медом",
         "Turkish": "Büyük ballı tahıl paketi",
         "Italian": "Grande Pacco di Cereali al Miele",
-        "Ukrainian": "Велика упаковка медових пластівців"
+        "Ukrainian": "Велика упаковка медових пластівців",
+        "Japanese": "ハチミツ入りシリアルの大箱"
     },
     "GAMEPLAY_CerealHoneyPackageDescription": {
         "English": "A large package of Cereal Honey.",
         "Russian": "Большая упаковка хлопьев с медом.",
         "Turkish": "Büyük bir paket ballı tahıl.",
         "Italian": "Un grande pacco di cereali al miele",
-        "Ukrainian": "Велика упаковка сухого сніданку з медом."
+        "Ukrainian": "Велика упаковка сухого сніданку з медом.",
+        "Japanese": "ハチミツ入りシリアルの大箱。"
     },
     "GAMEPLAY_CerealWholeGrainPackage": {
         "English": "Large Cereal Whole Grain",
         "Russian": "Большая упаковка хлопьев",
         "Turkish": "Büyük Paket Tahıl Gevreği",
         "Italian": "Grande Pacco di Cereali Integrali",
-        "Ukrainian": "Велика упаковка цільнозернових пластівців"
+        "Ukrainian": "Велика упаковка цільнозернових пластівців",
+        "Japanese": "全粒粉シリアルの大箱"
     },
     "GAMEPLAY_CerealWholeGrainPackageDescription": {
         "English": "A large package of Cereal Whole Grain.",
         "Russian": "Большая упаковка хлопьев из цельного зерна.",
         "Turkish": " Büyük bir paket tam tahıl gevreği.",
         "Italian": "Un grande pacco di cereali integrali",
-        "Ukrainian": "Велика упаковка цільнозернового сухого сніданку."
+        "Ukrainian": "Велика упаковка цільнозернового сухого сніданку.",
+        "Japanese": "全粒粉シリアルの大箱。"
     },
     "GAMEPLAY_CornflakesPackage": {
         "English": "Large Cornflakes Package",
         "Russian": "Большая упаковка кукурузных хлопьев",
         "Turkish": "Büyük Mısır Gevreği Paketi",
         "Italian": "Grande pacco di Cornflakes",
-        "Ukrainian": "Велика упаковка кукурудзяних пластівців"
+        "Ukrainian": "Велика упаковка кукурудзяних пластівців",
+        "Japanese": "コーンフレークの大箱"
     },
     "GAMEPLAY_CornflakesPackageDescription": {
         "English": "A large package of Cornflakes.",
         "Russian": "Большая упаковка кукурузных хлопьев.",
         "Turkish": "Büyük bir paket mısır gevreği.",
         "Italian": "Un grande pacco di Cornflakes",
-        "Ukrainian": "Велика упаковка класичних кукурудзяних пластівців."
+        "Ukrainian": "Велика упаковка класичних кукурудзяних пластівців.",
+        "Japanese": "コーンフレークの大箱。"
     },
     "GAMEPLAY_EmptyPackage": {
         "English": "Empty Package",
         "Russian": "Пустая упаковка",
         "Turkish": "Boş Paket",
         "Italian": "Pacco Vuoto",
-        "Ukrainian": "Порожня упаковка"
+        "Ukrainian": "Порожня упаковка",
+        "Japanese": "空き箱"
     },
     "GAMEPLAY_EmptyPackageDescription": {
         "English": "A small empty package. Can be used to package with other canned food or cereal boxes.",
         "Russian": "Небольшая пустая упаковка. Можно использовать для упаковки других консервов или хлопьев в коробки.",
         "Turkish": "Küçük boş bir paket. Diğer konserve veya tahıl kutuları ile paketlemek için kullanılabilir",
         "Italian": "Un piccolo pacco vuoto. Può essere usato per impacchettare cibo in scatola o scatole di cereali",
-        "Ukrainian": "Маленька порожня упаковка. Можна використати для пакування консервів або коробок із пластівцями."
+        "Ukrainian": "Маленька порожня упаковка. Можна використати для пакування консервів або коробок із пластівцями.",
+        "Japanese": "小さな空き箱。他の缶詰やシリアルの箱を箱詰めするのに使うことができる。"
     },
     "GAMEPLAY_CerealHoneyPackage2": {
         "English": "Small Cereal Honey Package",
         "Russian": "Маленькая упаковка медовых хлопьев",
         "Turkish": "Küçük Ballı Tahıl Paketi",
         "Italian": "Piccolo Pacco di Cereali al Miele",
-        "Ukrainian": "Мала упаковка медових пластівців"
+        "Ukrainian": "Мала упаковка медових пластівців",
+        "Japanese": "ハチミツ入りシリアルの箱"
     },
     "GAMEPLAY_CerealHoneyPackage2Description": {
         "English": "A small package of Cereal Honey.",
         "Russian": "Маленькая упаковка медовых хлопьев.",
         "Turkish": "Küçük bir paket ballı tahıl.",
         "Italian": "Un piccolo pacco di cereali al miele",
-        "Ukrainian": "Маленька упаковка сухого сніданку з медом."
+        "Ukrainian": "Маленька упаковка сухого сніданку з медом.",
+        "Japanese": "ハチミツ入りシリアルの箱。"
     },
     "GAMEPLAY_CerealWholeGrainPackage2": {
         "English": "Small Cereal Whole Grain",
         "Russian": "Маленькая упаковка хлопьев",
         "Turkish": "Küçük Paket Tahıl Gevreği",
         "Italian": "Piccolo Pacco di Cereali Integrali",
-        "Ukrainian": "Мала упаковка цільнозернових пластівців"
+        "Ukrainian": "Мала упаковка цільнозернових пластівців",
+        "Japanese": "全粒粉シリアルの箱"
     },
     "GAMEPLAY_CerealWholeGrainPackage2Description": {
         "English": "A small package of Cereal Whole Grain.",
         "Russian": "Маленькая упаковка хлопьев из цельного зерна.",
         "Turkish": "Küçük bir paket tam tahıllı gevrek",
         "Italian": "Un piccolo pacco di cereali integrali",
-        "Ukrainian": "Маленька упаковка цільнозернового сухого сніданку."
+        "Ukrainian": "Маленька упаковка цільнозернового сухого сніданку.",
+        "Japanese": "全粒粉シリアルの箱。"
     },
     "GAMEPLAY_CornflakesPackage2": {
         "English": "Small Cornflakes Package",
         "Russian": "Маленькая упаковка кукурузных хлопьев",
         "Turkish": "Küçük Mısır Gevreği Paketi",
         "Italian": "Piccolo Pacco di Cornflakes",
-        "Ukrainian": "Мала упаковка кукурудзяних пластівців"
+        "Ukrainian": "Мала упаковка кукурудзяних пластівців",
+        "Japanese": "コーンフレークの箱"
     },
     "GAMEPLAY_CornflakesPackage2Description": {
         "English": "A small package of Cornflakes.",
         "Russian": "Маленькая упаковка кукурузных хлопьев.",
         "Turkish": "Küçük bir paket mısır gevreği",
         "Italian": "Un piccolo pacco di Cornflakes",
-        "Ukrainian": "Маленька упаковка класичних кукурудзяних пластівців."
+        "Ukrainian": "Маленька упаковка класичних кукурудзяних пластівців.",
+        "Japanese": "コーンフレークの箱。"
     },
     "GAMEPLAY_CannedStewPackage": {
         "English": "Large Canned Stews Package",
-        "Ukrainian": "Велика упаковка печеня"
+        "Ukrainian": "Велика упаковка печеня",
+        "Japanese": "シチューの缶詰の大箱"
     },
     "GAMEPLAY_CannedStewPackageDescription": {
         "English": "A large package of Canned Stews.",
-        "Ukrainian": "Велика упаковка банок із печеням."
+        "Ukrainian": "Велика упаковка банок із печеням.",
+        "Japanese": "シチューの缶詰の大箱。"
     },
     "GAMEPLAY_CannedStewPackage2": {
         "English": "Small Canned Stews Package",
-        "Ukrainian": "Мала упаковка печеня"
+        "Ukrainian": "Мала упаковка печеня",
+        "Japanese": "シチューの缶詰の箱"
     },
     "GAMEPLAY_CannedStewPackage2Description": {
         "English": "A small package of Canned Stews.",
-        "Ukrainian": "Мала упаковка банок із печеням"
+        "Ukrainian": "Мала упаковка банок із печеням",
+        "Japanese": "シチューの缶詰の箱。"
     },
     "GAMEPLAY_CannedSpaghettiPackage": {
         "English": "Large Canned Spaghetti Package",
-        "Ukrainian": "Велика упаковка консервованих спагеті"
+        "Ukrainian": "Велика упаковка консервованих спагеті",
+        "Japanese": "スパゲッティの缶詰の大箱"
     },
     "GAMEPLAY_CannedSpaghettiPackageDescription": {
         "English": "A large package of Canned Spaghetti.",
-        "Ukrainian": "Велика упаковка банок із консервованими спагеті."
+        "Ukrainian": "Велика упаковка банок із консервованими спагеті.",
+        "Japanese": "スパゲッティの缶詰の大箱。"
     },
     "GAMEPLAY_CannedSpaghettiPackage2": {
         "English": "Small Canned Spaghetti Package",
-        "Ukrainian": "Мала упаковка консервованих спагеті"
+        "Ukrainian": "Мала упаковка консервованих спагеті",
+        "Japanese": "スパゲッティの缶詰の箱"
     },
     "GAMEPLAY_CannedSpaghettiPackage2Description": {
         "English": "A small package of Canned Spaghetti.",
-        "Ukrainian": "Маленька упаковка банок із консервованими спагеті."
+        "Ukrainian": "Маленька упаковка банок із консервованими спагеті.",
+        "Japanese": "スパゲッティの缶詰の箱。"
     },
     "GAMEPLAY_CannedChiliPackage": {
         "English": "Large Canned Chili Package",
-        "Ukrainian": "Велика упаковка консервованого чилі"
+        "Ukrainian": "Велика упаковка консервованого чилі",
+        "Japanese": "チリ缶の大箱"
     },
     "GAMEPLAY_CannedChiliPackageDescription": {
         "English": "A large package of Canned Chili.",
-        "Ukrainian": "Велика упаковка банок із консервованим чилі."
+        "Ukrainian": "Велика упаковка банок із консервованим чилі.",
+        "Japanese": "チリ缶の大箱。"
     },
     "GAMEPLAY_CannedChiliPackage2": {
         "English": "Small Canned Chili Package",
-        "Ukrainian": "Мала упаковка консервованого чилі"
+        "Ukrainian": "Мала упаковка консервованого чилі",
+        "Japanese": "チリ缶の小箱"
     },
     "GAMEPLAY_CannedChiliPackage2Description": {
         "English": "A small package of Canned Chili.",
-        "Ukrainian": "Маленька упаковка банок із консервованим чилі."
+        "Ukrainian": "Маленька упаковка банок із консервованим чилі.",
+        "Japanese": "チリ缶の小箱。"
     },
     "GAMEPLAY_RandomLargeCannedFood": {
         "English": "Random Large Canned Food",
