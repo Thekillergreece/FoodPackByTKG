@@ -534,7 +534,7 @@
         "German": "Nicht der normale Sirup. Angereichert mit Honiggeschmack!\nAhorn-Honig-Sirup wird nie verderben!",
         "Russian": "Не просто сироп, а сироп с медом. \nКленовый сироп никогда не портится!",
         "Japanese": "普通のメープルシロップとは違います。ハチミツの風味が効いています！ \nメープルシロップは決して腐りません！",
-		"Traditional Chinese": "這不是普通的楓糖漿，而是融入了蜂蜜風味！\n楓糖漿永遠不會變質！"",
+		"Traditional Chinese": "這不是普通的楓糖漿，而是融入了蜂蜜風味！\n楓糖漿永遠不會變質！",
         "Spanish (Spain)": "No es tu sirope corriente. Enriquecido con miel \n¡Nunca caducará!",
         "Turkish": "Normal şurup değil. Bal aromalı!\nAkçaağaç şurubu asla bozulmaz!",
         "Italian": "Non è un sciroppo regolare. Infuso con sapori di miele!\nSciroppo d'acero non andrà mai male!"
@@ -908,329 +908,329 @@
         "English": "Uncooked Pizza",
 		"Russian": "Непропеченная пицца",
 		"Turkish": "Pişirilmemiş Pizza",
-		"Italian": "Pizza Non Cotta"
-		"Traditional Chinese": "薄餅披薩（生）",
+		"Italian": "Pizza Non Cotta",
+		"Traditional Chinese": "薄餅披薩（生）"
     },
     "GAMEPLAY_UnCookedSkilletPizzaDescription": {
         "English": "A failed food production, raw and uncooked.",
 		"Russian": "Неудачное приготовление. Сырая и неготовая.",
 		"Turkish": "Çiğ ve pişmemiş başarısız bir gıda üretimi.",
-		"Italian": "Una produzione alimentare fallita, cruda e non cotta."
-		"Traditional Chinese": "仍是生的，尚未烹調完成。",
+		"Italian": "Una produzione alimentare fallita, cruda e non cotta.",
+		"Traditional Chinese": "仍是生的，尚未烹調完成。"
     },
     "GAMEPLAY_CookedSkilletPizza": {
         "English": "Skillet Pizza",
 		"Russian": "Пицца на сковороде",
 		"Turkish": "Tavada Pizza",
-		"Italian": "Pizza in Padella"
-		"Traditional Chinese": "薄餅披薩",
+		"Italian": "Pizza in Padella",
+		"Traditional Chinese": "薄餅披薩"
     },
     "GAMEPLAY_CookedSkilletPizzaDescription": {
         "English": "A classic made from what's left -- a taste of the past.",
 		"Russian": "Классика, созданная из того, что осталось, - вкус прошлого.",
 		"Turkish": "Geriye kalanlardan yapılmış bir klasik - geçmişin tadı.",
-		"Italian": "Un classico fatto da quello che rimane -- un gusto del passato."
-		"Traditional Chinese": "用剩餘食材煎製的經典料理。真是令人懷念的味道。",
+		"Italian": "Un classico fatto da quello che rimane -- un gusto del passato.",
+		"Traditional Chinese": "用剩餘食材煎製的經典料理。真是令人懷念的味道。"
     },
     "GAMEPLAY_UnCookedApplePie": {
         "English": "Uncooked Apple Pie",
 		"Russian": "Непропеченный яблочный пирог",
 		"Turkish": "Pişmemiş Elmalı Turta",
-		"Italian": "Torta di Mele Non Cotta"
-		"Traditional Chinese": "蘋果派（生）",
+		"Italian": "Torta di Mele Non Cotta",
+		"Traditional Chinese": "蘋果派（生）"
     },
     "GAMEPLAY_UnCookedApplePieDescription": {
         "English": "A failed food production, raw and uncooked.",
 		"Russian": "Неудачное приготовление. Сырой и неготовый.",
 		"Turkish": "Çiğ ve pişmemiş başarısız bir gıda üretimi.",
-		"Italian": "Una produzione alimentare fallita, cruda e non cotta."
-		"Traditional Chinese": "仍是生的，尚未烹調完成。",
+		"Italian": "Una produzione alimentare fallita, cruda e non cotta.",
+		"Traditional Chinese": "仍是生的，尚未烹調完成。"
     },
     "GAMEPLAY_CookedApplePie": {
         "English": "Apple Pie",
 		"Russian": "Яблочный пирог",
 		"Turkish": "Elmalı Turta",
-		"Italian": "Torta di Mele"
-		"Traditional Chinese": "蘋果派",
+		"Italian": "Torta di Mele",
+		"Traditional Chinese": "蘋果派"
     },
     "GAMEPLAY_CookedApplePieDescription": {
         "English": "A mushy Pie oozing with apples. Sweet and warm.",
 		"Russian": "Нежный пирог с яблоками. Сладкий и теплый.",
 		"Turkish": "Elmalı, enfes bir turta. Tatlı ve sıcak.",
-		"Italian": "Una torta molliccia, riempita di mele. Dolce e calda."
-		"Traditional Chinese": "填滿蘋果內餡、口感軟綿的派餅。香甜又溫暖。",
+		"Italian": "Una torta molliccia, riempita di mele. Dolce e calda.",
+		"Traditional Chinese": "填滿蘋果內餡、口感軟綿的派餅。香甜又溫暖。"
     },
     "GAMEPLAY_UnCookedPierogi": {
         "English": "Uncooked Pierogies",
 		"Russian": "Неприготовленный вареники",
 		"Turkish": "Pişmemiş Pierogies",
-		"Italian": "Pierogi Non Cotti"
-		"Traditional Chinese": "波蘭餃子（生）",
+		"Italian": "Pierogi Non Cotti",
+		"Traditional Chinese": "波蘭餃子（生）"
     },
     "GAMEPLAY_UnCookedPierogiDescription": {
         "English": "A failed food production, raw and uncooked.",
 		"Russian": "Неудачное приготовление. Сырые и неготовые.",
 		"Turkish": "Başarısız bir gıda üretimi, çiğ ve pişmemiş. Mantıya çok benzer.",
-		"Italian": "Una produzione alimentare fallita, cruda e non cotta."
-		"Traditional Chinese": "仍是生的，尚未烹調完成。",
+		"Italian": "Una produzione alimentare fallita, cruda e non cotta.",
+		"Traditional Chinese": "仍是生的，尚未烹調完成。"
     },
     "GAMEPLAY_CookedPierogi": {
         "English": "Pierogies",
 		"Russian": "Вареники",
 		"Turkish": "Piergoies",
-		"Italian": "Pierogi"
-		"Traditional Chinese": "波蘭餃子",
+		"Italian": "Pierogi",
+		"Traditional Chinese": "波蘭餃子"
     },
     "GAMEPLAY_CookedPierogiDescription": {
         "English": "Pockets filled with potato and cheese. Delicious.",
 		"Russian": "Тесто, наполненное картофелем и сыром. Вкусно.",
 		"Turkish": "Patates ve peynirle doldurulmuş hamur. Lezzetli aynı mantı gibi",
-		"Italian": "Fagottini ripieni di patate e formaggio. Deliziosi."
-		"Traditional Chinese": "包著馬鈴薯和起司內餡的麵點，非常美味。",
+		"Italian": "Fagottini ripieni di patate e formaggio. Deliziosi.",
+		"Traditional Chinese": "包著馬鈴薯和起司內餡的麵點，非常美味。"
     },
     "GAMEPLAY_UnCookedToastedSandwich": {
         "English": "Uncooked Toasted Sandwich",
 		"Russian": "Неготовый сэндвич",
 		"Turkish": "Pişmemiş Tost Sandviç",
-		"Italian": "Panino Tostato Non Cotto"
-		"Traditional Chinese": "烤三明治（生）",
+		"Italian": "Panino Tostato Non Cotto",
+		"Traditional Chinese": "烤三明治（生）"
     },
     "GAMEPLAY_UnCookedToastedSandwichDescription": {
         "English": "A failed food production, raw and uncooked.",
 		"Russian": "Неудачное приготовление. Сырой и неготовый.",
 		"Turkish": "Başarısız bir gıda üretimi, çiğ ve pişmemiş.",
-		"Italian": "Una produzione alimentare fallita, cruda e non cotta."
-		"Traditional Chinese": "仍是生的，尚未烹調完成。",
+		"Italian": "Una produzione alimentare fallita, cruda e non cotta.",
+		"Traditional Chinese": "仍是生的，尚未烹調完成。"
     },
     "GAMEPLAY_CookedToastedSandwich": {
         "English": "Toasted Sandwich",
 		"Russian": "Сэндвич с тостом",
 		"Turkish": "Sandviç Tost",
-		"Italian": "Panino Tostato"
-		"Traditional Chinese": "烤三明治",
+		"Italian": "Panino Tostato",
+		"Traditional Chinese": "烤三明治"
     },
     "GAMEPLAY_CookedToastedSandwichDescription": {
         "English": "A crispy outside and a gooey inside. Goes well with soup.",
 		"Russian": "Хрустящий снаружи и тягучий внутри. Хорошо сочетается с супом.",
 		"Turkish": "Dışı çıtır çıtır, içi yapış yapış. Çorba ile iyi gider.",
-		"Italian": "Esterno croccante, interno appiccicoso. Si abbina bene con la zuppa."
-		"Traditional Chinese": "外皮酥脆，內餡軟綿。非常適合搭配一碗溫暖人心的湯品一起享用。",
+		"Italian": "Esterno croccante, interno appiccicoso. Si abbina bene con la zuppa.",
+		"Traditional Chinese": "外皮酥脆，內餡軟綿。非常適合搭配一碗溫暖人心的湯品一起享用。"
     },
     "GAMEPLAY_UnCookedPoutine": {
         "English": "Uncooked Poutine",
 		"Russian": "Непропеченный пути́н",
 		"Turkish": "Pişmemiş Poutine",
-		"Italian": "Poutine Non Cotto"
-		"Traditional Chinese": "肉醬起司薯條（生）",
+		"Italian": "Poutine Non Cotto",
+		"Traditional Chinese": "肉醬起司薯條（生）"
     },
     "GAMEPLAY_UnCookedPoutineDescription": {
         "English": "A failed food production, raw and uncooked.",
 		"Russian": "Неудачное приготовление. Сырой и неготовый.",
 		"Turkish": "Başarısız bir gıda üretimi, çiğ ve pişmemiş",
-		"Italian": "Una produzione alimentare fallita, cruda e non cotta."
-		"Traditional Chinese": "仍是生的，尚未烹調完成。",
+		"Italian": "Una produzione alimentare fallita, cruda e non cotta.",
+		"Traditional Chinese": "仍是生的，尚未烹調完成。"
     },
     "GAMEPLAY_CookedPoutine": {
         "English": "Poutine",
 		"Russian": "Пути́н",
 		"Turkish": "Poutine",
-		"Italian": "Poutine"
-		"Traditional Chinese": "肉醬起司薯條",
+		"Italian": "Poutine",
+		"Traditional Chinese": "肉醬起司薯條"
     },
     "GAMEPLAY_CookedPoutineDescription": {
         "English": "Fry-cut potatoes buried beneath cheese and gravy. Heavy, messy, and just what you need.",
 		"Russian": "Обжаренный картофель, посыпанный сыром и подливкой. Жирный, рассыпчатый и как раз то, что вам нужно",
 		"Turkish": "Peynir ve sosun altına gömülmüş kızarmış patatesler.Dağınık ve tam da ihtiyacınız olan şey.",
-		"Italian": "Patate fritte sepolte sotto formaggio e sugo. Pesante, disordinato, proprio quello che ti serve."
-		"Traditional Chinese": "埋在起司和肉汁下的切片薯條。分量十足、賣相雜亂，但正是你需要的。",
+		"Italian": "Patate fritte sepolte sotto formaggio e sugo. Pesante, disordinato, proprio quello che ti serve.",
+		"Traditional Chinese": "埋在起司和肉汁下的切片薯條。分量十足、賣相雜亂，但正是你需要的。"
     },
     "GAMEPLAY_CheesePackage": {
         "English": "String Cheese",
 		"Russian": "Сыр-косичка",
 		"Turkish": "Telli Peynir",
-		"Italian": "Stringa di Formaggio"
-		"Traditional Chinese": "起司條",
+		"Italian": "Stringa di Formaggio",
+		"Traditional Chinese": "起司條"
     },
     "GAMEPLAY_CheesePackageDescription": {
         "English": "Individually wrapped and satisfying to peel apart.",
 		"Russian": "В индивидуальной упаковке. Разрезать их на части сплошное удовольствие.",
 		"Turkish": "Ayrı ayrı sarılmış ve soyulması tatmin edici.",
-		"Italian": "Avvolti singolarmente e soddisfacenti da staccare"
-		"Traditional Chinese": "獨立包裝的起司條。撕開包裝的感覺非常療癒。",
+		"Italian": "Avvolti singolarmente e soddisfacenti da staccare",
+		"Traditional Chinese": "獨立包裝的起司條。撕開包裝的感覺非常療癒。"
     },
     "GAMEPLAY_CocoaPackage": {
         "English": "Large Hot Cocoa Package",
 		"Russian": "Большая упаковка какао",
 		"Turkish": "Büyük Sıcak Kakao Paketi",
-		"Italian": "Grande Pacco di Cioccolata Calda"
-		"Traditional Chinese": "熱可可包（大箱）",
+		"Italian": "Grande Pacco di Cioccolata Calda",
+		"Traditional Chinese": "熱可可包（大箱）"
     },
     "GAMEPLAY_CocoaPackageDescription": {
         "English": "A large package of Hot Cocoa.",
 		"Russian": "Большая упаковка горячего какао.",
 		"Turkish": "Büyük bir paket sıcak kakao.",
-		"Italian": "Un grande pacco di cioccolata calda"
-		"Traditional Chinese": "一大箱的熱可可包。",
+		"Italian": "Un grande pacco di cioccolata calda",
+		"Traditional Chinese": "一大箱的熱可可包。"
     },
 	"GAMEPLAY_CocoaPackage2": {
    		"English": "Small Hot Cocoa Package",
 		"Russian": "Маленькая упаковка какао",
 		"Turkish": "Küçük Sıcak Kakao Paketi",
-		"Italian": "Piccolo Pacco di Cioccolata Calda"
-		"Traditional Chinese": "熱可可包（小箱）",
+		"Italian": "Piccolo Pacco di Cioccolata Calda",
+		"Traditional Chinese": "熱可可包（小箱）"
     },
     "GAMEPLAY_CocoaPackage2Description": {
     	"English": "A small package of Hot Cocoa.",
 		"Russian": "Маленькая упаковка горячего какао.",
 		"Turkish": "Küçük bir paket sıcak kakao.",
-		"Italian": "Un piccolo pacco di cioccolata calda."
-		"Traditional Chinese": "一小箱的熱可可包。",
+		"Italian": "Un piccolo pacco di cioccolata calda.",
+		"Traditional Chinese": "一小箱的熱可可包。"
     },
 	"GAMEPLAY_CerealHoneyPackage": {
     	"English": "Large Cereal Honey Package",
     	"Russian": "Большая упаковка хлопьев с медом",
 		"Turkish": "Büyük ballı tahıl paketi",
-		"Italian": "Grande Pacco di Cereali al Miele"
-		"Traditional Chinese": "POP's 蜂蜜脆片（大箱）",
+		"Italian": "Grande Pacco di Cereali al Miele",
+		"Traditional Chinese": "POP's 蜂蜜脆片（大箱）"
     },
     "GAMEPLAY_CerealHoneyPackageDescription": {
     	"English": "A large package of Cereal Honey.",
 		"Russian": "Большая упаковка хлопьев с медом.",
 		"Turkish": "Büyük bir paket ballı tahıl.",
-		"Italian": "Un grande pacco di cereali al miele"
-		"Traditional Chinese": "一大箱的POP's 蜂蜜脆片。",
+		"Italian": "Un grande pacco di cereali al miele",
+		"Traditional Chinese": "一大箱的POP's 蜂蜜脆片。"
     },
 	"GAMEPLAY_CerealWholeGrainPackage": {
     	"English": "Large Cereal Whole Grain",
     	"Russian": "Большая упаковка хлопьев",
 		"Turkish": "Büyük Paket Tahıl Gevreği",
-		"Italian": "Grande Pacco di Cereali Integrali"
-		"Traditional Chinese": "全麥喀滋脆片（大箱）",
+		"Italian": "Grande Pacco di Cereali Integrali",
+		"Traditional Chinese": "全麥喀滋脆片（大箱）"
     },
     "GAMEPLAY_CerealWholeGrainPackageDescription": {
     	"English": "A large package of Cereal Whole Grain.",
 		"Russian": "Большая упаковка хлопьев из цельного зерна.",
 		"Turkish": " Büyük bir paket tam tahıl gevreği.",
-		"Italian": "Un grande pacco di cereali integrali"
-		"Traditional Chinese": "一大箱的全麥喀滋脆片。",
+		"Italian": "Un grande pacco di cereali integrali",
+		"Traditional Chinese": "一大箱的全麥喀滋脆片。"
     },
 	"GAMEPLAY_CornflakesPackage": {
     	"English": "Large Cornflakes Package",
 		"Russian": "Большая упаковка кукурузных хлопьев",
 		"Turkish": "Büyük Mısır Gevreği Paketi",
-		"Italian": "Grande pacco di Cornflakes"
-		"Traditional Chinese": "KAI's 玉米脆片（大箱）",
+		"Italian": "Grande pacco di Cornflakes",
+		"Traditional Chinese": "KAI's 玉米脆片（大箱）"
     },
     "GAMEPLAY_CornflakesPackageDescription": {
     	"English": "A large package of Cornflakes.",
 		"Russian": "Большая упаковка кукурузных хлопьев.",
 		"Turkish": "Büyük bir paket mısır gevreği.",
-		"Italian": "Un grande pacco di Cornflakes"
-		"Traditional Chinese": "一大箱的KAI's 玉米脆片。",
+		"Italian": "Un grande pacco di Cornflakes",
+		"Traditional Chinese": "一大箱的KAI's 玉米脆片。"
     },
 	"GAMEPLAY_EmptyPackage": {
     	"English": "Empty Package",
 		"Russian": "Пустая упаковка",
 		"Turkish": "Boş Paket",
-		"Italian": "Pacco Vuoto"
-		"Traditional Chinese": "空箱子",
+		"Italian": "Pacco Vuoto",
+		"Traditional Chinese": "空箱子"
     },
     "GAMEPLAY_EmptyPackageDescription": {
     	"English": "A small empty package. Can be used to package with other canned food or cereal boxes.",
 		"Russian": "Небольшая пустая упаковка. Можно использовать для упаковки других консервов или хлопьев в коробки.",
 		"Turkish": "Küçük boş bir paket. Diğer konserve veya tahıl kutuları ile paketlemek için kullanılabilir",
-		"Italian": "Un piccolo pacco vuoto. Può essere usato per impacchettare cibo in scatola o scatole di cereali"
-		"Traditional Chinese": "一個小型空箱子。可用於將其他罐裝食物或穀物盒重新打包收納。",
+		"Italian": "Un piccolo pacco vuoto. Può essere usato per impacchettare cibo in scatola o scatole di cereali",
+		"Traditional Chinese": "一個小型空箱子。可用於將其他罐裝食物或穀物盒重新打包收納。"
     },
 	"GAMEPLAY_CerealHoneyPackage2": {
     	"English": "Small Cereal Honey Package",
 		"Russian": "Маленькая упаковка медовых хлопьев",
 		"Turkish": "Küçük Ballı Tahıl Paketi",
-		"Italian": "Piccolo Pacco di Cereali al Miele"
-		"Traditional Chinese": "POP's 蜂蜜脆片（小箱）",
+		"Italian": "Piccolo Pacco di Cereali al Miele",
+		"Traditional Chinese": "POP's 蜂蜜脆片（小箱）"
     },
     "GAMEPLAY_CerealHoneyPackage2Description": {
     	"English": "A small package of Cereal Honey.",
 		"Russian": "Маленькая упаковка медовых хлопьев.",
 		"Turkish": "Küçük bir paket ballı tahıl.",
-		"Italian": "Un piccolo pacco di cereali al miele"
-		"Traditional Chinese": "一小箱的POP's 蜂蜜脆片。",
+		"Italian": "Un piccolo pacco di cereali al miele",
+		"Traditional Chinese": "一小箱的POP's 蜂蜜脆片。"
     },
 	"GAMEPLAY_CerealWholeGrainPackage2": {
     	"English": "Small Cereal Whole Grain",
 		"Russian": "Маленькая упаковка хлопьев",
 		"Turkish": "Küçük Paket Tahıl Gevreği",
-		"Italian": "Piccolo Pacco di Cereali Integrali"
-		"Traditional Chinese": "全麥喀滋脆片（小箱）",
+		"Italian": "Piccolo Pacco di Cereali Integrali",
+		"Traditional Chinese": "全麥喀滋脆片（小箱）"
     },
     "GAMEPLAY_CerealWholeGrainPackage2Description": {
     	"English": "A small package of Cereal Whole Grain.",
 		"Russian": "Маленькая упаковка хлопьев из цельного зерна.",
 		"Turkish": "Küçük bir paket tam tahıllı gevrek",
-		"Italian": "Un piccolo pacco di cereali integrali"
-		"Traditional Chinese": "一小箱的全麥喀滋脆片。",
+		"Italian": "Un piccolo pacco di cereali integrali",
+		"Traditional Chinese": "一小箱的全麥喀滋脆片。"
     },
 	"GAMEPLAY_CornflakesPackage2": {
     	"English": "Small Cornflakes Package",
 		"Russian": "Маленькая упаковка кукурузных хлопьев",
 		"Turkish": "Küçük Mısır Gevreği Paketi",
-		"Italian": "Piccolo Pacco di Cornflakes"
-		"Traditional Chinese": "KAI's 玉米脆片（小箱）",
+		"Italian": "Piccolo Pacco di Cornflakes",
+		"Traditional Chinese": "KAI's 玉米脆片（小箱）"
     },
     "GAMEPLAY_CornflakesPackage2Description": {
     	"English": "A small package of Cornflakes.",
 		"Russian": "Маленькая упаковка кукурузных хлопьев.",
 		"Turkish": "Küçük bir paket mısır gevreği",
-		"Italian": "Un piccolo pacco di Cornflakes"
-		"Traditional Chinese": "一小箱的KAI's 玉米脆片。",
+		"Italian": "Un piccolo pacco di Cornflakes",
+		"Traditional Chinese": "一小箱的KAI's 玉米脆片。"
     },
 	"GAMEPLAY_CannedStewPackage": {
-    	"English": "Large Canned Stews Package"
-		"Traditional Chinese": "燉牛肉罐頭（大箱）",
+    	"English": "Large Canned Stews Package",
+		"Traditional Chinese": "燉牛肉罐頭（大箱）"
     },
     "GAMEPLAY_CannedStewPackageDescription": {
-    	"English": "A large package of Canned Stews."
-		"Traditional Chinese": "一大箱的燉牛肉罐頭。",
+    	"English": "A large package of Canned Stews.",
+		"Traditional Chinese": "一大箱的燉牛肉罐頭。"
     },
 	"GAMEPLAY_CannedStewPackage2": {
-    	"English": "Small Canned Stews Package"
-		"Traditional Chinese": "燉牛肉罐頭（小箱）",
+    	"English": "Small Canned Stews Package",
+		"Traditional Chinese": "燉牛肉罐頭（小箱）"
     },
     "GAMEPLAY_CannedStewPackage2Description": {
-    	"English": "A small package of Canned Stews."
-		"Traditional Chinese": "一小箱的燉牛肉罐頭。",
+    	"English": "A small package of Canned Stews.",
+		"Traditional Chinese": "一小箱的燉牛肉罐頭。"
     },
 	"GAMEPLAY_CannedSpaghettiPackage": {
-    	"English": "Large Canned Spaghetti Package"
-		"Traditional Chinese": "義大利麵罐頭（大箱）",
+    	"English": "Large Canned Spaghetti Package",
+		"Traditional Chinese": "義大利麵罐頭（大箱）"
     },
     "GAMEPLAY_CannedSpaghettiPackageDescription": {
-    	"English": "A large package of Canned Spaghetti."
-		"Traditional Chinese": "一大箱的義大利麵罐頭。",
+    	"English": "A large package of Canned Spaghetti.",
+		"Traditional Chinese": "一大箱的義大利麵罐頭。"
     },
 	"GAMEPLAY_CannedSpaghettiPackage2": {
-    	"English": "Small Canned Spaghetti Package"
-		"Traditional Chinese": "義大利麵罐頭（小箱）",
+    	"English": "Small Canned Spaghetti Package",
+		"Traditional Chinese": "義大利麵罐頭（小箱）"
     },
     "GAMEPLAY_CannedSpaghettiPackage2Description": {
-    	"English": "A small package of Canned Spaghetti."
-		"Traditional Chinese": "一小箱的義大利麵罐頭。",
+    	"English": "A small package of Canned Spaghetti.",
+		"Traditional Chinese": "一小箱的義大利麵罐頭。"
     },
 	"GAMEPLAY_CannedChiliPackage": {
-    	"English": "Large Canned Chili Package"
-		"Traditional Chinese": "辣肉醬罐頭（大箱）",
+    	"English": "Large Canned Chili Package",
+		"Traditional Chinese": "辣肉醬罐頭（大箱）"
     },
     "GAMEPLAY_CannedChiliPackageDescription": {
-    	"English": "A large package of Canned Chili."
-		"Traditional Chinese": "一大箱的辣肉醬罐頭。",
+    	"English": "A large package of Canned Chili.",
+		"Traditional Chinese": "一大箱的辣肉醬罐頭。"
     },
 	"GAMEPLAY_CannedChiliPackage2": {
-    	"English": "Small Canned Chili Package"
-		"Traditional Chinese": "辣肉醬罐頭（小箱）",
+    	"English": "Small Canned Chili Package",
+		"Traditional Chinese": "辣肉醬罐頭（小箱）"
     },
     "GAMEPLAY_CannedChiliPackage2Description": {
-    	"English": "A small package of Canned Chili."
-		"Traditional Chinese": "一小箱的辣肉醬罐頭。",
+    	"English": "A small package of Canned Chili.",
+		"Traditional Chinese": "一小箱的辣肉醬罐頭。"
     },
 	"GAMEPLAY_RandomLargeCannedFood": {
         "English": "Random Large Canned Food",
@@ -1241,8 +1241,8 @@
         "Korean": "무작위 대용량 통조림",
         "Italian": "Grossa Confezione di Cibo in Scatola Casuale",
         "Simplified Chinese": "随机大罐头",
-        "Japanese": "ランダム配置される缶詰（大）"
-		"Traditional Chinese": "隨機大型罐頭食物",
+        "Japanese": "ランダム配置される缶詰（大）",
+		"Traditional Chinese": "隨機大型罐頭食物"
     },
     "GAMEPLAY_RandomLargeCannedFoodDescription": {
         "English": "A spawn point for large canned food items.",
@@ -1253,8 +1253,8 @@
         "Korean": "무작위 큰 통조림 아이템의 스폰 지점입니다.",
         "Italian": "Punto di generazione perconfezioni di cibo in scatola di grandi dimensioni.",
         "Simplified Chinese": "大型罐头食品的刷新点。",
-        "Japanese": "缶詰（大）の配置されるポイント。"
-		"Traditional Chinese": "大型罐頭食物的生成點。",
+        "Japanese": "缶詰（大）の配置されるポイント。",
+		"Traditional Chinese": "大型罐頭食物的生成點。"
     },
     "GAMEPLAY_RandomMediumCannedFood": {
         "English": "Random Medium Canned Food",
@@ -1265,8 +1265,8 @@
         "Korean": "무작위 중간 통조림",
         "Italian": "Confezione di Cibo in Scatola Casuale di Medie Dimensioni",
         "Simplified Chinese": "随机中等罐头食品",
-        "Japanese": "ランダム配置される缶詰（中）"
-		"Traditional Chinese": "隨機中型罐頭食物",
+        "Japanese": "ランダム配置される缶詰（中）",
+		"Traditional Chinese": "隨機中型罐頭食物"
     },
     "GAMEPLAY_RandomMediumCannedFoodDescription": {
         "English": "A spawn point for medium canned food items.",
@@ -1277,8 +1277,8 @@
         "Korean": "무작위 중간 통조림 아이템의 스폰 지점입니다.",
         "Italian": "Punto di generazione per confezioni di cibo in scatola di medie dimensioni.",
         "Simplified Chinese": "中等罐头食品的刷新点。",
-        "Japanese": "缶詰（中）の配置されるポイント"
-		"Traditional Chinese": "中型罐頭食物的生成點。",
+        "Japanese": "缶詰（中）の配置されるポイント",
+		"Traditional Chinese": "中型罐頭食物的生成點。"
     },
     "GAMEPLAY_RandomSodaTall": {
         "English": "Random Tall Soda Can",
@@ -1289,8 +1289,8 @@
         "Korean": "무작위 큰 소다 캔.",
         "Italian": "Bevanda in Lattina Alta Casuale",
         "Simplified Chinese": "随机高苏打罐",
-        "Japanese": "ランダム配置される缶飲料"
-		"Traditional Chinese": "隨機高罐裝汽水",
+        "Japanese": "ランダム配置される缶飲料",
+		"Traditional Chinese": "隨機高罐裝汽水"
     },
     "GAMEPLAY_RandomSodaTallDescription": {
         "English": "A spawn point for tall soda cans.",
@@ -1301,8 +1301,8 @@
         "Korean": "무작위 큰 소다 캔 아이템의 스폰 지점입니다.",
         "Italian": "Punto di generazione per bevende in lattina alte.",
         "Simplified Chinese": "高汽水罐的刷新点。",
-        "Japanese": "缶飲料の配置されるポイント。"
-		"Traditional Chinese": "高罐裝汽水的生成點。",
+        "Japanese": "缶飲料の配置されるポイント。",
+		"Traditional Chinese": "高罐裝汽水的生成點。"
     },
     "GAMEPLAY_RandomSmallPacket": {
         "English": "Random Small Packet",
@@ -1313,8 +1313,8 @@
         "Korean": "무작위 소용량 분말팩",
         "Italian": "Bustina Casuale",
         "Simplified Chinese": "随机小包",
-        "Japanese": "ランダム配置される粉末飲料パック"
-		"Traditional Chinese": "隨機小型包裝食物",
+        "Japanese": "ランダム配置される粉末飲料パック",
+		"Traditional Chinese": "隨機小型包裝食物"
     },
     "GAMEPLAY_RandomSmallPacketDescription": {
         "English": "A spawn point for small food packets.",
@@ -1325,8 +1325,8 @@
         "Korean": "무작위 소용량 분말팩 아이템의 스폰 지점입니다.",
         "Italian": "Punto di generazione per bustine di cibo.",
         "Simplified Chinese": "小食品包的刷新点。",
-        "Japanese": "粉末飲料のパックが配置されるポイント"
-		"Traditional Chinese": "小型包裝食物的生成點。",
+        "Japanese": "粉末飲料のパックが配置されるポイント",
+		"Traditional Chinese": "小型包裝食物的生成點。"
     },
     "GAMEPLAY_RandomCerealBox": {
         "English": "Random Cereal Box",
@@ -1337,8 +1337,8 @@
         "Korean": "무작위 시리얼 박스",
         "Italian": "Scatola di Cereali Casuale",
         "Simplified Chinese": "随机麦片盒",
-        "Japanese": "ランダム配置されるシリアルの箱"
-		"Traditional Chinese": "隨機穀物盒",
+        "Japanese": "ランダム配置されるシリアルの箱",
+		"Traditional Chinese": "隨機穀物盒"
     },
     "GAMEPLAY_RandomCerealBoxDescription": {
         "English": "A spawn point for cereal boxes.",
@@ -1349,8 +1349,8 @@
         "Korean": "무작위 시리얼 박스의 스폰 지점입니다.",
         "Italian": "Punto di generazione per le scatole di cereali.",
         "Simplified Chinese": "谷物盒的生成点。",
-        "Japanese": "シリアルの箱の配置されるポイント。"
-		"Traditional Chinese": "穀物盒的生成點。",
+        "Japanese": "シリアルの箱の配置されるポイント。",
+		"Traditional Chinese": "穀物盒的生成點。"
     },
     "GAMEPLAY_RandomLiquorBottle": {
         "English": "Random Liquor Bottle",
@@ -1361,8 +1361,8 @@
         "Korean": "무작위 주류 병",
         "Italian": "Bottiglia di Liquore Casuale",
         "Simplified Chinese": "随机酒瓶",
-        "Japanese": "ランダム配置される酒瓶"
-		"Traditional Chinese": "隨機酒瓶",
+        "Japanese": "ランダム配置される酒瓶",
+		"Traditional Chinese": "隨機酒瓶"
     },
     "GAMEPLAY_RandomLiquorBottleDescription": {
         "English": "A spawn point for liquor bottles.",
@@ -1373,8 +1373,8 @@
         "Korean": "무작위 주류 병의 스폰 지점입니다.",
         "Italian": "Punto di generazione per bottiglie di liquore.",
         "Simplified Chinese": "酒瓶的刷新点。",
-        "Japanese": "酒瓶の配置されるポイント。"
-		"Traditional Chinese": "酒瓶的生成點。",
+        "Japanese": "酒瓶の配置されるポイント。",
+		"Traditional Chinese": "酒瓶的生成點。"
     },
     "GAMEPLAY_NOTE_TITL": {
         "English": "Note from a Quonset Gas Station Employee",
