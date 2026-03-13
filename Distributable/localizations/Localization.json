@@ -510,11 +510,11 @@
         "Italian": "Una grossa barretta di cioccolato. Ora fatta con il caffè per quella piccola spinta!"
     },
     "GAMEPLAY_NanaimoBar": {
-        "English": "Nanaimo Bar"
-		"Traditional Chinese": "納奈莫條",
+        "English": "Nanaimo Bar",
+		"Traditional Chinese": "納奈莫條"
     },
     "GAMEPLAY_NanaimoBarDescription": {
-        "English": "A large bar of Nanaimo bar. Very calorie dense."
+        "English": "A large bar of Nanaimo bar. Very calorie dense.",
 		"Traditional Chinese": "一種來自加拿大西岸城市納奈莫的糕點。熱量極高。"
     },
     "GAMEPLAY_ModSyrup": {
