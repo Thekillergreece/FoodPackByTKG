@@ -67,6 +67,7 @@ item=GEAR_RandomMediumCannedFood p=-16.9064,1.1128,1.3976 r=0.0000,313.3725,0.00
 item=GEAR_RandomMediumCannedFood p=-16.9462,1.1128,1.5492 r=0.0000,214.2396,0.0000 c=25
 item=GEAR_SPAM p=-16.5887,0.0059,4.4160 r=-0.0000,65.1348,-0.0000 c=45
 item=GEAR_CheesePackage p=-19.1447,1.0738,3.5929 r=-0.0000,36.6495,-0.0000 c=85
+item=GEAR_SleepSoup p=-18.9088,1.0515,3.7099 r=-0.0000,32.8596,-0.0000 c=40
 
 scene=ModOilRig
 item=GEAR_NanaimoBar p=-42.0657,1.0493,-31.0720 r=0.0000,272.8132,0.0000 c=25

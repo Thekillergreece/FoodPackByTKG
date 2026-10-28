@@ -160,6 +160,7 @@ item=GEAR_CheesePackage p=-2.3987,0.8200,-3.2729 r=0.0000,269.1281,0.0000 c=75
 item=GEAR_CheesePackage p=-2.5722,0.8200,-3.3018 r=-0.0000,159.0224,-0.0000 c=75
 item=GEAR_CheesePackage p=-2.4355,0.8300,-3.1326 r=0.0000,303.0534,0.0000 c=50
 item=GEAR_NanaimoBar p=-1.4532,1.0519,-7.6682 r=0.0000,340.9180,0.0000 c=50
+item=GEAR_SleepSoup p=-1.3849,1.1907,0.3382 r=-0.0000,163.9965,-0.0000 c=50
 
 scene=RadioControlHut
 item=GEAR_RandomSodaTall p=-3.7868,1.0544,3.2801 r=0,352.1902,0 c=45

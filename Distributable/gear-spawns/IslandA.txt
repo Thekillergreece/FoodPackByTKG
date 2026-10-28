@@ -1,0 +1,52 @@
+
+
+
+
+scene=ChurchCIronRoad
+item=GEAR_ModChocolateBar p=0.2012,-0.0217,-0.4950 r=0.0000,353.7860,0.0000 c=15
+
+scene=CoastalHouseH1_IronRoad
+item=GEAR_MountainSodaPlastic p=-4.0502,-0.1700,-2.1019 r=90.0000,323.4226,0.0000 c=15
+
+scene=LakeCabinC_IronRoad
+item=GEAR_BeerBottle p=-2.2679,1.4272,-0.6599 r=0.0000,359.3647,0.0000 c=30
+
+scene=LakeCabinD_IronRoad
+item=GEAR_CatFood p=-2.1044,0.0001,-1.1499 r=0.0000,187.2484,0.0000 c=40
+item=GEAR_SPAM p=0.0333,0.0651,2.7811 r=0.0000,226.7374,0.0000 c=35
+
+scene=LighthouseB_IronRoad
+item=GEAR_HotCocoaCup p=9.2307,-17.2356,80.0337 r=359.3105,109.4302,0.0365 c=30
+item=GEAR_AuroraEnergyDrink p=6.3947,-16.8072,87.2795 r=270.0000,290.7974,0.0000 c=45
+
+scene=LightHouseKeeperCabin
+item=GEAR_SleepSoup p=2.2150,1.1145,-13.3294 r=0.0000,196.7445,0.0000 c=45
+item=GEAR_RedWineBottle p=2.5800,0.2365,-12.8503 r=-0.0000,158.9880,-0.0000 c=30
+item=GEAR_RandomMediumCannedFood p=1.5069,0.6269,-13.5200 r=0.0000,318.6142,0.0000 c=65
+
+scene=MountainPassCabinA_IronRoad
+
+scene=WoonCabinA_IronRoad
+
+scene=WoonCabinC_IronRoad
+
+scene=PortRemnantRegion
+
+scene=TrainRepairDepot
+
+scene=TrainRepairDepotA
+
+scene=TrainRepairDepotB
+
+scene=IslandATrackSection1
+
+scene=IslandATrackSection2
+
+scene=IslandATrackSection3
+
+scene=IslandATrackSection4
+
+scene=IslandATrackSection5
+
+scene=IslandATrackSection6
+

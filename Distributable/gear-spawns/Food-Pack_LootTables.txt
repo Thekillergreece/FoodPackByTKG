@@ -17,11 +17,6 @@ item=Jalapeno w=1
 item=CupNoodles w=2
 item=SoyRamen w=1
 
-#----------------
-loottable=CashRegister
-#----------------
-item=WhiskyFlask w=2
-
 #----------------------
 loottable=FishingDrawer
 #----------------------
@@ -37,11 +32,10 @@ loottable=KitchenDrawer
 #----------------------
 item=modChocolateBar w=3
 item=Bread w=2
+item=Cookies w=2
 item=drymilkpacket w=5
 item=hotcocoabag w=1
 item=CatFoodSmall w=3
-item=CupNoodles w=2
-item=SoyRamen w=4
 
 #----------------
 loottable=Freezer
@@ -56,9 +50,8 @@ loottable=Fridge
 item=CheesePackage w=8
 item=AuroraEnergyDrink w=5
 item=BeerBottle w=4
-item=forsakenspirits w=5
-item=mountainsoda w=5
-item=mountainsodaplastic w=5
+item=ForsakenSpirits w=5
+item=MountainSoda w=5
 item=ricecooked w=2
 item=CannedPears w=5
 item=CannedPineapples w=5
@@ -67,39 +60,34 @@ item=CannedStew w=5
 item=CannedChili w=5
 item=CannedMangos w=5
 item=Jalapeno w=5
+item=SleepSoup w=1
 
 #--------------------
 loottable=HumanCorpse
 #--------------------
 item=AuroraEnergyDrink w=2
 item=WhiskyFlask w=1
-item=modChocolateBar w=2
+item=ModChocolateBar w=2
 
 #------------------------
 loottable=KitchenCupboard
 #------------------------
-item=AuroraEnergyDrink w=3
-item=Bread w=3
-item=CannedChili w=5
-item=CannedMangos w=3
-item=riceraw w=2
-item=CannedPears w=4
-item=CannedPineapples w=5
-item=CannedSpaghetti w=5
-item=CannedStew w=5
-item=CatFood w=4
-item=CatFoodSmall w=2
+item=MountainSodaPlastic w=3
+item=ForsakenSpiritsPlastic w=3
+item=Bread w=1
+item=RiceRaw w=3
+item=CatFood w=5
+item=CatFoodSmall w=3
 item=Cornflakes w=7
 item=CerealWholeGrain w=7
 item=CerealHoney w=7
 item=HotCocoaBox w=5
 item=HoneyJar w=3
 item=ModSyrup w=3
-item=SPAM w=2
+item=SPAM w=3
 item=FlourBag w=6
-item=Jalapeno w=2
-item=CupNoodles w=5
-item=SoyRamen w=5
+item=CupNoodles w=2
+item=SoyRamen w=3
 
 #---------------
 loottable=Locker
@@ -114,9 +102,7 @@ item=SoyRamen w=1
 loottable=LockerLocked
 #---------------
 item=WhiskyFlash w=1
-item=Spam w=3
-item=SoyRamen w=3
-item=CupNoodles w=1
+item=SleepSoup w=2
 
 #-----------------
 loottable=MetalBox
@@ -156,13 +142,16 @@ item=ModSyrup w=5
 item=riceraw w=2
 item=FlourBag w=3
 item=SoyRamen w=2
+item=SleepSoup w=2
 
 #-------------------------
 loottable=VehicleGloveBox
 #-------------------------
-item=Cookies w=5
+item=Cookies w=3
 item=modchocolatebar w=3
 item=SoyRamen w=1
+item=MountainSodaPlastic w=2
+item=ForsakenSpiritsPlastic w=2
 
 #-------------------------
 loottable=CargoFoodA
@@ -192,6 +181,7 @@ loottable=CargoFoodRareA
 #-------------------------
 item=SPAM w=1
 item=FlourBag w=1
+item=SleepSoup w=1
 
 #-------------------------
 loottable=CargoFoodRareB
@@ -260,6 +250,8 @@ item=CannedSpaghettiOpened w=1
 item=CannedStewOpened w=1
 item=Bread w=1
 item=Cookies w=1
+item=SoyRamenCooked w=1
+item=CupNoodlesOpen w=1
 
 #-----------------
 loottable=Suitcase
@@ -273,3 +265,4 @@ loottable=Dresser
 #-----------------
 item=BeerBottle w=1
 item=WhiskyFlask w=1
+item=VodkaBottle w=1

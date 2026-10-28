@@ -36,6 +36,7 @@ item=GEAR_ModSyrup p=-4.0400,0.9218,-2.6174 r=-0.0000,28.6716,-0.0000 c=65
 item=GEAR_ModChocolateBar p=-5.6233,0.9976,-2.5746 r=0.0000,199.5727,0.0000 c=50
 item=GEAR_SPAM p=-5.6300,1.4356,-2.0520 r=-0.0000,132.8344,-0.0000 c=40
 item=GEAR_NanaimoBar p=-5.5538,1.4422,-2.3341 r=0.0000,313.3497,0.0000 c=100
+item=GEAR_SleepSoup p=-5.4386,1.4357,-2.1031 r=-0.0000,23.3101,-0.0000 c=70
 #
 scene=MountainPassCaveA
 item=GEAR_CannedChili p=-13.7198,42.4192,22.1226 r=281.8560,225.8877,47.6246 c=35
@@ -48,3 +49,5 @@ item=GEAR_RandomMediumCannedFood p=18.7842,58.2009,-51.0007 r=6.6841,15.6664,0.3
 scene=MountainPassBasement
 item=GEAR_HoneyJar p=0.5506,0.0070,-2.4465 r=-0.0000,71.9407,-0.0000 c=60
 item=GEAR_RandomSodaTall p=5.7703,2.3427,-0.0423 r=-0.0000,1.4729,270.0000 c=45
+item=GEAR_RandomMediumCannedFood p=-2.5462,0.0601,-0.0973 r=90.0000,25.6737,0.0000 c=35
+item=GEAR_SleepSoup p=-1.7048,0.9999,-3.8692 r=0.0000,228.3835,0.0000 c=20
