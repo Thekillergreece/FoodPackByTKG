@@ -517,6 +517,12 @@
         "English": "A large bar of Nanaimo bar. Very calorie dense.",
         "Ukrainian": "Справжня калорійна бомба. Дуже ситне солодке тістечко."
     },
+    "GAMEPLAY_SleepSoup": {
+        "English": "Sleep Soup"
+    },
+    "GAMEPLAY_SleepSoupDescription": {
+        "English": "A large bar of Nanaimo bar. Very calorie dense."
+    },
     "GAMEPLAY_ModSyrup": {
         "English": "Maple Honey Syrup",
         "French (France)": "Sirop d'erable avec du miel.",

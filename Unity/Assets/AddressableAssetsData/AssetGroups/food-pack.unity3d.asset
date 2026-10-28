@@ -665,6 +665,14 @@ MonoBehaviour:
     m_Address: ico_GearItem__CornflakesPackage2
     m_ReadOnly: 0
     m_SerializedLabels: []
+  - m_GUID: 24dc261796bc9044e93a7bc49b4a0f5c
+    m_Address: ico_GearItem__SleepSoup
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 210e14b3569b1bd429a8c405cadec12a
+    m_Address: GEAR_SleepSoup
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 0907a13f08acc0c46b01afbfbf79f40b, type: 2}
   m_SchemaSet:
