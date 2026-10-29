@@ -1,3 +1,5 @@
+This mod and its assets may NOT be used to train LLM's datasets, and may NOT be modified through any form of AI.
+
 # Food Pack By Thekillergreece
 
 This is a mod for The Long Dark by Hinterland Studio, Inc.
