@@ -1,5 +1,5 @@
 scene=ModCamperTrailers
-item=GEAR_AuroraEnergyDrink p=-46.1337,1.3545,31.2296 r=0.0000,349.9770,0.0000 c=85
+item=GEAR_AuroraEnergyDrink p=-46.1337,1.3545,31.2296 r=0.0000,349.9770,0.0000 c=65
 item=GEAR_ForsakenSpirits p=-46.2181,1.3545,31.2633 r=-0.0000,25.8508,-0.0000 c=45
 
 item=GEAR_HoneyJar p=-41.2336,1.3562,31.2486 r=-0.0000,176.8562,-0.0000 c=45
