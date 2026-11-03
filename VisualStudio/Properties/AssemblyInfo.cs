@@ -1,0 +1,6 @@
+﻿[assembly: AssemblyTitle("FoodPackByTKG")]
+[assembly: AssemblyCopyright($"Created by Thekillergreece & Kaiusername")]
+[assembly: AssemblyVersion("6.5")]
+[assembly: AssemblyFileVersion("6.5")]
+[assembly: MelonInfo(typeof(TKG.Main), "FoodPackByTKG", "6.5", "Thekillergreece & Kaiusername", null)]
+[assembly: MelonGame("Hinterland", "TheLongDark")]

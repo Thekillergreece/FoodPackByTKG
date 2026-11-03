@@ -1,0 +1,17 @@
+D:\Modding\My MODS\SkilletInRadial\bin\Debug\net6.0\SkilletInRadial.deps.json
+D:\Modding\My MODS\SkilletInRadial\bin\Debug\net6.0\SkilletInRadial.dll
+D:\Modding\My MODS\SkilletInRadial\obj\Debug\net6.0\SkilletInRadial.csproj.AssemblyReference.cache
+D:\Modding\My MODS\SkilletInRadial\obj\Debug\net6.0\SkilletInRadial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Modding\My MODS\SkilletInRadial\obj\Debug\net6.0\SkilletInRadial.csproj.CoreCompileInputs.cache
+D:\Modding\My MODS\SkilletInRadial\obj\Debug\net6.0\SkilletInRadial.dll
+D:\Modding\My MODS\SkilletInRadial\obj\Debug\net6.0\refint\SkilletInRadial.dll
+D:\Modding\My MODS\SkilletInRadial\obj\Debug\net6.0\ref\SkilletInRadial.dll
+D:\Modding\Projects\SkilletInRadial\obj\Debug\net6.0\SkilletInRadial.csproj.AssemblyReference.cache
+D:\Modding\Projects\SkilletInRadial\obj\Debug\net6.0\SkilletInRadial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Modding\Projects\SkilletInRadial\obj\Debug\net6.0\SkilletInRadial.csproj.CoreCompileInputs.cache
+D:\Modding\Projects\SkilletInRadial\obj\Debug\net6.0\SkilletInRadial.dll
+D:\Modding\Projects\SkilletInRadial\obj\Debug\net6.0\refint\SkilletInRadial.dll
+D:\Modding\Projects\SkilletInRadial\bin\Debug\net6.0\SkilletInRadial.deps.json
+D:\Modding\Projects\SkilletInRadial\bin\Debug\net6.0\SkilletInRadial.dll
+D:\Modding\Projects\SkilletInRadial\obj\Debug\net6.0\ref\SkilletInRadial.dll
+D:\Modding\Projects\SkilletInRadial\obj\Debug\net6.0\SkilletI.D51B1867.Up2Date
