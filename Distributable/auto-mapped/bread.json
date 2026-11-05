@@ -34,10 +34,10 @@
                             "DaysToDecayOutdoors" : 30,
                             "DaysToDecayIndoors" : 30,
                             "Calories" : 425,
-                            "EatingTime" : 6,
+                            "EatingTime" : 4,
                             "EatingAudio" : "Play_EatingBannock",
                             "EatingPackagedAudio" : "",
-                            "ThirstEffect" : -20,
+                            "ThirstEffect" : -15,
 
                             "FoodPoisoning" : 0,
                             "FoodPoisoningLowCondition" : 15,
