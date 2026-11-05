@@ -71,6 +71,8 @@
     "ContainsAlcohol": false,
     "AlcoholPercentage": 0,
     "AlcoholUptakeMinutes": 45
+	
+	"VitaminC" : 60
   },
   "ModStackableBehaviour": {
     "SingleUnitTextId": "GAMEPLAY_SoupSingle",

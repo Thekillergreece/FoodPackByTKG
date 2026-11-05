@@ -57,11 +57,11 @@
                             "OpeningWithHatchet" : true,
                             "OpeningWithSmashing" : true,
 
-                            "AffectCondition" : false,
-                            "ConditionRestBonus" : 0,
-                            "ConditionRestMinutes" : 0,
+                            "AffectCondition" : true,
+                            "ConditionRestBonus" : 90,
+                            "ConditionRestMinutes" : 90,
 
-                            "AffectRest" : true,
+                            "AffectRest" : false,
                             "InstantRestChange" : 90,
                             "RestFactor" : 1,
                             "RestFactorMinutes" : 90,
